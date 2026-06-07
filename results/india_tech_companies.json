@@ -153,6 +153,113 @@
     }
   },
   {
+    "name": "Bugbattlers Technologies | Android App | iOS App | Mobile App Development",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "2nd floor, Paud Road,Anant Manohar Apartment, Pune, 411038",
+    "lat": 18.5077618,
+    "lng": 73.7922724,
+    "website": "https://bugbattlers.com/",
+    "phone": "7972812221",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:360505163"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: technologies, app development, mobile app, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "2nd floor",
+        "addr:postcode": "411038",
+        "addr:street": "Paud Road,Anant Manohar Apartment",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Bugbattlers Technologies | Android App | iOS App | Mobile App Development",
+        "office": "it",
+        "phone": "7972812221",
+        "website": "https://bugbattlers.com/"
+      }
+    }
+  },
+  {
+    "name": "Fintalk Software Labs Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "A-4, Kiran Suyog, Laxman Nagar, Balewadi, Moze college ground, Pune, 411045",
+    "lat": 18.5740173,
+    "lng": 73.7696176,
+    "website": "https://fintalklabs.com",
+    "phone": "",
+    "categories": [
+      "office=company",
+      "description=Software company in Pune. Solutions in Artificial Intelligence, Data Analytics, Machine Learning, Internet of Things & Embedded Software"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7147895840"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: software, artificial intelligence, machine learning, data analytics, solutions, labs, office=company; negative hints: college",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:housenumber": "A-4, Kiran Suyog, Laxman Nagar, Balewadi",
+        "addr:postcode": "411045",
+        "addr:street": "Moze college ground",
+        "description": "Software company in Pune. Solutions in Artificial Intelligence, Data Analytics, Machine Learning, Internet of Things & Embedded Software",
+        "level": "1",
+        "name": "Fintalk Software Labs Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "https://fintalklabs.com"
+      }
+    }
+  },
+  {
+    "name": "Web Brace Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.4658435,
+    "lng": 73.8496259,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "description='Web Brace Technologies providing all kind of Digital Services like web designing, web development, Digital Marketing, SEO, SMO, Mobile app development etc..'"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7025744210"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: technologies, app development, mobile app, web development, digital",
+    "raw": {
+      "osm_tags": {
+        "description": "'Web Brace Technologies providing all kind of Digital Services like web designing, web development, Digital Marketing, SEO, SMO, Mobile app development etc..'",
+        "name": "Web Brace Technologies"
+      }
+    }
+  },
+  {
     "name": "Upsurge Infotech - SAP | Software Testing | Data Analytics | Python | Digital Marketing |Agentic AI Training classes Near you",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -252,6 +359,44 @@
         "office": "it",
         "opening_hours": "Mo-Fr 09:30-19:00",
         "website": "http://quadkast.com/"
+      }
+    }
+  },
+  {
+    "name": "SpatioWorld Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No. 1028A, 10th Floor, Geras Imperium Rise, Rajiv Gandhi Infotech Park, MIDC, Mulshi, Hinjawadi Phase 2, Pune, 411057",
+    "lat": 18.5962067,
+    "lng": 73.7178382,
+    "website": "https://spatioworld.com",
+    "phone": "+91 8956588558",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12281630915"
+    },
+    "tech_score": 93.0,
+    "confidence": "high",
+    "notes": "matched: technologies, infotech, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "Office No. 1028A, 10th Floor, Geras Imperium Rise, Rajiv Gandhi Infotech Park",
+        "addr:postcode": "411057",
+        "addr:street": "MIDC, Mulshi, Hinjawadi Phase 2",
+        "email": "contact@spatioworld.com",
+        "name": "SpatioWorld Technologies",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "+91 8956588558",
+        "website": "https://spatioworld.com"
       }
     }
   },
@@ -644,6 +789,44 @@
         "phone": "+91 484 404 2070",
         "smoking": "no",
         "website": "https://www.atclicks.com/"
+      }
+    }
+  },
+  {
+    "name": "Beelogical Software Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "plot no 12, Kshipra Sahanivas Galli 1, Pune, 411052",
+    "lat": 18.4925793,
+    "lng": 73.8206499,
+    "website": "https://bee-logical.com/",
+    "phone": "+91 96658 62273",
+    "categories": [
+      "office=it",
+      "description=Plot no. 12, Purvakarta Bungalow, Kshipra Society, Near Idea Showroom, Lane Number 1, Chintamani Society, Kshipra Sahaniwas, Karve Nagar, Kshipra Society, Karve Nagar, Pune, Maharashtra 411052"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4646616232"
+    },
+    "tech_score": 87.0,
+    "confidence": "high",
+    "notes": "matched: software, solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "plot no 12",
+        "addr:postcode": "411052",
+        "addr:street": "Kshipra Sahanivas Galli 1",
+        "description": "Plot no. 12, Purvakarta Bungalow, Kshipra Society, Near Idea Showroom, Lane Number 1, Chintamani Society, Kshipra Sahaniwas, Karve Nagar, Kshipra Society, Karve Nagar, Pune, Maharashtra 411052",
+        "name": "Beelogical Software Solutions",
+        "office": "it",
+        "opening_hours": "10:00-18:00",
+        "phone": "+91 96658 62273",
+        "website": "https://bee-logical.com/"
       }
     }
   },
@@ -1140,6 +1323,37 @@
     }
   },
   {
+    "name": "Cognizant Technology Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5831786,
+    "lng": 73.7332672,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359537088"
+    },
+    "tech_score": 74.0,
+    "confidence": "high",
+    "notes": "matched: technology, solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Cognizant Technology Solutions",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Infycons Creative Software",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -1283,6 +1497,40 @@
         "phone": "+916289187548",
         "source": "website",
         "website": "https://www.bluwebmedia.co.in"
+      }
+    }
+  },
+  {
+    "name": "VMware Software India Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "5th - 8th floor, Tower B, Panchshil Business Park, Baner-Balewadi link road, Pune, 411045",
+    "lat": 18.5711146,
+    "lng": 73.7734771,
+    "website": "https://www.vmware.com/in.html",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11052203032"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "5th - 8th floor, Tower B",
+        "addr:postcode": "411045",
+        "addr:street": "Panchshil Business Park, Baner-Balewadi link road",
+        "name": "VMware Software India Pvt. Ltd.",
+        "office": "it",
+        "website": "https://www.vmware.com/in.html"
       }
     }
   },
@@ -2149,6 +2397,84 @@
     }
   },
   {
+    "name": "KH Technologies Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "101, Wisteria Commercial Complex, Keshavnagar, Mundhwa Road, Pune, 411036",
+    "lat": 18.5291334,
+    "lng": 73.9444213,
+    "website": "https://khtechnologies.in/",
+    "phone": "+919890295287",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11387884822"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "101, Wisteria Commercial Complex, Keshavnagar",
+        "addr:postcode": "411036",
+        "addr:street": "Mundhwa Road",
+        "name": "KH Technologies Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+919890295287",
+        "website": "https://khtechnologies.in/"
+      }
+    }
+  },
+  {
+    "name": "Raykor Technologies Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "3rd Floor, Adams Court, Baner Rd, Pashan, Pune, 411045",
+    "lat": 18.55474,
+    "lng": 73.7989087,
+    "website": "https://raykor.com/",
+    "phone": "+91 98230 13435",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13130965760"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "email": "info@raykor.com",
+        "name": "Raykor Technologies Pvt. Ltd.",
+        "name:en": "Raykor",
+        "name:mr": "रेकोर",
+        "office": "it",
+        "phone": "+91 98230 13435",
+        "website": "https://raykor.com/",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "3rd Floor, Adams Court",
+        "addr:postcode": "411045",
+        "addr:street": "Baner Rd, Pashan"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
     "name": "Amber Road Software Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -2867,6 +3193,107 @@
       },
       "google_queries": [],
       "google_types": []
+    }
+  },
+  {
+    "name": "Cloud Micro Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "s.no.99, Lane no. 8, Pune, 412105",
+    "lat": 18.6234607,
+    "lng": 73.9276539,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10936347832"
+    },
+    "tech_score": 68.0,
+    "confidence": "high",
+    "notes": "matched: cloud, solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "s.no.99",
+        "addr:postcode": "412105",
+        "addr:street": "Lane no. 8",
+        "name": "Cloud Micro Solutions",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Cognizant",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5842873,
+    "lng": 73.7344129,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes",
+      "industrial=software"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359537074"
+    },
+    "tech_score": 68.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cognizant%27s_Delivery_Center_in_Pune-_Hinjewadi.jpg",
+        "industrial": "software",
+        "name": "Cognizant",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Screen-Magic Mobile Media Pvt Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "A1/B, Abhimanashree Society, Pashan Road, 411007",
+    "lat": 18.5405299,
+    "lng": 73.8191862,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:1827284985"
+    },
+    "tech_score": 68.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housename": "Sphatik",
+        "addr:housenumber": "A1/B, Abhimanashree Society",
+        "addr:postcode": "411007",
+        "addr:street": "Pashan Road",
+        "designation": "Software company",
+        "name": "Screen-Magic Mobile Media Pvt Ltd.",
+        "office": "it"
+      }
     }
   },
   {
@@ -3598,6 +4025,38 @@
       },
       "google_queries": [],
       "google_types": []
+    }
+  },
+  {
+    "name": "Computer Engineering And Information Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.530667,
+    "lng": 73.8554642,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:118011625"
+    },
+    "tech_score": 65.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology, computer",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "building:levels": "4",
+        "building:material": "concrete",
+        "height": "12",
+        "name": "Computer Engineering And Information Technology"
+      }
     }
   },
   {
@@ -5510,6 +5969,228 @@
     }
   },
   {
+    "name": "Famic Technologies Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No. 301,Pentagon Tower - 1, Magarpatta City, Pune, 411013",
+    "lat": 18.512855,
+    "lng": 73.92451,
+    "website": "https://www.famictech.com/",
+    "phone": "",
+    "categories": [
+      "description=Software company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:256431155"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Office No. 301,Pentagon Tower - 1",
+        "addr:postcode": "411013",
+        "addr:street": "Magarpatta City",
+        "description": "Software company",
+        "landuse": "commercial",
+        "name": "Famic Technologies Pvt Ltd",
+        "website": "https://www.famictech.com/"
+      }
+    }
+  },
+  {
+    "name": "Futurism Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5837179,
+    "lng": 73.7356215,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11337775147"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Futurism Technologies",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "HCL Technologies Limited (Amber Fort)",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5927565,
+    "lng": 73.7320379,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10716128584"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "HCL Technologies Limited (Amber Fort)",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Infosys Technologies Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5940112,
+    "lng": 73.7080573,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5518855982"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Infosys Technologies Pvt Ltd",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Marathe Infotech Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "16",
+    "lat": 18.5668003,
+    "lng": 73.7704958,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359719207"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: infotech, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "16",
+        "building": "yes",
+        "name": "Marathe Infotech Private Limited",
+        "name:en": "Marathe Infotech Private Limited",
+        "name:mr": "मराठे इन्फोटेक प्रायव्हेट लिमिटेड",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Storynest Technologies Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5582113,
+    "lng": 73.7959274,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12806062635"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Storynest Technologies Private Limited",
+        "name:en": "Storynest Technologies Private Limited",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Tata Technologies Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5853971,
+    "lng": 73.7333248,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=yes",
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:60976164"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "TATA Technologies",
+        "name:mr": "टाटा टेकनौलॉजिस",
+        "office": "it",
+        "name:en": "Tata Technologies",
+        "landuse": "commercial"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
     "name": "aquila technologies",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -5647,6 +6328,42 @@
         "building:levels": "9",
         "description": "Full-Service Digital Marketing and SEO service provider in NYC with expertise in Responsive Web, Mobile App Development, Video production, SMO, and PPC.",
         "name": "AuroIN LLC"
+      }
+    }
+  },
+  {
+    "name": "Kapstone Cybersecurity Private Limited – an iC Consult Company",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No. 301, 3rd Floor, “Tech Summit”, Survey No. 87, Plot No.110, Priyanka Park, Baner Road, Baner, Pune, Maharashtra 411045",
+    "lat": 18.5639224,
+    "lng": 73.7744021,
+    "website": "https://ic-consult.com/",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12179203327"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: cybersecurity, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:full": "Office No. 301, 3rd Floor, “Tech Summit”, Survey No. 87, Plot No.110, Priyanka Park, Baner Road, Baner, Pune, Maharashtra 411045",
+        "addr:housenumber": "110",
+        "addr:postcode": "411045",
+        "addr:street": "Baner Road",
+        "consulting": "security",
+        "name": "Kapstone Cybersecurity Private Limited – an iC Consult Company",
+        "office": "it",
+        "website": "https://ic-consult.com/"
       }
     }
   },
@@ -6587,6 +7304,112 @@
     }
   },
   {
+    "name": "Datavision Software solutions Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Jagdishnagar, Pune, 411007",
+    "lat": 18.5553899,
+    "lng": 73.8166489,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12863596006"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: software, solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411007",
+        "addr:street": "Jagdishnagar",
+        "name": "Datavision Software solutions Pvt Ltd",
+        "office": "company",
+        "smoking": "outside"
+      }
+    }
+  },
+  {
+    "name": "Exaltech Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Vasukamal Building, Lalit Mahal, Baner Road, Pune, 411045",
+    "lat": 18.5638599,
+    "lng": 73.7772605,
+    "website": "https://www.exaltechsolutions.com/",
+    "phone": "+917888037987",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4841646047"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:full": "Vasukamal Building, Lalit Mahal, Baner Road, Pune, 411045",
+        "addr:postcode": "411045",
+        "addr:street": "Baner Road",
+        "email": "info@exaltech.co.in",
+        "name": "Exaltech Solutions",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+917888037987",
+        "website": "https://www.exaltechsolutions.com/"
+      }
+    }
+  },
+  {
+    "name": "SplendorNet Technologies Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Lane 6, Tirupati Nivas, Shriram Colony, Tapodham Road, Warje, Pune, 411052",
+    "lat": 18.4790199,
+    "lng": 73.8100836,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes",
+      "description=SplendorNet Technologies Pvt. Ltd. is one of the leading opensource software company that helps realize business dream through consulting and IT partnership"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:360227699"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Lane 6",
+        "addr:postcode": "411052",
+        "addr:street": "Tirupati Nivas, Shriram Colony, Tapodham Road, Warje",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "SplendorNet Technologies Pvt. Ltd. is one of the leading opensource software company that helps realize business dream through consulting and IT partnership",
+        "name": "SplendorNet Technologies Pvt. Ltd."
+      }
+    }
+  },
+  {
     "name": "Ideology Software Technologies Pvt Ltd",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -7176,6 +7999,70 @@
     }
   },
   {
+    "name": "Naman Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.6282417,
+    "lng": 73.7850315,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company",
+      "description=Industrial CCTV Suppliers Security Alarm Systems Biometric Access & Attendance"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8344153156"
+    },
+    "tech_score": 53.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-03-14",
+        "description": "Industrial CCTV Suppliers Security Alarm Systems Biometric Access & Attendance",
+        "name": "Naman Technologies",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Nityaa Technosys Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5162199,
+    "lng": 73.8547865,
+    "website": "http://nityaalabs.com/",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2716630534"
+    },
+    "tech_score": 53.0,
+    "confidence": "medium",
+    "notes": "matched: startup, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Nityaa Technosys Pvt Ltd",
+        "name:mr": "nityaa technosys private limited",
+        "note": "Its a excellent startup to work with.",
+        "office": "it",
+        "website": "http://nityaalabs.com/"
+      }
+    }
+  },
+  {
     "name": "GrayMatter Software Services Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -7627,6 +8514,102 @@
         "office": "it",
         "opening_hours": "Mo-Fr 09:00-18:00; PH closed",
         "wheelchair": "designated"
+      }
+    }
+  },
+  {
+    "name": "IT Systems Global",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Shop no 4 Uttara Nagari, Bhau Patil Path, Pune, 411020",
+    "lat": 18.5646075,
+    "lng": 73.8307723,
+    "website": "http://www.itsystemsglobal.com",
+    "phone": "+91 9623817754, +91 9021765734",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3073359054"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: it services, systems",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Shop no 4 Uttara Nagari",
+        "addr:postcode": "411020",
+        "addr:street": "Bhau Patil Path",
+        "name": "IT Systems Global",
+        "note": "IT Services and consulting",
+        "phone": "+91 9623817754, +91 9021765734",
+        "source": "http://www.itsystemsglobal.com",
+        "website": "http://www.itsystemsglobal.com"
+      }
+    }
+  },
+  {
+    "name": "Persistent Systems",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5796058,
+    "lng": 73.7377777,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819152"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Persistent Systems",
+        "name:en": "Persistent Systems",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Persistent Systems",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5880742,
+    "lng": 73.7377123,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1517443436"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Persistent Systems",
+        "name:en": "Persistent Systems",
+        "name:hi": "पर्सिसटंट सिस्टीम्स",
+        "name:mr": "पर्सिसटंट सिस्टीम्स",
+        "office": "it"
       }
     }
   },
@@ -8506,6 +9489,100 @@
         "name": "Credent Solutions & Services Private Limited\nक्रेडेंट सॉल्यूशंस & सर्विसेज प्राइवेट लिमिटेड",
         "office": "it",
         "opening_hours": "Mo-Sa 09:30-16:30; PH closed"
+      }
+    }
+  },
+  {
+    "name": "Druva Software",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Senapati Bapat Marg, 411016",
+    "lat": 18.5336054,
+    "lng": 73.8291382,
+    "website": "https://www.druva.com/",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12009116069"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: software, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "411016",
+        "addr:street": "Senapati Bapat Marg",
+        "check_date": "2026-03-10",
+        "internet_access": "wlan",
+        "name": "Druva Software",
+        "office": "company",
+        "website": "https://www.druva.com/"
+      }
+    }
+  },
+  {
+    "name": "e-Zest Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5791365,
+    "lng": 73.739869,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819128"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "e-Zest Solutions",
+        "name:en": "e-Zest Solutions",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Neeyamo Enterprise Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5805533,
+    "lng": 73.7378428,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819155"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Neeyamo Enterprise Solutions",
+        "name:en": "Neeyamo Enterprise Solutions",
+        "office": "it"
       }
     }
   },
@@ -12298,6 +13375,111 @@
     }
   },
   {
+    "name": "Harbinger Group",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Lane 3, 411038",
+    "lat": 18.5103615,
+    "lng": 73.794547,
+    "website": "https://www.harbingergroup.com",
+    "phone": "+91 20 6626 0100;+91 20 2528 4201;+91 20 2528 4202;+91 20 2528 4203",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11218852440"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:district": "Pune",
+        "addr:postcode": "411038",
+        "addr:street": "Lane 3",
+        "contact:facebook": "https://www.facebook.com/harbingersys",
+        "contact:instagram": "https://www.instagram.com/harbinger_grp",
+        "contact:linkedin": "https://www.linkedin.com/company/harbinger-group",
+        "contact:twitter": "https://twitter.com/Harbinger_Grp",
+        "contact:youtube": "https://www.youtube.com/@harbinger_group",
+        "email": "info@harbingergroup.com",
+        "name": "Harbinger Group",
+        "office": "it",
+        "phone": "+91 20 6626 0100;+91 20 2528 4201;+91 20 2528 4202;+91 20 2528 4203",
+        "website": "https://www.harbingergroup.com"
+      }
+    }
+  },
+  {
+    "name": "Smile Automation Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "\"Sahakar\", 7/5 A,, Erandavane, Nal Stop, Karve Road., Behind Tele Exchange, Pune, 411004",
+    "lat": 18.5075507,
+    "lng": 73.8304043,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "description=SAPL’s world class products and services have successfully helped organizations to get a definitive edge in the market place, without the exorbitant pricing associated with such solutions. SAPL pioneered the usage of Application Software for Alcoholic Bev"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4177696469"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: software, solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "\"Sahakar\", 7/5 A,",
+        "addr:postcode": "411004",
+        "addr:street": "Erandavane, Nal Stop, Karve Road., Behind Tele Exchange",
+        "description": "SAPL’s world class products and services have successfully helped organizations to get a definitive edge in the market place, without the exorbitant pricing associated with such solutions. SAPL pioneered the usage of Application Software for Alcoholic Bev",
+        "name": "Smile Automation Pvt Ltd"
+      }
+    }
+  },
+  {
+    "name": "Software Solutions - Used laptops Pune",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "First Floor, Shop number 19, Business center, Metro 9, Pune, Maharashtra 411017, Shivraj Nagar - Kokane Chowk Road, Hinjawadi",
+    "lat": 18.5993049,
+    "lng": 73.7810719,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1152598269"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: software, solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Hinjawadi",
+        "addr:housenumber": "First Floor, Shop number 19, Business center, Metro 9, Pune, Maharashtra 411017",
+        "addr:street": "Shivraj Nagar - Kokane Chowk Road",
+        "building": "commercial",
+        "name": "Software Solutions - Used laptops Pune"
+      }
+    }
+  },
+  {
     "name": "Aishan Technologies India Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -13238,6 +14420,157 @@
       },
       "google_queries": [],
       "google_types": []
+    }
+  },
+  {
+    "name": "DelphianLogic Technologies Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "201, Manikchand Galleria, Kalu Tamanna Kusalkar Road, Wadarvadi, Model Colony, Shivajinagar, Pune, 411016",
+    "lat": 18.5292657,
+    "lng": 73.8333854,
+    "website": "https://www.delphianlogic.com",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10980956777"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "201",
+        "addr:postcode": "411016",
+        "addr:street": "Manikchand Galleria, Kalu Tamanna Kusalkar Road, Wadarvadi, Model Colony, Shivajinagar",
+        "company": "DelphianLogic Technologies Pvt Ltd",
+        "name": "DelphianLogic Technologies Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "website": "https://www.delphianlogic.com"
+      }
+    }
+  },
+  {
+    "name": "Master Innovation Technology Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "301, Gulmohar Center Point, Viman Nagar Chawk, Pune, 411014",
+    "lat": 18.5904743,
+    "lng": 73.7482359,
+    "website": "https://mitplindia.com",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8489439017"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "301",
+        "addr:postcode": "411014",
+        "addr:street": "Gulmohar Center Point, Viman Nagar Chawk",
+        "name": "Master Innovation Technology Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 12:00-20:00",
+        "website": "https://mitplindia.com"
+      }
+    }
+  },
+  {
+    "name": "Technology Innovation and Collaboration Center (TICC)",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Viman Nagar Road, Pune, 411014",
+    "lat": 18.5661394,
+    "lng": 73.9179113,
+    "website": "bajajfinserv.in",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11001450613"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411014",
+        "addr:street": "Viman Nagar Road",
+        "alt_name": "TICC",
+        "name": "Technology Innovation and Collaboration Center (TICC)",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "website": "bajajfinserv.in"
+      }
+    }
+  },
+  {
+    "name": "TomTom",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "206 A/1, Pl no-88/4, Nagar Road, Pune, 411006",
+    "lat": 18.5538654,
+    "lng": 73.9039057,
+    "website": "https://www.tomtom.com/careers/offices/pune/",
+    "phone": "",
+    "categories": [
+      "office=company",
+      "description=We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9239602961"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:floor": "3",
+        "addr:housename": "Shanti One",
+        "addr:housenumber": "206 A/1, Pl no-88/4",
+        "addr:postcode": "411006",
+        "addr:street": "Nagar Road",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144",
+        "check_date": "2026-03-14",
+        "description": "We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers.",
+        "image": "https://a.storyblok.com/f/178460/2500x2500/7ce22c98fd/pune_office_card_600x600px.jpg",
+        "level": "3",
+        "name": "TomTom",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "operator": "TomTom India Pvt Ltd",
+        "website": "https://www.tomtom.com/careers/offices/pune/"
+      }
     }
   },
   {
@@ -14193,6 +15526,105 @@
     }
   },
   {
+    "name": "Codekul.com-Java|Android|Angular|iOS MEAN/Full Stack UI Web Game Python Data Science Classes & Jobs Pune",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5076641,
+    "lng": 73.7949951,
+    "website": "https://www.codekul.com/",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "description=Codekul-Java|Android|Angular|iOS MEAN/Full Stack UI Web Game Python Data Science Classes & Jobs Pune"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3650472781"
+    },
+    "tech_score": 43.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "description": "Codekul-Java|Android|Angular|iOS MEAN/Full Stack UI Web Game Python Data Science Classes & Jobs Pune",
+        "name": "Codekul.com-Java|Android|Angular|iOS MEAN/Full Stack UI Web Game Python Data Science Classes & Jobs Pune",
+        "office": "it",
+        "website": "https://www.codekul.com/"
+      }
+    }
+  },
+  {
+    "name": "miniOrange",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Business Enclave, Baner, Pune, 411045",
+    "lat": 18.5541501,
+    "lng": 73.7707173,
+    "website": "https://www.miniorange.com/",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12522693029"
+    },
+    "tech_score": 43.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:district": "Pune",
+        "addr:postcode": "411045",
+        "addr:state": "Maharashtra",
+        "addr:street": "Business Enclave, Baner",
+        "name": "miniOrange",
+        "office": "it",
+        "website": "https://www.miniorange.com/"
+      }
+    }
+  },
+  {
+    "name": "Techlead",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5664318,
+    "lng": 73.7709242,
+    "website": "http://www.techlead-india.com/",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13418325178"
+    },
+    "tech_score": 43.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Techlead",
+        "name:en": "Techlead",
+        "office": "it",
+        "website": "http://www.techlead-india.com/"
+      }
+    }
+  },
+  {
     "name": "Infinite Computer Solutions",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -14361,6 +15793,41 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "+91 484 2551098"
       }
+    }
+  },
+  {
+    "name": "Bharat Eco Solutions and Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.4573572,
+    "lng": 73.812644,
+    "website": "",
+    "phone": "8459893982",
+    "categories": [
+      "office=research",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:360281648"
+    },
+    "tech_score": 41.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, solutions",
+    "raw": {
+      "osm_tags": {
+        "name": "Bharat Eco Solutions and Technologies",
+        "office": "research",
+        "phone": "8459893982",
+        "building": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -14629,6 +16096,41 @@
         "wheelchair": "no",
         "wikidata": "Q1394821",
         "wikimedia_commons": "Category:Software Freedom Law Center India"
+      }
+    }
+  },
+  {
+    "name": "Birlasoft SDB2",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Hinjawadi Phase 2 Road, Pune, 411057",
+    "lat": 18.592702,
+    "lng": 73.7358335,
+    "website": "",
+    "phone": "+91 20 6652 5000",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359525897"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411057",
+        "addr:street": "Hinjawadi Phase 2 Road",
+        "building": "yes",
+        "name": "Birlasoft SDB2",
+        "office": "it",
+        "phone": "+91 20 6652 5000"
       }
     }
   },
@@ -17654,6 +19156,139 @@
       },
       "google_queries": [],
       "google_types": []
+    }
+  },
+  {
+    "name": "Bitcode Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5091609,
+    "lng": 73.812152,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4271156522"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Bitcode Technologies",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Eros Infotech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5262166,
+    "lng": 73.9547878,
+    "website": "",
+    "phone": "+91 98224 06015",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13375316739"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-12-14",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Eros Infotech",
+        "name:en": "Eros Infotech",
+        "name:hi": "Eros Infotech",
+        "name:mr": "Eros Infotech",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 98224 06015",
+        "shop": "computer",
+        "wheelchair": "yes"
+      }
+    }
+  },
+  {
+    "name": "Hilti Technology Solutions India Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5675229,
+    "lng": 73.7764958,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9626247683"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technology, solutions",
+    "raw": {
+      "osm_tags": {
+        "name": "Hilti Technology Solutions India Private Limited",
+        "office": "yes"
+      }
+    }
+  },
+  {
+    "name": "Wipro Technologies Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5994733,
+    "lng": 73.7189781,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:206485494"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Wipro Technologies",
+        "office": "company",
+        "alt_name": "Wipro Phase 2",
+        "alt_name:en": "Wipro Phase 2",
+        "landuse": "commercial"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -23820,6 +25455,757 @@
     }
   },
   {
+    "name": "Apexon",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.578994,
+    "lng": 73.7385633,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819135"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Apexon",
+        "name:en": "Apexon",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Applus+ IDIADA",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5315347,
+    "lng": 73.8709175,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11680902125"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-03-12",
+        "name": "Applus+ IDIADA",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Birlamedisoft",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5602769,
+    "lng": 73.9190716,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4624928645"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-03-09",
+        "name": "Birlamedisoft",
+        "note": "Location to be checked for precisiion",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Bitwise",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5568704,
+    "lng": 73.7693739,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:652015864"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "landuse": "industrial",
+        "name": "Bitwise",
+        "name:mr": "बिटवाईज",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Calsoft Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "S.No. 320/1/C, Bavdhan, Mumbai Pune Bypass Road  *  Katraj-Dehu Rd Bypass, Pune, 411021",
+    "lat": 18.5207577,
+    "lng": 73.7682707,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7069410754"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "S.No. 320/1/C, Bavdhan",
+        "addr:postcode": "411021",
+        "addr:street": "Mumbai Pune Bypass Road  *  Katraj-Dehu Rd Bypass",
+        "air_conditioning": "yes",
+        "name": "Calsoft Pvt. Ltd.",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      }
+    }
+  },
+  {
+    "name": "Cybage Software Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Central Avenue, Pune, 411014",
+    "lat": 18.5458213,
+    "lng": 73.9120357,
+    "website": "https://www.cybage.com/",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:438991867"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411014",
+        "addr:street": "Central Avenue",
+        "landuse": "commercial",
+        "name": "Cybage Software Pvt Ltd",
+        "website": "https://www.cybage.com/",
+        "wheelchair": "yes"
+      }
+    }
+  },
+  {
+    "name": "Darwish Cybertech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5790946,
+    "lng": 73.7387372,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819139"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Darwish Cybertech",
+        "name:en": "Darwish Cybertech",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Dassault Systèmes",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5788794,
+    "lng": 73.7400812,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819130"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Dassault Systèmes",
+        "name:en": "Dassault Systèmes",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "FIS",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5638628,
+    "lng": 73.8069919,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6131097720"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "FIS",
+        "name:mr": "एफआयएस",
+        "office": "it",
+        "opening_hours": "PH,Mo-Su 00:00-12:00"
+      }
+    }
+  },
+  {
+    "name": "Globant",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5789716,
+    "lng": 73.7392412,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819136"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Globant",
+        "name:en": "Globant",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "GS LAB",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Baner Road, Pune",
+    "lat": 18.5566892,
+    "lng": 73.7939139,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5788782066"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:street": "Baner Road",
+        "name": "GS LAB",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      }
+    }
+  },
+  {
+    "name": "IBM",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.6056579,
+    "lng": 73.7158197,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:174500417"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housename": "ETZ 1.3 (Congo)",
+        "building": "office",
+        "name": "IBM",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "LTI Mindtree",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.579251,
+    "lng": 73.7393119,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819144"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "LTI Mindtree",
+        "name:en": "LTI Mindtree",
+        "office": "it"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "Microland",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5791449,
+    "lng": 73.739082,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819133"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Microland",
+        "name:en": "Microland",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "NCS",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.579251,
+    "lng": 73.7387755,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819151"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "NCS",
+        "name:en": "NCS",
+        "office": "it"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "OLA head office",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5330973,
+    "lng": 73.8710146,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11680904838"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-03-15",
+        "name": "OLA head office",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "PubMatic",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5666343,
+    "lng": 73.771989,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6128879920"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "PubMatic",
+        "name:mr": "पबमॅटिक",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Saama",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5791923,
+    "lng": 73.7383894,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819138"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Saama",
+        "name:en": "Saama",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Sas R&D India Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Tower 5, Cybercity, Magarpatta Inner Circle, Pune, 411013",
+    "lat": 18.5131194,
+    "lng": 73.9242281,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3529997982"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Tower 5, Cybercity",
+        "addr:postcode": "411013",
+        "addr:street": "Magarpatta Inner Circle",
+        "name": "Sas R&D India Pvt Ltd",
+        "office": "it",
+        "opening_hours": "09:00-17:00",
+        "smoking": "isolated"
+      }
+    }
+  },
+  {
+    "name": "Searce",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5800697,
+    "lng": 73.7382062,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819147"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Searce",
+        "name:en": "Searce",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Speciality Business Center",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Balewadi gaon road",
+    "lat": 18.5743714,
+    "lng": 73.7731859,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5877073387"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "Balewadi gaon road",
+        "name": "Speciality Business Center",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Tower 5",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Cybercity, Magarpatta Inner Circle, Pune, 411013",
+    "lat": 18.513133,
+    "lng": 73.9242459,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:217659207"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Cybercity",
+        "addr:postcode": "411013",
+        "addr:street": "Magarpatta Inner Circle",
+        "building": "office",
+        "name": "Tower 5",
+        "office": "it",
+        "smoking": "isolated"
+      }
+    }
+  },
+  {
+    "name": "Vsynergize",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5799831,
+    "lng": 73.7378764,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819148"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Vsynergize",
+        "name:en": "Vsynergize",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Xoriant",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5667016,
+    "lng": 73.7719971,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6128879921"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Xoriant",
+        "name:mr": "झोरियंट",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Codeleven",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -25345,6 +27731,125 @@
     }
   },
   {
+    "name": "Dell Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5638986,
+    "lng": 73.7828788,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13767096763"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Dell Technologies",
+        "name:en": "Dell Technologies",
+        "name:mr": "डेल टेक्नॉलॉगीस",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Lapworld Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5932822,
+    "lng": 73.7855414,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6578279498"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Lapworld Technologies",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "ProCTH",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.48914,
+    "lng": 73.8139669,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "description=ProCTH is the most efficient, trustable, and intelligent mobile app for virtual, digital, and decentralized clinical trials. Characteristics of our Mobile Application are: Patient Recruitment, ePRO & Real-time monitoring, Telemedicine, e-ICF(Electronic In"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3650225262"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: mobile app, digital",
+    "raw": {
+      "osm_tags": {
+        "description": "ProCTH is the most efficient, trustable, and intelligent mobile app for virtual, digital, and decentralized clinical trials. Characteristics of our Mobile Application are: Patient Recruitment, ePRO & Real-time monitoring, Telemedicine, e-ICF(Electronic In",
+        "name": "ProCTH"
+      }
+    }
+  },
+  {
+    "name": "Victory Infotech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5618286,
+    "lng": 73.9382946,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10567054909"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-03-09",
+        "name": "Victory Infotech",
+        "shop": "computer"
+      }
+    }
+  },
+  {
     "name": "Aindra Systems",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -25592,6 +28097,50 @@
         "office": "company",
         "phone": "+918066493400",
         "website": "https://www.beta-cae.com/"
+      }
+    }
+  },
+  {
+    "name": "Agni Solar Systems Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "702, North Main Road, Pune, 411001",
+    "lat": 18.5383826,
+    "lng": 73.9070871,
+    "website": "https://agnisolar.com/",
+    "phone": "+912066434111",
+    "categories": [
+      "office=company",
+      "building=commercial",
+      "description=A Pioneer And Leading Solar Energy Company In Pune - India, Agni Solar Is Market Leader In Rooftop Solar, Solar Water Heating & Solar Electricity System."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:108093167"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "702",
+        "addr:postcode": "411001",
+        "addr:street": "North Main Road",
+        "addr:unit": "Koregaon Park",
+        "building": "commercial",
+        "check_date": "2026-03-10",
+        "description": "A Pioneer And Leading Solar Energy Company In Pune - India, Agni Solar Is Market Leader In Rooftop Solar, Solar Water Heating & Solar Electricity System.",
+        "ele": "7",
+        "email": "info@agnisolar.com",
+        "name": "Agni Solar Systems Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:30-18:00",
+        "phone": "+912066434111",
+        "website": "https://agnisolar.com/"
       }
     }
   },
@@ -27330,6 +29879,109 @@
     }
   },
   {
+    "name": "MechIT Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "10,Green Park, Satara Road, Pune, 411043",
+    "lat": 18.4585452,
+    "lng": 73.8584316,
+    "website": "www.mechittechnologies.com",
+    "phone": "+918626023035",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3320744022"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "10,Green Park",
+        "addr:postcode": "411043",
+        "addr:street": "Satara Road",
+        "email": "info@mechittechnologies.com",
+        "name": "MechIT Technologies",
+        "phone": "+918626023035",
+        "website": "www.mechittechnologies.com"
+      }
+    }
+  },
+  {
+    "name": "Persistent Systems Ramanujan",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Blue Ridge Road, Phase 1, Pune, 411057",
+    "lat": 18.5820109,
+    "lng": 73.7356,
+    "website": "https://www.persistent.com/",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10692524033"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411057",
+        "addr:street": "Blue Ridge Road, Phase 1",
+        "name": "Persistent Systems Ramanujan",
+        "office": "company",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "website": "https://www.persistent.com/"
+      }
+    }
+  },
+  {
+    "name": "VirtuBox Infotech Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No. 14, 1st floor, Sparklink Lamour, Bhumkar Chowk Rd, near Ginger hotel, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033, Pune, 411033",
+    "lat": 18.6078193,
+    "lng": 73.7519513,
+    "website": "https://www.virtubox.io/",
+    "phone": "07972289981",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11953308948"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: infotech, office=it; negative hints: hotel",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Maharashtra",
+        "addr:postcode": "411033",
+        "addr:street": "Office No. 14, 1st floor, Sparklink Lamour, Bhumkar Chowk Rd, near Ginger hotel, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033",
+        "name": "VirtuBox Infotech Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "07972289981",
+        "website": "https://www.virtubox.io/"
+      }
+    }
+  },
+  {
     "name": "Brigade Software Park",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -28154,6 +30806,194 @@
         "building:levels": "1",
         "name": "Retain user",
         "operator": "software"
+      }
+    }
+  },
+  {
+    "name": "ANSYS Software PVT. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5915969,
+    "lng": 73.7357313,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359749131"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "ANSYS Software PVT. Ltd."
+      }
+    }
+  },
+  {
+    "name": "Cybage Multi-Level Parking",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5463988,
+    "lng": 73.9124018,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "amenity=parking"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:438990090"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "Cybage Multi-Level Parking",
+        "operator": "Cybage Software Pvt Ltd",
+        "park_ride": "yes",
+        "parking": "multi-storey",
+        "supervised": "yes",
+        "surface": "paved"
+      }
+    }
+  },
+  {
+    "name": "Department of Information Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5170524,
+    "lng": 73.8150096,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=school"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:273634152"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: information technology, technology; negative hints: school",
+    "raw": {
+      "osm_tags": {
+        "building": "school",
+        "building:levels": "5",
+        "name": "Department of Information Technology"
+      }
+    }
+  },
+  {
+    "name": "Knowhere Geomatics",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5812781,
+    "lng": 73.8155015,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "description=Software Training and Consultancy"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11722102313"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "description": "Software Training and Consultancy",
+        "ele": "500",
+        "name": "Knowhere Geomatics",
+        "source": "local knowledge"
+      }
+    }
+  },
+  {
+    "name": "Software Development Block 3",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5954023,
+    "lng": 73.7093757,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=coworking",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1152682797"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Software Development Block 3",
+        "office": "coworking"
+      }
+    }
+  },
+  {
+    "name": "Symbiosis Centre for Information Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Blue Ridge Road, Phase 1, Pune, 411057",
+    "lat": 18.582872,
+    "lng": 73.7366772,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=college"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1151920030"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: information technology, technology; negative hints: college",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411057",
+        "addr:street": "Blue Ridge Road, Phase 1",
+        "building": "college",
+        "name": "Symbiosis Centre for Information Technology"
       }
     }
   },
@@ -29641,6 +32481,219 @@
     }
   },
   {
+    "name": "Amura Marketing Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "3rd Floor, Sr. No. 9, H.No:1/2, umbai Hwy, Near Ramada Plaza, Mahalunge, Pune, 411045",
+    "lat": 18.5822207,
+    "lng": 73.7600314,
+    "website": "https://www.amuratech.com/",
+    "phone": "",
+    "categories": [
+      "building=yes",
+      "description=Amura, a leading digital growth marketing agency in India provides a wide range of digital marketing services. Get customized digital marketing solutions for real estate, pharmaceutical, manufacturing, FMCG, and healthcare industries"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359567551"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technologies, solutions, digital; negative hints: real estate",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "3rd Floor, Sr. No. 9, H.No:1/2",
+        "addr:postcode": "411045",
+        "addr:street": "umbai Hwy, Near Ramada Plaza, Mahalunge",
+        "building": "yes",
+        "building:levels": "4",
+        "building:levels:underground": "1",
+        "description": "Amura, a leading digital growth marketing agency in India provides a wide range of digital marketing services. Get customized digital marketing solutions for real estate, pharmaceutical, manufacturing, FMCG, and healthcare industries",
+        "image": "https://www.amuratech.com/assets/newsite/anura_logo-5e2e52d340df9d8be4dcd5bb4ad7f987.png",
+        "name": "Amura Marketing Technologies",
+        "website": "https://www.amuratech.com/",
+        "wheelchair": "yes"
+      }
+    }
+  },
+  {
+    "name": "Discreet Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "17/7/7 & 178/7",
+    "lat": 18.5691439,
+    "lng": 73.7802233,
+    "website": "https://discreet.co.in/",
+    "phone": "",
+    "categories": [
+      "office=company",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1389330201"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "17/7/7 & 178/7",
+        "building": "yes",
+        "name": "Discreet Solutions",
+        "name:en": "Discreet Solutions",
+        "office": "company",
+        "website": "https://discreet.co.in/"
+      }
+    }
+  },
+  {
+    "name": "SEED Infotech Nalanda centre",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.501148,
+    "lng": 73.8253956,
+    "website": "https://seedinfotech.com/",
+    "phone": "",
+    "categories": [
+      "office=educational_institution",
+      "description=IT education"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5253715090"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "description": "IT education",
+        "name": "SEED Infotech Nalanda centre",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Su 09:30-18:00",
+        "website": "https://seedinfotech.com/"
+      }
+    }
+  },
+  {
+    "name": "synthesys solutions pvt. ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5072521,
+    "lng": 73.8030373,
+    "website": "https://synthesys.co.in/",
+    "phone": "",
+    "categories": [
+      "office=company",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359810451"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "synthesys solutions pvt. ltd",
+        "office": "company",
+        "website": "https://synthesys.co.in/"
+      }
+    }
+  },
+  {
+    "name": "VayuZon Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "09, Anandnagar, Kothrud, 411038",
+    "lat": 18.5092259,
+    "lng": 73.8134823,
+    "website": "https://vayuzon.com/",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13540096536"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kothrud",
+        "addr:country": "IN",
+        "addr:district": "Pune",
+        "addr:housenumber": "09",
+        "addr:postcode": "411038",
+        "addr:street": "Anandnagar",
+        "email": "contact@vayuzon.com",
+        "mobile": "+91 7709730247",
+        "name": "VayuZon Technology",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "website": "https://vayuzon.com/"
+      }
+    }
+  },
+  {
+    "name": "Vidnyan Kendra, Lohegaon",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Vidnyan Kendra, Lohegaon Sunil R Desai C/o Himron System's & Control 253/95, Shrungar Lane no 5, B/H Dr Andurkar Khese Park, Lohogaon Rd Pune 411032",
+    "lat": 18.5896886,
+    "lng": 73.9097593,
+    "website": "https://vidnyankendra.neocities.org",
+    "phone": "",
+    "categories": [
+      "description=Vidnyan Kendra is a Peoples' Science and Technology Movement."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5646173431"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:full": "Vidnyan Kendra, Lohegaon Sunil R Desai C/o Himron System's & Control 253/95, Shrungar Lane no 5, B/H Dr Andurkar Khese Park, Lohogaon Rd Pune 411032",
+        "addr:housenumber": "253/95",
+        "addr:postcode": "411032",
+        "addr:street": "Shrungar Lane No. 5",
+        "description": "Vidnyan Kendra is a Peoples' Science and Technology Movement.",
+        "email": "vidnyankendra@disroot.org",
+        "leisure": "hackerspace",
+        "name": "Vidnyan Kendra, Lohegaon",
+        "start_date": "27th May 2018",
+        "website": "https://vidnyankendra.neocities.org"
+      }
+    }
+  },
+  {
     "name": "Livares Technologies Pvt Ltd",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -29806,6 +32859,39 @@
       },
       "google_queries": [],
       "google_types": []
+    }
+  },
+  {
+    "name": "Net Gyani IT Services Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office # 402,C-Wing,4th Floor, Audumbar Society,, Pune - Bangalore Hwy, Warje,, Pune, 411058",
+    "lat": 18.4827798,
+    "lng": 73.8024774,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4605271217"
+    },
+    "tech_score": 31.0,
+    "confidence": "low",
+    "notes": "matched: it services",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Office # 402,C-Wing,4th Floor, Audumbar Society,",
+        "addr:postcode": "411058",
+        "addr:street": "Pune - Bangalore Hwy, Warje,",
+        "building": "yes",
+        "name": "Net Gyani IT Services Private Limited"
+      }
     }
   },
   {
@@ -39500,6 +42586,1103 @@
     }
   },
   {
+    "name": "3RI Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "405, Rainbow Plaza Wakad- Nashik Phata BRTS Road above McDonalds Pimple , Saudagar, Rahatani, Pune, 411017",
+    "lat": 18.5968023,
+    "lng": 73.7867361,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12768300195"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:housenumber": "405",
+        "addr:postcode": "411017",
+        "addr:street": "Rainbow Plaza Wakad- Nashik Phata BRTS Road above McDonalds Pimple , Saudagar, Rahatani",
+        "name": "3RI Technologies"
+      }
+    }
+  },
+  {
+    "name": "A G Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "127, Shankarao Gaikwad path, Pune, 411007",
+    "lat": 18.553624,
+    "lng": 73.807574,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359795781"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "127",
+        "addr:postcode": "411007",
+        "addr:street": "Shankarao Gaikwad path",
+        "building": "office",
+        "building:levels": "9",
+        "building:levels:underground": "2",
+        "name": "A G Technology",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    }
+  },
+  {
+    "name": "Anjali Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Gat no. 188, Talawade Road, 411062",
+    "lat": 18.6822216,
+    "lng": 73.7874563,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "craft=metal_construction"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12477841101"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "Gat no. 188",
+        "addr:postcode": "411062",
+        "addr:street": "Talawade Road",
+        "craft": "metal_construction",
+        "email": "gujarlaser@gmail.com",
+        "name": "Anjali Technologies",
+        "opening_hours": "Fr-We 00:00-24:00"
+      }
+    }
+  },
+  {
+    "name": "Astech Laptop & Security Systems",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5524317,
+    "lng": 73.8032654,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13583153801"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "mobile": "+91 80555 00462;+91 80555 00482",
+        "name": "Astech Laptop & Security Systems",
+        "name:en": "Astech Laptop & Security Systems",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Bio Informatics and Bio Technology Dept",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.546461,
+    "lng": 73.8303705,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=educational_institution",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:291406595"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Bio Informatics and Bio Technology Dept",
+        "office": "educational_institution"
+      }
+    }
+  },
+  {
+    "name": "Bonzai Digital Pvt. Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Koregaon Road, Pune, 411001",
+    "lat": 18.5371085,
+    "lng": 73.8858484,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5150213352"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:place": "Godrej Millennium",
+        "addr:postcode": "411001",
+        "addr:street": "Koregaon Road",
+        "addr:unit": "104",
+        "check_date": "2026-03-09",
+        "name": "Bonzai Digital Pvt. Ltd",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Departmentn of Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Pune University campus, Pune, 411007",
+    "lat": 18.5569168,
+    "lng": 73.8277317,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "amenity=university",
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1030307470"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "amenity": "university",
+        "name": "Departmentn of Technology",
+        "addr:city": "Pune",
+        "addr:postcode": "411007",
+        "addr:street": "Pune University campus",
+        "building": "university"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "Ebixcash Technologies Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5259657,
+    "lng": 73.771609,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1411065270"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "Ebixcash Technologies Pvt Ltd"
+      }
+    }
+  },
+  {
+    "name": "Elite Computer Systems",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5888149,
+    "lng": 73.7387558,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13852176752"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "mobile": "+91 91586 17272",
+        "name": "Elite Computer Systems",
+        "name:en": "Elite Computer Systems",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "FPL Technologies Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5534723,
+    "lng": 73.8090211,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10250092097"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "FPL Technologies Pvt. Ltd.",
+        "office": "yes"
+      }
+    }
+  },
+  {
+    "name": "GameCloud Technologies Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "DSK Vishwa Road, Pune, 411041",
+    "lat": 18.446852,
+    "lng": 73.8002336,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:360518417"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411041",
+        "addr:street": "DSK Vishwa Road",
+        "building": "yes",
+        "name": "GameCloud Technologies Private Limited"
+      }
+    }
+  },
+  {
+    "name": "HCL technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5121728,
+    "lng": 73.9335057,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1413228253"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "HCL technologies"
+      }
+    }
+  },
+  {
+    "name": "Hinjawadi Rajiv Gandhi Infotech Park",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5810576,
+    "lng": 73.7407806,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1410067936"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "Hinjawadi Rajiv Gandhi Infotech Park"
+      }
+    }
+  },
+  {
+    "name": "JK Infotech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5924802,
+    "lng": 73.7336668,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1411752673"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "JK Infotech"
+      }
+    }
+  },
+  {
+    "name": "KNORR-BREMSE Technology Center India Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5960976,
+    "lng": 73.7010251,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1411818641"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "name": "KNORR-BREMSE Technology Center India Private Limited",
+        "shop": "yes",
+        "landuse": "industrial"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "KPIT Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5789577,
+    "lng": 73.7397923,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=engineer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11336819129"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "KPIT Technologies",
+        "name:en": "KPIT Technologies",
+        "office": "engineer"
+      }
+    }
+  },
+  {
+    "name": "KPIT Technologies R&D Building",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5917555,
+    "lng": 73.7355256,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359749212"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "building": "commercial",
+        "name": "KPIT Technologies R&D Building"
+      }
+    }
+  },
+  {
+    "name": "kreativ technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.6455538,
+    "lng": 73.755548,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2446729615"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "name": "kreativ technology"
+      }
+    }
+  },
+  {
+    "name": "Micorprecision Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Kate Khadi Machine, Pune-Nashik Highway, Pajnjarpol, Bhosari, 411026",
+    "lat": 18.6386952,
+    "lng": 73.8520874,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=industrial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359520179"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bhosari",
+        "addr:postcode": "411026",
+        "addr:street": "Kate Khadi Machine, Pune-Nashik Highway, Pajnjarpol",
+        "building": "industrial",
+        "name": "Micorprecision Technologies"
+      }
+    }
+  },
+  {
+    "name": "Microlucid Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5629123,
+    "lng": 73.7675286,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1067633099"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "building": "office",
+        "name": "Microlucid Technology"
+      }
+    }
+  },
+  {
+    "name": "Motega Technologies Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "D-34, Dhole Patil Road, 411001",
+    "lat": 18.5326058,
+    "lng": 73.8749778,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:1344487356"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:housename": "Choice Arcade",
+        "addr:housenumber": "D-34",
+        "addr:postcode": "411001",
+        "addr:street": "Dhole Patil Road",
+        "alt_name": "Motega Technologies Pvt. Ltd.",
+        "building": "yes",
+        "int_name": "Motega Technologies Pvt. Ltd.",
+        "name": "Motega Technologies Pvt. Ltd.",
+        "old_name": "Motega Technologies Pvt. Ltd.Cho"
+      }
+    }
+  },
+  {
+    "name": "Nitor Infotech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.539534,
+    "lng": 73.8289767,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3090360564"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "Nitor Infotech",
+        "office": "yes"
+      }
+    }
+  },
+  {
+    "name": "Nuvolo Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.563452,
+    "lng": 73.7663151,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9801921236"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Nuvolo Technologies",
+        "office": "yes"
+      }
+    }
+  },
+  {
+    "name": "Passogen Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "41/6, Lane Number 3, Sai Nagar, Katraj - Dehu Road Bypass, Pune, 411046",
+    "lat": 18.4519536,
+    "lng": 73.8481229,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:360292053"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "41/6, Lane Number 3, Sai Nagar",
+        "addr:postcode": "411046",
+        "addr:street": "Katraj - Dehu Road Bypass",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Passogen Technologies"
+      }
+    }
+  },
+  {
+    "name": "Pesh Infotech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Plot No. 46, Rajiv Gandhi Infotech Park,, Pune, 411057",
+    "lat": 18.5871519,
+    "lng": 73.738137,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359749225"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Plot No. 46",
+        "addr:postcode": "411057",
+        "addr:street": "Rajiv Gandhi Infotech Park,",
+        "building": "office",
+        "name": "Pesh Infotech",
+        "name:en": "Pesh Infotech"
+      }
+    }
+  },
+  {
+    "name": "Rathod Systems",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.4453494,
+    "lng": 73.810571,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13620851371"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-03-05",
+        "name": "Rathod Systems",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Reinvent Design Technologies LLP",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "15A, City Vista, Fountain Road, Kharadi, Pune, 411014",
+    "lat": 18.5615032,
+    "lng": 73.9445814,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1001612382"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "15A, City Vista",
+        "addr:postcode": "411014",
+        "addr:street": "Fountain Road, Kharadi",
+        "architect": "Ar. Aniket Chaudhari",
+        "building": "commercial",
+        "layer": "1",
+        "name": "Reinvent Design Technologies LLP"
+      }
+    }
+  },
+  {
+    "name": "Science and Technology Park",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5527328,
+    "lng": 73.8230973,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=research",
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1030861961"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "name": "Science and Technology Park",
+        "office": "research",
+        "building": "university"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "Seed infotech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5598897,
+    "lng": 73.808915,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11061383053"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2023-07-22",
+        "name": "Seed infotech",
+        "name:en": "Seed infotech",
+        "name:mr": "सीड इन्फोटेक",
+        "office": "educational_institution"
+      }
+    }
+  },
+  {
+    "name": "Sterlite Technologies Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5903183,
+    "lng": 73.7324305,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6501779302"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Sterlite Technologies Ltd",
+        "office": "yes"
+      }
+    }
+  },
+  {
+    "name": "Sysap Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5618823,
+    "lng": 73.7854384,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=employment_agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13762876312"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "mobile": "+91 97665 43771;+91 76208 04771",
+        "name": "Sysap Technologies",
+        "name:en": "Sysap Technologies",
+        "office": "employment_agency"
+      }
+    }
+  },
+  {
+    "name": "Tennis Court, Wipro Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.6000374,
+    "lng": 73.7175124,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10716161255"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "leisure": "pitch",
+        "name": "Tennis Court, Wipro Technologies",
+        "sport": "tennis"
+      }
+    }
+  },
+  {
+    "name": "ThoughtWorks Technologies (India) Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "6th Floor, Binarius Building, Deepak Complex, Beside Sales Tax Office, Shastrinagar, Yerawada, National Games Road, Pune, 411006",
+    "lat": 18.5558875,
+    "lng": 73.8919566,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5575299124"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:housenumber": "6th Floor, Binarius Building, Deepak Complex, Beside Sales Tax Office, Shastrinagar, Yerawada",
+        "addr:postcode": "411006",
+        "addr:street": "National Games Road",
+        "building": "commercial",
+        "building:levels": "6",
+        "name": "ThoughtWorks Technologies (India) Pvt. Ltd."
+      }
+    }
+  },
+  {
+    "name": "Transworld Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5678097,
+    "lng": 73.9190361,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "amenity=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9766112638"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "amenity": "office",
+        "name": "Transworld Technologies",
+        "official_name": "Transworld Technologies Ltd."
+      }
+    }
+  },
+  {
+    "name": "Zensar Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "MIDC, Kharadi, 411014",
+    "lat": 18.5481893,
+    "lng": 73.9428636,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:1796636686"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:housename": "Plot. No. 4",
+        "addr:housenumber": "MIDC",
+        "addr:postcode": "411014",
+        "addr:street": "Kharadi",
+        "building": "office",
+        "name": "Zensar Technologies"
+      }
+    }
+  },
+  {
     "name": "Addon Technologies",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -39918,6 +44101,38 @@
         "name": "CloudJet Labs",
         "office": "it",
         "opening_hours": "09:00-18:00"
+      }
+    }
+  },
+  {
+    "name": "CLOUDEAN : TRUE CLOUD",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Solapur Road, PUNE, 411028",
+    "lat": 18.5007918,
+    "lng": 73.9384993,
+    "website": "https://cloudean.com/",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4004442232"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "PUNE",
+        "addr:country": "IN",
+        "addr:postcode": "411028",
+        "addr:street": "Solapur Road",
+        "name": "CLOUDEAN : TRUE CLOUD",
+        "note": "CLOUDEAN : ENTERPRISE SSD CLOUD CLOUD HOST - MOST POWERFUL AND FLEXIBLE HOSTING POWERED BY CPANEL & CLOUDLINUX. CLOUD SERVER - PRODUCTION READY CLOUD DOMAIN NAME SSL CERTIFICATES - CHEAPEST SSL PAYMENT MODE -  INR PAYMENTS, PAYPAL, OKPAY, BITCOINS.",
+        "website": "https://cloudean.com/"
       }
     }
   },
@@ -42717,6 +46932,128 @@
     }
   },
   {
+    "name": "Geniebee Infosolutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "301, Balewadi Road, Pune, 411045",
+    "lat": 18.5753491,
+    "lng": 73.766267,
+    "website": "https://geniebee.co",
+    "phone": "+917588876699",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12943719904"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "301",
+        "addr:postcode": "411045",
+        "addr:street": "Balewadi Road",
+        "name": "Geniebee Infosolutions",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "phone": "+917588876699",
+        "website": "https://geniebee.co"
+      }
+    }
+  },
+  {
+    "name": "Reliance Digital",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Balewadi High Street, Baner, Pune, 411045",
+    "lat": 18.5635424,
+    "lng": 73.7765209,
+    "website": "http://www.reliancedigital.in/",
+    "phone": "+912029526081",
+    "categories": [
+      "shop=electronics"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9401950404"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:neighbourhood": "Baner",
+        "addr:postcode": "411045",
+        "addr:state": "Maharashtra",
+        "addr:street": "Balewadi High Street",
+        "brand": "Reliance Digital",
+        "brand:wikidata": "Q7311012",
+        "check_date": "2023-08-06",
+        "contact:phone": "+912029526081",
+        "contact:website": "http://www.reliancedigital.in/",
+        "name": "Reliance Digital",
+        "name:mr": "रिलायन्स डिजिटल",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "Swapnsahyadri Pest Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "S No.154, Haveli, Shop No.16 H No. 4 Savitri Complex, DSK Vishwa Rd, near Bikaner Sweets, Dhayari, Pune, 411041",
+    "lat": 18.4471855,
+    "lng": 73.8098972,
+    "website": "https://connectitapp.in/swapnsahyadri-pest-solutions",
+    "phone": "918698359356",
+    "categories": [
+      "craft=cleaning",
+      "description=We are Swapnsahyadri Pest Solutions, providing expert pest control services in Dhayari, Pune. Our specialized treatments include bed bug treatment, termite treatment, cockroach pest control, and mosquito control with 24-hour availability."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13906473078"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411041",
+        "addr:street": "S No.154, Haveli, Shop No.16 H No. 4 Savitri Complex, DSK Vishwa Rd, near Bikaner Sweets, Dhayari",
+        "contact:facebook": "https://www.facebook.com/people/Swapnsahyadri-Pest-Solutions/61579860244922/#",
+        "craft": "cleaning",
+        "description": "We are Swapnsahyadri Pest Solutions, providing expert pest control services in Dhayari, Pune. Our specialized treatments include bed bug treatment, termite treatment, cockroach pest control, and mosquito control with 24-hour availability.",
+        "mobile": "918698359356",
+        "name": "Swapnsahyadri Pest Solutions",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:google_pay": "yes",
+        "phone": "918698359356",
+        "start_date": "2025-04-30",
+        "website": "https://connectitapp.in/swapnsahyadri-pest-solutions"
+      }
+    }
+  },
+  {
     "name": "8 Cloud 8",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -43030,6 +47367,136 @@
       "osm_tags": {
         "landuse": "residential",
         "name": "Rishabh Cloud 9"
+      }
+    }
+  },
+  {
+    "name": "AppArchet LLC",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "3, Heaven Green Society, Opposite to Euro School, Undri, Pune, 411060",
+    "lat": 18.4530799,
+    "lng": 73.9161634,
+    "website": "htttps://apparchetllc.com",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10220974154"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: office=it; negative hints: school",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "3",
+        "addr:postcode": "411060",
+        "addr:street": "Heaven Green Society, Opposite to Euro School, Undri",
+        "name": "AppArchet LLC",
+        "office": "it",
+        "website": "htttps://apparchetllc.com"
+      }
+    }
+  },
+  {
+    "name": "Charcoal Eats/B Burger Cloud Kitchen",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5596289,
+    "lng": 73.7900197,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "craft=caterer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13601852557"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "caterer": "dark_kitchen",
+        "craft": "caterer",
+        "name": "Charcoal Eats/B Burger Cloud Kitchen",
+        "name:en": "Charcoal Eats/B Burger Cloud Kitchen"
+      }
+    }
+  },
+  {
+    "name": "cloud 9",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.4772699,
+    "lng": 73.9107243,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4327203990"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "name": "cloud 9",
+        "tourism": "camp_site"
+      }
+    }
+  },
+  {
+    "name": "Orthos Orthopedic and Spine Centre",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Gera's Imperium Rise, 214, Hinjawadi Phase 2 Rd, Hinjawadi Phase II, Hinjawadi Rajiv Gandhi Infotech Park,Hinjawadi, Pune, 411057",
+    "lat": 18.5961784,
+    "lng": 73.7175115,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "amenity=clinic"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12373619396"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: technology, infotech; negative hints: clinic",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "Gera's Imperium Rise, 214",
+        "addr:postcode": "411057",
+        "addr:street": "Hinjawadi Phase 2 Rd, Hinjawadi Phase II, Hinjawadi Rajiv Gandhi Infotech Park,Hinjawadi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "endoscopic_spine_surgeon;orthopaedic_surgeon",
+        "name": "Orthos Orthopedic and Spine Centre",
+        "operator": "Novosalus Technology",
+        "operator:type": "private"
       }
     }
   },
@@ -44169,6 +48636,81 @@
         "description": "Website Developer, Digital Marketer, Web Designer",
         "name": "Viswasi Digital Private Limited",
         "website": "https://www.viswasidigital.com/"
+      }
+    }
+  },
+  {
+    "name": "Eternal Solutions System",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Signature Height, 803 C Wing, Wakad, Wakad, Pune, 411057",
+    "lat": 18.5980963,
+    "lng": 73.7529216,
+    "website": "https://eternalsolutionssystem.com/",
+    "phone": "",
+    "categories": [
+      "building=apartments"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359573655"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "Signature Height, 803 C Wing, Wakad",
+        "addr:postcode": "411057",
+        "addr:street": "Wakad",
+        "building": "apartments",
+        "building:levels": "8",
+        "name": "Eternal Solutions System",
+        "website": "https://eternalsolutionssystem.com/"
+      }
+    }
+  },
+  {
+    "name": "Osumare",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "8/565, Osumare, Survey No.43, Pathare - Thube Nagar, Kharadi, Pune, Maharashtra, 411014",
+    "lat": 18.5618408,
+    "lng": 73.9392839,
+    "website": "https://osumare.com/",
+    "phone": "",
+    "categories": [
+      "building=industrial",
+      "description=We tailor strategies to your unique goals, from SEO to social media, ensuring the perfect fit for your business. When you choose Osumare, you choose a digital marketing partner dedicated to your success. Join us and watch your business thrive online!"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359795550"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune, Maharashtra",
+        "addr:district": "Pune",
+        "addr:housenumber": "8/565",
+        "addr:postcode": "411014",
+        "addr:street": "Osumare, Survey No.43, Pathare - Thube Nagar, Kharadi",
+        "building": "industrial",
+        "building:levels": "0",
+        "description": "We tailor strategies to your unique goals, from SEO to social media, ensuring the perfect fit for your business. When you choose Osumare, you choose a digital marketing partner dedicated to your success. Join us and watch your business thrive online!",
+        "height": "0",
+        "name": "Osumare",
+        "website": "https://osumare.com/"
       }
     }
   },
