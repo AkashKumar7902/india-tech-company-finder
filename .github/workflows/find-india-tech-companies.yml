@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: find-india-tech-companies
+  cancel-in-progress: false
+
 jobs:
   find-companies:
     runs-on: ubuntu-latest
