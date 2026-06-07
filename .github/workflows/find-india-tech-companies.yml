@@ -3,8 +3,9 @@ name: Find India tech companies
 on:
   workflow_dispatch:
   schedule:
-    # Runs daily at 03:30 UTC. GitHub Actions cron uses UTC.
-    - cron: "30 3 * * *"
+    # Small rotating batches every 6 hours to avoid Google/Overpass 429s.
+    # GitHub Actions cron uses UTC.
+    - cron: "17 */6 * * *"
 
 permissions:
   contents: write
@@ -12,7 +13,7 @@ permissions:
 jobs:
   find-companies:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360
 
     env:
       # Optional repo secret. If unset, the CLI still runs with OpenStreetMap only.
@@ -21,9 +22,16 @@ jobs:
       TECH_FINDER_PRESET: ${{ vars.TECH_FINDER_PRESET }}
       TECH_FINDER_REGIONS: ${{ vars.TECH_FINDER_REGIONS }}
       TECH_FINDER_SOURCES: ${{ vars.TECH_FINDER_SOURCES }}
+      TECH_FINDER_GRANULARITY: ${{ vars.TECH_FINDER_GRANULARITY }}
+      TECH_FINDER_GRID_SIZE_M: ${{ vars.TECH_FINDER_GRID_SIZE_M }}
+      TECH_FINDER_GRID_RADIUS_M: ${{ vars.TECH_FINDER_GRID_RADIUS_M }}
+      TECH_FINDER_REGION_BATCH_SIZE: ${{ vars.TECH_FINDER_REGION_BATCH_SIZE }}
+      TECH_FINDER_GOOGLE_POINT_BATCH_SIZE: ${{ vars.TECH_FINDER_GOOGLE_POINT_BATCH_SIZE }}
+      TECH_FINDER_BATCH_INDEX: ${{ vars.TECH_FINDER_BATCH_INDEX }}
       TECH_FINDER_MIN_SCORE: ${{ vars.TECH_FINDER_MIN_SCORE }}
       TECH_FINDER_MAX_PAGES: ${{ vars.TECH_FINDER_MAX_PAGES }}
       TECH_FINDER_NO_GOOGLE_DETAILS: ${{ vars.TECH_FINDER_NO_GOOGLE_DETAILS }}
+      TECH_FINDER_GOOGLE_REQUEST_SLEEP_S: ${{ vars.TECH_FINDER_GOOGLE_REQUEST_SLEEP_S }}
 
     steps:
       - name: Checkout
@@ -45,8 +53,14 @@ jobs:
           set -euo pipefail
           PRESET="${TECH_FINDER_PRESET:-india-tech-cities}"
           SOURCES="${TECH_FINDER_SOURCES:-osm,google}"
+          GRANULARITY="${TECH_FINDER_GRANULARITY:-grid}"
+          GRID_SIZE_M="${TECH_FINDER_GRID_SIZE_M:-5000}"
+          REGION_BATCH_SIZE="${TECH_FINDER_REGION_BATCH_SIZE:-1}"
+          GOOGLE_POINT_BATCH_SIZE="${TECH_FINDER_GOOGLE_POINT_BATCH_SIZE:-6}"
+          BATCH_INDEX="${TECH_FINDER_BATCH_INDEX:-${GITHUB_RUN_NUMBER}}"
           MIN_SCORE="${TECH_FINDER_MIN_SCORE:-20}"
           MAX_PAGES="${TECH_FINDER_MAX_PAGES:-1}"
+          GOOGLE_REQUEST_SLEEP_S="${TECH_FINDER_GOOGLE_REQUEST_SLEEP_S:-0.3}"
 
           EXTRA_ARGS=()
           if [ -n "${TECH_FINDER_REGIONS:-}" ]; then
@@ -58,15 +72,27 @@ jobs:
               fi
             done
           fi
-          if [ "${TECH_FINDER_NO_GOOGLE_DETAILS:-false}" = "true" ]; then
+          if [ -n "${TECH_FINDER_GRID_RADIUS_M:-}" ]; then
+            EXTRA_ARGS+=(--grid-radius-m "$TECH_FINDER_GRID_RADIUS_M")
+          fi
+          # Default true to avoid Place Details quota spikes. Set repo variable
+          # TECH_FINDER_NO_GOOGLE_DETAILS=false if you want websites/phones.
+          if [ "${TECH_FINDER_NO_GOOGLE_DETAILS:-true}" = "true" ]; then
             EXTRA_ARGS+=(--no-google-details)
           fi
 
-          python -m hsr_tech_finder.cli find \
+          python -m india_tech_finder.cli find \
             --preset "$PRESET" \
             --sources "$SOURCES" \
+            --granularity "$GRANULARITY" \
+            --grid-size-m "$GRID_SIZE_M" \
+            --region-batch-size "$REGION_BATCH_SIZE" \
+            --google-point-batch-size "$GOOGLE_POINT_BATCH_SIZE" \
+            --batch-index "$BATCH_INDEX" \
             --min-score "$MIN_SCORE" \
             --max-pages "$MAX_PAGES" \
+            --google-request-sleep-s "$GOOGLE_REQUEST_SLEEP_S" \
+            --merge-existing \
             --out-csv results/india_tech_companies.csv \
             --out-json results/india_tech_companies.json \
             "${EXTRA_ARGS[@]}"
@@ -87,7 +113,7 @@ jobs:
               count=$(( $(wc -l < results/india_tech_companies.csv) - 1 ))
               echo "Rows exported: **$count**"
               echo
-              echo "Download the CSV/JSON from the workflow artifact, or use the committed files in results/."
+              echo "This workflow uses small rotating batches and merges with existing results to avoid API 429s."
             else
               echo "No results file was created. Check logs."
             fi

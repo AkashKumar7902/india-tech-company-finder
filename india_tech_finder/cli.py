@@ -4,17 +4,27 @@ import argparse
 import math
 import os
 import sys
+from collections import defaultdict
 from pathlib import Path
-from typing import Callable, Iterable, Optional
+from typing import Callable, Iterable, Optional, TypeVar
 
 from .dedupe import dedupe_companies
-from .export import write_csv, write_json
+from .export import read_json, write_csv, write_json
 from .models import Company
-from .regions import PRESETS, Region, filter_regions, load_regions_file
+from .regions import (
+    PRESETS,
+    Region,
+    SearchPoint,
+    filter_regions,
+    grid_points_for_region,
+    load_regions_file,
+)
 from .scoring import score_company
 from .sources.csv_seed import fetch_csv_seed
 from .sources.google_places import DEFAULT_QUERY_TEMPLATES, fetch_google_places, render_queries
 from .sources.osm import OVERPASS_URL, fetch_osm
+
+T = TypeVar("T")
 
 
 def load_dotenv(path: str | Path = ".env") -> None:
@@ -116,6 +126,52 @@ def resolve_regions(args: argparse.Namespace) -> list[Region]:
     return regions
 
 
+def get_batch_count(item_count: int, batch_size: Optional[int]) -> int:
+    if not batch_size or batch_size <= 0 or batch_size >= item_count:
+        return 1
+    return math.ceil(item_count / batch_size)
+
+
+def select_batch(items: list[T], *, batch_size: Optional[int], batch_index: int) -> tuple[list[T], str]:
+    if not batch_size or batch_size <= 0 or batch_size >= len(items):
+        return items, "all"
+    batch_count = get_batch_count(len(items), batch_size)
+    normalized_index = batch_index % batch_count
+    start = normalized_index * batch_size
+    end = start + batch_size
+    return items[start:end], f"{normalized_index + 1}/{batch_count}"
+
+
+def build_search_points(region: Region, args: argparse.Namespace) -> tuple[list[SearchPoint], int]:
+    if args.granularity == "city":
+        return [(region.lat, region.lng, "center")], region.radius_m
+    radius_m = args.grid_radius_m or args.grid_size_m
+    return grid_points_for_region(region, spacing_m=args.grid_size_m), radius_m
+
+
+def select_google_point_batches(
+    regions: list[Region],
+    args: argparse.Namespace,
+    *,
+    point_batch_index: int,
+) -> tuple[dict[str, list[SearchPoint]], int, str]:
+    all_items: list[tuple[str, SearchPoint]] = []
+    for region in regions:
+        points, _ = build_search_points(region, args)
+        for point in points:
+            all_items.append((region.id, point))
+
+    selected, batch_label = select_batch(
+        all_items,
+        batch_size=args.google_point_batch_size,
+        batch_index=point_batch_index,
+    )
+    grouped: dict[str, list[SearchPoint]] = defaultdict(list)
+    for region_id, point in selected:
+        grouped[region_id].append(point)
+    return dict(grouped), len(all_items), batch_label
+
+
 def _safe_fetch(
     label: str,
     fetcher: Callable[[], list[Company]],
@@ -137,11 +193,32 @@ def _safe_fetch(
 def cmd_find(args: argparse.Namespace) -> int:
     load_dotenv(args.env)
     requested_sources = parse_sources(args.sources)
-    regions = resolve_regions(args)
+    all_regions = resolve_regions(args)
+    region_batch_count = get_batch_count(len(all_regions), args.region_batch_size)
+    region_batch_index = args.region_batch_index if args.region_batch_index is not None else args.batch_index
+    regions, region_batch_label = select_batch(
+        all_regions,
+        batch_size=args.region_batch_size,
+        batch_index=region_batch_index,
+    )
+
+    out_csv = args.out_csv or os.getenv("OUTPUT_CSV") or "results/india_tech_companies.csv"
+    out_json = args.out_json or os.getenv("OUTPUT_JSON") or "results/india_tech_companies.json"
+
     all_companies: list[Company] = []
     source_counts: dict[str, int] = {source: 0 for source in requested_sources}
 
+    if args.merge_existing:
+        existing = read_json(out_json)
+        if existing:
+            print(f"Loaded {len(existing)} existing result(s) from {out_json}")
+            all_companies.extend(existing)
+            source_counts["existing_results"] = len(existing)
+
     google_api_key = None
+    google_points_by_region: dict[str, list[SearchPoint]] = {}
+    total_google_points = 0
+    google_point_batch_label = "all"
     if "google_places" in requested_sources:
         google_api_key = args.google_api_key or os.getenv("GOOGLE_PLACES_API_KEY") or os.getenv("GOOGLE_MAPS_API_KEY")
         if not google_api_key:
@@ -150,10 +227,33 @@ def cmd_find(args: argparse.Namespace) -> int:
                 file=sys.stderr,
             )
             source_counts["google_places"] = 0
+        else:
+            if args.google_point_batch_index is not None:
+                point_batch_index = args.google_point_batch_index
+            else:
+                # When only a few regions are processed per run, advance the
+                # point batch once per full region cycle. This prevents a city
+                # from repeatedly getting the same grid slice forever.
+                point_batch_index = args.batch_index // region_batch_count
+            google_points_by_region, total_google_points, google_point_batch_label = select_google_point_batches(
+                regions,
+                args,
+                point_batch_index=point_batch_index,
+            )
 
     query_templates = load_query_templates(args)
 
-    print(f"Selected {len(regions)} region(s): {', '.join(region.label for region in regions)}")
+    print(f"Selected {len(regions)}/{len(all_regions)} region(s), region batch: {region_batch_label}")
+    print(f"Regions: {', '.join(region.label for region in regions)}")
+    if google_api_key:
+        selected_points = sum(len(points) for points in google_points_by_region.values())
+        max_text_searches = selected_points * len(query_templates) * max(args.max_pages, 1)
+        print(
+            "Google plan: "
+            f"granularity={args.granularity}, points={selected_points}/{total_google_points}, "
+            f"point batch={google_point_batch_label}, queries={len(query_templates)}, "
+            f"max text-search requests={max_text_searches}"
+        )
 
     for region in regions:
         print(f"\n== {region.label} ==")
@@ -167,6 +267,8 @@ def cmd_find(args: argparse.Namespace) -> int:
                     country=region.country,
                     overpass_url=args.overpass_url,
                     timeout=args.timeout,
+                    max_retries=args.osm_max_retries,
+                    retry_backoff_s=args.retry_backoff_s,
                 ),
                 strict=args.strict,
             )
@@ -174,15 +276,21 @@ def cmd_find(args: argparse.Namespace) -> int:
             all_companies.extend(companies)
 
         if "google_places" in requested_sources and google_api_key:
+            search_points = google_points_by_region.get(region.id, [])
+            if not search_points:
+                print(f"Skipping Google Places ({region.label}): no points in this batch")
+                continue
+            _, radius_m = build_search_points(region, args)
             queries = render_queries(
                 query_templates,
                 city=region.query,
                 state=region.state,
                 country=region.country,
+                include_city=args.granularity == "city",
             )
             companies = _safe_fetch(
-                f"Google Places ({region.label})",
-                lambda region=region, queries=queries: fetch_google_places(
+                f"Google Places ({region.label}, {len(search_points)} point(s), radius={radius_m}m)",
+                lambda region=region, queries=queries, search_points=search_points, radius_m=radius_m: fetch_google_places(
                     google_api_key,
                     queries=queries,
                     lat=region.lat,
@@ -190,11 +298,15 @@ def cmd_find(args: argparse.Namespace) -> int:
                     city=region.city,
                     region=region.state,
                     country=region.country,
-                    radius_m=region.radius_m,
+                    radius_m=radius_m,
                     max_pages=args.max_pages,
                     include_details=not args.no_google_details,
                     include_closed=args.include_closed,
                     timeout=args.timeout,
+                    search_points=search_points,
+                    max_retries=args.google_max_retries,
+                    retry_backoff_s=args.retry_backoff_s,
+                    request_sleep_s=args.google_request_sleep_s,
                 ),
                 strict=args.strict,
             )
@@ -221,8 +333,6 @@ def cmd_find(args: argparse.Namespace) -> int:
     if args.limit:
         filtered = filtered[: args.limit]
 
-    out_csv = args.out_csv or os.getenv("OUTPUT_CSV") or "results/india_tech_companies.csv"
-    out_json = args.out_json or os.getenv("OUTPUT_JSON") or "results/india_tech_companies.json"
     csv_path = write_csv(filtered, out_csv)
     json_path = write_json(filtered, out_json)
 
@@ -267,8 +377,17 @@ def build_parser() -> argparse.ArgumentParser:
     find.add_argument("--city-query", default="", help="custom Google query location text for --lat/--lng")
     find.add_argument("--lat", type=float, help="custom search center latitude")
     find.add_argument("--lng", type=float, help="custom search center longitude")
-    find.add_argument("--radius-m", type=int, help="override Google Places search radius in metres")
+    find.add_argument("--radius-m", type=int, help="override city-mode Google radius in metres")
     find.add_argument("--bbox", type=parse_bbox, help="custom OSM bbox as south,west,north,east")
+    find.add_argument("--granularity", choices=["city", "grid"], default="grid", help="Google search mode")
+    find.add_argument("--grid-size-m", type=int, default=5000, help="grid spacing for granular Google search")
+    find.add_argument("--grid-radius-m", type=int, help="Google radius per grid point; default equals --grid-size-m")
+    find.add_argument("--batch-index", type=int, default=0, help="rotating batch index; any integer is accepted")
+    find.add_argument("--region-batch-size", type=int, help="process only N regions in this run")
+    find.add_argument("--region-batch-index", type=int, help="override region batch index")
+    find.add_argument("--google-point-batch-size", type=int, help="process only N Google grid/center points in this run")
+    find.add_argument("--google-point-batch-index", type=int, help="override Google point batch index")
+    find.add_argument("--merge-existing", action="store_true", help="merge with existing JSON output before exporting")
     find.add_argument("--overpass-url", default=OVERPASS_URL, help="Overpass API endpoint")
     find.add_argument("--google-api-key", default=None, help="Google Places API key")
     find.add_argument(
@@ -280,6 +399,10 @@ def build_parser() -> argparse.ArgumentParser:
     find.add_argument("--max-pages", type=int, default=1, help="Google pages per query; max useful value is 3")
     find.add_argument("--no-google-details", action="store_true", help="skip Place Details calls")
     find.add_argument("--include-closed", action="store_true", help="include permanently closed Google places")
+    find.add_argument("--google-request-sleep-s", type=float, default=0.0, help="sleep between Google API requests")
+    find.add_argument("--google-max-retries", type=int, default=5, help="Google 429/quota retry attempts")
+    find.add_argument("--osm-max-retries", type=int, default=3, help="Overpass HTTP 429 retry attempts")
+    find.add_argument("--retry-backoff-s", type=float, default=2.0, help="base exponential retry backoff seconds")
     find.add_argument("--seed-csv", help="optional CSV seed file with extra candidates")
     find.add_argument("--min-score", type=float, default=20, help="minimum tech-likelihood score to export")
     find.add_argument("--limit", type=int, help="limit exported rows after scoring")

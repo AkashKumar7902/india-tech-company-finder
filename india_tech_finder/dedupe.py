@@ -123,6 +123,9 @@ def merge_company(base: Company, incoming: Company) -> Company:
     base.raw["google_types"] = _union(
         base.raw.get("google_types", []), incoming.raw.get("google_types", [])
     )
+    base.raw["google_search_points"] = _union(
+        base.raw.get("google_search_points", []), incoming.raw.get("google_search_points", [])
+    )
     osm_tags = dict(base.raw.get("osm_tags", {}) or {})
     osm_tags.update(incoming.raw.get("osm_tags", {}) or {})
     if osm_tags:

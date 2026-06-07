@@ -47,6 +47,21 @@ def write_csv(companies: Iterable[Company], path: str | Path) -> Path:
     return output
 
 
+def read_json(path: str | Path) -> list[Company]:
+    input_path = Path(path)
+    if not input_path.exists():
+        return []
+    payload = json.loads(input_path.read_text(encoding="utf-8"))
+    companies: list[Company] = []
+    for item in payload:
+        if not isinstance(item, dict) or not item.get("name"):
+            continue
+        allowed = Company.__dataclass_fields__.keys()
+        values = {key: value for key, value in item.items() if key in allowed}
+        companies.append(Company(**values))
+    return companies
+
+
 def write_json(companies: Iterable[Company], path: str | Path) -> Path:
     output = ensure_parent(path)
     with output.open("w", encoding="utf-8") as handle:

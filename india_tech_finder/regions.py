@@ -1,12 +1,14 @@
 from __future__ import annotations
 
 import json
+import math
 from dataclasses import dataclass, replace
 from pathlib import Path
 from typing import Iterable, Sequence, Tuple
 
 
 Bbox = Tuple[float, float, float, float]  # south, west, north, east
+SearchPoint = Tuple[float, float, str]  # lat, lng, label
 
 
 @dataclass(frozen=True)
@@ -97,6 +99,26 @@ INDIA_TECH_CITY_REGIONS: list[Region] = [
     Region("nagpur", "Nagpur", "Maharashtra", "Nagpur Maharashtra", 21.1458, 79.0882, 18_000, (21.05, 78.95, 21.25, 79.20)),
     Region("visakhapatnam", "Visakhapatnam", "Andhra Pradesh", "Visakhapatnam Andhra Pradesh", 17.6868, 83.2185, 18_000, (17.60, 83.10, 17.85, 83.40)),
     Region("lucknow", "Lucknow", "Uttar Pradesh", "Lucknow Uttar Pradesh", 26.8467, 80.9462, 18_000, (26.75, 80.85, 27.00, 81.05)),
+    Region("greater-noida", "Greater Noida", "Uttar Pradesh", "Greater Noida Uttar Pradesh", 28.4744, 77.5040, 16_000, (28.35, 77.40, 28.60, 77.65)),
+    Region("faridabad", "Faridabad", "Haryana", "Faridabad Haryana", 28.4089, 77.3178, 15_000, (28.30, 77.20, 28.50, 77.45)),
+    Region("ghaziabad", "Ghaziabad", "Uttar Pradesh", "Ghaziabad Uttar Pradesh", 28.6692, 77.4538, 15_000, (28.58, 77.35, 28.78, 77.55)),
+    Region("surat", "Surat", "Gujarat", "Surat Gujarat", 21.1702, 72.8311, 18_000, (21.05, 72.70, 21.30, 72.95)),
+    Region("vadodara", "Vadodara", "Gujarat", "Vadodara Gujarat", 22.3072, 73.1812, 16_000, (22.20, 73.05, 22.40, 73.30)),
+    Region("nashik", "Nashik", "Maharashtra", "Nashik Maharashtra", 19.9975, 73.7898, 16_000, (19.90, 73.68, 20.10, 73.92)),
+    Region("bhopal", "Bhopal", "Madhya Pradesh", "Bhopal Madhya Pradesh", 23.2599, 77.4126, 16_000, (23.15, 77.30, 23.35, 77.55)),
+    Region("trichy", "Tiruchirappalli", "Tamil Nadu", "Tiruchirappalli Tamil Nadu", 10.7905, 78.7047, 14_000, (10.70, 78.62, 10.88, 78.80)),
+    Region("madurai", "Madurai", "Tamil Nadu", "Madurai Tamil Nadu", 9.9252, 78.1198, 14_000, (9.82, 78.02, 10.02, 78.22)),
+    Region("vijayawada", "Vijayawada", "Andhra Pradesh", "Vijayawada Andhra Pradesh", 16.5062, 80.6480, 16_000, (16.40, 80.55, 16.62, 80.75)),
+    Region("guntur", "Guntur", "Andhra Pradesh", "Guntur Andhra Pradesh", 16.3067, 80.4365, 14_000, (16.22, 80.35, 16.42, 80.55)),
+    Region("warangal", "Warangal", "Telangana", "Warangal Telangana", 17.9689, 79.5941, 14_000, (17.88, 79.50, 18.06, 79.70)),
+    Region("hubballi-dharwad", "Hubballi-Dharwad", "Karnataka", "Hubballi Dharwad Karnataka", 15.3647, 75.1240, 16_000, (15.25, 74.95, 15.50, 75.25)),
+    Region("belagavi", "Belagavi", "Karnataka", "Belagavi Karnataka", 15.8497, 74.4977, 14_000, (15.75, 74.40, 15.95, 74.60)),
+    Region("panaji-goa", "Panaji/Goa", "Goa", "Panaji Goa", 15.4909, 73.8278, 16_000, (15.35, 73.70, 15.60, 74.00)),
+    Region("guwahati", "Guwahati", "Assam", "Guwahati Assam", 26.1445, 91.7362, 16_000, (26.05, 91.60, 26.25, 91.85)),
+    Region("patna", "Patna", "Bihar", "Patna Bihar", 25.5941, 85.1376, 16_000, (25.50, 85.05, 25.70, 85.25)),
+    Region("ranchi", "Ranchi", "Jharkhand", "Ranchi Jharkhand", 23.3441, 85.3096, 15_000, (23.25, 85.20, 23.45, 85.42)),
+    Region("raipur", "Raipur", "Chhattisgarh", "Raipur Chhattisgarh", 21.2514, 81.6296, 15_000, (21.15, 81.52, 21.35, 81.75)),
+    Region("dehradun", "Dehradun", "Uttarakhand", "Dehradun Uttarakhand", 30.3165, 78.0322, 14_000, (30.22, 77.95, 30.42, 78.12)),
 ]
 
 PRESETS: dict[str, list[Region]] = {
@@ -112,6 +134,60 @@ def load_regions_file(path: str | Path) -> list[Region]:
     if not isinstance(payload, list):
         raise ValueError("regions file must be a JSON array")
     return [Region.from_dict(item) for item in payload]
+
+
+def grid_points_for_bbox(
+    bbox: Bbox,
+    *,
+    spacing_m: int,
+    center: tuple[float, float] | None = None,
+) -> list[SearchPoint]:
+    """Build overlapping search points that cover a bbox.
+
+    Points are spaced by ``spacing_m`` and include the region center first.
+    Google Places still caps each query, so covering the whole bbox with many
+    local searches gives better recall than one city-level search.
+    """
+    south, west, north, east = bbox
+    mid_lat = (south + north) / 2
+    lat_step = max(spacing_m / 111_000, 0.001)
+    lng_step = max(spacing_m / (111_000 * max(math.cos(math.radians(mid_lat)), 0.1)), 0.001)
+
+    points: list[SearchPoint] = []
+    seen = set()
+
+    def add_point(lat: float, lng: float, label: str) -> None:
+        clamped_lat = min(max(lat, south), north)
+        clamped_lng = min(max(lng, west), east)
+        key = (round(clamped_lat, 5), round(clamped_lng, 5))
+        if key not in seen:
+            seen.add(key)
+            points.append((clamped_lat, clamped_lng, label))
+
+    if center:
+        add_point(center[0], center[1], "center")
+
+    row = 1
+    lat = south + lat_step / 2
+    if lat > north:
+        lat = (south + north) / 2
+    while lat <= north:
+        col = 1
+        lng = west + lng_step / 2
+        if lng > east:
+            lng = (west + east) / 2
+        while lng <= east:
+            add_point(lat, lng, f"grid-r{row:02d}-c{col:02d}")
+            lng += lng_step
+            col += 1
+        lat += lat_step
+        row += 1
+
+    return points
+
+
+def grid_points_for_region(region: Region, *, spacing_m: int) -> list[SearchPoint]:
+    return grid_points_for_bbox(region.bbox, spacing_m=spacing_m, center=(region.lat, region.lng))
 
 
 def filter_regions(regions: Iterable[Region], filters: Iterable[str] | None) -> list[Region]:

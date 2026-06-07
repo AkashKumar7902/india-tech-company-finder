@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from typing import Iterable, Tuple
 
 import requests
@@ -120,15 +121,24 @@ def fetch_osm(
     country: str = "India",
     overpass_url: str = OVERPASS_URL,
     timeout: int = 60,
+    max_retries: int = 3,
+    retry_backoff_s: float = 2.0,
 ) -> list[Company]:
     """Fetch likely tech offices from OpenStreetMap/Overpass within a bbox."""
     query = build_overpass_query(bbox, timeout=timeout)
-    response = requests.post(
-        overpass_url,
-        data={"data": query},
-        headers={"User-Agent": "india-tech-company-finder/0.2"},
-        timeout=timeout + 10,
-    )
+    response = None
+    for attempt in range(max_retries + 1):
+        response = requests.post(
+            overpass_url,
+            data={"data": query},
+            headers={"User-Agent": "india-tech-company-finder/0.3"},
+            timeout=timeout + 10,
+        )
+        if response.status_code != 429:
+            break
+        if attempt < max_retries:
+            time.sleep(min(retry_backoff_s * (2 ** attempt), 60))
+    assert response is not None
     response.raise_for_status()
     payload = response.json()
     return list(

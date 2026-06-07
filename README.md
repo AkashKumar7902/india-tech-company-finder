@@ -8,7 +8,7 @@ It combines:
 - **Google Places API** — optional API key, much better coverage, uses official APIs instead of scraping Google Maps.
 - **CSV seed import** — optional, for your own lists that should be de-duplicated with API results.
 
-> No public source can guarantee a perfect list of *all* companies. Treat the output as a ranked candidate list and verify important rows manually.
+> No public source can guarantee a perfect list of *all* companies. This project now uses granular city-grid searches and rotating batches to improve recall without hammering APIs. Treat the output as a ranked candidate list and verify important rows manually.
 
 ## Built-in coverage
 
@@ -18,10 +18,13 @@ It searches these tech hubs:
 
 ```text
 bengaluru, hyderabad, pune, mumbai, navi-mumbai, chennai,
-gurugram, noida, new-delhi, kolkata, ahmedabad, gandhinagar,
-kochi, thiruvananthapuram, chandigarh-mohali, jaipur, indore,
-coimbatore, bhubaneswar, mysuru, mangaluru, nagpur,
-visakhapatnam, lucknow
+gurugram, noida, greater-noida, new-delhi, ghaziabad, faridabad,
+kolkata, ahmedabad, gandhinagar, surat, vadodara, kochi,
+thiruvananthapuram, chandigarh-mohali, jaipur, indore, bhopal,
+coimbatore, trichy, madurai, bhubaneswar, mysuru, mangaluru,
+hubballi-dharwad, belagavi, nagpur, nashik, visakhapatnam,
+vijayawada, guntur, warangal, lucknow, panaji-goa, guwahati,
+patna, ranchi, raipur, dehradun
 ```
 
 Other presets:
@@ -33,7 +36,7 @@ Other presets:
 ## Setup
 
 ```bash
-cd hsr-tech-company-finder
+cd india-tech-company-finder
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -51,43 +54,86 @@ cp .env.example .env
 Free OSM-only run across Indian tech cities:
 
 ```bash
-python -m hsr_tech_finder.cli find --sources osm
+python -m india_tech_finder.cli find --sources osm
 ```
 
-Recommended run with Google Places enabled:
+Recommended granular run with Google Places enabled:
 
 ```bash
-python -m hsr_tech_finder.cli find --sources osm,google
+python -m india_tech_finder.cli find --sources osm,google --granularity grid --grid-size-m 5000
 ```
+
+If you are hitting 429s, run a small rotating batch and merge it into existing results:
+
+```bash
+python -m india_tech_finder.cli find \
+  --sources osm,google \
+  --granularity grid \
+  --region-batch-size 1 \
+  --google-point-batch-size 6 \
+  --batch-index 0 \
+  --no-google-details \
+  --merge-existing
+```
+
+Increase `--batch-index` on the next run to process the next slice.
 
 Outputs:
 
 - `results/india_tech_companies.csv`
 - `results/india_tech_companies.json`
 
+## Granularity and 429 strategy
+
+The finder does **not rely only on known tech zones**. In `--granularity grid` mode, it covers each city bounding box with overlapping search points. That catches companies outside famous corridors/parks too.
+
+Because Google/Overpass can return 429 when too many requests happen in one burst, the GitHub Action uses:
+
+- one city/region per run by default
+- six Google grid points per run by default
+- `--merge-existing` so results accumulate over time
+- `--no-google-details` by default to avoid extra Place Details requests
+- retries and exponential backoff for 429 responses
+
+For maximum recall on a one-off local run, you can increase:
+
+```bash
+python -m india_tech_finder.cli find \
+  --sources osm,google \
+  --granularity grid \
+  --grid-size-m 3000 \
+  --max-pages 3 \
+  --google-request-sleep-s 0.5
+```
+
+That is much more expensive, so use it carefully with Google billing/quota limits.
+
 ## Useful options
 
 ```bash
 # Only Bengaluru
-python -m hsr_tech_finder.cli find --preset bengaluru --sources osm,google
+python -m india_tech_finder.cli find --preset bengaluru --sources osm,google
 
 # Only specific cities from the India preset
-python -m hsr_tech_finder.cli find --region bengaluru --region hyderabad --sources osm,google
+python -m india_tech_finder.cli find --region bengaluru --region hyderabad --sources osm,google
 
 # Legacy HSR-only search
-python -m hsr_tech_finder.cli find --preset hsr --sources osm,google
+python -m india_tech_finder.cli find --preset hsr --sources osm,google
 
 # Export more review candidates
-python -m hsr_tech_finder.cli find --sources osm,google --min-score 0
+python -m india_tech_finder.cli find --sources osm,google --min-score 0
 
 # Add your own Google query template
-python -m hsr_tech_finder.cli find --query "software product company {city}"
+python -m india_tech_finder.cli find --query "software product company"
+
+# Deeper but more expensive Google search
+python -m india_tech_finder.cli find --max-pages 3 --google-request-sleep-s 0.5
 
 # Use custom output files
-python -m hsr_tech_finder.cli find --out-csv results/custom.csv --out-json results/custom.json
+python -m india_tech_finder.cli find --out-csv results/custom.csv --out-json results/custom.json
 
 # Import and dedupe your own seed CSV
-python -m hsr_tech_finder.cli find --sources osm,google,csv --seed-csv my_companies.csv
+python -m india_tech_finder.cli find --sources osm,google,csv --seed-csv my_companies.csv
 ```
 
 Seed CSV headers supported: `name,city,region,country,address,lat,lng,website,phone,categories`.
@@ -114,7 +160,7 @@ You can provide your own city list as JSON:
 Run:
 
 ```bash
-python -m hsr_tech_finder.cli find --regions-file regions.json --sources osm,google
+python -m india_tech_finder.cli find --regions-file regions.json --sources osm,google
 ```
 
 ## GitHub Actions cron
@@ -125,7 +171,7 @@ A workflow is included at:
 .github/workflows/find-india-tech-companies.yml
 ```
 
-It runs daily at `03:30 UTC` and can also be started manually from **Actions → Find India tech companies → Run workflow**.
+It runs every 6 hours in small rotating batches and can also be started manually from **Actions → Find India tech companies → Run workflow**.
 
 To enable Google Places in GitHub:
 
@@ -133,16 +179,23 @@ To enable Google Places in GitHub:
 2. Go to **Settings → Secrets and variables → Actions → Secrets**.
 3. Add `GOOGLE_PLACES_API_KEY`.
 
-Every run uploads `results/india_tech_companies.csv` and `.json` as an artifact, and commits changed result files back to the repo automatically.
+Every run uploads `results/india_tech_companies.csv` and `.json` as an artifact, merges the new batch with existing results, and commits changed result files back to the repo automatically.
 
 Optional repo variables under **Settings → Secrets and variables → Actions → Variables**:
 
 - `TECH_FINDER_PRESET` — default `india-tech-cities`
 - `TECH_FINDER_REGIONS` — comma-separated subset, e.g. `bengaluru,hyderabad,pune`
 - `TECH_FINDER_SOURCES` — default `osm,google`
+- `TECH_FINDER_GRANULARITY` — default `grid`
+- `TECH_FINDER_GRID_SIZE_M` — default `5000`
+- `TECH_FINDER_GRID_RADIUS_M` — optional; default equals grid size
+- `TECH_FINDER_REGION_BATCH_SIZE` — default `1`, to avoid Overpass/Google bursts
+- `TECH_FINDER_GOOGLE_POINT_BATCH_SIZE` — default `6`, number of grid points per run
+- `TECH_FINDER_BATCH_INDEX` — optional; defaults to GitHub run number for rotation
 - `TECH_FINDER_MIN_SCORE` — default `20`
 - `TECH_FINDER_MAX_PAGES` — default `1`; use `3` for deeper Google results, but it costs more
-- `TECH_FINDER_NO_GOOGLE_DETAILS` — set to `true` to reduce Google API calls by skipping Place Details
+- `TECH_FINDER_NO_GOOGLE_DETAILS` — default `true` in cron to reduce Google API calls by skipping Place Details
+- `TECH_FINDER_GOOGLE_REQUEST_SLEEP_S` — default `0.3`, small pause between Google API calls
 
 ## How scoring works
 
