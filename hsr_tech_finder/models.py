@@ -9,6 +9,9 @@ class Company:
     """Normalized company candidate returned by one or more sources."""
 
     name: str
+    city: str = ""
+    region: str = ""
+    country: str = "India"
     address: str = ""
     lat: Optional[float] = None
     lng: Optional[float] = None

@@ -1,3 +1,3 @@
-"""Find tech-company candidates around HSR Layout, Bengaluru."""
+"""Find tech-company candidates across Indian tech hubs."""
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"

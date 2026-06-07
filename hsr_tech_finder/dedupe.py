@@ -44,9 +44,23 @@ def _same_source_id(a: Company, b: Company) -> bool:
     return False
 
 
+def _different_declared_city(a: Company, b: Company) -> bool:
+    if not a.city or not b.city:
+        return False
+    if a.city.strip().lower() == b.city.strip().lower():
+        return False
+    dist = distance_m(a.lat, a.lng, b.lat, b.lng)
+    # Overlapping city searches can return the same place; coordinates close
+    # enough should still be allowed to merge.
+    return dist is None or dist > 1200
+
+
 def _is_duplicate(a: Company, b: Company) -> bool:
     if _same_source_id(a, b):
         return True
+
+    if _different_declared_city(a, b):
+        return False
 
     a_web = normalize_website(a.website)
     b_web = normalize_website(b.website)
@@ -81,6 +95,12 @@ def merge_company(base: Company, incoming: Company) -> Company:
     # Prefer the richer display name/address, but keep coordinates already found.
     if len(incoming.name or "") > len(base.name or ""):
         base.name = incoming.name
+    if not base.city and incoming.city:
+        base.city = incoming.city
+    if not base.region and incoming.region:
+        base.region = incoming.region
+    if not base.country and incoming.country:
+        base.country = incoming.country
     if not base.address or len(incoming.address or "") > len(base.address or ""):
         base.address = incoming.address
     if base.lat is None and incoming.lat is not None:

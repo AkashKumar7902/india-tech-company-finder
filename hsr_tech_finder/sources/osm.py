@@ -22,7 +22,7 @@ def build_overpass_query(bbox: Tuple[float, float, float, float], timeout: int =
     return f"""
 [out:json][timeout:{timeout}];
 (
-  nwr["office"~"^(it|company|consulting|research)$"]({bbox_text});
+  nwr["office"="it"]({bbox_text});
   nwr["name"~"{TECH_OSM_REGEX}",i]({bbox_text});
   nwr["brand"~"{TECH_OSM_REGEX}",i]({bbox_text});
   nwr["operator"~"{TECH_OSM_REGEX}",i]({bbox_text});
@@ -71,7 +71,13 @@ def _categories(tags: dict) -> list[str]:
     return categories
 
 
-def _iter_companies(elements: Iterable[dict]) -> Iterable[Company]:
+def _iter_companies(
+    elements: Iterable[dict],
+    *,
+    city: str = "",
+    region: str = "",
+    country: str = "India",
+) -> Iterable[Company]:
     for element in elements:
         tags = element.get("tags") or {}
         name = _tag(tags, "name", "brand", "operator")
@@ -91,6 +97,9 @@ def _iter_companies(elements: Iterable[dict]) -> Iterable[Company]:
         osm_id = f"{element.get('type')}:{element.get('id')}"
         yield Company(
             name=name,
+            city=city,
+            region=region,
+            country=country,
             address=_address(tags),
             lat=lat,
             lng=lng,
@@ -106,6 +115,9 @@ def _iter_companies(elements: Iterable[dict]) -> Iterable[Company]:
 def fetch_osm(
     bbox: Tuple[float, float, float, float],
     *,
+    city: str = "",
+    region: str = "",
+    country: str = "India",
     overpass_url: str = OVERPASS_URL,
     timeout: int = 60,
 ) -> list[Company]:
@@ -114,9 +126,16 @@ def fetch_osm(
     response = requests.post(
         overpass_url,
         data={"data": query},
-        headers={"User-Agent": "hsr-tech-company-finder/0.1"},
+        headers={"User-Agent": "india-tech-company-finder/0.2"},
         timeout=timeout + 10,
     )
     response.raise_for_status()
     payload = response.json()
-    return list(_iter_companies(payload.get("elements", [])))
+    return list(
+        _iter_companies(
+            payload.get("elements", []),
+            city=city,
+            region=region,
+            country=country,
+        )
+    )

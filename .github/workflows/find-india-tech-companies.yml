@@ -1,0 +1,117 @@
+name: Find India tech companies
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs daily at 03:30 UTC. GitHub Actions cron uses UTC.
+    - cron: "30 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  find-companies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    env:
+      # Optional repo secret. If unset, the CLI still runs with OpenStreetMap only.
+      GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+      # Optional repo variables for customization.
+      TECH_FINDER_PRESET: ${{ vars.TECH_FINDER_PRESET }}
+      TECH_FINDER_REGIONS: ${{ vars.TECH_FINDER_REGIONS }}
+      TECH_FINDER_SOURCES: ${{ vars.TECH_FINDER_SOURCES }}
+      TECH_FINDER_MIN_SCORE: ${{ vars.TECH_FINDER_MIN_SCORE }}
+      TECH_FINDER_MAX_PAGES: ${{ vars.TECH_FINDER_MAX_PAGES }}
+      TECH_FINDER_NO_GOOGLE_DETAILS: ${{ vars.TECH_FINDER_NO_GOOGLE_DETAILS }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Find companies
+        run: |
+          set -euo pipefail
+          PRESET="${TECH_FINDER_PRESET:-india-tech-cities}"
+          SOURCES="${TECH_FINDER_SOURCES:-osm,google}"
+          MIN_SCORE="${TECH_FINDER_MIN_SCORE:-20}"
+          MAX_PAGES="${TECH_FINDER_MAX_PAGES:-1}"
+
+          EXTRA_ARGS=()
+          if [ -n "${TECH_FINDER_REGIONS:-}" ]; then
+            IFS=',' read -ra REGIONS <<< "$TECH_FINDER_REGIONS"
+            for region in "${REGIONS[@]}"; do
+              region="$(echo "$region" | xargs)"
+              if [ -n "$region" ]; then
+                EXTRA_ARGS+=(--region "$region")
+              fi
+            done
+          fi
+          if [ "${TECH_FINDER_NO_GOOGLE_DETAILS:-false}" = "true" ]; then
+            EXTRA_ARGS+=(--no-google-details)
+          fi
+
+          python -m hsr_tech_finder.cli find \
+            --preset "$PRESET" \
+            --sources "$SOURCES" \
+            --min-score "$MIN_SCORE" \
+            --max-pages "$MAX_PAGES" \
+            --out-csv results/india_tech_companies.csv \
+            --out-json results/india_tech_companies.json \
+            "${EXTRA_ARGS[@]}"
+
+          rows=$(( $(wc -l < results/india_tech_companies.csv) - 1 ))
+          if [ "$rows" -le 0 ]; then
+            echo "No rows exported; refusing to publish an empty result set."
+            exit 1
+          fi
+
+      - name: Add run summary
+        if: always()
+        run: |
+          {
+            echo "## India Tech Company Finder"
+            echo
+            if [ -f results/india_tech_companies.csv ]; then
+              count=$(( $(wc -l < results/india_tech_companies.csv) - 1 ))
+              echo "Rows exported: **$count**"
+              echo
+              echo "Download the CSV/JSON from the workflow artifact, or use the committed files in results/."
+            else
+              echo "No results file was created. Check logs."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload results artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: india-tech-companies-${{ github.run_number }}
+          path: |
+            results/india_tech_companies.csv
+            results/india_tech_companies.json
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Commit updated results
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f results/india_tech_companies.csv results/india_tech_companies.json
+          if git diff --cached --quiet; then
+            echo "No result changes to commit."
+          else
+            git commit -m "Update India tech company results [skip ci]"
+            git push
+          fi

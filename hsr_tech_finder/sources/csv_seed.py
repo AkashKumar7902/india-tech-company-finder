@@ -9,7 +9,7 @@ from ..models import Company
 def fetch_csv_seed(path: str | Path) -> list[Company]:
     """Load extra candidates from a user-maintained CSV seed file.
 
-    Supported headers: name, address, lat, lng, website, phone, categories.
+    Supported headers: name, city, region, country, address, lat, lng, website, phone, categories.
     Categories can be separated by | or comma.
     """
     companies: list[Company] = []
@@ -31,6 +31,9 @@ def fetch_csv_seed(path: str | Path) -> list[Company]:
             companies.append(
                 Company(
                     name=name,
+                    city=(row.get("city") or "").strip(),
+                    region=(row.get("region") or "").strip(),
+                    country=(row.get("country") or "India").strip(),
                     address=(row.get("address") or "").strip(),
                     lat=lat,
                     lng=lng,

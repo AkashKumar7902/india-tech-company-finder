@@ -11,20 +11,19 @@ from ..models import Company
 TEXT_SEARCH_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 DETAILS_URL = "https://maps.googleapis.com/maps/api/place/details/json"
 
-DEFAULT_QUERIES = [
-    "software company HSR Layout Bengaluru",
-    "IT company HSR Layout Bengaluru",
-    "technology company HSR Layout Bengaluru",
-    "SaaS company HSR Layout Bengaluru",
-    "startup HSR Layout Bengaluru",
-    "web development company HSR Layout Bengaluru",
-    "mobile app development company HSR Layout Bengaluru",
-    "data analytics company HSR Layout Bengaluru",
-    "cloud company HSR Layout Bengaluru",
-    "cyber security company HSR Layout Bengaluru",
-    "fintech company HSR Layout Bengaluru",
-    "AI company HSR Layout Bengaluru",
+DEFAULT_QUERY_TEMPLATES = [
+    "software company {city}",
+    "IT company {city}",
+    "technology company {city}",
+    "SaaS company {city}",
+    "startup {city}",
+    "software development company {city}",
+    "AI company {city}",
+    "fintech company {city}",
 ]
+
+# Backwards-compatible name used by older imports.
+DEFAULT_QUERIES = DEFAULT_QUERY_TEMPLATES
 
 
 class GooglePlacesError(RuntimeError):
@@ -35,7 +34,7 @@ def _request_json(session: requests.Session, url: str, params: dict, timeout: in
     response = session.get(
         url,
         params=params,
-        headers={"User-Agent": "hsr-tech-company-finder/0.1"},
+        headers={"User-Agent": "india-tech-company-finder/0.2"},
         timeout=timeout,
     )
     response.raise_for_status()
@@ -102,7 +101,40 @@ def _value(*values):
     return ""
 
 
-def _company_from_result(result: dict, query: str, details: Optional[dict] = None) -> Company:
+def render_queries(templates: Iterable[str], *, city: str, state: str = "", country: str = "India") -> list[str]:
+    """Render query templates for a region and remove duplicates."""
+    rendered: list[str] = []
+    seen = set()
+    values = {
+        "city": city,
+        "city_name": city,
+        "state": state,
+        "country": country,
+    }
+    for template in templates:
+        query = template.strip()
+        if not query:
+            continue
+        if "{" in query and "}" in query:
+            query = query.format(**values)
+        elif city and city.lower() not in query.lower():
+            query = f"{query} {city}"
+        normalized = " ".join(query.split()).lower()
+        if normalized not in seen:
+            seen.add(normalized)
+            rendered.append(" ".join(query.split()))
+    return rendered
+
+
+def _company_from_result(
+    result: dict,
+    query: str,
+    details: Optional[dict] = None,
+    *,
+    city: str = "",
+    region: str = "",
+    country: str = "India",
+) -> Company:
     details = details or {}
     merged = {**result, **details}
     geometry = merged.get("geometry") or {}
@@ -112,6 +144,9 @@ def _company_from_result(result: dict, query: str, details: Optional[dict] = Non
 
     return Company(
         name=_value(merged.get("name"), result.get("name")),
+        city=city,
+        region=region,
+        country=country,
         address=_value(merged.get("formatted_address"), result.get("formatted_address")),
         lat=location.get("lat"),
         lng=location.get("lng"),
@@ -135,6 +170,9 @@ def fetch_google_places(
     queries: Iterable[str] = DEFAULT_QUERIES,
     lat: float,
     lng: float,
+    city: str = "",
+    region: str = "",
+    country: str = "India",
     radius_m: int = 3000,
     max_pages: int = 3,
     include_details: bool = True,
@@ -178,7 +216,14 @@ def fetch_google_places(
                     if not include_closed and details.get("business_status") == "CLOSED_PERMANENTLY":
                         continue
 
-                company = _company_from_result(result, query, details)
+                company = _company_from_result(
+                    result,
+                    query,
+                    details,
+                    city=city,
+                    region=region,
+                    country=country,
+                )
                 if place_id:
                     if place_id in by_place_id:
                         existing_queries = by_place_id[place_id].raw.setdefault("google_queries", [])
