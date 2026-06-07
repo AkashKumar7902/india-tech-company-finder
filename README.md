@@ -8,7 +8,7 @@ It combines:
 - **Google Places API** — optional API key, much better coverage, uses official APIs instead of scraping Google Maps.
 - **CSV seed import** — optional, for your own lists that should be de-duplicated with API results.
 
-> No public source can guarantee a perfect list of *all* companies. This project now uses granular city-grid searches and rotating batches to improve recall without hammering APIs. Treat the output as a ranked candidate list and verify important rows manually.
+> No public source can guarantee a perfect list of *all* companies. This project now uses curated tech-zone searches plus granular city-grid searches and rotating batches to improve recall without hammering APIs. Treat the output as a ranked candidate list and verify important rows manually.
 
 ## Built-in coverage
 
@@ -57,10 +57,10 @@ Free OSM-only run across Indian tech cities:
 python -m india_tech_finder.cli find --sources osm
 ```
 
-Recommended granular run with Google Places enabled:
+Recommended hybrid run with Google Places enabled:
 
 ```bash
-python -m india_tech_finder.cli find --sources osm,google --granularity grid --grid-size-m 5000
+python -m india_tech_finder.cli find --sources osm,google --granularity hybrid --grid-size-m 5000
 ```
 
 If you are hitting 429s, run a small rotating batch and merge it into existing results:
@@ -68,7 +68,7 @@ If you are hitting 429s, run a small rotating batch and merge it into existing r
 ```bash
 python -m india_tech_finder.cli find \
   --sources osm,google \
-  --granularity grid \
+  --granularity hybrid \
   --region-batch-size 1 \
   --google-point-batch-size 6 \
   --batch-index 0 \
@@ -85,12 +85,25 @@ Outputs:
 
 ## Granularity and 429 strategy
 
-The finder does **not rely only on known tech zones**. In `--granularity grid` mode, it covers each city bounding box with overlapping search points. That catches companies outside famous corridors/parks too.
+The finder now has a curated tech-zone list in:
+
+```text
+india_tech_finder/data/tech_zones.json
+```
+
+It currently contains **283 curated tech zones across 44 Indian city regions**, including high-priority areas/parks like Whitefield, HITEC City, Hinjewadi, OMR, Cyber City, Sector 62, Salt Lake Sector V, Infopark, Technopark, and more.
+
+The default `--granularity hybrid` mode does both:
+
+1. Search curated tech-zone points first.
+2. Then search the whole city bounding box with overlapping grid points.
+
+So it does **not rely only on known tech zones**. Companies outside famous corridors/parks are still covered by the grid.
 
 Because Google/Overpass can return 429 when too many requests happen in one burst, the GitHub Action uses:
 
 - one city/region per run by default
-- six Google grid points per run by default
+- six Google zone/grid points per run by default
 - `--merge-existing` so results accumulate over time
 - `--no-google-details` by default to avoid extra Place Details requests
 - retries and exponential backoff for 429 responses
@@ -100,7 +113,7 @@ For maximum recall on a one-off local run, you can increase:
 ```bash
 python -m india_tech_finder.cli find \
   --sources osm,google \
-  --granularity grid \
+  --granularity hybrid \
   --grid-size-m 3000 \
   --max-pages 3 \
   --google-request-sleep-s 0.5
@@ -123,6 +136,9 @@ python -m india_tech_finder.cli find --preset hsr --sources osm,google
 # Export more review candidates
 python -m india_tech_finder.cli find --sources osm,google --min-score 0
 
+# Search only curated tech zones
+python -m india_tech_finder.cli find --granularity zones --sources osm,google
+
 # Add your own Google query template
 python -m india_tech_finder.cli find --query "software product company"
 
@@ -137,6 +153,33 @@ python -m india_tech_finder.cli find --sources osm,google,csv --seed-csv my_comp
 ```
 
 Seed CSV headers supported: `name,city,region,country,address,lat,lng,website,phone,categories`.
+
+## Curated tech zones file
+
+The built-in curated zones file is:
+
+```text
+india_tech_finder/data/tech_zones.json
+```
+
+Each row has:
+
+```json
+{
+  "region_id": "bengaluru",
+  "name": "Whitefield",
+  "query": "Whitefield Bengaluru",
+  "lat": 12.9698,
+  "lng": 77.75,
+  "radius_m": 6000
+}
+```
+
+Use your own file with:
+
+```bash
+python -m india_tech_finder.cli find --granularity hybrid --tech-zones-file my_zones.json
+```
 
 ## Custom regions file
 
@@ -186,9 +229,10 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 - `TECH_FINDER_PRESET` — default `india-tech-cities`
 - `TECH_FINDER_REGIONS` — comma-separated subset, e.g. `bengaluru,hyderabad,pune`
 - `TECH_FINDER_SOURCES` — default `osm,google`
-- `TECH_FINDER_GRANULARITY` — default `grid`
+- `TECH_FINDER_GRANULARITY` — default `hybrid`; choices: `city`, `zones`, `grid`, `hybrid`
 - `TECH_FINDER_GRID_SIZE_M` — default `5000`
 - `TECH_FINDER_GRID_RADIUS_M` — optional; default equals grid size
+- `TECH_FINDER_ZONE_RADIUS_M` — default `4000`
 - `TECH_FINDER_REGION_BATCH_SIZE` — default `1`, to avoid Overpass/Google bursts
 - `TECH_FINDER_GOOGLE_POINT_BATCH_SIZE` — default `6`, number of grid points per run
 - `TECH_FINDER_BATCH_INDEX` — optional; defaults to GitHub run number for rotation

@@ -56,7 +56,7 @@ def _request_json(
         response = session.get(
             url,
             params=params,
-            headers={"User-Agent": "india-tech-company-finder/0.3"},
+            headers={"User-Agent": "india-tech-company-finder/0.4"},
             timeout=timeout,
         )
 
@@ -156,6 +156,19 @@ def _value(*values):
         if value:
             return value
     return ""
+
+
+def _point_query_text(point_label: str) -> str:
+    if point_label.startswith("zone:"):
+        return point_label[len("zone:"):].strip()
+    return ""
+
+
+def _query_for_point(query: str, point_label: str) -> str:
+    point_query = _point_query_text(point_label)
+    if point_query and point_query.lower() not in query.lower():
+        return f"{query} {point_query}".strip()
+    return query
 
 
 def render_queries(
@@ -324,10 +337,11 @@ def fetch_google_places(
             for page_number in range(max_pages):
                 if page_token:
                     time.sleep(2)
+                effective_query = _query_for_point(query, point_label)
                 payload = _text_search_page(
                     session,
                     api_key,
-                    query=query,
+                    query=effective_query,
                     lat=point_lat,
                     lng=point_lng,
                     radius_m=radius_m,
@@ -343,7 +357,7 @@ def fetch_google_places(
                     place_id = result.get("place_id", "")
                     company = _company_from_result(
                         result,
-                        query,
+                        effective_query,
                         None,
                         city=city,
                         region=region,

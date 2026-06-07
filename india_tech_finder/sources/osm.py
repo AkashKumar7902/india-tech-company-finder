@@ -131,7 +131,7 @@ def fetch_osm(
         response = requests.post(
             overpass_url,
             data={"data": query},
-            headers={"User-Agent": "india-tech-company-finder/0.3"},
+            headers={"User-Agent": "india-tech-company-finder/0.4"},
             timeout=timeout + 10,
         )
         if response.status_code != 429:

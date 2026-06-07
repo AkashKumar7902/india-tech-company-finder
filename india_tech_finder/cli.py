@@ -23,6 +23,7 @@ from .scoring import score_company
 from .sources.csv_seed import fetch_csv_seed
 from .sources.google_places import DEFAULT_QUERY_TEMPLATES, fetch_google_places, render_queries
 from .sources.osm import OVERPASS_URL, fetch_osm
+from .zones import TechZone, load_tech_zones, tech_zone_points_for_region, zones_by_region
 
 T = TypeVar("T")
 
@@ -142,22 +143,51 @@ def select_batch(items: list[T], *, batch_size: Optional[int], batch_index: int)
     return items[start:end], f"{normalized_index + 1}/{batch_count}"
 
 
-def build_search_points(region: Region, args: argparse.Namespace) -> tuple[list[SearchPoint], int]:
+def _dedupe_points(points: Iterable[SearchPoint]) -> list[SearchPoint]:
+    output: list[SearchPoint] = []
+    seen = set()
+    for lat, lng, label in points:
+        key = (round(lat, 5), round(lng, 5), label)
+        if key not in seen:
+            seen.add(key)
+            output.append((lat, lng, label))
+    return output
+
+
+def build_search_points(
+    region: Region,
+    args: argparse.Namespace,
+    grouped_zones: dict[str, list[TechZone]],
+) -> tuple[list[SearchPoint], int]:
     if args.granularity == "city":
         return [(region.lat, region.lng, "center")], region.radius_m
-    radius_m = args.grid_radius_m or args.grid_size_m
-    return grid_points_for_region(region, spacing_m=args.grid_size_m), radius_m
+
+    zone_points = tech_zone_points_for_region(region, grouped_zones)
+    grid_points = grid_points_for_region(region, spacing_m=args.grid_size_m)
+
+    if args.granularity == "zones":
+        # Fallback to the city center if a custom region has no curated zones.
+        return (zone_points or [(region.lat, region.lng, "center")]), args.zone_radius_m
+
+    grid_radius_m = args.grid_radius_m or args.grid_size_m
+    if args.granularity == "hybrid":
+        # Priority order matters for rotating batches: curated zones are scanned
+        # before generic grid points, but the grid still covers non-famous areas.
+        return _dedupe_points(zone_points + grid_points), max(args.zone_radius_m, grid_radius_m)
+
+    return grid_points, grid_radius_m
 
 
 def select_google_point_batches(
     regions: list[Region],
     args: argparse.Namespace,
     *,
+    grouped_zones: dict[str, list[TechZone]],
     point_batch_index: int,
 ) -> tuple[dict[str, list[SearchPoint]], int, str]:
     all_items: list[tuple[str, SearchPoint]] = []
     for region in regions:
-        points, _ = build_search_points(region, args)
+        points, _ = build_search_points(region, args, grouped_zones)
         for point in points:
             all_items.append((region.id, point))
 
@@ -215,6 +245,10 @@ def cmd_find(args: argparse.Namespace) -> int:
             all_companies.extend(existing)
             source_counts["existing_results"] = len(existing)
 
+    query_templates = load_query_templates(args)
+    tech_zones = load_tech_zones(args.tech_zones_file)
+    grouped_zones = zones_by_region(tech_zones)
+
     google_api_key = None
     google_points_by_region: dict[str, list[SearchPoint]] = {}
     total_google_points = 0
@@ -238,10 +272,9 @@ def cmd_find(args: argparse.Namespace) -> int:
             google_points_by_region, total_google_points, google_point_batch_label = select_google_point_batches(
                 regions,
                 args,
+                grouped_zones=grouped_zones,
                 point_batch_index=point_batch_index,
             )
-
-    query_templates = load_query_templates(args)
 
     print(f"Selected {len(regions)}/{len(all_regions)} region(s), region batch: {region_batch_label}")
     print(f"Regions: {', '.join(region.label for region in regions)}")
@@ -280,7 +313,7 @@ def cmd_find(args: argparse.Namespace) -> int:
             if not search_points:
                 print(f"Skipping Google Places ({region.label}): no points in this batch")
                 continue
-            _, radius_m = build_search_points(region, args)
+            _, radius_m = build_search_points(region, args, grouped_zones)
             queries = render_queries(
                 query_templates,
                 city=region.query,
@@ -379,7 +412,9 @@ def build_parser() -> argparse.ArgumentParser:
     find.add_argument("--lng", type=float, help="custom search center longitude")
     find.add_argument("--radius-m", type=int, help="override city-mode Google radius in metres")
     find.add_argument("--bbox", type=parse_bbox, help="custom OSM bbox as south,west,north,east")
-    find.add_argument("--granularity", choices=["city", "grid"], default="grid", help="Google search mode")
+    find.add_argument("--granularity", choices=["city", "zones", "grid", "hybrid"], default="hybrid", help="Google search mode")
+    find.add_argument("--tech-zones-file", help="custom curated tech zones JSON file")
+    find.add_argument("--zone-radius-m", type=int, default=4000, help="Google radius for curated tech-zone points")
     find.add_argument("--grid-size-m", type=int, default=5000, help="grid spacing for granular Google search")
     find.add_argument("--grid-radius-m", type=int, help="Google radius per grid point; default equals --grid-size-m")
     find.add_argument("--batch-index", type=int, default=0, help="rotating batch index; any integer is accepted")
