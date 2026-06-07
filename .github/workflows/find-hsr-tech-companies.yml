@@ -1,0 +1,97 @@
+name: Find HSR tech companies
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs daily at 03:30 UTC. GitHub Actions cron uses UTC.
+    - cron: "30 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  find-companies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      # Optional repo secret. If unset, the CLI still runs with OpenStreetMap only.
+      GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+      # Optional repo variables for customization.
+      HSR_SOURCES: ${{ vars.HSR_SOURCES }}
+      HSR_MIN_SCORE: ${{ vars.HSR_MIN_SCORE }}
+      HSR_MAX_PAGES: ${{ vars.HSR_MAX_PAGES }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Find companies
+        run: |
+          set -euo pipefail
+          SOURCES="${HSR_SOURCES:-osm,google}"
+          MIN_SCORE="${HSR_MIN_SCORE:-20}"
+          MAX_PAGES="${HSR_MAX_PAGES:-3}"
+
+          python -m hsr_tech_finder.cli find \
+            --sources "$SOURCES" \
+            --min-score "$MIN_SCORE" \
+            --max-pages "$MAX_PAGES" \
+            --out-csv results/hsr_tech_companies.csv \
+            --out-json results/hsr_tech_companies.json
+
+          rows=$(( $(wc -l < results/hsr_tech_companies.csv) - 1 ))
+          if [ "$rows" -le 0 ]; then
+            echo "No rows exported; refusing to publish an empty result set."
+            exit 1
+          fi
+
+      - name: Add run summary
+        if: always()
+        run: |
+          {
+            echo "## HSR Tech Company Finder"
+            echo
+            if [ -f results/hsr_tech_companies.csv ]; then
+              count=$(( $(wc -l < results/hsr_tech_companies.csv) - 1 ))
+              echo "Rows exported: **$count**"
+              echo
+              echo "Download the CSV/JSON from the workflow artifact."
+            else
+              echo "No results file was created. Check logs."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload results artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hsr-tech-companies-${{ github.run_number }}
+          path: |
+            results/hsr_tech_companies.csv
+            results/hsr_tech_companies.json
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Commit updated results
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f results/hsr_tech_companies.csv results/hsr_tech_companies.json
+          if git diff --cached --quiet; then
+            echo "No result changes to commit."
+          else
+            git commit -m "Update HSR tech company results [skip ci]"
+            git push
+          fi

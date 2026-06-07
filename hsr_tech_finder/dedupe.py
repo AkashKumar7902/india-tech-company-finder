@@ -1,0 +1,122 @@
+from __future__ import annotations
+
+import re
+from difflib import SequenceMatcher
+from urllib.parse import urlparse
+
+from .geo import distance_m
+from .models import Company
+
+
+LEGAL_SUFFIX_RE = re.compile(
+    r"\b(private limited|pvt\.?\s*ltd\.?|limited|ltd\.?|llp|inc\.?|corp\.?|corporation|opc)\b",
+    re.IGNORECASE,
+)
+
+
+def normalize_name(name: str) -> str:
+    value = name.lower().replace("&", " and ")
+    value = LEGAL_SUFFIX_RE.sub(" ", value)
+    value = re.sub(r"[^a-z0-9]+", " ", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def normalize_website(url: str) -> str:
+    if not url:
+        return ""
+    parsed = urlparse(url if "://" in url else f"https://{url}")
+    host = (parsed.netloc or parsed.path).lower()
+    if host.startswith("www."):
+        host = host[4:]
+    return host.rstrip("/")
+
+
+def _similarity(a: str, b: str) -> float:
+    if not a or not b:
+        return 0.0
+    return SequenceMatcher(None, a, b).ratio()
+
+
+def _same_source_id(a: Company, b: Company) -> bool:
+    for source, source_id in a.source_ids.items():
+        if source_id and b.source_ids.get(source) == source_id:
+            return True
+    return False
+
+
+def _is_duplicate(a: Company, b: Company) -> bool:
+    if _same_source_id(a, b):
+        return True
+
+    a_web = normalize_website(a.website)
+    b_web = normalize_website(b.website)
+    if a_web and b_web and a_web == b_web:
+        return True
+
+    a_name = normalize_name(a.name)
+    b_name = normalize_name(b.name)
+    sim = _similarity(a_name, b_name)
+    dist = distance_m(a.lat, a.lng, b.lat, b.lng)
+
+    if a_name and b_name and a_name == b_name:
+        return dist is None or dist <= 800
+    if sim >= 0.95:
+        return dist is None or dist <= 800
+    if sim >= 0.88 and dist is not None and dist <= 250:
+        return True
+    return False
+
+
+def _union(left, right):
+    seen = set()
+    output = []
+    for value in list(left or []) + list(right or []):
+        if value and value not in seen:
+            seen.add(value)
+            output.append(value)
+    return output
+
+
+def merge_company(base: Company, incoming: Company) -> Company:
+    # Prefer the richer display name/address, but keep coordinates already found.
+    if len(incoming.name or "") > len(base.name or ""):
+        base.name = incoming.name
+    if not base.address or len(incoming.address or "") > len(base.address or ""):
+        base.address = incoming.address
+    if base.lat is None and incoming.lat is not None:
+        base.lat = incoming.lat
+    if base.lng is None and incoming.lng is not None:
+        base.lng = incoming.lng
+    if not base.website and incoming.website:
+        base.website = incoming.website
+    if not base.phone and incoming.phone:
+        base.phone = incoming.phone
+
+    base.categories = _union(base.categories, incoming.categories)
+    base.sources = _union(base.sources, incoming.sources)
+    base.source_ids.update({k: v for k, v in incoming.source_ids.items() if v})
+
+    # Merge selected raw metadata without storing huge duplicate API payloads.
+    base.raw["google_queries"] = _union(
+        base.raw.get("google_queries", []), incoming.raw.get("google_queries", [])
+    )
+    base.raw["google_types"] = _union(
+        base.raw.get("google_types", []), incoming.raw.get("google_types", [])
+    )
+    osm_tags = dict(base.raw.get("osm_tags", {}) or {})
+    osm_tags.update(incoming.raw.get("osm_tags", {}) or {})
+    if osm_tags:
+        base.raw["osm_tags"] = osm_tags
+    return base
+
+
+def dedupe_companies(companies: list[Company]) -> list[Company]:
+    merged: list[Company] = []
+    for company in companies:
+        for existing in merged:
+            if _is_duplicate(existing, company):
+                merge_company(existing, company)
+                break
+        else:
+            merged.append(company)
+    return merged

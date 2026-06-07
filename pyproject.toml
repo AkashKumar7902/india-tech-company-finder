@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hsr-tech-company-finder"
+version = "0.1.0"
+description = "Collect tech-company candidates around HSR Layout, Bengaluru from public APIs."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["requests>=2.31.0"]
+
+[project.scripts]
+hsr-tech-finder = "hsr_tech_finder.cli:main"
