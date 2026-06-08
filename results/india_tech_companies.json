@@ -617,7 +617,10 @@
         "start_date": "2021-08-19",
         "website": "https://vyomnet.tech",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -2347,7 +2350,10 @@
         "opening_hours": "24/7",
         "phone": "+91- 9818089933",
         "website": "https://www.nebulainfotech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -4030,7 +4036,10 @@
         "image": "https://solarmantech.in/assets/img/solarman-logo.png",
         "name": "Solarman Technology Project Pvt Ltd",
         "website": "https://solarmantech.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -5943,7 +5952,10 @@
         "name": "Tenwave Infotech Pvt ltd",
         "office": "it",
         "smoking": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7952,7 +7964,10 @@
         "operator": "Delhi Metro Rail Corporation",
         "wikidata": "Q5253768",
         "wikipedia": "en:Delhi IT Park"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -8562,7 +8577,10 @@
         "name": "Zest Systems Private Limited",
         "office": "it",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -13342,7 +13360,10 @@
         "check_date": "2024-09-29",
         "name": "Comsilium Software",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -13377,7 +13398,8 @@
         "building": "office"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -13423,7 +13445,10 @@
         "source": "local knowledge;osm notes;gps;survey;aerial imagery",
         "start_date": "2015-06-01",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -13461,7 +13486,10 @@
         "office": "it",
         "phone": "+918181812352",
         "website": "https://weds.guru"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -14547,7 +14575,10 @@
         "name": "ACS Technologies",
         "shop": "computer",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -15656,7 +15687,10 @@
         "office": "it",
         "opening_hours": "Mo-Sa 11:00-20:00",
         "website": "https://www.businzo.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -16277,7 +16311,10 @@
         "wheelchair": "no",
         "wikidata": "Q1394821",
         "wikimedia_commons": "Category:Software Freedom Law Center India"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -19307,7 +19344,10 @@
         "check_date": "2024-10-05",
         "craft": "electronics_repair",
         "name": "Digital Infotech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -25570,7 +25610,10 @@
         "name": "Vodafone",
         "office": "it",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27753,7 +27796,10 @@
         "level": "0",
         "name": "Dell Technologies",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27786,7 +27832,10 @@
         "operator": "Asian Infotech",
         "shop": "computer",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27815,7 +27864,10 @@
       "osm_tags": {
         "name": "KP Infotech",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -30102,7 +30154,10 @@
         "opening_hours:covid19": "restricted",
         "phone": "+91-11-41004951",
         "website": "https://fat-net.org/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -30984,7 +31039,10 @@
         "addr:postcode": "110058",
         "addr:street": "Janakpuri",
         "name": "Belzabar Software Design"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -32752,7 +32810,10 @@
         "office": "company",
         "opening_hours": "Mo-Fr 10:00-18:00",
         "website": "https://www.aquevix.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -32790,7 +32851,8 @@
         "landuse": "construction"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42316,7 +42378,10 @@
         "addr:postcode": "110015",
         "addr:street": "Kirti Nagar",
         "name": "360 Degree Digital Solutions"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42346,7 +42411,10 @@
         "building": "university",
         "building:levels": "1",
         "name": "Department of Textile Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42375,7 +42443,10 @@
       "osm_tags": {
         "building": "yes",
         "name": "Division of Seed Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42409,7 +42480,10 @@
         "name": "Evps technology",
         "opening_hours": "Tu-Su 12:00-18:00",
         "shop": "motorcycle_repair"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42439,7 +42513,10 @@
         "level": "2",
         "name": "Grapes Digital",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42468,7 +42545,10 @@
       "osm_tags": {
         "name": "Jappa Solutions Pvt Ltd",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42494,7 +42574,10 @@
     "raw": {
       "osm_tags": {
         "name": "Parsh Infotech Inc."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42529,7 +42612,10 @@
         "building:levels": "4",
         "name": "Prinknest Technology LLP",
         "smoking": "outside"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42569,7 +42655,10 @@
         "operator": "Petpai Technologies Private Limited",
         "veterinary": "practice",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47012,7 +47101,10 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "phone": "+91- 9582634403",
         "website": "https://digitalparadize.in/blog/best-digital-marketing-courses-in-delhi/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47042,7 +47134,10 @@
         "addr:postcode": "110008",
         "name": "Hashbrown Systems Pvt Ltd",
         "website": "www.hashbrown.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47079,7 +47174,10 @@
         "opening_hours": "Mo-fr 10:00-18:30",
         "phone": "+919871595823",
         "website": "https://www.oddloopagency.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -48954,7 +49052,8 @@
         "website": "https://www.kraftshala.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -48987,7 +49086,10 @@
         "name:en": "PS Law Firm",
         "place": "Bengali Market, New Delhi",
         "website": "https://pslaw.co.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -49022,7 +49124,8 @@
         "image": "https://www.google.com/maps/uv?pb=!1s0x296994891eeac1d5%3A0x9d42d571834d2eaf!5sRank%20Tech%20Digital!15sCgIgARICEAE"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
