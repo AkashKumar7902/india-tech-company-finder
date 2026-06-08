@@ -880,6 +880,46 @@
     }
   },
   {
+    "name": "Ahmedabad Technologies - CCTV",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "Danilimda Cross Road, Ahmedabad, 380028",
+    "lat": 22.9971605,
+    "lng": 72.5784693,
+    "website": "https://ahmedabadcctv.in",
+    "phone": "+91 9484830629",
+    "categories": [
+      "office=it",
+      "description=We're a local company in Ahmedabad that provides affordable CCTV surveillance, maintenance, and access control systems to homes and businesses across Ahmedabad and neighbouring areas. Our experienced CCTV technicians near you will work with you to fully u"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11236499287"
+    },
+    "tech_score": 83.0,
+    "confidence": "high",
+    "notes": "matched: technologies, systems, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:district": "Ahmedabad",
+        "addr:postcode": "380028",
+        "addr:street": "Danilimda Cross Road",
+        "description": "We're a local company in Ahmedabad that provides affordable CCTV surveillance, maintenance, and access control systems to homes and businesses across Ahmedabad and neighbouring areas. Our experienced CCTV technicians near you will work with you to fully u",
+        "email": "shaaz5112@gmail.com",
+        "image": "https://ahmedabadcctv.in/wp-content/uploads/2023/07/cropped-AHMEDABAD__1_-removebg-preview.png",
+        "name": "Ahmedabad Technologies - CCTV",
+        "office": "it",
+        "opening_hours": "Monday: 10:00 AM - 8:30 PM Tuesday: 10:00 AM - 8:30 PM Wednesday: 10:00 AM - 8:30 PM Thursday: 10:00 AM - 8:30 PM Friday: 10:00 AM - 8:30 PM Saturday: 10:00 AM - 8:30 PM Sunday: Closed",
+        "phone": "+91 9484830629",
+        "website": "https://ahmedabadcctv.in"
+      }
+    }
+  },
+  {
     "name": "Accord Software & Systems Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -1242,6 +1282,45 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Tech Decade",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "science city, Ahmedabad, 380060",
+    "lat": 23.0799028,
+    "lng": 72.5016478,
+    "website": "https://www.techdecade.com",
+    "phone": "+91 6354995516",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13146961826"
+    },
+    "tech_score": 75.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:district": "Ahmedabad",
+        "addr:postcode": "380060",
+        "addr:street": "science city",
+        "company": "techdecade",
+        "email": "info@techdecade.com",
+        "name": "Tech Decade",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+91 6354995516",
+        "service": "software",
+        "website": "https://www.techdecade.com"
+      }
     }
   },
   {
@@ -1647,6 +1726,43 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Zenkins Technologies Private Limited",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B 612, The Gateway, Gangotri, to, Sardar Patel Ring Rd, Nikol, Ahmedabad, 380049",
+    "lat": 23.0430456,
+    "lng": 72.6790066,
+    "website": "https://zenkins.com/",
+    "phone": "+91 7069018504",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13576170081"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:district": "Gujarat",
+        "addr:housenumber": "B 612",
+        "addr:postcode": "380049",
+        "addr:street": "The Gateway, Gangotri, to, Sardar Patel Ring Rd, Nikol",
+        "name": "Zenkins Technologies Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-19:00",
+        "phone": "+91 7069018504",
+        "website": "https://zenkins.com/"
+      }
     }
   },
   {
@@ -6449,6 +6565,50 @@
     }
   },
   {
+    "name": "Atlyx",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "1st Florr, RE 11,, Ambli Bopal Road, Ahmedabad, 380058",
+    "lat": 23.0263028,
+    "lng": 72.5028547,
+    "website": "https://theatlyx.com/",
+    "phone": "+919824132089",
+    "categories": [
+      "office=advertising_agency",
+      "description=\"ATLYX is a creative-technology studio built for brands that don’t want to be “seen” — they want to be experienced.\n\nWe design and build immersive brand moments, high-performing digital products, and intelligent marketing systems that turn attention into"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13316001429"
+    },
+    "tech_score": 60.0,
+    "confidence": "high",
+    "notes": "matched: technology, systems, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:country": "IN",
+        "addr:district": "Ahmedabad",
+        "addr:housenumber": "1st Florr, RE 11,",
+        "addr:postcode": "380058",
+        "addr:street": "Ambli Bopal Road",
+        "description": "\"ATLYX is a creative-technology studio built for brands that don’t want to be “seen” — they want to be experienced.\n\nWe design and build immersive brand moments, high-performing digital products, and intelligent marketing systems that turn attention into",
+        "email": "hello@theatlyx.com",
+        "image": "https://theatlyx.com/logo.png",
+        "level": "1",
+        "name": "Atlyx",
+        "office": "advertising_agency",
+        "official_name": "Atlyx Private Limited",
+        "phone": "+919824132089",
+        "website": "https://theatlyx.com/",
+        "wikipedia": "en:Atlyx"
+      }
+    }
+  },
+  {
     "name": "Ignis Technology Solutions Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -7661,6 +7821,41 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Complitech Solutions Pvt. Ltd.",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "303, Sarvopari Mall, Ahmedabad, 380061",
+    "lat": 23.0589766,
+    "lng": 72.537631,
+    "website": "https://complitech.us/",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5611932992"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "303",
+        "addr:postcode": "380061",
+        "addr:street": "Sarvopari Mall",
+        "name": "Complitech Solutions Pvt. Ltd.",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "website": "https://complitech.us/"
+      }
     }
   },
   {
@@ -11473,6 +11668,92 @@
     }
   },
   {
+    "name": "Novus Logics",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "406, Lilamani Corporate Heights, Ramapir no Tekro BRTS Station, Vadaj, Ahmedabad, 380013",
+    "lat": 23.0622048,
+    "lng": 72.5713002,
+    "website": "https://www.novuslogics.com/",
+    "phone": "+919727577587",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5353985489"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:country": "IN",
+        "addr:housenumber": "406, Lilamani Corporate Heights",
+        "addr:postcode": "380013",
+        "addr:street": "Ramapir no Tekro BRTS Station",
+        "addr:suburb": "Vadaj",
+        "ele": "13.5",
+        "email": "sales@novuslogics.com",
+        "level": "4",
+        "name": "Novus Logics",
+        "office": "it",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+919727577587",
+        "website": "https://www.novuslogics.com/",
+        "wheelchair": "yes"
+      }
+    }
+  },
+  {
+    "name": "Thanksweb",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B-503, Arved Transcube Plaza, Radhaswami Road, Ahmedabad, 382480",
+    "lat": 23.068303,
+    "lng": 72.5759447,
+    "website": "https://www.thanksweb.in/",
+    "phone": "9537442430",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9642945518"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "B-503, Arved Transcube Plaza",
+        "addr:postcode": "382480",
+        "addr:street": "Radhaswami Road",
+        "name": "Thanksweb",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "9537442430",
+        "website": "https://www.thanksweb.in/"
+      }
+    }
+  },
+  {
     "name": "ABK Software Services Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -13693,6 +13974,49 @@
         "building": "commercial",
         "name": "Software Solutions - Used laptops Pune"
       }
+    }
+  },
+  {
+    "name": "New LJ Institute of Engineering and Technology",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "Sindhu Bhavan Road, Ahmedabad, 380054",
+    "lat": 23.0378426,
+    "lng": 72.5096246,
+    "website": "https://www.ljku.edu.in/program/engineering-new-lj-11",
+    "phone": "18001210082",
+    "categories": [
+      "office=educational_institution",
+      "description=New L J Institute of Engineering and Technology is a GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch.",
+      "building=college",
+      "description=New LJ Institute of Engineering and Technology is an GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1157956222"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technology, artificial intelligence, machine learning, computer; negative hints: institute, college",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:postcode": "380054",
+        "addr:street": "Sindhu Bhavan Road",
+        "description": "New LJ Institute of Engineering and Technology is an GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch.",
+        "name": "New LJ Institute of Engineering and Technology",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Sa 09:00-15:00",
+        "phone": "18001210082",
+        "website": "https://www.ljku.edu.in/program/engineering-new-lj-11",
+        "building": "college"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -19619,6 +19943,106 @@
         "level": "3",
         "name": "IGDS Technologies Pvt Ltd",
         "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Ashwatthaps",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 23.0710945,
+    "lng": 72.5181958,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9985824370"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "image": "https://ashwatthaps.com/wp-content/uploads/2020/11/ashwattha-softwares.jpg",
+        "name": "Ashwatthaps",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Ganesh Glory 11",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "E208, SG Highway, ahmedabad, 382470",
+    "lat": 23.1136923,
+    "lng": 72.5404916,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1350897973"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "ahmedabad",
+        "addr:country": "IN",
+        "addr:housenumber": "E208",
+        "addr:postcode": "382470",
+        "addr:street": "SG Highway",
+        "name": "ganesh glory 11",
+        "office": "it",
+        "addr:district": "ahmedabad",
+        "building": "commercial",
+        "opening_hours": "24/7"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "York IE APAC PVT LTD",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 23.0245792,
+    "lng": 72.4787052,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13629167852"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "York IE APAC PVT LTD",
+        "office": "it"
       }
     }
   },
@@ -28598,6 +29022,46 @@
     }
   },
   {
+    "name": "Sauber Environmental Solutions Pvt. Ltd.",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "A – 502, Ambli Bopal Road, Ahmedabad, 380058",
+    "lat": 23.0261005,
+    "lng": 72.5030927,
+    "website": "https://www.sauberenv.com/",
+    "phone": "7948003327",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7066497233"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:country": "IN",
+        "addr:housenumber": "A – 502",
+        "addr:postcode": "380058",
+        "addr:street": "Ambli Bopal Road",
+        "email": "Info@sauberenv.com",
+        "level": "5",
+        "name": "Sauber Environmental Solutions Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:30-18:30",
+        "phone": "7948003327",
+        "start_date": "18 August, 2015",
+        "website": "https://www.sauberenv.com/"
+      }
+    }
+  },
+  {
     "name": "Brooks Running",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -31515,6 +31979,44 @@
     }
   },
   {
+    "name": "Red Turtle",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B-21, Science City Road, ahmedabad, 380060",
+    "lat": 23.077373,
+    "lng": 72.5069309,
+    "website": "https://redturtle.in/",
+    "phone": "079 2970 2818",
+    "categories": [
+      "description=Mobile Apps and Web Development Company - Develop apps in iPhone, Android and Website in WordPress, Magento, Laravel, PrestaShop."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:367949860"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: web development",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "ahmedabad",
+        "addr:housenumber": "B-21",
+        "addr:postcode": "380060",
+        "addr:street": "Science City Road",
+        "addr:unit": "Galaxy Signature",
+        "area": "yes",
+        "description": "Mobile Apps and Web Development Company - Develop apps in iPhone, Android and Website in WordPress, Magento, Laravel, PrestaShop.",
+        "email": "redturtleindia@gmail.com",
+        "name": "Red Turtle",
+        "phone": "079 2970 2818",
+        "website": "https://redturtle.in/"
+      }
+    }
+  },
+  {
     "name": "AADINEX Electro Solutions LLP",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -33412,6 +33914,42 @@
     }
   },
   {
+    "name": "SatLeo Labs Pvt. Ltd.",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "Ratnakar Nine Square, A708, Judges Bunglow Road, Ahmedabad, 380015",
+    "lat": 23.0284745,
+    "lng": 72.5301693,
+    "website": "https://www.satleolabs.com",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12281064418"
+    },
+    "tech_score": 30.0,
+    "confidence": "low",
+    "notes": "matched: labs, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:district": "Ahmedabad",
+        "addr:housenumber": "Ratnakar Nine Square",
+        "addr:postcode": "380015",
+        "addr:street": "A708, Judges Bunglow Road",
+        "name": "SatLeo Labs Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "24/7",
+        "website": "https://www.satleolabs.com"
+      }
+    }
+  },
+  {
     "name": "Ferlion Labs LLP",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -33618,6 +34156,77 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "JM Zhongkai Chemical Equipment LLP",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "Plot No. 143, Phase 1, Vatva GIDC, Ahmedabad, 382245",
+    "lat": 22.9612311,
+    "lng": 72.6382711,
+    "website": "",
+    "phone": "+91-79-40327309",
+    "categories": [
+      "description=We are the manufacturer of equipments out of composite materials. We design and manufacture products such as tanks, vessels, heat exchangers, scrubbers, blowers, pipes and fittings, Agitators, Filters. we are known for investment in technology which resu"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10889625664"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "Plot No. 143",
+        "addr:postcode": "382245",
+        "addr:street": "Phase 1, Vatva GIDC",
+        "description": "We are the manufacturer of equipments out of composite materials. We design and manufacture products such as tanks, vessels, heat exchangers, scrubbers, blowers, pipes and fittings, Agitators, Filters. we are known for investment in technology which resu",
+        "email": "info@jmzhongkai.com",
+        "man_made": "works",
+        "name": "JM Zhongkai Chemical Equipment LLP",
+        "operator": "JM Zhongkai Chemical Equipment LLP",
+        "phone": "+91-79-40327309",
+        "product": "tanks;scrubbers;blowers;waste_water_treatment_plants;etp_machineries;stp_machineries;composite;frp"
+      }
+    }
+  },
+  {
+    "name": "TM Systems Pvt. Ltd.",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "804 Aditya Building, Krupa Shankar Joshi Marg, Ahmedabad, 380006",
+    "lat": 23.0310817,
+    "lng": 72.5624122,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3387147612"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "804 Aditya Building",
+        "addr:postcode": "380006",
+        "addr:street": "Krupa Shankar Joshi Marg",
+        "name": "TM Systems Pvt. Ltd.",
+        "office": "company"
+      }
     }
   },
   {
@@ -34906,6 +35515,207 @@
         "opening_hours": "9:00-18:30",
         "operator": "Jaaga",
         "website": "https://www.jaaga.in/"
+      }
+    }
+  },
+  {
+    "name": "ARE Infotech",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 23.0397667,
+    "lng": 72.5635693,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:487512871"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "building": "commercial",
+        "building:colour": "lightyellow",
+        "building:levels": "5",
+        "building:material": "plaster",
+        "name": "ARE Infotech",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
+      }
+    }
+  },
+  {
+    "name": "Creative Encode Technologies - Dev Aurum",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "C/415, Dev Aurum Commercial, Near Anand Nagar Cross Roads, Ahmedabad, 380015",
+    "lat": 23.0118342,
+    "lng": 72.514776,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:367789288"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "C/415",
+        "addr:postcode": "380015",
+        "addr:street": "Dev Aurum Commercial, Near Anand Nagar Cross Roads",
+        "building": "yes",
+        "name": "Creative Encode Technologies - Dev Aurum"
+      }
+    }
+  },
+  {
+    "name": "Faculty of Technology, CEPT University",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "ahmedabad, 380009",
+    "lat": 23.0368666,
+    "lng": 72.5499986,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:317649575"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "ahmedabad",
+        "addr:postcode": "380009",
+        "building": "university",
+        "building:colour": "red",
+        "building:levels": "2",
+        "building:material": "brick",
+        "name": "Faculty of Technology, CEPT University",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
+      }
+    }
+  },
+  {
+    "name": "Infineon Infotech",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 23.0409881,
+    "lng": 72.5587625,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:487512956"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "building": "commercial",
+        "building:colour": "beige",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "name": "Infineon Infotech",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
+      }
+    }
+  },
+  {
+    "name": "Moweb Technologies",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "Swastik Char Rashta, Swastik Society Road, Ahmedabad, 380009",
+    "lat": 23.0372488,
+    "lng": 72.5609092,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1390043843"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:district": "Ahmedabad",
+        "addr:housenumber": "Swastik Char Rashta",
+        "addr:postcode": "380009",
+        "addr:street": "Swastik Society Road",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Moweb Technologies"
+      }
+    }
+  },
+  {
+    "name": "parshwa technologies",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "2nd Floor, Aditya Complex, Opp kasturi Dining Hall, Paldi Cross Road, Paldi, ahmedabad, 380007",
+    "lat": 23.0139722,
+    "lng": 72.5650882,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4284066679"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "ahmedabad",
+        "addr:postcode": "380007",
+        "addr:street": "2nd Floor, Aditya Complex, Opp kasturi Dining Hall, Paldi Cross Road, Paldi",
+        "name": "parshwa technologies"
       }
     }
   },
@@ -45861,6 +46671,44 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "SEO Giants",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B-401, Arham Purex SEO Giants Amrapali Lakeview, Vastrapur, Ahmedabad, 380054",
+    "lat": 23.0397947,
+    "lng": 72.529108,
+    "website": "https://www.seogiants.in/",
+    "phone": "09574474443",
+    "categories": [
+      "office=marketing",
+      "description=Take your business to the next level. Get expert SEO and Digital Marketing services to grow your business. Get visible, Get Ahead - Free Consultation!"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12526016934"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "B-401",
+        "addr:postcode": "380054",
+        "addr:street": "Arham Purex SEO Giants Amrapali Lakeview, Vastrapur",
+        "description": "Take your business to the next level. Get expert SEO and Digital Marketing services to grow your business. Get visible, Get Ahead - Free Consultation!",
+        "name": "SEO Giants",
+        "office": "marketing",
+        "opening_hours": "Mon - Fri: 9am - 7pm Sat - Sun: Closed",
+        "phone": "09574474443",
+        "website": "https://www.seogiants.in/"
+      }
     }
   },
   {
