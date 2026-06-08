@@ -150,7 +150,8 @@
         "website": "https://www.prismberry.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -1638,7 +1639,8 @@
         "website": "https://trackobit.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -2382,7 +2384,10 @@
         "opening_hours": "Mo-Fr 10:00-19:00",
         "phone": "+911204120113",
         "website": "https://www.shilshatech.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -2423,7 +2428,10 @@
         "phone": "+91 78387 23175",
         "short_name": "VirtuBox",
         "website": "https://www.virtubox.io"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -3228,7 +3236,8 @@
         "website": "https://www.thedreamsteps.com"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -3834,7 +3843,8 @@
         "website": "https://www.esuccess.ai/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -4061,7 +4071,8 @@
         "repair": "computer"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -5973,7 +5984,8 @@
         "website": "https://www.appetenza.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -6006,7 +6018,8 @@
         "office": "it"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7313,7 +7326,10 @@
         "office": "it",
         "phone": "+919958654488",
         "website": "https://brey.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7348,7 +7364,10 @@
         "building": "yes",
         "description": "Software development company",
         "name": "Halo Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7613,7 +7632,8 @@
         "source": "local knowledge;streetlevel imagery"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7965,7 +7985,10 @@
         "opening_hours": "Mo-Fr 00:00-24:00; PH closed",
         "website": "https://iteconic.com/",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -8577,7 +8600,10 @@
         "office": "it",
         "opening_hours": "Mo-Fr 09:00-18:00; PH closed",
         "wheelchair": "designated"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -9558,7 +9584,10 @@
         "name": "Credent Solutions & Services Private Limited\nक्रेडेंट सॉल्यूशंस & सर्विसेज प्राइवेट लिमिटेड",
         "office": "it",
         "opening_hours": "Mo-Sa 09:30-16:30; PH closed"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -11323,7 +11352,10 @@
         "opening_hours": "Mo-Sa 09:00-18:00",
         "phone": "+91 8047299799",
         "website": "https://comhard.co.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -11361,7 +11393,10 @@
         "smoking": "no",
         "website": "http://www.spiderswatch.com",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -11398,7 +11433,10 @@
         "phone": "0120-4100999",
         "smoking": "no",
         "website": "https://www.terasoltechnologies.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -13461,7 +13499,8 @@
         "building": "industrial"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -13493,7 +13532,10 @@
         "addr:postcode": "201307",
         "name": "Interwork Software Solutions Pvt. Ltd.",
         "office": "software"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -14545,7 +14587,8 @@
         "website": "https://intactweb.in"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -15654,7 +15697,10 @@
         "office": "it",
         "opening_hours": "Mo-Fr 10:00-18:00",
         "website": "https://www.stannik.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -19292,7 +19338,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -19325,7 +19372,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -25564,7 +25612,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -25596,7 +25645,10 @@
         "office": "it",
         "opening_hours": "Mo-Sa 09:30-18:30; PH closed",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -25626,7 +25678,10 @@
         "description": "Cyfuture Specializes in Business Process Outsourcing (BPO) Services, Setting up Data Centers, Provides Enterprise Cloud Storage and Cloud Hosting Solutions, Chatbot Service.",
         "name": "Cyfuture India Pvt Ltd",
         "website": "https://cyfuture.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -25655,7 +25710,10 @@
       "osm_tags": {
         "name": "Globus IT Park",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -25687,7 +25745,10 @@
         "addr:postcode": "201301",
         "name": "PureSoftware",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27786,7 +27847,8 @@
         "shop": "computer"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27820,7 +27882,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27854,7 +27917,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27900,7 +27964,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27937,7 +28002,8 @@
         "addr:postcode": "110046"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -27970,7 +28036,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -30072,7 +30139,10 @@
         "office": "company",
         "phone": "+91 120 4293692",
         "website": "https://www.brandconn.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -30109,7 +30179,10 @@
         "opening_hours": "Mo-Fr 09:30-18:30",
         "phone": "9354915060",
         "website": "https://garudauav.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -30145,7 +30218,8 @@
         "wikipedia": "en:User:Pointersoft Technologies Pvt Ltd"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -30947,7 +31021,10 @@
         "operator": "Software Devloper",
         "payment:none": "yes",
         "shop": "supermarket"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -30986,7 +31063,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -31018,7 +31096,10 @@
         "name": "JIIT Plant Nursery",
         "operator": "Jaypee Institute of Information Technology",
         "plant": "flowers"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -31053,7 +31134,10 @@
         "name": "Open Air Theater",
         "name_1": "OAT",
         "operator": "JIIT"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -31088,7 +31172,10 @@
         "building:levels": "1",
         "name": "Retain user",
         "operator": "software"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -32746,7 +32833,8 @@
         "shop": "computer"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -32780,7 +32868,10 @@
         "building": "commercial",
         "name": "Neuweg Technologies",
         "website": "https://neuweg.co.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -33161,7 +33252,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -33402,7 +33494,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -34620,7 +34713,8 @@
         "phone": "9850607878"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42510,7 +42604,8 @@
         "name": "Asfera Technologies"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42541,7 +42636,8 @@
         "office": "yes"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42576,7 +42672,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42614,7 +42711,8 @@
         "wheelchair": "limited"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42649,7 +42747,8 @@
         "name": "HCL Technologies"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42688,7 +42787,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42717,7 +42817,8 @@
         "name": "ND Infotech Road"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42748,7 +42849,8 @@
         "name": "NIIT Technologies"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42776,7 +42878,8 @@
         "name": "Noida Technology park"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42815,7 +42918,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42854,7 +42958,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42890,7 +42995,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42930,7 +43036,8 @@
         "office": "company"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -42965,7 +43072,8 @@
         "residential": "apartments"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -43005,7 +43113,8 @@
         "name": "Zodiac Computer Systems"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -45317,7 +45426,8 @@
         "shop": "computer"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -45353,7 +45463,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -45387,7 +45498,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47023,7 +47135,8 @@
         "wheelchair": "no"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47063,7 +47176,8 @@
         "website": "https://maps.app.goo.gl/bJV9hfy456Qotazj8"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47113,7 +47227,10 @@
         "toilets": "yes",
         "website": "https://www.gauratravelsolutions.com/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47151,7 +47268,10 @@
         "phone": "095402 03999",
         "source": "google_business_profile",
         "website": "https://www.facebook.com/globegreen024"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47193,7 +47313,8 @@
         "opening_hours": "Mo-Sa 10:00-13:30, 14:00-18:00"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47230,7 +47351,10 @@
         "office": "private",
         "opening_hours": "Mo-Sa 09:00-18:00",
         "website": "https://www.kent.co.in/?utm_source=Google-Local-Business&utm_medium=Local-Business&utm_term=Water-Purifier&utm_content=1&utm_campaign=Local-Business"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47271,7 +47395,8 @@
         "website": "https://khuranadcs.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47305,7 +47430,8 @@
         "website": "http://marketingspirits.com"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47337,7 +47463,8 @@
         "wheelchair": "yes"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47373,7 +47500,8 @@
         "website": "https://zaitoonagency.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -47816,7 +47944,10 @@
       "osm_tags": {
         "landuse": "residential",
         "name": "Rishabh Cloud 9"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -48926,7 +49057,10 @@
         "building:levels": "2",
         "name": "AgreeYa Solutions Pvt. Ltd.",
         "website": "https://agreeya.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -48967,7 +49101,8 @@
         "website": "https://www.callyourdhobi.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -49003,7 +49138,8 @@
         "website": "https://www.figmanetsolutions.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -49040,7 +49176,10 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "website": "https://www.mifysolutions.com/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -49080,7 +49219,8 @@
         "website": "https://www.digitalaka.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -49110,7 +49250,10 @@
         "description": "Website Developer, Digital Marketer, Web Designer",
         "name": "Viswasi Digital Private Limited",
         "website": "https://www.viswasidigital.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
