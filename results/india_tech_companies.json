@@ -571,6 +571,42 @@
     }
   },
   {
+    "name": "Samaj Infotech",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "236, 2nd Floor, Radhe Square, Nr. Reliance Cross roads, Kudasan, Urjanagar 1, Gandhinagar, 382421",
+    "lat": 23.1846955,
+    "lng": 72.6297076,
+    "website": "https://www.samajinfotech.com",
+    "phone": "+919824303899",
+    "categories": [
+      "description=Website | Game | Animation | Software & App Development Company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5865313367"
+    },
+    "tech_score": 88.0,
+    "confidence": "high",
+    "notes": "matched: software, infotech, app development",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gandhinagar",
+        "addr:housenumber": "236, 2nd Floor, Radhe Square",
+        "addr:postcode": "382421",
+        "addr:street": "Nr. Reliance Cross roads, Kudasan, Urjanagar 1",
+        "description": "Website | Game | Animation | Software & App Development Company",
+        "email": "info@samajinfotech.com",
+        "name": "Samaj Infotech",
+        "phone": "+919824303899",
+        "website": "https://www.samajinfotech.com"
+      }
+    }
+  },
+  {
     "name": "Vyomnet Technologies (OPC) Private Limited",
     "city": "New Delhi",
     "region": "Delhi",
@@ -8673,6 +8709,42 @@
     }
   },
   {
+    "name": "Crucial Software and IT Park Pvt Ltd",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "D 513, VTC, Kudasan, 382421",
+    "lat": 23.1820609,
+    "lng": 72.6279853,
+    "website": "https://csitpark.com",
+    "phone": "+917948922322",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9221693769"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: software, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kudasan",
+        "addr:housenumber": "D 513",
+        "addr:postcode": "382421",
+        "addr:street": "VTC",
+        "name": "Crucial Software and IT Park Pvt Ltd",
+        "office": "company",
+        "opening_hours": "10:00-19:00",
+        "phone": "+917948922322",
+        "website": "https://csitpark.com"
+      }
+    }
+  },
+  {
     "name": "EPIQ Systems",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -12993,6 +13065,76 @@
         "office": "it",
         "phone": "+919025049439",
         "website": "https://www.theinfinityhub.com/"
+      }
+    }
+  },
+  {
+    "name": "Campus On Click",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "704, Abhishek Complex, Sector 11, Gandhinagar, 382011",
+    "lat": 23.2168333,
+    "lng": 72.6490612,
+    "website": "https://campusonclick.co.in",
+    "phone": "+918866744499",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10790125020"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gandhinagar",
+        "addr:housenumber": "704",
+        "addr:postcode": "382011",
+        "addr:street": "Abhishek Complex, Sector 11",
+        "name": "Campus On Click",
+        "office": "it",
+        "phone": "+918866744499",
+        "website": "https://campusonclick.co.in"
+      }
+    }
+  },
+  {
+    "name": "Unity Infoway",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "704, CH Road, Gandhinagar, 382011",
+    "lat": 23.2168436,
+    "lng": 72.649086,
+    "website": "https://www.unityinfoway.com",
+    "phone": "+919157423333",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10697091359"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gandhinagar",
+        "addr:housenumber": "704",
+        "addr:postcode": "382011",
+        "addr:street": "CH Road",
+        "name": "Unity Infoway",
+        "office": "it",
+        "phone": "+919157423333",
+        "website": "https://www.unityinfoway.com"
       }
     }
   },
@@ -23206,6 +23348,115 @@
       "osm_tags": {
         "name": "LTI Mind Tree",
         "office": "it"
+      }
+    }
+  },
+  {
+    "name": "INFOSENSE HOUSE",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "135, Raysan, 382421",
+    "lat": 23.1596587,
+    "lng": 72.6492692,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1331910729"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Raysan",
+        "addr:housenumber": "135",
+        "addr:postcode": "382421",
+        "building": "commercial",
+        "building:colour": "lightgrey",
+        "building:levels": "5",
+        "building:material": "glass",
+        "name": "INFOSENSE HOUSE",
+        "office": "it",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
+      }
+    }
+  },
+  {
+    "name": "Odoo / OpenERP / TinyERP pvt ltd",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "16,17",
+    "lat": 23.1934227,
+    "lng": 72.6376884,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3357264062"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "303",
+        "ele": "3",
+        "name": "Odoo / OpenERP / TinyERP pvt ltd",
+        "office": "it"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "Tower 2",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 23.1928817,
+    "lng": 72.6378161,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:310366759"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "commercial",
+        "building:colour": "white;beige",
+        "building:levels": "6",
+        "building:material": "metal_plates;glass",
+        "name": "Tower 2",
+        "office": "it",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
       }
     }
   },
@@ -39427,6 +39678,74 @@
     }
   },
   {
+    "name": "Codoffer Infotech",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "204 D, Pandit Dindayal Upadhyay Marg, Gandhinagar, 382421",
+    "lat": 23.1819924,
+    "lng": 72.6280907,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1336760672"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gandhinagar",
+        "addr:district": "gujarat",
+        "addr:housenumber": "204 D",
+        "addr:postcode": "382421",
+        "addr:street": "Pandit Dindayal Upadhyay Marg",
+        "building": "commercial",
+        "building:colour": "beige",
+        "building:levels": "7",
+        "building:material": "plaster",
+        "name": "Codoffer Infotech",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
+      }
+    }
+  },
+  {
+    "name": "Department of Science Technology",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 23.2211724,
+    "lng": 72.6575896,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7861004158"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "name": "Department of Science Technology",
+        "office": "yes"
+      }
+    }
+  },
+  {
     "name": "Electronic Hardware and Technology Park",
     "city": "Gurugram",
     "region": "Haryana",
@@ -48893,6 +49212,35 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "SKAV Silver Cloud"
+      }
+    }
+  },
+  {
+    "name": "Centre of Excellence in Cyber Security",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 23.2098923,
+    "lng": 72.6620213,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1486398663"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: cyber security",
+    "raw": {
+      "osm_tags": {
+        "building": "university",
+        "name": "Centre of Excellence in Cyber Security"
       }
     }
   },
