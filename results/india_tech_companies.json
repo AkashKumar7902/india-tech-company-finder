@@ -2212,7 +2212,10 @@
         "smoking": "no",
         "website": "https://byval.in",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -2249,7 +2252,10 @@
         "office": "it",
         "phone": "+91 422 647 9994",
         "website": "https://www.impigertech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -5418,7 +5424,10 @@
       "osm_tags": {
         "name": "Thoughtworks\nTechnologies (India) Private Limited",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7044,7 +7053,10 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "+91994467585",
         "website": "https://www.kasadara.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7596,7 +7608,10 @@
         "opening_hours": "Mo-Sa 09:00-18:00",
         "phone": "+918300087703",
         "website": "https://sproutup.co.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -7635,7 +7650,10 @@
         "opening_hours": "Mo-Fr 09:30-18:00",
         "source": "microsoft/BuildingFootprints",
         "website": "http://www.iloads.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -8479,7 +8497,10 @@
         "opening_hours": "Mo-Sa 09:00-13:00,14:00-18:00",
         "website": "https://shriasys.com",
         "wheelchair": "limited"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -9628,7 +9649,10 @@
         "name": "NEXT Techno Enterprises Pvt. Ltd",
         "office": "company",
         "opening_hours": "Mo-Sa 08:00-18:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -9962,7 +9986,10 @@
         "name": "KT Telematic Solutions Pvt Ltd",
         "office": "it",
         "opening_hours": "24/7"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -11847,7 +11874,10 @@
         "phone": "04224212672",
         "website": "https://www.rvslandsurveyors.com/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -13565,7 +13595,10 @@
         "office": "it",
         "phone": "+919025049439",
         "website": "https://www.theinfinityhub.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -17473,7 +17506,10 @@
         "name": "Desmos Lab",
         "phone": "+91 9944415541",
         "website": "https://www.desmoslab.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -19650,7 +19686,10 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "Cognizant Technology Solutions Pvt. Ltd."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -19681,7 +19720,10 @@
         "name": "Eazibiz Technologies",
         "source": "Spearhead Business Solutions",
         "source:name": "Vitalmed Solutions"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -19714,7 +19756,10 @@
         "addr:street": "Tiruchi Road",
         "name": "Pricol Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -24297,7 +24342,10 @@
         "addr:street": "Vilankuruchi Road",
         "name": "Bosch",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -24326,7 +24374,10 @@
       "osm_tags": {
         "name": "LTI Mind Tree",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -31385,7 +31436,10 @@
         "phone": "+91 422 266 4100",
         "source": "microsoft/BuildingFootprints",
         "website": "https://www.lakshmitech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -31424,7 +31478,10 @@
         "short_name": "LMW Limited",
         "source": "local knowledge",
         "website": "https://www.lmwatc.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -31463,7 +31520,10 @@
         "opening_hours": "Mo-Sa 09:00-18:00",
         "phone": "8248332048",
         "website": "https://searchpin.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -40968,7 +41028,10 @@
         "second_hand": "no",
         "shop": "motorcycle",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -40998,7 +41061,10 @@
         "level": "0",
         "name": "Atom8 IT solutions P Ltd",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -41029,7 +41095,10 @@
         "addr:street": "Centinery Building path",
         "building": "university",
         "name": "Department of Nanoscience and Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -41062,7 +41131,10 @@
         "building": "yes",
         "name": "INFENCE Technologies",
         "source": "GPS"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -41091,7 +41163,10 @@
       "osm_tags": {
         "name": "Luminous Power Technologies Pvt Ltd",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -41118,7 +41193,10 @@
       "osm_tags": {
         "name": "PSG GRD Museum of Science & Technology",
         "tourism": "museum"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -41148,7 +41226,10 @@
         "addr:postcode": "641025",
         "addr:street": "Aditya Avenue Extension, Saravana Nagar North",
         "name": "Skybean Technologies (P) Ltd"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -41185,7 +41266,10 @@
         "building:levels": "10",
         "description": "SVB Tech Park in Kalapatti houses Infosys from 1st to 6th floors, Infosys BPM on the 6th, Mahindra and Mahindra Ltd on the 7th, and Deloitte on the 8th and 9th floors, symbolizing the fusion of technology and corporate brilliance.",
         "name": "SVB Tech Park"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -48731,7 +48815,10 @@
         "opening_hours": "Mo-Sa 09:30-17:30",
         "phone": "08848752625;08848712625;08590752625;04223570334;04223510842",
         "website": "https://sanradinfotech.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -49523,7 +49610,10 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "phone": "8807888188",
         "website": "https://www.lookindigital.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -49559,7 +49649,10 @@
         "note": "Web and Mobile development company",
         "phone": "+919944249039",
         "website": "https://www.macronimous.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -51816,7 +51909,10 @@
         "name": "ScienTrik Engineering Solutions",
         "source": "microsoft/BuildingFootprints",
         "website": "www.scientrik.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
