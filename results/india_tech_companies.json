@@ -114,6 +114,80 @@
     }
   },
   {
+    "name": "A R Infotech",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "13/516,, Kaveri Path, Mansarover Sector 1, Jaipur, 302020",
+    "lat": 26.8755265,
+    "lng": 75.7562018,
+    "website": "https://www.arinfotech.co.in/",
+    "phone": "+91-9829321136",
+    "categories": [
+      "building=office",
+      "description=A R Infotech has been in the market for 15 years, established in 2006, providing fully satisfied information technology solutions and digital marketing services to all customers. We are one of the best and reputed website development and digital marketing"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:476530739"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology, infotech, solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "13/516,",
+        "addr:postcode": "302020",
+        "addr:street": "Kaveri Path, Mansarover Sector 1",
+        "building": "office",
+        "building:levels": "1",
+        "description": "A R Infotech has been in the market for 15 years, established in 2006, providing fully satisfied information technology solutions and digital marketing services to all customers. We are one of the best and reputed website development and digital marketing",
+        "image": "https://www.arinfotech.co.in/logo/site-logo.png",
+        "name": "A R Infotech",
+        "phone": "+91-9829321136",
+        "smoking": "no",
+        "website": "https://www.arinfotech.co.in/"
+      }
+    }
+  },
+  {
+    "name": "System Logic Software Solution Pvt Ltd -Website Design & Web Development Company | Mobile App Development Company in Jaipur",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Plot number 5/73 Bika Lines, Chitrakoot, Vaishali Nagar, Jaipur, 302021",
+    "lat": 26.8982244,
+    "lng": 75.7340816,
+    "website": "https://maps.app.goo.gl/LQx8Qg1RwnEAT4xF8",
+    "phone": "",
+    "categories": [
+      "description=System Logic Software Solution Pvt Ltd is a leading IT company in Jaipur, providing complete IT solutions since 2014. We specialize in mobile app development, website development, design, and digital marketing. Our team consists of highly skilled professi"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12582083508"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: software, app development, mobile app, web development, solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:country": "IN",
+        "addr:postcode": "302021",
+        "addr:street": "Plot number 5/73 Bika Lines, Chitrakoot, Vaishali Nagar",
+        "description": "System Logic Software Solution Pvt Ltd is a leading IT company in Jaipur, providing complete IT solutions since 2014. We specialize in mobile app development, website development, design, and digital marketing. Our team consists of highly skilled professi",
+        "name": "System Logic Software Solution Pvt Ltd -Website Design & Web Development Company | Mobile App Development Company in Jaipur",
+        "website": "https://maps.app.goo.gl/LQx8Qg1RwnEAT4xF8"
+      }
+    }
+  },
+  {
     "name": "Prismberry Technologies - Cloud & Software Company in Noida",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -2254,6 +2328,84 @@
     }
   },
   {
+    "name": "Electron Technology",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Plot No. - 171, Mohan Naqgar, Triveni nagar, Jaipur, 302018",
+    "lat": 26.8678695,
+    "lng": 75.7746005,
+    "website": "https://electrontechnology.co.in/",
+    "phone": "+917062626015",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11506042825"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: technology, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "Plot No. - 171",
+        "addr:postcode": "302018",
+        "addr:street": "Mohan Naqgar, Triveni nagar",
+        "name": "Electron Technology",
+        "office": "it",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "+917062626015",
+        "website": "https://electrontechnology.co.in/"
+      }
+    }
+  },
+  {
+    "name": "RasuKoo Digital Solutions",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "D-20/21, Saket Colony, Adarsh Nagar, Jaipur, 302004",
+    "lat": 26.902074,
+    "lng": 75.835389,
+    "website": "https://www.rasukoo.com/",
+    "phone": "+917820919773",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11752620034"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: solutions, digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "D-20/21",
+        "addr:postcode": "302004",
+        "addr:street": "Saket Colony, Adarsh Nagar",
+        "contact:email": "rasukoo.jpr@gmail.com",
+        "contact:phone": "+917820919773",
+        "name": "RasuKoo Digital Solutions",
+        "office": "it",
+        "opening_hours": "24/7",
+        "operator": "Radheshyam Yogi",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+917820919773",
+        "website": "https://www.rasukoo.com/"
+      }
+    }
+  },
+  {
     "name": "Caspar Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -3878,6 +4030,40 @@
     }
   },
   {
+    "name": "Optratec Technologies Pvt. Ltd.",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Sector 3, Near Satkar Shopping Complex, Malviya Nagar, JMC-2, Jaipur, 302014",
+    "lat": 26.8502252,
+    "lng": 75.8176572,
+    "website": "https://www.optratec.com",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3334071027"
+    },
+    "tech_score": 67.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "Sector 3, Near Satkar Shopping Complex, Malviya Nagar",
+        "addr:postcode": "302014",
+        "addr:street": "JMC-2",
+        "name": "Optratec Technologies Pvt. Ltd.",
+        "office": "it",
+        "website": "https://www.optratec.com"
+      }
+    }
+  },
+  {
     "name": "e com Developers",
     "city": "Kochi",
     "region": "Kerala",
@@ -4210,6 +4396,35 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "University Center For Computer Science And Information Technology",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "",
+    "lat": 26.8863912,
+    "lng": 75.8157242,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:758921508"
+    },
+    "tech_score": 65.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology, computer",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "University Center For Computer Science And Information Technology"
+      }
     }
   },
   {
@@ -5716,6 +5931,39 @@
       "osm_tags": {
         "name": "ZF Technology Centre",
         "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Glitch Probe Infotech",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "1st floor, 112-113 , Above Govindam Sweets, Near Akshaya Patra Chauraha, Jagatpura, Jaipur, Raj. 302017, Jaipur, 302017",
+    "lat": 26.803444,
+    "lng": 75.858034,
+    "website": "https://glitchprobe.com/",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12635158696"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: software, infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:postcode": "302017",
+        "addr:street": "1st floor, 112-113 , Above Govindam Sweets, Near Akshaya Patra Chauraha, Jagatpura, Jaipur, Raj. 302017",
+        "company": "software_development",
+        "fixme": "Here is a company called Glitch Probe Infotech, a software development company",
+        "name": "Glitch Probe Infotech",
+        "website": "https://glitchprobe.com/"
       }
     }
   },
@@ -8355,6 +8603,43 @@
     }
   },
   {
+    "name": "W3care Technologies",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "263/845, Sector 26, Sanganer, Pratap Nagar, Jaipur, 302033",
+    "lat": 26.8090637,
+    "lng": 75.8450197,
+    "website": "https://www.w3care.com/",
+    "phone": "",
+    "categories": [
+      "building=commercial",
+      "description=W3Care Technologies is IT Company based in India and found in 2010. W3Care has been providing best website development, extension and maintenance services to its clients. We have expertise in Web development and provide development services."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:386686260"
+    },
+    "tech_score": 54.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, web development",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "263/845",
+        "addr:postcode": "302033",
+        "addr:street": "Sector 26, Sanganer, Pratap Nagar",
+        "building": "commercial",
+        "description": "W3Care Technologies is IT Company based in India and found in 2010. W3Care has been providing best website development, extension and maintenance services to its clients. We have expertise in Web development and provide development services.",
+        "email": "business@w3care.in",
+        "name": "W3care Technologies",
+        "website": "https://www.w3care.com/"
+      }
+    }
+  },
+  {
     "name": "Naman Technologies",
     "city": "Pune",
     "region": "Maharashtra",
@@ -9750,6 +10035,45 @@
         "addr:street": "Lake Ville Extension, RTC Colony, Tirumalagiri",
         "name": "Tez Solutions",
         "office": "it"
+      }
+    }
+  },
+  {
+    "name": "ESage IT Services Pvt Ltd",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "C7, Mangalam Grand City, Mahapura Rd, Jaipur, 302026",
+    "lat": 26.8580257,
+    "lng": 75.6665004,
+    "website": "https://esagedigital.com/",
+    "phone": "+91 9828091717",
+    "categories": [
+      "office=advertising_agency",
+      "description=Digital Marketing Agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12565112269"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: it services, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "C7",
+        "addr:postcode": "302026",
+        "addr:street": "Mangalam Grand City, Mahapura Rd",
+        "description": "Digital Marketing Agency",
+        "name": "ESage IT Services Pvt Ltd",
+        "office": "advertising_agency",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91 9828091717",
+        "website": "https://esagedigital.com/"
       }
     }
   },
@@ -13442,6 +13766,152 @@
     }
   },
   {
+    "name": "Dinoustech Private Limited",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Plot no.2, 4th floor, Ganga Tower, Tagore Nagar, Chitrakoot Marg, Jaipur, 302021",
+    "lat": 26.8946479,
+    "lng": 75.7390328,
+    "website": "https://dinoustech.com/",
+    "phone": "09166373236",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12282029934"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "Plot no.2, 4th floor, Ganga Tower, Tagore Nagar",
+        "addr:postcode": "302021",
+        "addr:street": "Chitrakoot Marg",
+        "name": "Dinoustech Private Limited",
+        "office": "it",
+        "phone": "09166373236",
+        "website": "https://dinoustech.com/"
+      }
+    }
+  },
+  {
+    "name": "Milansoft eServices",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "B 10, Hari Marg, Civil Lines, Jaipur, 302006",
+    "lat": 26.9070359,
+    "lng": 75.7816025,
+    "website": "https://milansoft.com",
+    "phone": "+91 9414044900",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12062523207"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "B 10",
+        "addr:postcode": "302006",
+        "addr:street": "Hari Marg, Civil Lines",
+        "name": "Milansoft eServices",
+        "name:hi": "मिलनसॉफ्ट ई सर्विसेज",
+        "office": "it",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "+91 9414044900",
+        "website": "https://milansoft.com"
+      }
+    }
+  },
+  {
+    "name": "Tetraskelion softwares Pvt Ltd",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "68/383, HaldiGhati Marg, Jaipur, 302033",
+    "lat": 26.8065005,
+    "lng": 75.809564,
+    "website": "http://www.tetraskelion.com",
+    "phone": "+91 9660268331",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3794127634"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "68/383",
+        "addr:postcode": "302033",
+        "addr:street": "HaldiGhati Marg",
+        "name": "Tetraskelion softwares Pvt Ltd",
+        "office": "it",
+        "phone": "+91 9660268331",
+        "website": "http://www.tetraskelion.com"
+      }
+    }
+  },
+  {
+    "name": "Web Application Consultant",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "105, Apporva Homes, Jagatpura, 302017",
+    "lat": 26.8057081,
+    "lng": 75.869099,
+    "website": "https://webapplicationconsultant.com",
+    "phone": "+918882082786",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8727328805"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jagatpura",
+        "addr:housenumber": "105",
+        "addr:postcode": "302017",
+        "addr:street": "Apporva Homes",
+        "name": "Web Application Consultant",
+        "office": "it",
+        "opening_hours": "Mo-Fr 11:00-19:00",
+        "opening_hours:covid19": "restricted",
+        "phone": "+918882082786",
+        "website": "https://webapplicationconsultant.com"
+      }
+    }
+  },
+  {
     "name": "Camino Info Tech",
     "city": "Kochi",
     "region": "Kerala",
@@ -14791,6 +15261,40 @@
     }
   },
   {
+    "name": "Dotsquares Technologies",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "CP4-228, Mahal Road, 302017",
+    "lat": 26.7987473,
+    "lng": 75.8570864,
+    "website": "https://dotsquares.com",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13179725601"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "CP4-228",
+        "addr:postcode": "302017",
+        "addr:street": "Mahal Road",
+        "name": "Dotsquares Technologies",
+        "office": "company",
+        "opening_hours": "Mo-Fr 00:00-24:00",
+        "website": "https://dotsquares.com"
+      }
+    }
+  },
+  {
     "name": "Elioenai Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -16018,6 +16522,44 @@
         "office": "it",
         "opening_hours": "Mo-Fr 09:00-17:00",
         "website": "https://www.proventuresindia.com/"
+      }
+    }
+  },
+  {
+    "name": "Rafc Private Limited",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "109-110 1st floor, Tambi Tower, Sansar Chandra Road, Jaipur, 302001",
+    "lat": 26.9202101,
+    "lng": 75.8025133,
+    "website": "https://www.rafc.in",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6755261281"
+    },
+    "tech_score": 43.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "109-110 1st floor, Tambi Tower",
+        "addr:postcode": "302001",
+        "addr:street": "Sansar Chandra Road",
+        "air_conditioning": "yes",
+        "email": "info@rafc.in",
+        "internet_access": "yes",
+        "internet_access:ssid": "Rafc Private Limited",
+        "name": "Rafc Private Limited",
+        "office": "it",
+        "website": "https://www.rafc.in"
       }
     }
   },
@@ -19412,6 +19954,39 @@
       "osm_tags": {
         "name": "VNS Makro Technologies (P) Ltd.",
         "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Ranosys Technologies - Sitapura",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "E-141, IT Park Road, 302022",
+    "lat": 26.7789525,
+    "lng": 75.8413739,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12150125201"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "E-141",
+        "addr:postcode": "302022",
+        "addr:street": "IT Park Road",
+        "name": "Ranosys Technologies - Sitapura",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00"
       }
     }
   },
@@ -25019,6 +25594,160 @@
     }
   },
   {
+    "name": "Arya College of Engineering and Information Technology",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "SP-40, RIICO Industrial Area, Kukas, Delhi Road, Jaipur Rajasthan - 302028",
+    "lat": 27.0293391,
+    "lng": 75.8934479,
+    "website": "https://www.aryacollege.org/",
+    "phone": "",
+    "categories": [
+      "amenity=college"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:237962349"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: information technology, technology; negative hints: college",
+    "raw": {
+      "osm_tags": {
+        "addr:full": "SP-40, RIICO Industrial Area, Kukas, Delhi Road, Jaipur Rajasthan - 302028",
+        "amenity": "college",
+        "name": "Arya College of Engineering and Information Technology",
+        "website": "https://www.aryacollege.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q48732496",
+        "wikipedia": "en:Arya Group Of Colleges"
+      }
+    }
+  },
+  {
+    "name": "eSageIT",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "",
+    "lat": 26.9112175,
+    "lng": 75.7311835,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6531727798"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "eSageIT",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Genpact",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "",
+    "lat": 26.8504389,
+    "lng": 75.8042061,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4361473989"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Genpact",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Genpact - Sitapura",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "IT Park Road",
+    "lat": 26.7787918,
+    "lng": 75.8393889,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:863560490"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "IT Park Road",
+        "landuse": "commercial",
+        "name": "Genpact - Sitapura",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Teleperfomance - Sitapura",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "",
+    "lat": 26.7789861,
+    "lng": 75.8405894,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8044543760"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Teleperfomance - Sitapura",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Abdul Saleem",
     "city": "Kochi",
     "region": "Kerala",
@@ -28156,6 +28885,56 @@
     }
   },
   {
+    "name": "Openhippo Library",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "C 72, Mahal Yojana, Jaipur, 302017",
+    "lat": 26.7967283,
+    "lng": 75.8516651,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "amenity=library",
+      "building=service"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1449421543"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, computer",
+    "raw": {
+      "osm_tags": {
+        "access:delivery": "Openhippo Library",
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "C 72",
+        "addr:postcode": "302017",
+        "addr:street": "Mahal Yojana",
+        "air_conditioning": "yes",
+        "amenity": "library",
+        "amenity_1": "computer class",
+        "building": "service",
+        "delivery_point:access": "Openhippo Library",
+        "delivery_point:type": "clustered",
+        "email": "cse.vikash@gmail.com",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "mobile": "+919252581253",
+        "name": "Openhippo Library",
+        "name:hi": "ओपनहिप्पो लाइब्रेरी",
+        "opening_hours": "24/7",
+        "operator": "Openhippo Technologies Services",
+        "operator:type": "private",
+        "seamark:landmark:category": "Openhippo Library"
+      }
+    }
+  },
+  {
     "name": "Bismi Infotech",
     "city": "Kochi",
     "region": "Kerala",
@@ -30520,6 +31299,45 @@
     }
   },
   {
+    "name": "Ramraj Associates",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "32, Kanwatia Circle, Shastri Nagar, 302016",
+    "lat": 26.944973,
+    "lng": 75.7968398,
+    "website": "https://ramrajassociates.com/",
+    "phone": "9413194723",
+    "categories": [
+      "office=advertising_agency",
+      "description=A digital marketing agency offering solutions for online branding, strategy, and business growth."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11586256262"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Shastri Nagar",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "32",
+        "addr:postcode": "302016",
+        "addr:street": "Kanwatia Circle",
+        "description": "A digital marketing agency offering solutions for online branding, strategy, and business growth.",
+        "name": "Ramraj Associates",
+        "office": "advertising_agency",
+        "opening_hours": "Mo-Su 10:00-21:30",
+        "phone": "9413194723",
+        "website": "https://ramrajassociates.com/"
+      }
+    }
+  },
+  {
     "name": "Illford Digital",
     "city": "Kochi",
     "region": "Kerala",
@@ -31810,6 +32628,41 @@
       "osm_tags": {
         "building": "yes",
         "name": "Mwebware Software Pvt Ltd."
+      }
+    }
+  },
+  {
+    "name": "Janadhar EMS",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "211-A, Hathi Babu Marg, Jaipur, 302016",
+    "lat": 26.9314761,
+    "lng": 75.7954112,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes",
+      "description=Janadhar Software to enable politicians to access the local, national and global politics by offering them a wide range of political knowledge. www.janadhar.in"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:263195972"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "211-A",
+        "addr:postcode": "302016",
+        "addr:street": "Hathi Babu Marg",
+        "building": "yes",
+        "description": "Janadhar Software to enable politicians to access the local, national and global politics by offering them a wide range of political knowledge. www.janadhar.in",
+        "name": "Janadhar EMS"
       }
     }
   },
@@ -33355,6 +34208,81 @@
     }
   },
   {
+    "name": "2M Infotech Pvt. Ltd.",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Plot No. 3, 2nd Floor, Shalimar Bagh Colony Chitrakoot Marg, Ajmer Rd, Jaipur, 302021",
+    "lat": 26.894724,
+    "lng": 75.7390016,
+    "website": "https://2minfotech.com/",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1232392027"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:country": "IN",
+        "addr:housenumber": "Plot No. 3",
+        "addr:postcode": "302021",
+        "addr:street": "2nd Floor, Shalimar Bagh Colony Chitrakoot Marg, Ajmer Rd",
+        "name": "2M Infotech Pvt. Ltd.",
+        "source": "local knowledge",
+        "addr:district": "Jaipur",
+        "landuse": "commercial",
+        "website": "https://2minfotech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "Microzon Infotech",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Ward Number 43, Sector 101, Mansarovar, Meera Marg, Jaipur, 302020",
+    "lat": 26.8489037,
+    "lng": 75.7638182,
+    "website": "https://microzon.in/",
+    "phone": "",
+    "categories": [
+      "building=yes",
+      "description=Microzon Infotech are the best training programs and development providing company giving international level dot net training in Jaipur."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:476221746"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "Ward Number 43, Sector 101, Mansarovar",
+        "addr:postcode": "302020",
+        "addr:street": "Meera Marg",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Microzon Infotech are the best training programs and development providing company giving international level dot net training in Jaipur.",
+        "name": "Microzon Infotech",
+        "website": "https://microzon.in/"
+      }
+    }
+  },
+  {
     "name": "Cochin University of Science And Technology Arena",
     "city": "Kochi",
     "region": "Kerala",
@@ -34118,6 +35046,36 @@
         "check_date": "2023-12-12",
         "name": "Electro Cloud",
         "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Saas Bahu Ladies Tailor",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Vikas Path",
+    "lat": 26.8991013,
+    "lng": 75.7847228,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=tailor"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8120433446"
+    },
+    "tech_score": 31.0,
+    "confidence": "low",
+    "notes": "matched: saas",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "Vikas Path",
+        "name": "Saas Bahu Ladies Tailor",
+        "shop": "tailor"
       }
     }
   },
@@ -40889,6 +41847,224 @@
       "osm_tags": {
         "name": "zoom technologies",
         "office": "educational_institution"
+      }
+    }
+  },
+  {
+    "name": "Digital Creative Tech Solutions",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "69/334, VT Road, Jaipur, 302020",
+    "lat": 26.8608631,
+    "lng": 75.7632867,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:476483585"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "69/334",
+        "addr:postcode": "302020",
+        "addr:street": "VT Road",
+        "building": "yes",
+        "name": "Digital Creative Tech Solutions"
+      }
+    }
+  },
+  {
+    "name": "Hero Motocorp. - Centre of Innovation and Technology",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "",
+    "lat": 27.0385179,
+    "lng": 75.8984643,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10015635629"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "man_made": "works",
+        "name": "Hero Motocorp. - Centre of Innovation and Technology"
+      }
+    }
+  },
+  {
+    "name": "iON Digital Zone iDZ Sitapura",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "302022",
+    "lat": 26.7864828,
+    "lng": 75.8440819,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13452476101"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "302022",
+        "name": "iON Digital Zone iDZ Sitapura",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "kvcolor - Digital Marketing and SEO Solutions",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "303, Khatipura Road, jaipur, 302012",
+    "lat": 26.9372897,
+    "lng": 75.7578605,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6837985670"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "jaipur",
+        "addr:housenumber": "303",
+        "addr:postcode": "302012",
+        "addr:street": "Khatipura Road",
+        "name": "kvcolor - Digital Marketing and SEO Solutions",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    }
+  },
+  {
+    "name": "Sashakta Technologies, SAP Jaipur, SAP Rajasthan",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "45-46, Gayatri Nagar B, Maharani Farm, Durgapura, Maharani Farm, Durgapura, Jaipur, 302018",
+    "lat": 26.8501389,
+    "lng": 75.7782573,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3452836377"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housename": "Sashakta Manor",
+        "addr:housenumber": "45-46, Gayatri Nagar B, Maharani Farm, Durgapura",
+        "addr:postcode": "302018",
+        "addr:street": "Maharani Farm, Durgapura",
+        "alt_name": "SAP Education, SAP Training",
+        "building": "office",
+        "designation": "SAP Education, SAP Jaipur, SAP Rajasthan, SAP India, SAP Training, IT, BPO, Sashakta Technologies",
+        "int_name": "Sashakta Technologies Private Limited",
+        "name": "Sashakta Technologies, SAP Jaipur, SAP Rajasthan",
+        "old_name": "Sashakta Technologies Private Limited, SAP Education, SAP Training",
+        "source": "Sashakta Technologies"
+      }
+    }
+  },
+  {
+    "name": "Sigma Engineered Solutions सिग्मा इंजीनियर्ड सॉल्यूशंस",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "302013",
+    "lat": 26.992335,
+    "lng": 75.7814899,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13333679701"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "302013",
+        "name": "Sigma Engineered Solutions सिग्मा इंजीनियर्ड सॉल्यूशंस",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "TECHNOLOGY PARK",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "",
+    "lat": 26.868347,
+    "lng": 75.766465,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:733429795"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "leisure": "park",
+        "name": "TECHNOLOGY PARK"
       }
     }
   },
@@ -47996,6 +49172,45 @@
     }
   },
   {
+    "name": "Heritage Projects & Consultant",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "204, Elements Mall, DCM, Ajmer road, Jaipur, 302021",
+    "lat": 26.8951343,
+    "lng": 75.7484941,
+    "website": "https://hpcjindia.in",
+    "phone": "+918058212586",
+    "categories": [
+      "office=architect",
+      "description=Heritage Project and Consultant (HPC) is a leading construction company in Jaipur, offering turnkey solutions, architecture, interiors, and project management with quality, timely delivery, and professionalism."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1431518979"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "204",
+        "addr:postcode": "302021",
+        "addr:street": "Elements Mall, DCM, Ajmer road",
+        "description": "Heritage Project and Consultant (HPC) is a leading construction company in Jaipur, offering turnkey solutions, architecture, interiors, and project management with quality, timely delivery, and professionalism.",
+        "name": "Heritage Projects & Consultant",
+        "office": "architect",
+        "opening_hours": "24/7",
+        "phone": "+918058212586",
+        "website": "https://hpcjindia.in"
+      }
+    }
+  },
+  {
     "name": "SH Digital Media Experience Centre",
     "city": "Kochi",
     "region": "Kerala",
@@ -50132,6 +51347,45 @@
       },
       "google_queries": [],
       "google_types": []
+    }
+  },
+  {
+    "name": "MSM Coretech Innovations",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "311, Sector 7, Shipra Path, Mansarovar, Jaipur, 302020",
+    "lat": 26.8581499,
+    "lng": 75.7726635,
+    "website": "https://msmcoretech.com/",
+    "phone": "",
+    "categories": [
+      "building=commercial",
+      "description=MSM CoreTech Innovations is a team of thinkers, coders, graphic designers, and digital marketers who believe good tech should just work, cleanly, clearly, and without guesswork."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:576969472"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "311",
+        "addr:postcode": "302020",
+        "addr:street": "Sector 7, Shipra Path, Mansarovar",
+        "building": "commercial",
+        "description": "MSM CoreTech Innovations is a team of thinkers, coders, graphic designers, and digital marketers who believe good tech should just work, cleanly, clearly, and without guesswork.",
+        "layer": "1",
+        "name": "MSM Coretech Innovations",
+        "opening_hours": "24/7",
+        "website": "https://msmcoretech.com/"
+      }
     }
   },
   {
