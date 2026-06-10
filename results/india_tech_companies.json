@@ -2328,6 +2328,79 @@
     }
   },
   {
+    "name": "Maptrax Technologies",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "10,, Rajgarh Kothi, Indore, 452001",
+    "lat": 22.7174492,
+    "lng": 75.8863856,
+    "website": "https://www.maptrax.in/",
+    "phone": "+91-9713275229",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3059469034"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "10,",
+        "addr:postcode": "452001",
+        "addr:street": "Rajgarh Kothi",
+        "name": "Maptrax Technologies",
+        "office": "it",
+        "opening_hours": "10:00-19:00",
+        "phone": "+91-9713275229",
+        "website": "https://www.maptrax.in/"
+      }
+    }
+  },
+  {
+    "name": "Nehvij Technologies Private Limited",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "EA122, Scheme No. 94, Service Road, Indore, 452010",
+    "lat": 22.7670673,
+    "lng": 75.9083048,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes",
+      "description=Nehvij Technologies is an Indian Game and Software development company that caters to the need of the top esteemed clients. We are a full-fledged digital service agency we wanted to serve your customers with an uninterrupted seamless experience."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:702536116"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "EA122, Scheme No. 94",
+        "addr:postcode": "452010",
+        "addr:street": "Service Road",
+        "building": "yes",
+        "building:levels": "4",
+        "description": "Nehvij Technologies is an Indian Game and Software development company that caters to the need of the top esteemed clients. We are a full-fledged digital service agency we wanted to serve your customers with an uninterrupted seamless experience.",
+        "name": "Nehvij Technologies Private Limited",
+        "source": "local knowledge;gps"
+      }
+    }
+  },
+  {
     "name": "Electron Technology",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -8067,6 +8140,38 @@
     }
   },
   {
+    "name": "Syscraft Information System - Web & Mobile App Development",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "601, Mahasagar Corporate, Geeta Bhawan, Indore, 452001",
+    "lat": 22.7189423,
+    "lng": 75.8879153,
+    "website": "https://www.syscraftonline.com/",
+    "phone": "+917314090138",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3838704656"
+    },
+    "tech_score": 56.0,
+    "confidence": "high",
+    "notes": "matched: app development, mobile app",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "601",
+        "addr:postcode": "452001",
+        "addr:street": "Mahasagar Corporate, Geeta Bhawan",
+        "name": "Syscraft Information System - Web & Mobile App Development",
+        "phone": "+917314090138",
+        "website": "https://www.syscraftonline.com/"
+      }
+    }
+  },
+  {
     "name": "Kailash Path Labs",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -10035,6 +10140,44 @@
         "addr:street": "Lake Ville Extension, RTC Colony, Tirumalagiri",
         "name": "Tez Solutions",
         "office": "it"
+      }
+    }
+  },
+  {
+    "name": "F5 Buddy",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "114, Mahatma Gandhi Marg, Indore, 452001",
+    "lat": 22.7236271,
+    "lng": 75.8817239,
+    "website": "https://www.f5buddy.com/",
+    "phone": "095221 48006",
+    "categories": [
+      "description=F5 Buddy is a leading Organization offering Web & IT services along with complete SEO & Digital Marketing Services.\n"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5199867570"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: it services, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "114",
+        "addr:postcode": "452001",
+        "addr:street": "Mahatma Gandhi Marg",
+        "addr:unit": "Bansi Trade Centre",
+        "description": "F5 Buddy is a leading Organization offering Web & IT services along with complete SEO & Digital Marketing Services.\n",
+        "email": "contact@f5buddy.com",
+        "name": "F5 Buddy",
+        "name:ur": "ایف5 بڈی",
+        "phone": "095221 48006",
+        "website": "https://www.f5buddy.com/"
       }
     }
   },
@@ -13766,6 +13909,37 @@
     }
   },
   {
+    "name": "Cluestech Website Designing Company in Indore",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.7138048,
+    "lng": 75.8543177,
+    "website": "https://www.cluestech.com/",
+    "phone": "8602709720",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6976135493"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "contact:phone": "8602709720",
+        "name": "Cluestech Website Designing Company in Indore",
+        "office": "it",
+        "website": "https://www.cluestech.com/"
+      }
+    }
+  },
+  {
     "name": "Dinoustech Private Limited",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -15257,6 +15431,39 @@
         "name": "Ness Technologies",
         "office": "company",
         "website": "https://www.ness.com/en-in/Company/Pages/Contact-Us.aspx"
+      }
+    }
+  },
+  {
+    "name": "Mad Maven Infotech",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "505, President Tower, Indore",
+    "lat": 22.7146692,
+    "lng": 75.8748783,
+    "website": "www.madmaveninfotech.com/",
+    "phone": "",
+    "categories": [
+      "office=advertising_agency",
+      "description=Mad Maven InfoTech is a Digital Marketing agency made of creative digital experts. We help the Brands to achieve their Business goals though accurately tracking their advertising results and generating more leads."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6976115438"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, digital",
+    "raw": {
+      "osm_tags": {
+        "address": "505, President Tower, Indore",
+        "description": "Mad Maven InfoTech is a Digital Marketing agency made of creative digital experts. We help the Brands to achieve their Business goals though accurately tracking their advertising results and generating more leads.",
+        "name": "Mad Maven Infotech",
+        "office": "advertising_agency",
+        "website": "www.madmaveninfotech.com/"
       }
     }
   },
@@ -17313,6 +17520,118 @@
         "wikidata": "Q19898553",
         "wikimedia_commons": "Category:Swecha",
         "wikipedia": "en:Swecha"
+      }
+    }
+  },
+  {
+    "name": "Concord ERP Software",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "Lasudua Mori, Old A. B. Road, Indore, 453771",
+    "lat": 22.7922264,
+    "lng": 75.9074188,
+    "website": "http://concorderp.com/",
+    "phone": "9009155444",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11853951362"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:district": "Indore",
+        "addr:postcode": "453771",
+        "addr:street": "Lasudua Mori, Old A. B. Road",
+        "name": "Concord ERP Software",
+        "office": "yes",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "9009155444",
+        "website": "http://concorderp.com/"
+      }
+    }
+  },
+  {
+    "name": "Mutual Fund Software",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "45, Hare Krishna Vihar, Indore, 452010",
+    "lat": 22.751822,
+    "lng": 75.927713,
+    "website": "https://www.mutualfundsoftware.in/",
+    "phone": "+919039822000",
+    "categories": [
+      "building=commercial",
+      "description=Mutual fund software is Fully Automatic platform for IFA, RIA and Mutual Fund Distributors (MFD) to run mutual fund advisory or distribution business in India."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:698286389"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "45",
+        "addr:postcode": "452010",
+        "addr:street": "Hare Krishna Vihar",
+        "building": "commercial",
+        "building:levels": "2",
+        "description": "Mutual fund software is Fully Automatic platform for IFA, RIA and Mutual Fund Distributors (MFD) to run mutual fund advisory or distribution business in India.",
+        "image": "https://www.mutualfundsoftware.in/assets/img/logo.png",
+        "name": "Mutual Fund Software",
+        "phone": "+919039822000",
+        "smoking": "no",
+        "website": "https://www.mutualfundsoftware.in/"
+      }
+    }
+  },
+  {
+    "name": "Universal Informatics",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "Abhay Prashal, Race Course Road, Indore, 452003",
+    "lat": 22.7252579,
+    "lng": 75.8778618,
+    "website": "",
+    "phone": "0731- 2431972",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5955426886"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "Abhay Prashal",
+        "addr:postcode": "452003",
+        "addr:street": "Race Course Road",
+        "email": "info@universalinformatics.com",
+        "name": "Universal Informatics",
+        "office": "it",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "0731- 2431972"
       }
     }
   },
@@ -19953,6 +20272,35 @@
     "raw": {
       "osm_tags": {
         "name": "VNS Makro Technologies (P) Ltd.",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Lemosys infotech Pvt ltd",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.764777,
+    "lng": 75.8865931,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5376039831"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Lemosys infotech Pvt ltd",
         "office": "company"
       }
     }
@@ -25589,6 +25937,71 @@
         "barrier": "wall",
         "landuse": "commercial",
         "name": "Wipro Campus",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Hostzop Cloud Services Pvt Ltd",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "102, Annapurna Road, Indore, 452009",
+    "lat": 22.6855829,
+    "lng": 75.8359715,
+    "website": "https://hostzop.com",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13043272201"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: cloud, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "102",
+        "addr:postcode": "452009",
+        "addr:street": "Annapurna Road",
+        "email": "nikhil@hostzop.com",
+        "name": "Hostzop Cloud Services Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Sa 10:00-18:30",
+        "website": "https://hostzop.com"
+      }
+    }
+  },
+  {
+    "name": "Teleperformance",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.7455431,
+    "lng": 75.8925032,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9515853654"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Teleperformance",
         "office": "it"
       }
     }
@@ -32632,6 +33045,33 @@
     }
   },
   {
+    "name": "Concord ERP Management Software",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.7764828,
+    "lng": 75.8885,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:191598662"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "Concord ERP Management Software"
+      }
+    }
+  },
+  {
     "name": "Janadhar EMS",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -34204,6 +34644,37 @@
         "man_made": "works",
         "name": "VEM Technologies",
         "website": "http://aviationspaceindia.com/content/vem-technologies-pvtltd"
+      }
+    }
+  },
+  {
+    "name": "Raja Ramanna Centre for Advanced Technology",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "Rau-Indore road, Indore",
+    "lat": 22.6647637,
+    "lng": 75.802033,
+    "website": "http://www.cat.gov.in",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:192421941"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:street": "Rau-Indore road",
+        "internet_access": "yes",
+        "landuse": "education",
+        "name": "Raja Ramanna Centre for Advanced Technology",
+        "website": "http://www.cat.gov.in"
       }
     }
   },
@@ -41847,6 +42318,161 @@
       "osm_tags": {
         "name": "zoom technologies",
         "office": "educational_institution"
+      }
+    }
+  },
+  {
+    "name": "Citrusly Media technology",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.7158812,
+    "lng": 75.9029029,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:703402650"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Citrusly Media technology"
+      }
+    }
+  },
+  {
+    "name": "India Infotech",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.718294,
+    "lng": 75.9057845,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8909386823"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "India Infotech",
+        "shop": "yes"
+      }
+    }
+  },
+  {
+    "name": "Ixora Infotech",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.7207424,
+    "lng": 75.9002214,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8906592766"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "Ixora Infotech",
+        "shop": "yes"
+      }
+    }
+  },
+  {
+    "name": "Kankeshwari Infotech Udyaan",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "Nanda Nagar, Indore",
+    "lat": 22.7447242,
+    "lng": 75.8758118,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:671637867"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:place": "Road no 4",
+        "addr:street": "Nanda Nagar",
+        "drinking_water": "no",
+        "facility:benches": "yes",
+        "facility:waste_basket": "yes",
+        "facility:yoga_center": "yes",
+        "leisure": "park",
+        "name": "Kankeshwari Infotech Udyaan",
+        "name:hi": "कन्केश्वरी इन्फोटेक उध्यान",
+        "opening_hours": "24/7",
+        "security_guard": "no",
+        "source": "2C_Indore Field Survey 2019"
+      }
+    }
+  },
+  {
+    "name": "ssv technologies",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 22.7189075,
+    "lng": 75.8890586,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:704013021"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "ssv technologies"
       }
     }
   },
@@ -51347,6 +51973,163 @@
       },
       "google_queries": [],
       "google_types": []
+    }
+  },
+  {
+    "name": "Dr. Lal Path Labs",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "Chandra lok square, Chandra lok square, Indore",
+    "lat": 22.7569453,
+    "lng": 75.8989153,
+    "website": "https://www.lalpathlabs.com/",
+    "phone": "9993399884",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6201561022"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "email": "customer.care@lalpathlabs.com",
+        "facility:blood_test": "yes",
+        "facility:urine_test": "no",
+        "healthcare": "laboratory",
+        "name": "Dr. Lal Pathlabs",
+        "name:hi": "डॉ लाल",
+        "opening_hours": "Mo-Sa 10:00-13:00",
+        "personnel:count": "6",
+        "phone": "07613988505",
+        "source": "2C_Indore Field Visit 2019",
+        "website": "https://www.lalpathlabs.com/",
+        "addr:city": "Indore",
+        "addr:housenumber": "Chandra lok square",
+        "addr:street": "Chandra lok square",
+        "collection_centre": "yes",
+        "facility:ct_scan": "no",
+        "facility:mri": "no",
+        "facility:sonography": "no",
+        "facility:stool_test": "no",
+        "facility:xray": "no",
+        "laboratory:type": "pathology, radiology",
+        "testing_centres": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "Himank.digital",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "193, Limbodi Main Road phase 1, Indore, 452020",
+    "lat": 22.6621357,
+    "lng": 75.8903879,
+    "website": "https://himankpatel.com/",
+    "phone": "",
+    "categories": [
+      "description=Grow Your Business in this digital era with Himank Patel Digital Marketer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:699852402"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "193",
+        "addr:postcode": "452020",
+        "addr:street": "Limbodi Main Road phase 1",
+        "description": "Grow Your Business in this digital era with Himank Patel Digital Marketer",
+        "email": "Info@himankpatel.com",
+        "landuse": "retail",
+        "name": "Himank.digital",
+        "website": "https://himankpatel.com/"
+      }
+    }
+  },
+  {
+    "name": "OMR Digital",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "305-308, Commerce House, Janjeerwala square, Indore, 452001",
+    "lat": 22.7252527,
+    "lng": 75.8828086,
+    "website": "https://www.omrdigital.com",
+    "phone": "",
+    "categories": [
+      "office=private"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6503321830"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "305-308, Commerce House",
+        "addr:postcode": "452001",
+        "addr:street": "Janjeerwala square",
+        "email": "info@omrdigital.com",
+        "name": "OMR Digital",
+        "office": "private",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "website": "https://www.omrdigital.com"
+      }
+    }
+  },
+  {
+    "name": "Smile Indore Dental Solutions",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "The Magnate Building",
+    "lat": 22.7270911,
+    "lng": 75.8833516,
+    "website": "www.smileindore.com",
+    "phone": "",
+    "categories": [
+      "amenity=dentist"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6202835048"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "The Magnate Building",
+        "amenity": "dentist",
+        "contact:mobile": "9827036881",
+        "contact:website": "www.smileindore.com",
+        "name": "Smile Indore Dental Solutions",
+        "name:hi": "स्माइल इंदौर डेंटल सॉल्यूशंस",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "personnel:count": "2"
+      }
     }
   },
   {
