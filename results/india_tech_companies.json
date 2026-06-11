@@ -6937,6 +6937,36 @@
     }
   },
   {
+    "name": "Pennant Technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.8114054,
+    "lng": 83.3896596,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11896309765"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2024-05-11",
+        "name": "Pennant Technologies",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "AuroIN LLC",
     "city": "Bhubaneswar",
     "region": "Odisha",
@@ -7047,6 +7077,37 @@
         "phone": "+919824132089",
         "website": "https://theatlyx.com/",
         "wikipedia": "en:Atlyx"
+      }
+    }
+  },
+  {
+    "name": "miracle software systems",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.8027448,
+    "lng": 83.3950801,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:454334775"
+    },
+    "tech_score": 59.0,
+    "confidence": "high",
+    "notes": "matched: software, systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "miracle software systems",
+        "office": "company"
       }
     }
   },
@@ -10706,6 +10767,36 @@
         "opening_hours": "Mo-Fr 09:00-17:00",
         "phone": "+91-9447028012",
         "website": "https://wiktait.com/"
+      }
+    }
+  },
+  {
+    "name": "Aeries Soft Tech Solutions",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7250101,
+    "lng": 83.3056434,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11609593054"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2024-02-11",
+        "name": "Aeries Soft Tech Solutions",
+        "office": "it"
       }
     }
   },
@@ -21259,6 +21350,128 @@
     }
   },
   {
+    "name": "CP Plus Security Solutions",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7276018,
+    "lng": 83.3101762,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=electronics"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13404049484"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, solutions",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-12-25",
+        "name": "CP Plus Security Solutions",
+        "operator": "Vibrant Technologies",
+        "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "Embeded technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7086377,
+    "lng": 83.3137385,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6629468785"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Embeded technologies",
+        "name:te": "ఎంబెడెడ్ టెక్నాలజీస్",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Sapiential Technologies Pvt Ltd",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.729063,
+    "lng": 83.3043137,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7874192917"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Sapiential Technologies Pvt Ltd",
+        "office": "company"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "TriGeo Technologies Private Limited",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7134763,
+    "lng": 83.3150207,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7246507878"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "TriGeo Technologies Private Limited",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "Ashwatthaps",
     "city": "Ahmedabad",
     "region": "Gujarat",
@@ -29235,6 +29448,36 @@
     }
   },
   {
+    "name": "Infosys",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.8110739,
+    "lng": 83.3891041,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11896343482"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2024-05-11",
+        "name": "Infosys",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Acer Mall",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -30901,6 +31144,36 @@
         "phone": "+917030770622",
         "shop": "mobile_phone",
         "youtube": "moblie hub 01;@sohelsheikh7111"
+      }
+    }
+  },
+  {
+    "name": "AIM Software Technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7263142,
+    "lng": 83.3025544,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "amenity=prep_school"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13312902004"
+    },
+    "tech_score": 35.0,
+    "confidence": "medium",
+    "notes": "matched: software, technologies; negative hints: school",
+    "raw": {
+      "osm_tags": {
+        "amenity": "prep_school",
+        "check_date": "2025-11-18",
+        "name": "AIM Software Technologies"
       }
     }
   },
@@ -32869,6 +33142,44 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "07972289981",
         "website": "https://www.virtubox.io/"
+      }
+    }
+  },
+  {
+    "name": "Clove Technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "Plot 9, Hill 2, Pedda Rushikonda, Madhurawada, Visakhapatnam, 530045",
+    "lat": 17.8070742,
+    "lng": 83.3914443,
+    "website": "https://clovetech.com/",
+    "phone": "8885730066",
+    "categories": [
+      "office=consulting"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12558782038"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Madhurawada, Visakhapatnam",
+        "addr:district": "Visakhapatnam",
+        "addr:housenumber": "Plot 9",
+        "addr:postcode": "530045",
+        "addr:street": "Hill 2, Pedda Rushikonda",
+        "consulting": "aec;_geobim;_gis",
+        "name": "Clove Technologies",
+        "office": "consulting",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "8885730066",
+        "website": "https://clovetech.com/"
       }
     }
   },
@@ -37682,6 +37993,39 @@
         "name": "Gloria Systems",
         "phone": "+91-471-2555623",
         "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Sri Sai Teja Technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7253124,
+    "lng": 83.3031063,
+    "website": "",
+    "phone": "+91 92480 73777; +91 92461 73777",
+    "categories": [
+      "shop=electrical"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11609602298"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:floor": "1",
+        "check_date": "2024-02-11",
+        "level": "1",
+        "name": "Sri Sai Teja Technologies",
+        "phone": "+91 92480 73777; +91 92461 73777",
+        "shop": "electrical"
       }
     }
   },
@@ -48388,6 +48732,160 @@
     }
   },
   {
+    "name": "Innovation centre for drone technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7325255,
+    "lng": 83.3192209,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=educational_institution",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1260751865"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "building:levels": "3",
+        "internet_access": "yes",
+        "name": "Innovation centre for drone technologies",
+        "office": "educational_institution",
+        "operator": "Andhra University"
+      }
+    }
+  },
+  {
+    "name": "Science and Technology Bhavan",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7239476,
+    "lng": 83.3250068,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "relation:6041660"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Science and Technology Bhavan",
+        "type": "multipolygon"
+      }
+    }
+  },
+  {
+    "name": "Siri Infotech",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7260445,
+    "lng": 83.3014401,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "craft=electronics_repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13312902005"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-11-18",
+        "craft": "electronics_repair",
+        "name": "Siri Infotech"
+      }
+    }
+  },
+  {
+    "name": "Sree Silicon Technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7262828,
+    "lng": 83.3025025,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "craft=electronics_repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13312902003"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-11-18",
+        "craft": "electronics_repair",
+        "name": "Sree Silicon Technologies"
+      }
+    }
+  },
+  {
+    "name": "Syam IT Solutions",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.726219,
+    "lng": 83.3010822,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13800470051"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-05-06",
+        "name": "Syam IT Solutions",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "CloudJet Labs",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -49288,6 +49786,36 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Prologic Solutions",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 17.7268614,
+    "lng": 83.3004942,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13800470068"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-05-06",
+        "name": "Prologic Solutions",
+        "shop": "computer"
+      }
     }
   },
   {
