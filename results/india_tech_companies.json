@@ -1542,6 +1542,38 @@
     }
   },
   {
+    "name": "Ion Digital Zone I",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Nrupali Infotech, Plot 128, Bombay Truck Terminus, Wadi",
+    "lat": 21.1496188,
+    "lng": 79.0055472,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6223674238"
+    },
+    "tech_score": 74.0,
+    "confidence": "high",
+    "notes": "matched: infotech, digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Wadi",
+        "addr:housenumber": "Nrupali Infotech, Plot 128",
+        "addr:street": "Bombay Truck Terminus",
+        "name": "Ion Digital Zone I",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Cognizant Technology Solutions",
     "city": "Pune",
     "region": "Maharashtra",
@@ -6425,6 +6457,41 @@
     }
   },
   {
+    "name": "STPI Infotech Tower",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "South Ambazari Road, Nagpur, 440022",
+    "lat": 21.1214034,
+    "lng": 79.0488308,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:477500068"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: infotech, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:district": "Nagpur",
+        "addr:postcode": "440022",
+        "addr:street": "South Ambazari Road",
+        "building": "yes",
+        "name": "STPI Infotech Tower",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Tenwave Infotech Pvt ltd",
     "city": "New Delhi",
     "region": "Delhi",
@@ -7869,6 +7936,41 @@
     }
   },
   {
+    "name": "Precision E-Technologies Private Limited",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Plot No: 10, Malviya Nagar, Khamla Near Jaiprakash Nagar Railway Cross, Beltarodi, Nagpur, 440025",
+    "lat": 21.0725117,
+    "lng": 79.0756202,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4822849559"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:housename": "Precision E-Technologies Private Limited",
+        "addr:postcode": "440025",
+        "addr:street": "Plot No: 10, Malviya Nagar, Khamla Near Jaiprakash Nagar Railway Cross, Beltarodi",
+        "building": "office",
+        "designation": "Software Company",
+        "name": "Precision E-Technologies Private Limited",
+        "source": "ADCC Infocad Limited"
+      }
+    }
+  },
+  {
     "name": "Brey Digital",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -8569,6 +8671,32 @@
         "name": "SBSOL Digital Pvt. Ltd.",
         "office": "it",
         "website": "https://www.sbsoldigital.com/"
+      }
+    }
+  },
+  {
+    "name": "Information Technology",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 21.0950127,
+    "lng": 78.9802811,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4711226230"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology",
+    "raw": {
+      "osm_tags": {
+        "name": "Information Technology"
       }
     }
   },
@@ -16975,6 +17103,37 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Beta computronics pvt ltd",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "10/1 IT park",
+    "lat": 21.1211361,
+    "lng": 79.0482033,
+    "website": "betacomp.com",
+    "phone": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5250293028"
+    },
+    "tech_score": 43.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "10/1 IT park",
+        "name": "Beta computronics pvt ltd",
+        "office": "it",
+        "website": "betacomp.com"
+      }
     }
   },
   {
@@ -27554,6 +27713,42 @@
     }
   },
   {
+    "name": "6Simplex",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "30, Ambazhari Hilltop, Nagpur, 440033",
+    "lat": 21.1366314,
+    "lng": 79.0510026,
+    "website": "https://6simplex.co.in/",
+    "phone": "",
+    "categories": [
+      "description=GIS Software Development, ArcObjects, ArcGIS Server, ArcGIS JavaScript API, GeoTools, GeoServer, OpenLayers, ArcGIS Android, Google Maps"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5045666758"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:country": "IN",
+        "addr:housenumber": "30",
+        "addr:postcode": "440033",
+        "addr:street": "Ambazhari Hilltop",
+        "description": "GIS Software Development, ArcObjects, ArcGIS Server, ArcGIS JavaScript API, GeoTools, GeoServer, OpenLayers, ArcGIS Android, Google Maps",
+        "email": "butler@6simplex.co.in",
+        "name": "6Simplex",
+        "website": "https://6simplex.co.in/"
+      }
+    }
+  },
+  {
     "name": "Vodafone",
     "city": "New Delhi",
     "region": "Delhi",
@@ -29804,6 +29999,32 @@
     }
   },
   {
+    "name": "Computer Technology and Electrical",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 21.0952317,
+    "lng": 78.9776058,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4711226223"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technology, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Computer Technology and Electrical"
+      }
+    }
+  },
+  {
     "name": "Dell Technologies",
     "city": "New Delhi",
     "region": "Delhi",
@@ -30502,6 +30723,45 @@
     }
   },
   {
+    "name": "Persistent Systems Limited",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Plot 8-9, Gargi-Maitreyi, Persistent Building, IT Park Road, Gayatri nagar, Nagpur, 440022",
+    "lat": 21.1214069,
+    "lng": 79.0473067,
+    "website": "https://www.persistent.com/",
+    "phone": "+91 712 669 2000",
+    "categories": [
+      "office=company",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1300842467"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:district": "Nagpur",
+        "addr:housenumber": "Plot 8-9, Gargi-Maitreyi",
+        "addr:postcode": "440022",
+        "addr:street": "Persistent Building, IT Park Road, Gayatri nagar",
+        "building": "yes",
+        "name": "Persistent Systems Limited",
+        "office": "company",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "phone": "+91 712 669 2000",
+        "website": "https://www.persistent.com/"
+      }
+    }
+  },
+  {
     "name": "Agni Solar Systems Pvt Ltd",
     "city": "Pune",
     "region": "Maharashtra",
@@ -30573,6 +30833,74 @@
         "addr:street": "Ameerpet Road",
         "name": "Sieve Software-Nearyouu.com",
         "phone": "8019242423"
+      }
+    }
+  },
+  {
+    "name": "Kutub Mobile shop",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 21.1801774,
+    "lng": 79.0415473,
+    "website": "",
+    "phone": "+918999938838;+919604172637",
+    "categories": [
+      "shop=mobile_phone",
+      "description=All online phones available.\nAll Mobile accessories, repairing & software"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11575936028"
+    },
+    "tech_score": 35.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "description": "All online phones available.\nAll Mobile accessories, repairing & software",
+        "name": "Kutub Mobile shop",
+        "phone": "+918999938838;+919604172637",
+        "shop": "mobile_phone"
+      }
+    }
+  },
+  {
+    "name": "Mobile Hub",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Katol Road, 440013",
+    "lat": 21.1752438,
+    "lng": 79.0531395,
+    "website": "",
+    "phone": "+917030770622",
+    "categories": [
+      "shop=mobile_phone",
+      "description=All Types of Mobile Repairing, Hardware And Software\nNew Mobile Available, Finance Available\nAll types of Mobile Accessories Available"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11591805019"
+    },
+    "tech_score": 35.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "440013",
+        "addr:street": "Katol Road",
+        "description": "All Types of Mobile Repairing, Hardware And Software\nNew Mobile Available, Finance Available\nAll types of Mobile Accessories Available",
+        "email": "sohelsheikh7819@gmail.com",
+        "name": "Mobile Hub",
+        "phone": "+917030770622",
+        "shop": "mobile_phone",
+        "youtube": "moblie hub 01;@sohelsheikh7111"
       }
     }
   },
@@ -32248,6 +32576,43 @@
     }
   },
   {
+    "name": "eLan Technology",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "21, Premier Technology Group, IT Park Road, Gayatri Nagar, Nagpur, 440022",
+    "lat": 21.1202655,
+    "lng": 79.0478892,
+    "website": "https://www.elan-tech.net/",
+    "phone": "+91-9822231642",
+    "categories": [
+      "office=graphic_design"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12048790789"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:district": "Nagpur",
+        "addr:housenumber": "21, Premier Technology Group",
+        "addr:postcode": "440022",
+        "addr:street": "IT Park Road, Gayatri Nagar",
+        "name": "eLan Technology",
+        "office": "graphic_design",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+91-9822231642",
+        "website": "https://www.elan-tech.net/"
+      }
+    }
+  },
+  {
     "name": "Feminist Approach to Technology",
     "city": "New Delhi",
     "region": "Delhi",
@@ -33198,6 +33563,35 @@
       "osm_tags": {
         "building": "university",
         "name": "Software Block"
+      }
+    }
+  },
+  {
+    "name": "Central Institute of Information Technology",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 21.1202504,
+    "lng": 79.0635361,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=research"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3062464830"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: information technology, technology; negative hints: institute",
+    "raw": {
+      "osm_tags": {
+        "name": "Central Institute of Information Technology",
+        "office": "research"
       }
     }
   },
@@ -37328,6 +37722,43 @@
         "opening_hours": "9:00-18:30",
         "operator": "Jaaga",
         "website": "https://www.jaaga.in/"
+      }
+    }
+  },
+  {
+    "name": "Kcyber Experts Pvt Ltd",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "GPO Road, Civil Lines, Nagpur, Maharashtra 440001",
+    "lat": 21.1509477,
+    "lng": 79.068656,
+    "website": "https://kcyberexperts.com/",
+    "phone": "91722 06400",
+    "categories": [
+      "office=cybersecurity_office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13817844781"
+    },
+    "tech_score": 28.0,
+    "confidence": "low",
+    "notes": "matched: cybersecurity",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:district": "Nagpur",
+        "addr:full": "GPO Road, Civil Lines, Nagpur, Maharashtra 440001",
+        "addr:housenumber": "246-A",
+        "addr:postcode": "440001",
+        "name": "Kcyber Experts Pvt Ltd",
+        "office": "cybersecurity_office",
+        "opening_hours": "24/7",
+        "phone": "91722 06400",
+        "website": "https://kcyberexperts.com/"
       }
     }
   },
@@ -45557,6 +45988,66 @@
     }
   },
   {
+    "name": "Center for advanced mobilities technologies",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 21.1240401,
+    "lng": 79.0499458,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1326220457"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "building": "university",
+        "building:levels": "1",
+        "height": "4.1",
+        "name": "Center for advanced mobilities technologies"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "Shri Krishna Technologies",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 21.1177713,
+    "lng": 79.0431793,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3060601357"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Shri Krishna Technologies"
+      }
+    }
+  },
+  {
     "name": "360 Degree Digital Solutions",
     "city": "New Delhi",
     "region": "Delhi",
@@ -52556,6 +53047,37 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Ascent Business Solutions",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Nagpur",
+    "lat": 21.1198608,
+    "lng": 79.0487717,
+    "website": "https://ascent-group.com/",
+    "phone": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:477500070"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "building": "office",
+        "name": "Ascent Business Solutions",
+        "website": "https://ascent-group.com/"
+      }
     }
   },
   {
