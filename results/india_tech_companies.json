@@ -11003,7 +11003,10 @@
         "alt_name": "Jadoli systems pvt ltd",
         "building": "office",
         "name": "Aris Global Software Pvt Ltd."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -29794,7 +29797,10 @@
         "building": "yes",
         "name": "QDP Technologies",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -35111,7 +35117,10 @@
         "website": "https://www.infosys.com",
         "wikidata": "Q26989",
         "wikipedia": "en:Infosys"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -45447,7 +45456,10 @@
       "osm_tags": {
         "name": "Centre for Information Science and Technology (CIST)",
         "office": "educational_institution"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -45473,7 +45485,10 @@
     "raw": {
       "osm_tags": {
         "name": "Kaparthy, Infotech Pvt. Ltd.,"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -45503,7 +45518,10 @@
         "addr:postcode": "560016",
         "addr:street": "A 1, 12, 2nd Main Road, Peenya Industrial Area, Phase IV, Peenya, Bengaluru, Karnataka – 560058.",
         "name": "Kaynes Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
@@ -45532,7 +45550,10 @@
       "osm_tags": {
         "building": "yes",
         "name": "Technology block"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
     }
   },
   {
