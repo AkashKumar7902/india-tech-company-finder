@@ -3325,6 +3325,44 @@
     }
   },
   {
+    "name": "Yatharthriti IT Services Private Ltd | Learning Management System|LMS Platform | LMS Software|LMS Provider| Moodle LMS| Elearning Solution",
+    "city": "Faridabad",
+    "region": "Haryana",
+    "country": "India",
+    "address": "A22, Second Floor, Above Monte Carlo Showroom, Nehru Ground, NIT, Faridabad, 121001",
+    "lat": 28.3906154,
+    "lng": 77.3020554,
+    "website": "https://www.yatharthriti.com/moodle-lms.html",
+    "phone": "0129-4086849",
+    "categories": [
+      "description=Yatharthriti IT Services Pvt Ltd is a growing organization and given best to all the clients. Our work process is mainly focused on providing the best deliverables to all the clients. We have already completed many projects ranging from website developmen"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:352287112"
+    },
+    "tech_score": 68.0,
+    "confidence": "high",
+    "notes": "matched: software, it services",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Faridabad",
+        "addr:housenumber": "A22",
+        "addr:postcode": "121001",
+        "addr:street": "Second Floor, Above Monte Carlo Showroom, Nehru Ground, NIT",
+        "description": "Yatharthriti IT Services Pvt Ltd is a growing organization and given best to all the clients. Our work process is mainly focused on providing the best deliverables to all the clients. We have already completed many projects ranging from website developmen",
+        "email": "sales@yatharthriti.com",
+        "image": "https://www.yatharthriti.com/assets/images/logo.webp",
+        "landuse": "industrial",
+        "name": "Yatharthriti IT Services Private Ltd | Learning Management System|LMS Platform | LMS Software|LMS Provider| Moodle LMS| Elearning Solution",
+        "phone": "0129-4086849",
+        "website": "https://www.yatharthriti.com/moodle-lms.html"
+      }
+    }
+  },
+  {
     "name": "Find logics software",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -42282,6 +42320,92 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Indian Oil Technology Development and Deployment Centre",
+    "city": "Faridabad",
+    "region": "Haryana",
+    "country": "India",
+    "address": "",
+    "lat": 28.3121545,
+    "lng": 77.3624343,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1482139139"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "construction": "commercial",
+        "landuse": "construction",
+        "name": "Indian Oil Technology Development and Deployment Centre"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": []
+    }
+  },
+  {
+    "name": "R.S. Technologies",
+    "city": "Faridabad",
+    "region": "Haryana",
+    "country": "India",
+    "address": "",
+    "lat": 28.3790002,
+    "lng": 77.3410076,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5409478520"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "R.S. Technologies"
+      }
+    }
+  },
+  {
+    "name": "Sietz Technologies Pvt. Ltd.",
+    "city": "Faridabad",
+    "region": "Haryana",
+    "country": "India",
+    "address": "",
+    "lat": 28.3632409,
+    "lng": 77.3216478,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "building=industrial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:143866953"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "building": "industrial",
+        "name": "Sietz Technologies Pvt. Ltd."
+      }
     }
   },
   {
