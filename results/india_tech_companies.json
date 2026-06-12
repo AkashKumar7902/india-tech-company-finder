@@ -40,6 +40,58 @@
     }
   },
   {
+    "name": "Quadkast Technologies",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Plot 12C, 1, 3rd Cross St, South Phase, Guindy Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
+    "lat": 13.0160677,
+    "lng": 80.2003626,
+    "website": "http://quadkast.com/",
+    "phone": "",
+    "careers_url": "https://www.quadkast.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.quadkast.com/_next/static/chunks/app/careers/page-0165fe271a2b5e08.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T19:01:30+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "description=Software Company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7162410756"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:full": "Plot 12C, 1, 3rd Cross St, South Phase, Guindy Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
+        "description": "Software Company",
+        "email": "info@quadkast.com",
+        "name": "Quadkast Technologies",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-19:00",
+        "website": "http://quadkast.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.quadkast.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.quadkast.com/_next/static/chunks/app/careers/page-0165fe271a2b5e08.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T19:01:30+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "WePop Info Solutions",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -540,58 +592,6 @@
     }
   },
   {
-    "name": "Quadkast Technologies",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Plot 12C, 1, 3rd Cross St, South Phase, Guindy Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
-    "lat": 13.0160677,
-    "lng": 80.2003626,
-    "website": "http://quadkast.com/",
-    "phone": "",
-    "careers_url": "https://www.quadkast.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.quadkast.com/_next/static/chunks/app/careers/page-0165fe271a2b5e08.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T19:01:30+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "description=Software Company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7162410756"
-    },
-    "tech_score": 97.0,
-    "confidence": "high",
-    "notes": "matched: software, technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:full": "Plot 12C, 1, 3rd Cross St, South Phase, Guindy Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
-        "description": "Software Company",
-        "email": "info@quadkast.com",
-        "name": "Quadkast Technologies",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:30-19:00",
-        "website": "http://quadkast.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://www.quadkast.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.quadkast.com/_next/static/chunks/app/careers/page-0165fe271a2b5e08.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T19:01:30+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "SpatioWorld Technologies",
     "city": "Pune",
     "region": "Maharashtra",
@@ -616,7 +616,7 @@
     "source_ids": {
       "openstreetmap": "node:12281630915"
     },
-    "tech_score": 93.0,
+    "tech_score": 97.0,
     "confidence": "high",
     "notes": "matched: technologies, infotech, office=it",
     "raw": {
@@ -729,6 +729,108 @@
         "confidence": "none",
         "checked_at": "2026-06-12T19:01:36+00:00",
         "notes": "https://pepeneropizzerianh.com/jobs: HTTPError; https://pepeneropizzerianh.com/jobs/: HTTPError; https://pepeneropizzerianh.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
+    "name": "Planvisage Software Solutions",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "35/1, 2nd Floor, Cunningham Hallmark, Cunningham Road, Bengaluru, 560001",
+    "lat": 12.9864281,
+    "lng": 77.5952553,
+    "website": "https://planvisage.com/",
+    "phone": "+91 80 4113 5997",
+    "careers_url": "https://www.planvisage.com/aboutus",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://panorama.wixapps.net/api/v1/bulklog",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T19:02:47+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "description=Supply chain solutions company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13469785380"
+    },
+    "tech_score": 91.0,
+    "confidence": "high",
+    "notes": "matched: software, solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "35/1, 2nd Floor, Cunningham Hallmark",
+        "addr:postcode": "560001",
+        "addr:state": "KA",
+        "addr:street": "Cunningham Road",
+        "description": "Supply chain solutions company",
+        "name": "Planvisage Software Solutions",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-19:00",
+        "phone": "+91 80 4113 5997",
+        "website": "https://planvisage.com/",
+        "wheelchair": "no"
+      },
+      "careers": {
+        "url": "https://www.planvisage.com/aboutus",
+        "provider": "company_website",
+        "api_url": "https://panorama.wixapps.net/api/v1/bulklog",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T19:02:47+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Robert Bosch Engineering and Business Solutions Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Campus 1B EcoSpace Varthur Hobli Sarjapura Villas,, Service Rd, Adarsh Palm Retreat, Bellandur, Belandur, Bangalore, 560103",
+    "lat": 12.9265276,
+    "lng": 77.6798083,
+    "website": "https://www.bosch-india-software.com",
+    "phone": "080665 75757",
+    "careers_url": "https://www.bosch.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.bosch.in/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T19:02:49+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3551347251"
+    },
+    "tech_score": 91.0,
+    "confidence": "high",
+    "notes": "matched: software, solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Belandur, Bangalore",
+        "addr:postcode": "560103",
+        "addr:street": "Campus 1B EcoSpace Varthur Hobli Sarjapura Villas,, Service Rd, Adarsh Palm Retreat, Bellandur",
+        "name": "Robert Bosch Engineering and Business Solutions Limited",
+        "office": "it",
+        "phone": "080665 75757",
+        "website": "https://www.bosch-india-software.com"
+      },
+      "careers": {
+        "url": "https://www.bosch.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.bosch.in/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T19:02:49+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -964,108 +1066,6 @@
         "confidence": "none",
         "checked_at": "2026-06-12T19:02:45+00:00",
         "notes": "https://vyomnet.tech/jobs: HTTPError; https://vyomnet.tech/jobs/: HTTPError; https://vyomnet.tech/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Planvisage Software Solutions",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "35/1, 2nd Floor, Cunningham Hallmark, Cunningham Road, Bengaluru, 560001",
-    "lat": 12.9864281,
-    "lng": 77.5952553,
-    "website": "https://planvisage.com/",
-    "phone": "+91 80 4113 5997",
-    "careers_url": "https://www.planvisage.com/aboutus",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://panorama.wixapps.net/api/v1/bulklog",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T19:02:47+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "description=Supply chain solutions company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13469785380"
-    },
-    "tech_score": 87.0,
-    "confidence": "high",
-    "notes": "matched: software, solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:housenumber": "35/1, 2nd Floor, Cunningham Hallmark",
-        "addr:postcode": "560001",
-        "addr:state": "KA",
-        "addr:street": "Cunningham Road",
-        "description": "Supply chain solutions company",
-        "name": "Planvisage Software Solutions",
-        "office": "it",
-        "opening_hours": "Mo-Fr 10:00-19:00",
-        "phone": "+91 80 4113 5997",
-        "website": "https://planvisage.com/",
-        "wheelchair": "no"
-      },
-      "careers": {
-        "url": "https://www.planvisage.com/aboutus",
-        "provider": "company_website",
-        "api_url": "https://panorama.wixapps.net/api/v1/bulklog",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T19:02:47+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Robert Bosch Engineering and Business Solutions Limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Campus 1B EcoSpace Varthur Hobli Sarjapura Villas,, Service Rd, Adarsh Palm Retreat, Bellandur, Belandur, Bangalore, 560103",
-    "lat": 12.9265276,
-    "lng": 77.6798083,
-    "website": "https://www.bosch-india-software.com",
-    "phone": "080665 75757",
-    "careers_url": "https://www.bosch.in/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.bosch.in/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T19:02:49+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3551347251"
-    },
-    "tech_score": 87.0,
-    "confidence": "high",
-    "notes": "matched: software, solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Belandur, Bangalore",
-        "addr:postcode": "560103",
-        "addr:street": "Campus 1B EcoSpace Varthur Hobli Sarjapura Villas,, Service Rd, Adarsh Palm Retreat, Bellandur",
-        "name": "Robert Bosch Engineering and Business Solutions Limited",
-        "office": "it",
-        "phone": "080665 75757",
-        "website": "https://www.bosch-india-software.com"
-      },
-      "careers": {
-        "url": "https://www.bosch.in/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.bosch.in/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T19:02:49+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -3583,6 +3583,50 @@
     }
   },
   {
+    "name": "Geeni Infotech",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "221, Surat Kadodara Road, Opp Landmark Textile Market, Surat, 395010",
+    "lat": 21.1897313,
+    "lng": 72.8756583,
+    "website": "https://geeniinfotech.com",
+    "phone": "9913878358",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10581651894"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: infotech, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Surat",
+        "addr:country": "IN",
+        "addr:housenumber": "221",
+        "addr:postcode": "395010",
+        "addr:street": "Surat Kadodara Road, Opp Landmark Textile Market",
+        "email": "info@geeniinfotech.com",
+        "name": "Geeni Infotech",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "9913878358",
+        "website": "https://geeniinfotech.com"
+      }
+    }
+  },
+  {
     "name": "Amber Road Software Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -5128,9 +5172,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-12T20:06:42+00:00",
+    "careers_notes": "https://rawdatatech.com/jobs: HTTPError; https://rawdatatech.com/jobs/: HTTPError; https://rawdatatech.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -5157,6 +5201,14 @@
         "office": "it",
         "opening_hours": "Mo-Sa 09:30-18:30",
         "website": "https://rawdatatech.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-12T20:06:42+00:00",
+        "notes": "https://rawdatatech.com/jobs: HTTPError; https://rawdatatech.com/jobs/: HTTPError; https://rawdatatech.com/career: HTTPError; no careers page detected"
       }
     }
   },
@@ -5170,12 +5222,12 @@
     "lng": 72.9929043,
     "website": "https://www.here.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.here.com/about/careers",
+    "careers_provider": "icims",
+    "careers_api_url": "https://www.here.com/about/careers",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-12T20:06:45+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=it"
     ],
@@ -5196,7 +5248,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.here.com/about/careers",
+        "provider": "icims",
+        "api_url": "https://www.here.com/about/careers",
+        "confidence": "high",
+        "checked_at": "2026-06-12T20:06:45+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -5242,6 +5302,46 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "CODIGO INFOTECH LLP",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "205, Royal Square, Surat, 394105",
+    "lat": 21.233615,
+    "lng": 72.8642049,
+    "website": "https://codigo.co.in",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11409367177"
+    },
+    "tech_score": 67.0,
+    "confidence": "high",
+    "notes": "matched: infotech, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "205",
+        "addr:postcode": "394105",
+        "addr:street": "Royal Square",
+        "name": "CODIGO INFOTECH LLP",
+        "office": "it",
+        "website": "https://codigo.co.in"
+      }
     }
   },
   {
@@ -9848,6 +9948,40 @@
         "building:levels": "3",
         "description": "SplendorNet Technologies Pvt. Ltd. is one of the leading opensource software company that helps realize business dream through consulting and IT partnership",
         "name": "SplendorNet Technologies Pvt. Ltd."
+      }
+    }
+  },
+  {
+    "name": "Shreedama Technologies",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 21.2364213,
+    "lng": 72.8757941,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5442595083"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Shreedama Technologies",
+        "source": "web designer in surat",
+        "source_1": "Software Development"
       }
     }
   },
@@ -17941,6 +18075,82 @@
     }
   },
   {
+    "name": "Gnan Tech World",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "296, Ayodhyapuram Soc, near Green Velly Reci., Valak Patiya, Surat, 395006",
+    "lat": 21.2495976,
+    "lng": 72.9172803,
+    "website": "https://www.gnantech.com",
+    "phone": "+919601292310",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10617934863"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "296",
+        "addr:postcode": "395006",
+        "addr:street": "Ayodhyapuram Soc, near Green Velly Reci., Valak Patiya",
+        "name": "Gnan Tech World",
+        "office": "it",
+        "phone": "+919601292310",
+        "website": "https://www.gnantech.com"
+      }
+    }
+  },
+  {
+    "name": "Rsoft Software Solutions",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 21.2036153,
+    "lng": 72.8240297,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2629374610"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: software, solutions",
+    "raw": {
+      "osm_tags": {
+        "name": "Rsoft Software Solutions",
+        "office": "yes"
+      }
+    }
+  },
+  {
     "name": "New LJ Institute of Engineering and Technology",
     "city": "Ahmedabad",
     "region": "Gujarat",
@@ -20756,6 +20966,47 @@
         "name:en": "Techlead",
         "office": "it",
         "website": "http://www.techlead-india.com/"
+      }
+    }
+  },
+  {
+    "name": "P9labs",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "908-910, Western Business Park, Udhna Magdalla Road, Surat, 395007",
+    "lat": 21.1505567,
+    "lng": 72.7729622,
+    "website": "https://www.p9labs.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7085431020"
+    },
+    "tech_score": 43.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "908-910, Western Business Park",
+        "addr:postcode": "395007",
+        "addr:street": "Udhna Magdalla Road",
+        "name": "P9labs",
+        "office": "it",
+        "opening_hours": "24/7",
+        "website": "https://www.p9labs.com/"
       }
     }
   },
@@ -25397,6 +25648,46 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Bigscal Technologies Pvt. Ltd.",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "1st Floor, B - Millenium Point, Railway Station Road, Surat, 395003",
+    "lat": 21.206244,
+    "lng": 72.8386669,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13511230283"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Surat",
+        "addr:district": "Surat",
+        "addr:housenumber": "1st Floor, B - Millenium Point",
+        "addr:postcode": "395003",
+        "addr:street": "Railway Station Road",
+        "name": "Bigscal Technologies Pvt. Ltd.",
+        "office": "company"
+      }
     }
   },
   {
@@ -43185,6 +43476,42 @@
     }
   },
   {
+    "name": "Rising Star Infotech",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 21.2405095,
+    "lng": 72.8694583,
+    "website": "https://risingstarinfotech.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=Developing High-Performance\nWebsites and Mobile Apps that Drive Results"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13168831451"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "description": "Developing High-Performance\nWebsites and Mobile Apps that Drive Results",
+        "name": "Rising Star Infotech",
+        "website": "https://risingstarinfotech.com/"
+      }
+    }
+  },
+  {
     "name": "Livares Technologies Pvt Ltd",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -57827,6 +58154,39 @@
     }
   },
   {
+    "name": "Essela Technologies Inc,",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 21.2134832,
+    "lng": 72.7865545,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7548706302"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Essela Technologies Inc,",
+        "note": "Sun Trade Centre, Ram Ngar, Surat - 395009, Gujarat"
+      }
+    }
+  },
+  {
     "name": "Addon Technologies",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -64496,6 +64856,54 @@
         "height": "0",
         "name": "Osumare",
         "website": "https://osumare.com/"
+      }
+    }
+  },
+  {
+    "name": "Chevli Softwares Solution",
+    "city": "Surat",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "M12/13, VIP Road, Surat, 395007",
+    "lat": 21.1342912,
+    "lng": 72.7906341,
+    "website": "https://gsmchevli.com/",
+    "phone": "+91 98257 83454",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11277389355"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: computer",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Surat",
+        "addr:district": "Surat",
+        "addr:housenumber": "M12/13",
+        "addr:postcode": "395007",
+        "addr:street": "VIP Road",
+        "check_date": "2023-10-20",
+        "contact:email": "admin@gsmchevli.com",
+        "currency:XBT": "yes",
+        "name": "Chevli Softwares Solution",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "phone": "+91 98257 83454",
+        "shop": "computer",
+        "website": "https://gsmchevli.com/"
       }
     }
   },
