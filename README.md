@@ -75,7 +75,7 @@ python -m india_tech_finder.cli find \
   --sources osm,google,search \
   --granularity hybrid \
   --region-batch-size 1 \
-  --google-point-batch-size 6 \
+  --google-point-batch-size 1 \
   --batch-index 0 \
   --no-google-details \
   --merge-existing
@@ -121,7 +121,7 @@ So it does **not rely only on known tech zones**. Companies outside famous corri
 Because Google/Overpass can return 429 when too many requests happen in one burst, the GitHub Action uses:
 
 - one city/region per run by default
-- six Google zone/grid points per run by default
+- one Google zone/grid point per run by default
 - `--merge-existing` so results accumulate over time
 - `--no-google-details` by default to avoid extra Place Details requests
 - retries and exponential backoff for 429 responses
@@ -257,7 +257,7 @@ A workflow is included at:
 .github/workflows/find-india-tech-companies.yml
 ```
 
-It runs every 6 hours in small rotating batches and can also be started manually from **Actions → Find India tech companies → Run workflow**.
+It runs every 10 minutes in tiny rotating batches and can also be started manually from **Actions → Find India tech companies → Run workflow**.
 
 To enable Google Places in GitHub:
 
@@ -277,17 +277,17 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 - `TECH_FINDER_GRID_RADIUS_M` — optional; default equals grid size
 - `TECH_FINDER_ZONE_RADIUS_M` — default `4000`
 - `TECH_FINDER_REGION_BATCH_SIZE` — default `1`, to avoid Overpass/Google bursts
-- `TECH_FINDER_GOOGLE_POINT_BATCH_SIZE` — default `6`, number of grid points per run
+- `TECH_FINDER_GOOGLE_POINT_BATCH_SIZE` — default `1`, number of grid points per run
 - `TECH_FINDER_BATCH_INDEX` — optional; defaults to GitHub run number for rotation
 - `TECH_FINDER_MIN_SCORE` — default `20`
 - `TECH_FINDER_MAX_PAGES` — default `1`; use `3` for deeper Google results, but it costs more
 - `TECH_FINDER_NO_GOOGLE_DETAILS` — default `true` in cron to reduce Google API calls by skipping Place Details
-- `TECH_FINDER_GOOGLE_REQUEST_SLEEP_S` — default `0.3`, small pause between Google API calls
-- `TECH_FINDER_WEB_LOCATION_BATCH_SIZE` — default `3`, number of region/zone names searched via Bing/SerpAPI per run
-- `TECH_FINDER_WEB_MAX_RESULTS` — default `5`, search results per query
+- `TECH_FINDER_GOOGLE_REQUEST_SLEEP_S` — default `1`, small pause between Google API calls
+- `TECH_FINDER_WEB_LOCATION_BATCH_SIZE` — default `1`, number of region/zone names searched via Bing/SerpAPI per run
+- `TECH_FINDER_WEB_MAX_RESULTS` — default `3`, search results per query
 - `TECH_FINDER_WEB_REQUEST_SLEEP_S` — default `1`, pause between search API requests
 - `TECH_FINDER_ENRICH_CAREERS` — default `true`; finds careers URL/provider/API for companies with websites
-- `TECH_FINDER_CAREERS_BATCH_SIZE` — default `20`
+- `TECH_FINDER_CAREERS_BATCH_SIZE` — default `2`
 - `TECH_FINDER_CAREERS_REQUEST_SLEEP_S` — default `1`
 
 ## How scoring works

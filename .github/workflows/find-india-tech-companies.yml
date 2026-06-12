@@ -3,9 +3,9 @@ name: Find India tech companies
 on:
   workflow_dispatch:
   schedule:
-    # Small rotating batches every 6 hours to avoid Google/Overpass 429s.
-    # GitHub Actions cron uses UTC.
-    - cron: "17 */6 * * *"
+    # Runs every 10 minutes. Keep default batches tiny to reduce 429/cost risk.
+    # GitHub Actions cron uses UTC and may be delayed by GitHub load.
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
@@ -70,15 +70,15 @@ jobs:
           GRID_SIZE_M="${TECH_FINDER_GRID_SIZE_M:-5000}"
           ZONE_RADIUS_M="${TECH_FINDER_ZONE_RADIUS_M:-4000}"
           REGION_BATCH_SIZE="${TECH_FINDER_REGION_BATCH_SIZE:-1}"
-          GOOGLE_POINT_BATCH_SIZE="${TECH_FINDER_GOOGLE_POINT_BATCH_SIZE:-6}"
+          GOOGLE_POINT_BATCH_SIZE="${TECH_FINDER_GOOGLE_POINT_BATCH_SIZE:-1}"
           BATCH_INDEX="${TECH_FINDER_BATCH_INDEX:-${GITHUB_RUN_NUMBER}}"
           MIN_SCORE="${TECH_FINDER_MIN_SCORE:-20}"
           MAX_PAGES="${TECH_FINDER_MAX_PAGES:-1}"
-          GOOGLE_REQUEST_SLEEP_S="${TECH_FINDER_GOOGLE_REQUEST_SLEEP_S:-0.3}"
-          CAREERS_BATCH_SIZE="${TECH_FINDER_CAREERS_BATCH_SIZE:-20}"
+          GOOGLE_REQUEST_SLEEP_S="${TECH_FINDER_GOOGLE_REQUEST_SLEEP_S:-1}"
+          CAREERS_BATCH_SIZE="${TECH_FINDER_CAREERS_BATCH_SIZE:-2}"
           CAREERS_REQUEST_SLEEP_S="${TECH_FINDER_CAREERS_REQUEST_SLEEP_S:-1}"
-          WEB_LOCATION_BATCH_SIZE="${TECH_FINDER_WEB_LOCATION_BATCH_SIZE:-3}"
-          WEB_MAX_RESULTS="${TECH_FINDER_WEB_MAX_RESULTS:-5}"
+          WEB_LOCATION_BATCH_SIZE="${TECH_FINDER_WEB_LOCATION_BATCH_SIZE:-1}"
+          WEB_MAX_RESULTS="${TECH_FINDER_WEB_MAX_RESULTS:-3}"
           WEB_REQUEST_SLEEP_S="${TECH_FINDER_WEB_REQUEST_SLEEP_S:-1}"
 
           EXTRA_ARGS=()
