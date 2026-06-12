@@ -28,6 +28,8 @@ jobs:
       TECH_FINDER_PRESET: ${{ vars.TECH_FINDER_PRESET }}
       TECH_FINDER_REGIONS: ${{ vars.TECH_FINDER_REGIONS }}
       TECH_FINDER_SOURCES: ${{ vars.TECH_FINDER_SOURCES }}
+      # Safety gate: paid APIs are disabled unless this variable is exactly true.
+      TECH_FINDER_ALLOW_PAID_APIS: ${{ vars.TECH_FINDER_ALLOW_PAID_APIS }}
       TECH_FINDER_GRANULARITY: ${{ vars.TECH_FINDER_GRANULARITY }}
       TECH_FINDER_GRID_SIZE_M: ${{ vars.TECH_FINDER_GRID_SIZE_M }}
       TECH_FINDER_GRID_RADIUS_M: ${{ vars.TECH_FINDER_GRID_RADIUS_M }}
@@ -72,7 +74,11 @@ jobs:
         run: |
           set -euo pipefail
           PRESET="${TECH_FINDER_PRESET:-india-tech-cities}"
-          SOURCES="${TECH_FINDER_SOURCES:-osm,google_new,search}"
+          SOURCES="${TECH_FINDER_SOURCES:-osm}"
+          if [ "${TECH_FINDER_ALLOW_PAID_APIS:-false}" != "true" ]; then
+            echo "Paid API safety gate is OFF. Forcing TECH_FINDER_SOURCES=osm."
+            SOURCES="osm"
+          fi
           GRANULARITY="${TECH_FINDER_GRANULARITY:-hybrid}"
           GRID_SIZE_M="${TECH_FINDER_GRID_SIZE_M:-5000}"
           ZONE_RADIUS_M="${TECH_FINDER_ZONE_RADIUS_M:-4000}"

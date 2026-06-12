@@ -53,6 +53,28 @@ cp .env.example .env
 # optional: set BING_SEARCH_API_KEY or SERPAPI_API_KEY for web-search discovery
 ```
 
+## Zero-charge safety
+
+If you do not want any paid API charges, do **not** complete Google Cloud billing verification and keep the GitHub Action safety gate disabled. By default the workflow now forces:
+
+```text
+TECH_FINDER_SOURCES=osm
+```
+
+Paid APIs are used only if you explicitly set this repo variable:
+
+```text
+TECH_FINDER_ALLOW_PAID_APIS=true
+```
+
+For zero-charge mode, delete/avoid these secrets too:
+
+```text
+GOOGLE_PLACES_API_KEY
+BING_SEARCH_API_KEY
+SERPAPI_API_KEY
+```
+
 ## Run
 
 Free OSM-only run across Indian tech cities:
@@ -334,7 +356,8 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 
 - `TECH_FINDER_PRESET` — default `india-tech-cities`
 - `TECH_FINDER_REGIONS` — comma-separated subset, e.g. `bengaluru,hyderabad,pune`
-- `TECH_FINDER_SOURCES` — default `osm,google_new,search`
+- `TECH_FINDER_SOURCES` — default `osm` unless `TECH_FINDER_ALLOW_PAID_APIS=true`
+- `TECH_FINDER_ALLOW_PAID_APIS` — default `false`; must be `true` to allow Google/Search paid API sources
 - `TECH_FINDER_GRANULARITY` — default `hybrid`; choices: `city`, `zones`, `grid`, `hybrid`
 - `TECH_FINDER_GRID_SIZE_M` — default `5000`
 - `TECH_FINDER_GRID_RADIUS_M` — optional; default equals grid size
