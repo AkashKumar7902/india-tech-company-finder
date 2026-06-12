@@ -8353,6 +8353,42 @@
     }
   },
   {
+    "name": "Technology and Solutions",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "41, Shivaji Enclave, C Block, Indiranagar, Lucknow, 226016",
+    "lat": 26.8782898,
+    "lng": 80.9874066,
+    "website": "https://soln.tech",
+    "phone": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13732139335"
+    },
+    "tech_score": 56.0,
+    "confidence": "high",
+    "notes": "matched: technology, solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Lucknow",
+        "addr:district": "Lucknow",
+        "addr:housenumber": "41",
+        "addr:postcode": "226016",
+        "addr:street": "Shivaji Enclave, C Block, Indiranagar",
+        "name": "Technology and Solutions",
+        "office": "company",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "website": "https://soln.tech"
+      }
+    }
+  },
+  {
     "name": "Kailash Path Labs",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -8732,6 +8768,40 @@
         "name": "SBSOL Digital Pvt. Ltd.",
         "office": "it",
         "website": "https://www.sbsoldigital.com/"
+      }
+    }
+  },
+  {
+    "name": "Maharishi University Of Information Technology",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Lucknow, 226021",
+    "lat": 26.9302879,
+    "lng": 80.9278433,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "amenity=university",
+      "description=Maharishi University of Information Technology IIM bypass Lucknow"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5109403070"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Lucknow",
+        "addr:postcode": "226021",
+        "amenity": "university",
+        "description": "Maharishi University of Information Technology IIM bypass Lucknow",
+        "internet_access": "yes",
+        "name": "Maharishi University Of Information Technology"
       }
     }
   },
@@ -27517,6 +27587,130 @@
     }
   },
   {
+    "name": "HCL IT-03",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 26.7930142,
+    "lng": 81.0245105,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1258318817"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "HCL IT-03",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "HCL Office",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 26.7917936,
+    "lng": 81.0239982,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1258317942"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "HCL Office",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "HCL SDC 2",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 26.7909791,
+    "lng": 81.0254842,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1258319597"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "HCL SDC 2",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 26.8673852,
+    "lng": 81.0085569,
+    "website": "",
+    "phone": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:211514990"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Tata Consultancy Services",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "A Wing, Technocity",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -36640,6 +36834,40 @@
     }
   },
   {
+    "name": "Digital Literacy Centre ( DLC VINAYAKPURAM)",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "199, Vinayakpuram, 226022",
+    "lat": 26.9019403,
+    "lng": 80.9614669,
+    "website": "http://www.aimindiatrust.org",
+    "phone": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13622377301"
+    },
+    "tech_score": 30.0,
+    "confidence": "low",
+    "notes": "matched: digital, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "199",
+        "addr:postcode": "226022",
+        "addr:street": "Vinayakpuram",
+        "name": "Digital Literacy Centre ( DLC VINAYAKPURAM)",
+        "opening_hours": "Mo-Sa 10:30-17:30",
+        "shop": "computer",
+        "website": "http://www.aimindiatrust.org"
+      }
+    }
+  },
+  {
     "name": "Tech Digital Computer",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -45484,6 +45712,62 @@
     }
   },
   {
+    "name": "Augurs Technologies Pvt. Ltd.",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 26.8633562,
+    "lng": 80.9966008,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6229305794"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Augurs Technologies Pvt. Ltd."
+      }
+    }
+  },
+  {
+    "name": "Iph technologies",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Iph technologies, VIP Road, Lucknow, 226012",
+    "lat": 26.7978864,
+    "lng": 80.9026268,
+    "website": "",
+    "phone": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10960949498"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Lucknow",
+        "addr:housenumber": "Iph technologies",
+        "addr:postcode": "226012",
+        "addr:street": "VIP Road",
+        "name": "Iph technologies"
+      }
+    }
+  },
+  {
     "name": "Asian Paints - Research & Technology",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -50004,6 +50288,47 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Baked for Indulgence",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 26.8113952,
+    "lng": 80.9951683,
+    "website": "",
+    "phone": "+91-7054034673",
+    "categories": [
+      "shop=bakery",
+      "description=Classic American deserts and artisanal breads. Order based only, cloud kitchen"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11176412917"
+    },
+    "tech_score": 23.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "description": "Classic American deserts and artisanal breads. Order based only, cloud kitchen",
+        "internet_access": "no",
+        "name": "Baked for Indulgence",
+        "nobrand": "yes",
+        "opening_hours": "9:00 a.m - 9:00 p.m",
+        "payment:app": "yes",
+        "payment:cards": "no",
+        "payment:cash": "no",
+        "payment:google_pay": "yes",
+        "payment:qr_code": "yes",
+        "phone": "+91-7054034673",
+        "self_checkout": "no",
+        "shop": "bakery"
+      }
     }
   },
   {
