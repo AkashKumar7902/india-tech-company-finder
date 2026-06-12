@@ -9,6 +9,7 @@ It combines:
 - **Official web search APIs** — optional Bing Web Search or SerpAPI source for company websites, LinkedIn company pages, ATS/job-board pages, and career pages.
 - **CSV seed import** — optional, for your own lists that should be de-duplicated with API results.
 - **Careers enrichment** — optional, discovers careers pages, ATS providers, and public jobs API endpoints where detectable.
+- **Job watcher** — polls supported ATS feeds, diffs open/closed jobs, and outputs new matching roles.
 
 > No public source can guarantee a perfect list of *all* companies. This project now uses curated tech-zone searches plus granular city-grid searches and rotating batches to improve recall without hammering APIs. Treat the output as a ranked candidate list and verify important rows manually.
 
@@ -88,7 +89,7 @@ Outputs:
 - `results/india_tech_companies.csv`
 - `results/india_tech_companies.json`
 
-The JSON includes careers metadata when enrichment runs:
+The company JSON includes careers metadata when enrichment runs:
 
 ```json
 {
@@ -203,6 +204,42 @@ python -m india_tech_finder.cli find --sources osm,google,csv --seed-csv my_comp
 ```
 
 Seed CSV headers supported: `name,city,region,country,address,lat,lng,website,phone,categories`.
+
+## Job watcher
+
+After careers enrichment finds `careers_provider` and `careers_api_url`, poll jobs with:
+
+```bash
+python -m india_tech_finder.cli watch-jobs \
+  --companies-json results/india_tech_companies.json \
+  --jobs-json results/jobs.json \
+  --new-jobs-json results/new_jobs.json \
+  --new-matching-jobs-json results/new_matching_jobs.json \
+  --batch-size 20
+```
+
+Outputs:
+
+- `results/jobs.json` — persistent open/closed job database
+- `results/new_jobs.json` — jobs first seen in this run
+- `results/new_matching_jobs.json` — new jobs matching Bengaluru/Bangalore/India/Remote/Hybrid + software/backend/SDE/etc.
+
+Supported polling adapters:
+
+- Greenhouse
+- Lever
+- Ashby
+- SmartRecruiters
+- Workable public account endpoint
+- Recruitee careers API
+- Workday public CXS pattern, best-effort
+- Generic `JobPosting` JSON-LD fallback
+
+GitHub Actions runs this after discovery in a small rotating batch. Defaults:
+
+- `TECH_FINDER_WATCH_JOBS=true`
+- `TECH_FINDER_JOBS_BATCH_SIZE=5`
+- `TECH_FINDER_JOBS_REQUEST_SLEEP_S=1`
 
 ## Careers enrichment
 
@@ -319,6 +356,9 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 - `TECH_FINDER_ENRICH_CAREERS` — default `true`; finds careers URL/provider/API for companies with websites
 - `TECH_FINDER_CAREERS_BATCH_SIZE` — default `2`
 - `TECH_FINDER_CAREERS_REQUEST_SLEEP_S` — default `1`
+- `TECH_FINDER_WATCH_JOBS` — default `true`; polls supported careers/ATS feeds
+- `TECH_FINDER_JOBS_BATCH_SIZE` — default `5`
+- `TECH_FINDER_JOBS_REQUEST_SLEEP_S` — default `1`
 
 ## How scoring works
 

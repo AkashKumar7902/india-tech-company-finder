@@ -49,6 +49,9 @@ jobs:
       TECH_FINDER_WEB_LOCATION_BATCH_SIZE: ${{ vars.TECH_FINDER_WEB_LOCATION_BATCH_SIZE }}
       TECH_FINDER_WEB_MAX_RESULTS: ${{ vars.TECH_FINDER_WEB_MAX_RESULTS }}
       TECH_FINDER_WEB_REQUEST_SLEEP_S: ${{ vars.TECH_FINDER_WEB_REQUEST_SLEEP_S }}
+      TECH_FINDER_WATCH_JOBS: ${{ vars.TECH_FINDER_WATCH_JOBS }}
+      TECH_FINDER_JOBS_BATCH_SIZE: ${{ vars.TECH_FINDER_JOBS_BATCH_SIZE }}
+      TECH_FINDER_JOBS_REQUEST_SLEEP_S: ${{ vars.TECH_FINDER_JOBS_REQUEST_SLEEP_S }}
 
     steps:
       - name: Checkout
@@ -141,6 +144,26 @@ jobs:
             exit 1
           fi
 
+      - name: Watch jobs
+        run: |
+          set -euo pipefail
+          if [ "${TECH_FINDER_WATCH_JOBS:-true}" != "true" ]; then
+            echo "Job watcher disabled."
+            exit 0
+          fi
+          BATCH_INDEX="${TECH_FINDER_BATCH_INDEX:-${GITHUB_RUN_NUMBER}}"
+          JOBS_BATCH_SIZE="${TECH_FINDER_JOBS_BATCH_SIZE:-5}"
+          JOBS_REQUEST_SLEEP_S="${TECH_FINDER_JOBS_REQUEST_SLEEP_S:-1}"
+
+          python -m india_tech_finder.cli watch-jobs \
+            --companies-json results/india_tech_companies.json \
+            --jobs-json results/jobs.json \
+            --new-jobs-json results/new_jobs.json \
+            --new-matching-jobs-json results/new_matching_jobs.json \
+            --batch-size "$JOBS_BATCH_SIZE" \
+            --batch-index "$BATCH_INDEX" \
+            --request-sleep-s "$JOBS_REQUEST_SLEEP_S"
+
       - name: Add run summary
         if: always()
         run: |
@@ -151,7 +174,12 @@ jobs:
               count=$(( $(wc -l < results/india_tech_companies.csv) - 1 ))
               echo "Rows exported: **$count**"
               echo
-              echo "This workflow uses small rotating batches, merges existing results, and enriches careers metadata for a small website batch."
+              echo "This workflow uses small rotating batches, merges existing results, enriches careers metadata, and polls a small batch of ATS/job feeds."
+              if [ -f results/new_matching_jobs.json ]; then
+                matches=$(python -c "import json; from pathlib import Path; p=Path('results/new_matching_jobs.json'); print(len(json.loads(p.read_text())) if p.exists() else 0)")
+                echo
+                echo "New matching jobs this run: **$matches**"
+              fi
             else
               echo "No results file was created. Check logs."
             fi
@@ -164,7 +192,10 @@ jobs:
           path: |
             results/india_tech_companies.csv
             results/india_tech_companies.json
-          if-no-files-found: error
+            results/jobs.json
+            results/new_jobs.json
+            results/new_matching_jobs.json
+          if-no-files-found: warn
           retention-days: 30
 
       - name: Commit updated results
@@ -172,7 +203,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f results/india_tech_companies.csv results/india_tech_companies.json
+          git add -f results/india_tech_companies.csv results/india_tech_companies.json results/jobs.json results/new_jobs.json results/new_matching_jobs.json
           if git diff --cached --quiet; then
             echo "No result changes to commit."
           else

@@ -32,6 +32,13 @@ from .sources.google_places_new import (
 )
 from .sources.osm import OVERPASS_URL, fetch_osm
 from .sources.web_search import SEARCH_QUERY_TEMPLATES, fetch_web_search
+from .job_watcher import (
+    DEFAULT_LOCATION_KEYWORDS,
+    DEFAULT_TITLE_KEYWORDS,
+    load_jobs,
+    poll_job_sources,
+    write_jobs,
+)
 from .zones import TechZone, load_tech_zones, tech_zone_points_for_region, zones_by_region
 
 T = TypeVar("T")
@@ -650,6 +657,48 @@ def cmd_find(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_watch_jobs(args: argparse.Namespace) -> int:
+    load_dotenv(args.env)
+    companies = read_json(args.companies_json)
+    previous_jobs = load_jobs(args.jobs_json)
+    location_keywords = args.location_keyword or list(DEFAULT_LOCATION_KEYWORDS)
+    title_keywords = args.title_keyword or list(DEFAULT_TITLE_KEYWORDS)
+
+    print(f"Loaded {len(companies)} companies from {args.companies_json}")
+    print(f"Loaded {len(previous_jobs)} previous jobs from {args.jobs_json}")
+    all_jobs, new_jobs, new_matching, stats = poll_job_sources(
+        companies,
+        previous_jobs=previous_jobs,
+        batch_size=args.batch_size,
+        batch_index=args.batch_index,
+        timeout=args.timeout,
+        max_pages=args.max_pages,
+        request_sleep_s=args.request_sleep_s,
+        location_keywords=location_keywords,
+        title_keywords=title_keywords,
+    )
+
+    jobs_path = write_jobs(args.jobs_json, all_jobs)
+    new_jobs_path = write_jobs(args.new_jobs_json, new_jobs)
+    new_matching_path = write_jobs(args.new_matching_jobs_json, new_matching)
+
+    print("\nJob watcher done")
+    print(f"  Career sources: {stats['selected_sources']}/{stats['total_sources']} batch={stats['batch']}")
+    print(f"  Successful sources: {stats['successful_sources']}")
+    print(f"  Failed sources: {stats['failed_sources']}")
+    print(f"  Total jobs: {stats['current_total_jobs']}")
+    print(f"  New jobs: {stats['new_jobs']}")
+    print(f"  New matching jobs: {stats['new_matching_jobs']}")
+    print(f"  Jobs JSON: {jobs_path}")
+    print(f"  New jobs JSON: {new_jobs_path}")
+    print(f"  New matching jobs JSON: {new_matching_path}")
+    if stats.get("failures"):
+        print("\nSample failures:")
+        for failure in stats["failures"][:5]:
+            print(f"  {failure.get('company')} ({failure.get('provider')}): {failure.get('error')}")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="india-tech-finder",
@@ -746,6 +795,21 @@ def build_parser() -> argparse.ArgumentParser:
     find.add_argument("--out-csv", default=None, help="CSV output path")
     find.add_argument("--out-json", default=None, help="JSON output path")
     find.set_defaults(func=cmd_find)
+
+    watch = subparsers.add_parser("watch-jobs", help="poll careers/ATS feeds and diff new jobs")
+    watch.add_argument("--env", default=".env", help="dotenv file")
+    watch.add_argument("--companies-json", default="results/india_tech_companies.json", help="companies JSON input")
+    watch.add_argument("--jobs-json", default="results/jobs.json", help="persistent jobs JSON output/input")
+    watch.add_argument("--new-jobs-json", default="results/new_jobs.json", help="new jobs from this run")
+    watch.add_argument("--new-matching-jobs-json", default="results/new_matching_jobs.json", help="new jobs matching watch filters")
+    watch.add_argument("--batch-size", type=int, default=10, help="career sources to poll in this run")
+    watch.add_argument("--batch-index", type=int, default=0, help="rotating batch index")
+    watch.add_argument("--max-pages", type=int, default=5, help="max pages for paginated ATS APIs")
+    watch.add_argument("--timeout", type=int, default=30, help="HTTP timeout seconds")
+    watch.add_argument("--request-sleep-s", type=float, default=0.5, help="sleep between career source polls")
+    watch.add_argument("--location-keyword", action="append", help="location keyword for matching jobs; can be repeated")
+    watch.add_argument("--title-keyword", action="append", help="title keyword for matching jobs; can be repeated")
+    watch.set_defaults(func=cmd_watch_jobs)
 
     return parser
 
