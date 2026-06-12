@@ -5590,6 +5590,53 @@
     }
   },
   {
+    "name": "Glitch Probe Infotech",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "1st floor, 112-113 , Above Govindam Sweets, Near Akshaya Patra Chauraha, Jagatpura, Jaipur, Raj. 302017, Jaipur, 302017",
+    "lat": 26.803444,
+    "lng": 75.858034,
+    "website": "https://glitchprobe.com/",
+    "phone": "",
+    "careers_url": "https://glitchprobe.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://glitchprobe.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T21:35:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12635158696"
+    },
+    "tech_score": 66.0,
+    "confidence": "high",
+    "notes": "matched: software, infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:postcode": "302017",
+        "addr:street": "1st floor, 112-113 , Above Govindam Sweets, Near Akshaya Patra Chauraha, Jagatpura, Jaipur, Raj. 302017",
+        "company": "software_development",
+        "fixme": "Here is a company called Glitch Probe Infotech, a software development company",
+        "name": "Glitch Probe Infotech",
+        "website": "https://glitchprobe.com/"
+      },
+      "careers": {
+        "url": "https://glitchprobe.com/career",
+        "provider": "company_website",
+        "api_url": "https://glitchprobe.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T21:35:46+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Solarman Technology Project Pvt Ltd",
     "city": "New Delhi",
     "region": "Delhi",
@@ -5627,6 +5674,62 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Appetenza Technologies",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "C-28, New Ashok Nagar, New Delhi, 110096",
+    "lat": 28.5943466,
+    "lng": 77.3061377,
+    "website": "https://www.appetenza.com/",
+    "phone": "",
+    "careers_url": "https://www.appetenza.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.appetenza.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T21:35:53+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Software company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13250978174"
+    },
+    "tech_score": 66.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:block": "Block C",
+        "addr:city": "New Delhi",
+        "addr:country": "IN",
+        "addr:district": "East Delhi",
+        "addr:housenumber": "C-28",
+        "addr:postcode": "110096",
+        "addr:state": "Delhi",
+        "addr:street": "New Ashok Nagar",
+        "description": "Software company",
+        "name": "Appetenza Technologies",
+        "official_name": "Appetenza Technologies",
+        "website": "https://www.appetenza.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.appetenza.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.appetenza.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T21:35:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -7469,53 +7572,6 @@
     }
   },
   {
-    "name": "Glitch Probe Infotech",
-    "city": "Jaipur",
-    "region": "Rajasthan",
-    "country": "India",
-    "address": "1st floor, 112-113 , Above Govindam Sweets, Near Akshaya Patra Chauraha, Jagatpura, Jaipur, Raj. 302017, Jaipur, 302017",
-    "lat": 26.803444,
-    "lng": 75.858034,
-    "website": "https://glitchprobe.com/",
-    "phone": "",
-    "careers_url": "https://glitchprobe.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://glitchprobe.com/career",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T21:35:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12635158696"
-    },
-    "tech_score": 62.0,
-    "confidence": "high",
-    "notes": "matched: software, infotech",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Jaipur",
-        "addr:district": "Jaipur",
-        "addr:postcode": "302017",
-        "addr:street": "1st floor, 112-113 , Above Govindam Sweets, Near Akshaya Patra Chauraha, Jagatpura, Jaipur, Raj. 302017",
-        "company": "software_development",
-        "fixme": "Here is a company called Glitch Probe Infotech, a software development company",
-        "name": "Glitch Probe Infotech",
-        "website": "https://glitchprobe.com/"
-      },
-      "careers": {
-        "url": "https://glitchprobe.com/career",
-        "provider": "company_website",
-        "api_url": "https://glitchprobe.com/career",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T21:35:46+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "CCS Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -8050,62 +8106,6 @@
     }
   },
   {
-    "name": "Appetenza Technologies",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "C-28, New Ashok Nagar, New Delhi, 110096",
-    "lat": 28.5943466,
-    "lng": 77.3061377,
-    "website": "https://www.appetenza.com/",
-    "phone": "",
-    "careers_url": "https://www.appetenza.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.appetenza.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T21:35:53+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Software company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13250978174"
-    },
-    "tech_score": 62.0,
-    "confidence": "high",
-    "notes": "matched: software, technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:block": "Block C",
-        "addr:city": "New Delhi",
-        "addr:country": "IN",
-        "addr:district": "East Delhi",
-        "addr:housenumber": "C-28",
-        "addr:postcode": "110096",
-        "addr:state": "Delhi",
-        "addr:street": "New Ashok Nagar",
-        "description": "Software company",
-        "name": "Appetenza Technologies",
-        "official_name": "Appetenza Technologies",
-        "website": "https://www.appetenza.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://www.appetenza.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.appetenza.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T21:35:53+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "KFin Technologies Limited",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -8620,12 +8620,12 @@
     "lng": 73.7744021,
     "website": "https://ic-consult.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://careers.ic-consult.com/en/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://careers.ic-consult.com/en//current-jobs/favorites/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T22:12:47+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -8649,6 +8649,14 @@
         "name": "Kapstone Cybersecurity Private Limited – an iC Consult Company",
         "office": "it",
         "website": "https://ic-consult.com/"
+      },
+      "careers": {
+        "url": "https://careers.ic-consult.com/en/",
+        "provider": "company_website",
+        "api_url": "https://careers.ic-consult.com/en//current-jobs/favorites/",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T22:12:47+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -8665,9 +8673,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-12T22:13:02+00:00",
+    "careers_notes": "https://theatlyx.com/jobs: HTTPError; https://theatlyx.com/jobs/: HTTPError; https://theatlyx.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency",
       "description=\"ATLYX is a creative-technology studio built for brands that don’t want to be “seen” — they want to be experienced.\n\nWe design and build immersive brand moments, high-performing digital products, and intelligent marketing systems that turn attention into"
@@ -8699,6 +8707,14 @@
         "phone": "+919824132089",
         "website": "https://theatlyx.com/",
         "wikipedia": "en:Atlyx"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-12T22:13:02+00:00",
+        "notes": "https://theatlyx.com/jobs: HTTPError; https://theatlyx.com/jobs/: HTTPError; https://theatlyx.com/career: HTTPError; no careers page detected"
       }
     }
   },
@@ -29094,6 +29110,41 @@
     }
   },
   {
+    "name": "D V Infosoft",
+    "city": "Bhopal",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 23.2284676,
+    "lng": 77.4358524,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7764524667"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "D V Infosoft",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Tech Mahindra",
     "city": "Bhubaneswar",
     "region": "Odisha",
@@ -42473,6 +42524,42 @@
     }
   },
   {
+    "name": "TechnoGaze Solutions",
+    "city": "Bhopal",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 23.2515749,
+    "lng": 77.4944558,
+    "website": "https://g.co/kgs/NJXw9EH",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=We offer comprehensive Digital Marketing Course in Patel Nagar, Bhopal"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3692790138"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "description": "We offer comprehensive Digital Marketing Course in Patel Nagar, Bhopal",
+        "name": "TechnoGaze Solutions",
+        "website": "https://g.co/kgs/NJXw9EH"
+      }
+    }
+  },
+  {
     "name": "Odisha University Of Technology And Research",
     "city": "Bhubaneswar",
     "region": "Odisha",
@@ -49448,6 +49535,71 @@
         "name": "Zool Tech Solutions Pvt Ltd",
         "name_1": "Zool",
         "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Technology Park",
+    "city": "Bhopal",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 23.2779837,
+    "lng": 77.4659004,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3892044619"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "name": "Technology Park"
+      }
+    }
+  },
+  {
+    "name": "Technology Park",
+    "city": "Bhopal",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 23.3000663,
+    "lng": 77.3632427,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1527712071"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "landuse": "residential",
+        "name": "Technology Park"
       }
     }
   },
@@ -63968,6 +64120,43 @@
         "addr:street": "Evoma, Old Madras Road",
         "name": "Two Roads Technological Solutions",
         "website": "www.tworoads.co.in"
+      }
+    }
+  },
+  {
+    "name": "Auxost | Digital Marketing Agency",
+    "city": "Bhopal",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 23.2143475,
+    "lng": 77.4380498,
+    "website": "https://auxost.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=Auxost is a digital marketing agency in Bhopal, specializing in providing marketing services digitally through social media marketing, influencers, content strategies, website development, web design, SEO,, SEM, email marketing, meme marketing, ."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12655778661"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "description": "Auxost is a digital marketing agency in Bhopal, specializing in providing marketing services digitally through social media marketing, influencers, content strategies, website development, web design, SEO,, SEM, email marketing, meme marketing, .",
+        "name": "Auxost | Digital Marketing Agency",
+        "source": "local knowledge",
+        "website": "https://auxost.com/"
       }
     }
   },
