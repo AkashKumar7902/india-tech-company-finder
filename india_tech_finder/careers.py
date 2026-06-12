@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 from typing import Iterable, Optional
 from urllib.parse import urljoin, urlparse, urlunparse
+from xml.etree import ElementTree
 
 import requests
 
@@ -214,6 +215,74 @@ def _common_path_candidates(base_url: str) -> list[LinkCandidate]:
     return [LinkCandidate(url=urljoin(root, path), text=path.strip("/"), score=8) for path in COMMON_CAREERS_PATHS]
 
 
+def _career_like_url(url: str) -> bool:
+    lowered = url.lower()
+    return any(keyword.replace(" ", "-") in lowered or keyword.replace(" ", "") in lowered for keyword in CAREERS_KEYWORDS)
+
+
+def _loc_urls_from_xml(xml_text: str) -> list[str]:
+    urls: list[str] = []
+    try:
+        root = ElementTree.fromstring(xml_text.encode("utf-8"))
+        for element in root.iter():
+            if element.tag.lower().endswith("loc") and element.text:
+                urls.append(element.text.strip())
+    except Exception:
+        urls.extend(re.findall(r"<loc>\s*([^<]+)\s*</loc>", xml_text, flags=re.IGNORECASE))
+    return urls
+
+
+def _sitemap_candidates(
+    session: requests.Session,
+    base_url: str,
+    *,
+    timeout: int,
+    max_sitemaps: int = 3,
+    max_urls: int = 20,
+) -> list[LinkCandidate]:
+    parsed = urlparse(base_url)
+    root = urlunparse((parsed.scheme, parsed.netloc, "/", "", "", ""))
+    sitemap_urls = [urljoin(root, "/sitemap.xml"), urljoin(root, "/sitemap_index.xml")]
+
+    try:
+        robots_url, robots_text = _safe_get(session, urljoin(root, "/robots.txt"), timeout=timeout)
+        for line in robots_text.splitlines():
+            if line.lower().startswith("sitemap:"):
+                sitemap_urls.append(line.split(":", 1)[1].strip())
+    except Exception:
+        pass
+
+    candidates: list[LinkCandidate] = []
+    seen_sitemaps = set()
+    seen_candidates = set()
+    queue = []
+    for sitemap_url in sitemap_urls:
+        if sitemap_url and sitemap_url not in seen_sitemaps:
+            seen_sitemaps.add(sitemap_url)
+            queue.append(sitemap_url)
+
+    while queue and len(seen_sitemaps) <= max_sitemaps + 2 and len(candidates) < max_urls:
+        sitemap_url = queue.pop(0)
+        try:
+            final_url, xml_text = _safe_get(session, sitemap_url, timeout=timeout)
+        except Exception:
+            continue
+        for loc_url in _loc_urls_from_xml(xml_text):
+            if not loc_url:
+                continue
+            if loc_url.lower().endswith(".xml") and len(seen_sitemaps) < max_sitemaps:
+                if loc_url not in seen_sitemaps:
+                    seen_sitemaps.add(loc_url)
+                    queue.append(loc_url)
+                continue
+            if _career_like_url(loc_url) and loc_url not in seen_candidates:
+                seen_candidates.add(loc_url)
+                candidates.append(LinkCandidate(url=loc_url, text="sitemap", score=35))
+                if len(candidates) >= max_urls:
+                    break
+    return candidates
+
+
 def _extract_api_urls(html: str, page_url: str) -> list[str]:
     urls: list[str] = []
     seen = set()
@@ -314,6 +383,7 @@ def _candidate_urls_for_website(session: requests.Session, website: str, *, time
     if _detect_provider(base_url, homepage_html)[0] or any(keyword in base_url.lower() for keyword in CAREERS_KEYWORDS):
         candidates.insert(0, LinkCandidate(base_url, "homepage", 100))
 
+    candidates.extend(_sitemap_candidates(session, base_url, timeout=timeout, max_urls=max_pages * 2))
     candidates.extend(_common_path_candidates(base_url))
 
     deduped: list[LinkCandidate] = []

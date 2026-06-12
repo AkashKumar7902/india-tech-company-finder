@@ -24,6 +24,7 @@ from .scoring import score_company
 from .sources.csv_seed import fetch_csv_seed
 from .sources.google_places import DEFAULT_QUERY_TEMPLATES, fetch_google_places, render_queries
 from .sources.osm import OVERPASS_URL, fetch_osm
+from .sources.web_search import SEARCH_QUERY_TEMPLATES, fetch_web_search
 from .zones import TechZone, load_tech_zones, tech_zone_points_for_region, zones_by_region
 
 T = TypeVar("T")
@@ -54,6 +55,11 @@ def parse_sources(text: str) -> set[str]:
         "csv": "seed_csv",
         "seed": "seed_csv",
         "seed_csv": "seed_csv",
+        "search": "web_search",
+        "web": "web_search",
+        "web_search": "web_search",
+        "bing": "web_search",
+        "serpapi": "web_search",
     }
     sources = set()
     for part in text.split(","):
@@ -85,15 +91,29 @@ def bbox_from_center(lat: float, lng: float, radius_m: int) -> tuple[float, floa
     return lat - lat_delta, lng - lng_delta, lat + lat_delta, lng + lng_delta
 
 
+def _load_template_file(path: str | Path) -> list[str]:
+    templates: list[str] = []
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#"):
+            templates.append(line)
+    return templates
+
+
 def load_query_templates(args: argparse.Namespace) -> list[str]:
     queries: list[str] = []
     if args.queries_file:
-        for line in Path(args.queries_file).read_text(encoding="utf-8").splitlines():
-            line = line.strip()
-            if line and not line.startswith("#"):
-                queries.append(line)
+        queries.extend(_load_template_file(args.queries_file))
     queries.extend(args.query or [])
     return queries or list(DEFAULT_QUERY_TEMPLATES)
+
+
+def load_web_query_templates(args: argparse.Namespace) -> list[str]:
+    queries: list[str] = []
+    if args.web_queries_file:
+        queries.extend(_load_template_file(args.web_queries_file))
+    queries.extend(args.web_query or [])
+    return queries or list(SEARCH_QUERY_TEMPLATES)
 
 
 def resolve_regions(args: argparse.Namespace) -> list[Region]:
@@ -203,6 +223,55 @@ def select_google_point_batches(
     return dict(grouped), len(all_items), batch_label
 
 
+def build_web_locations(
+    region: Region,
+    args: argparse.Namespace,
+    grouped_zones: dict[str, list[TechZone]],
+) -> list[str]:
+    region_locations = [region.query]
+    zone_locations = [zone.query for zone in grouped_zones.get(region.id, [])]
+
+    if args.web_search_granularity == "region":
+        locations = region_locations
+    elif args.web_search_granularity == "zones":
+        locations = zone_locations or region_locations
+    else:
+        locations = region_locations + zone_locations
+
+    seen = set()
+    output = []
+    for location in locations:
+        normalized = " ".join(str(location).split())
+        key = normalized.lower()
+        if normalized and key not in seen:
+            seen.add(key)
+            output.append(normalized)
+    return output
+
+
+def select_web_location_batches(
+    regions: list[Region],
+    args: argparse.Namespace,
+    *,
+    grouped_zones: dict[str, list[TechZone]],
+    batch_index: int,
+) -> tuple[dict[str, list[str]], int, str]:
+    all_items: list[tuple[str, str]] = []
+    for region in regions:
+        for location in build_web_locations(region, args, grouped_zones):
+            all_items.append((region.id, location))
+
+    selected, batch_label = select_batch(
+        all_items,
+        batch_size=args.web_location_batch_size,
+        batch_index=batch_index,
+    )
+    grouped: dict[str, list[str]] = defaultdict(list)
+    for region_id, location in selected:
+        grouped[region_id].append(location)
+    return dict(grouped), len(all_items), batch_label
+
+
 def _safe_fetch(
     label: str,
     fetcher: Callable[[], list[Company]],
@@ -247,6 +316,7 @@ def cmd_find(args: argparse.Namespace) -> int:
             source_counts["existing_results"] = len(existing)
 
     query_templates = load_query_templates(args)
+    web_query_templates = load_web_query_templates(args)
     tech_zones = load_tech_zones(args.tech_zones_file)
     grouped_zones = zones_by_region(tech_zones)
 
@@ -277,6 +347,29 @@ def cmd_find(args: argparse.Namespace) -> int:
                 point_batch_index=point_batch_index,
             )
 
+    web_search_enabled = False
+    web_locations_by_region: dict[str, list[str]] = {}
+    total_web_locations = 0
+    web_location_batch_label = "all"
+    bing_search_api_key = args.bing_search_api_key or os.getenv("BING_SEARCH_API_KEY")
+    serpapi_api_key = args.serpapi_api_key or os.getenv("SERPAPI_API_KEY")
+    if "web_search" in requested_sources:
+        if not bing_search_api_key and not serpapi_api_key:
+            print(
+                "Skipping web search: set BING_SEARCH_API_KEY or SERPAPI_API_KEY, or pass --bing-search-api-key/--serpapi-api-key.",
+                file=sys.stderr,
+            )
+            source_counts["web_search"] = 0
+        else:
+            web_search_enabled = True
+            web_batch_index = args.web_location_batch_index if args.web_location_batch_index is not None else args.batch_index
+            web_locations_by_region, total_web_locations, web_location_batch_label = select_web_location_batches(
+                regions,
+                args,
+                grouped_zones=grouped_zones,
+                batch_index=web_batch_index,
+            )
+
     print(f"Selected {len(regions)}/{len(all_regions)} region(s), region batch: {region_batch_label}")
     print(f"Regions: {', '.join(region.label for region in regions)}")
     if google_api_key:
@@ -287,6 +380,17 @@ def cmd_find(args: argparse.Namespace) -> int:
             f"granularity={args.granularity}, points={selected_points}/{total_google_points}, "
             f"point batch={google_point_batch_label}, queries={len(query_templates)}, "
             f"max text-search requests={max_text_searches}"
+        )
+    if web_search_enabled:
+        selected_locations = sum(len(locations) for locations in web_locations_by_region.values())
+        provider = args.search_provider
+        if provider == "auto":
+            provider = "bing" if bing_search_api_key else "serpapi"
+        print(
+            "Web search plan: "
+            f"provider={provider}, locations={selected_locations}/{total_web_locations}, "
+            f"location batch={web_location_batch_label}, queries={len(web_query_templates)}, "
+            f"max results/query={args.web_max_results}"
         )
 
     for region in regions:
@@ -345,6 +449,33 @@ def cmd_find(args: argparse.Namespace) -> int:
                 strict=args.strict,
             )
             source_counts["google_places"] = source_counts.get("google_places", 0) + len(companies)
+            all_companies.extend(companies)
+
+        if "web_search" in requested_sources and web_search_enabled:
+            web_locations = web_locations_by_region.get(region.id, [])
+            if not web_locations:
+                print(f"Skipping web search ({region.label}): no locations in this batch")
+                continue
+            companies = _safe_fetch(
+                f"Web search ({region.label}, {len(web_locations)} location(s))",
+                lambda region=region, web_locations=web_locations: fetch_web_search(
+                    provider=args.search_provider,
+                    bing_api_key=bing_search_api_key,
+                    serpapi_api_key=serpapi_api_key,
+                    bing_endpoint=args.bing_search_endpoint,
+                    serpapi_endpoint=args.serpapi_endpoint,
+                    locations=web_locations,
+                    city=region.city,
+                    region=region.state,
+                    country=region.country,
+                    query_templates=web_query_templates,
+                    max_results=args.web_max_results,
+                    timeout=args.timeout,
+                    request_sleep_s=args.web_request_sleep_s,
+                ),
+                strict=args.strict,
+            )
+            source_counts["web_search"] = source_counts.get("web_search", 0) + len(companies)
             all_companies.extend(companies)
 
     if "seed_csv" in requested_sources:
@@ -416,7 +547,7 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     find = subparsers.add_parser("find", help="collect and export company candidates")
-    find.add_argument("--sources", default="osm,google", help="comma-separated: osm,google,csv")
+    find.add_argument("--sources", default="osm,google,search", help="comma-separated: osm,google,search,csv")
     find.add_argument("--env", default=".env", help="dotenv file containing GOOGLE_PLACES_API_KEY")
     find.add_argument(
         "--preset",
@@ -450,6 +581,18 @@ def build_parser() -> argparse.ArgumentParser:
     find.add_argument("--merge-existing", action="store_true", help="merge with existing JSON output before exporting")
     find.add_argument("--overpass-url", default=OVERPASS_URL, help="Overpass API endpoint")
     find.add_argument("--google-api-key", default=None, help="Google Places API key")
+    find.add_argument("--search-provider", choices=["auto", "bing", "serpapi"], default="auto", help="official search API provider")
+    find.add_argument("--bing-search-api-key", default=None, help="Bing Web Search API key")
+    find.add_argument("--bing-search-endpoint", default="https://api.bing.microsoft.com/v7.0/search", help="Bing Web Search endpoint")
+    find.add_argument("--serpapi-api-key", default=None, help="SerpAPI key")
+    find.add_argument("--serpapi-endpoint", default="https://serpapi.com/search.json", help="SerpAPI endpoint")
+    find.add_argument("--web-search-granularity", choices=["region", "zones", "hybrid"], default="hybrid", help="locations used for web search queries")
+    find.add_argument("--web-location-batch-size", type=int, help="process only N web-search locations in this run")
+    find.add_argument("--web-location-batch-index", type=int, help="override web-search location batch index")
+    find.add_argument("--web-max-results", type=int, default=10, help="max web search results per query")
+    find.add_argument("--web-request-sleep-s", type=float, default=0.5, help="sleep between web search API requests")
+    find.add_argument("--web-query", action="append", help="extra web search query/template; use {location}, {city}, {state}, {country}")
+    find.add_argument("--web-queries-file", help="file with one web search query/template per line")
     find.add_argument(
         "--query",
         action="append",

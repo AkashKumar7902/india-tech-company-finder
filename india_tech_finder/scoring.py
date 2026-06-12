@@ -67,7 +67,7 @@ def _haystack(company: Company) -> str:
         " ".join(company.sources),
     ]
     # Include source tags, but do not include entire raw API payloads.
-    for key in ("osm_tags", "google_types"):
+    for key in ("osm_tags", "google_types", "search_queries"):
         value = company.raw.get(key)
         if isinstance(value, dict):
             parts.extend(f"{k}={v}" for k, v in value.items())
@@ -106,10 +106,18 @@ def score_company(company: Company) -> Company:
         score += 5
     if company.phone:
         score += 2
+    search_queries = company.raw.get("search_queries", [])
+    if any(_contains_phrase(str(query).lower(), kw) for query in search_queries for kw, _ in TECH_KEYWORDS):
+        score += 12
+
     if "google_places" in company.sources:
         score += 5
     if "openstreetmap" in company.sources:
         score += 3
+    if "web_search" in company.sources:
+        score += 2
+    if company.careers_url:
+        score += 4
 
     score -= sum(weight for _, weight in negatives)
     score = max(0, min(100, score))

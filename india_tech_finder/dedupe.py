@@ -91,6 +91,33 @@ def _union(left, right):
     return output
 
 
+def _career_rank(confidence: str) -> int:
+    return {"": 0, "none": 0, "low": 1, "medium": 2, "high": 3}.get((confidence or "").lower(), 0)
+
+
+def _merge_careers(base: Company, incoming: Company) -> None:
+    if _career_rank(incoming.careers_confidence) > _career_rank(base.careers_confidence):
+        base.careers_url = incoming.careers_url
+        base.careers_provider = incoming.careers_provider
+        base.careers_api_url = incoming.careers_api_url
+        base.careers_confidence = incoming.careers_confidence
+        base.careers_last_checked = incoming.careers_last_checked
+        base.careers_notes = incoming.careers_notes
+        return
+    if not base.careers_url and incoming.careers_url:
+        base.careers_url = incoming.careers_url
+    if not base.careers_provider and incoming.careers_provider:
+        base.careers_provider = incoming.careers_provider
+    if not base.careers_api_url and incoming.careers_api_url:
+        base.careers_api_url = incoming.careers_api_url
+    if not base.careers_confidence and incoming.careers_confidence:
+        base.careers_confidence = incoming.careers_confidence
+    if not base.careers_last_checked and incoming.careers_last_checked:
+        base.careers_last_checked = incoming.careers_last_checked
+    if not base.careers_notes and incoming.careers_notes:
+        base.careers_notes = incoming.careers_notes
+
+
 def merge_company(base: Company, incoming: Company) -> Company:
     # Prefer the richer display name/address, but keep coordinates already found.
     if len(incoming.name or "") > len(base.name or ""):
@@ -111,18 +138,7 @@ def merge_company(base: Company, incoming: Company) -> Company:
         base.website = incoming.website
     if not base.phone and incoming.phone:
         base.phone = incoming.phone
-    if not base.careers_url and incoming.careers_url:
-        base.careers_url = incoming.careers_url
-    if not base.careers_provider and incoming.careers_provider:
-        base.careers_provider = incoming.careers_provider
-    if not base.careers_api_url and incoming.careers_api_url:
-        base.careers_api_url = incoming.careers_api_url
-    if not base.careers_confidence and incoming.careers_confidence:
-        base.careers_confidence = incoming.careers_confidence
-    if not base.careers_last_checked and incoming.careers_last_checked:
-        base.careers_last_checked = incoming.careers_last_checked
-    if not base.careers_notes and incoming.careers_notes:
-        base.careers_notes = incoming.careers_notes
+    _merge_careers(base, incoming)
 
     base.categories = _union(base.categories, incoming.categories)
     base.sources = _union(base.sources, incoming.sources)
@@ -138,7 +154,18 @@ def merge_company(base: Company, incoming: Company) -> Company:
     base.raw["google_search_points"] = _union(
         base.raw.get("google_search_points", []), incoming.raw.get("google_search_points", [])
     )
-    if "careers" not in base.raw and incoming.raw.get("careers"):
+    base.raw["search_queries"] = _union(
+        base.raw.get("search_queries", []), incoming.raw.get("search_queries", [])
+    )
+    if not base.raw.get("search_url") and incoming.raw.get("search_url"):
+        base.raw["search_url"] = incoming.raw.get("search_url")
+    if not base.raw.get("search_title") and incoming.raw.get("search_title"):
+        base.raw["search_title"] = incoming.raw.get("search_title")
+    if incoming.raw.get("careers") and (
+        "careers" not in base.raw
+        or _career_rank((incoming.raw.get("careers") or {}).get("confidence", ""))
+        > _career_rank((base.raw.get("careers") or {}).get("confidence", ""))
+    ):
         base.raw["careers"] = incoming.raw.get("careers")
     osm_tags = dict(base.raw.get("osm_tags", {}) or {})
     osm_tags.update(incoming.raw.get("osm_tags", {}) or {})

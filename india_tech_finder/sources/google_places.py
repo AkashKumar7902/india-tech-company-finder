@@ -56,7 +56,7 @@ def _request_json(
         response = session.get(
             url,
             params=params,
-            headers={"User-Agent": "india-tech-company-finder/0.5"},
+            headers={"User-Agent": "india-tech-company-finder/0.6"},
             timeout=timeout,
         )
 

@@ -6,6 +6,7 @@ It combines:
 
 - **OpenStreetMap / Overpass** — free, no API key, lower coverage.
 - **Google Places API** — optional API key, much better coverage, uses official APIs instead of scraping Google Maps.
+- **Official web search APIs** — optional Bing Web Search or SerpAPI source for company websites, LinkedIn company pages, ATS/job-board pages, and career pages.
 - **CSV seed import** — optional, for your own lists that should be de-duplicated with API results.
 - **Careers enrichment** — optional, discovers careers pages, ATS providers, and public jobs API endpoints where detectable.
 
@@ -48,6 +49,7 @@ Optional Google Places setup:
 ```bash
 cp .env.example .env
 # edit .env and set GOOGLE_PLACES_API_KEY=your_key
+# optional: set BING_SEARCH_API_KEY or SERPAPI_API_KEY for web-search discovery
 ```
 
 ## Run
@@ -61,14 +63,16 @@ python -m india_tech_finder.cli find --sources osm
 Recommended hybrid run with Google Places enabled:
 
 ```bash
-python -m india_tech_finder.cli find --sources osm,google --granularity hybrid --grid-size-m 5000
+python -m india_tech_finder.cli find --sources osm,google,search --granularity hybrid --grid-size-m 5000
 ```
+
+The `search` source uses official Bing Web Search or SerpAPI if you provide a key; otherwise it is skipped.
 
 If you are hitting 429s, run a small rotating batch and merge it into existing results:
 
 ```bash
 python -m india_tech_finder.cli find \
-  --sources osm,google \
+  --sources osm,google,search \
   --granularity hybrid \
   --region-batch-size 1 \
   --google-point-batch-size 6 \
@@ -126,7 +130,7 @@ For maximum recall on a one-off local run, you can increase:
 
 ```bash
 python -m india_tech_finder.cli find \
-  --sources osm,google \
+  --sources osm,google,search \
   --granularity hybrid \
   --grid-size-m 3000 \
   --max-pages 3 \
@@ -156,8 +160,11 @@ python -m india_tech_finder.cli find --granularity zones --sources osm,google
 # Enrich careers page / ATS / jobs API for companies with websites
 python -m india_tech_finder.cli find --merge-existing --enrich-careers --careers-batch-size 50
 
-# Add your own Google query template
+# Add your own Google Places query template
 python -m india_tech_finder.cli find --query "software product company"
+
+# Add your own official web-search query template
+python -m india_tech_finder.cli find --web-query 'site:jobs.lever.co "{location}" "software engineer"'
 
 # Deeper but more expensive Google search
 python -m india_tech_finder.cli find --max-pages 3 --google-request-sleep-s 0.5
@@ -264,7 +271,7 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 
 - `TECH_FINDER_PRESET` — default `india-tech-cities`
 - `TECH_FINDER_REGIONS` — comma-separated subset, e.g. `bengaluru,hyderabad,pune`
-- `TECH_FINDER_SOURCES` — default `osm,google`
+- `TECH_FINDER_SOURCES` — default `osm,google,search`
 - `TECH_FINDER_GRANULARITY` — default `hybrid`; choices: `city`, `zones`, `grid`, `hybrid`
 - `TECH_FINDER_GRID_SIZE_M` — default `5000`
 - `TECH_FINDER_GRID_RADIUS_M` — optional; default equals grid size
@@ -276,6 +283,9 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 - `TECH_FINDER_MAX_PAGES` — default `1`; use `3` for deeper Google results, but it costs more
 - `TECH_FINDER_NO_GOOGLE_DETAILS` — default `true` in cron to reduce Google API calls by skipping Place Details
 - `TECH_FINDER_GOOGLE_REQUEST_SLEEP_S` — default `0.3`, small pause between Google API calls
+- `TECH_FINDER_WEB_LOCATION_BATCH_SIZE` — default `3`, number of region/zone names searched via Bing/SerpAPI per run
+- `TECH_FINDER_WEB_MAX_RESULTS` — default `5`, search results per query
+- `TECH_FINDER_WEB_REQUEST_SLEEP_S` — default `1`, pause between search API requests
 - `TECH_FINDER_ENRICH_CAREERS` — default `true`; finds careers URL/provider/API for companies with websites
 - `TECH_FINDER_CAREERS_BATCH_SIZE` — default `20`
 - `TECH_FINDER_CAREERS_REQUEST_SLEEP_S` — default `1`
