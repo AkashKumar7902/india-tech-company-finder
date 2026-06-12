@@ -644,6 +644,45 @@
     }
   },
   {
+    "name": "Cron24 Technologies",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Technology Business Incubator, TCE Campus, Thiruparankundram, Madurai - 625015",
+    "lat": 9.885968,
+    "lng": 78.0762394,
+    "website": "https://cron24.com",
+    "phone": "+91 93602 39309",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7981200683"
+    },
+    "tech_score": 93.0,
+    "confidence": "high",
+    "notes": "matched: technology, technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:full": "Technology Business Incubator, TCE Campus, Thiruparankundram, Madurai - 625015",
+        "email": "sales@cron24.com",
+        "name": "Cron24 Technologies",
+        "office": "it",
+        "phone": "+91 93602 39309",
+        "website": "https://cron24.com"
+      }
+    }
+  },
+  {
     "name": "Maventus Software Technologies Private. Ltd.",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -6921,6 +6960,61 @@
     }
   },
   {
+    "name": "Kasadara Technology Solutions Pvt Ltd",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "25, Avinashi Road, Coimbatore, 641014",
+    "lat": 11.0401626,
+    "lng": 77.0394971,
+    "website": "https://www.kasadara.com",
+    "phone": "+91994467585",
+    "careers_url": "https://kasadara.com/awsm_job_openings-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://kasadara.com/careers/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T22:50:57+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9881512548"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technology, solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Coimbatore",
+        "addr:housenumber": "25",
+        "addr:postcode": "641014",
+        "addr:street": "Avinashi Road",
+        "email": "info@kasadaratech.com",
+        "name": "Kasadara Technology Solutions Pvt Ltd",
+        "name:ta": "கசடற டெக்னாலஜி சொல்யூஷன்ஸ்",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91994467585",
+        "website": "https://www.kasadara.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://kasadara.com/awsm_job_openings-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://kasadara.com/careers/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T22:50:57+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Thoughtworks\nTechnologies (India) Private Limited",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -8664,6 +8758,58 @@
     }
   },
   {
+    "name": "ACL Digital",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "4/1, Tower D, Bannerghatta Main Road, IBC Knowledge Park, Bengaluru, 560029",
+    "lat": 12.9329349,
+    "lng": 77.6037016,
+    "website": "https://www.acldigital.com",
+    "phone": "+918040343000",
+    "careers_url": "https://www.acldigital.com/video/exceptional-growth-and-rewarding-career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.acldigital.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T22:51:17+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12638219052"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:district": "Bangalore Urban",
+        "addr:housenumber": "4/1",
+        "addr:postcode": "560029",
+        "addr:street": "Tower D, Bannerghatta Main Road, IBC Knowledge Park",
+        "company": "it",
+        "level": "7",
+        "name": "ACL Digital",
+        "office": "it",
+        "phone": "+918040343000",
+        "website": "https://www.acldigital.com"
+      },
+      "careers": {
+        "url": "https://www.acldigital.com/video/exceptional-growth-and-rewarding-career",
+        "provider": "company_website",
+        "api_url": "https://www.acldigital.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T22:51:17+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "AuroIN LLC",
     "city": "Bhubaneswar",
     "region": "Odisha",
@@ -8840,113 +8986,6 @@
     }
   },
   {
-    "name": "Kasadara Technology Solutions Pvt Ltd",
-    "city": "Coimbatore",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "25, Avinashi Road, Coimbatore, 641014",
-    "lat": 11.0401626,
-    "lng": 77.0394971,
-    "website": "https://www.kasadara.com",
-    "phone": "+91994467585",
-    "careers_url": "https://kasadara.com/awsm_job_openings-sitemap.xml",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://kasadara.com/careers/jobs/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T22:50:57+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9881512548"
-    },
-    "tech_score": 58.0,
-    "confidence": "high",
-    "notes": "matched: technology, solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Coimbatore",
-        "addr:housenumber": "25",
-        "addr:postcode": "641014",
-        "addr:street": "Avinashi Road",
-        "email": "info@kasadaratech.com",
-        "name": "Kasadara Technology Solutions Pvt Ltd",
-        "name:ta": "கசடற டெக்னாலஜி சொல்யூஷன்ஸ்",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91994467585",
-        "website": "https://www.kasadara.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://kasadara.com/awsm_job_openings-sitemap.xml",
-        "provider": "company_website",
-        "api_url": "https://kasadara.com/careers/jobs/",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T22:50:57+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "ACL Digital",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "4/1, Tower D, Bannerghatta Main Road, IBC Knowledge Park, Bengaluru, 560029",
-    "lat": 12.9329349,
-    "lng": 77.6037016,
-    "website": "https://www.acldigital.com",
-    "phone": "+918040343000",
-    "careers_url": "https://www.acldigital.com/video/exceptional-growth-and-rewarding-career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.acldigital.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T22:51:17+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12638219052"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:district": "Bangalore Urban",
-        "addr:housenumber": "4/1",
-        "addr:postcode": "560029",
-        "addr:street": "Tower D, Bannerghatta Main Road, IBC Knowledge Park",
-        "company": "it",
-        "level": "7",
-        "name": "ACL Digital",
-        "office": "it",
-        "phone": "+918040343000",
-        "website": "https://www.acldigital.com"
-      },
-      "careers": {
-        "url": "https://www.acldigital.com/video/exceptional-growth-and-rewarding-career",
-        "provider": "company_website",
-        "api_url": "https://www.acldigital.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T22:51:17+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Ambara Software Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -9112,12 +9151,12 @@
     "lng": 77.5795878,
     "website": "https://www.novyukthi.com",
     "phone": "+91-9900-034649",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.novyukthi.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-12T23:31:42+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -9142,6 +9181,14 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "+91-9900-034649",
         "website": "https://www.novyukthi.com"
+      },
+      "careers": {
+        "url": "https://www.novyukthi.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-12T23:31:42+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -9341,12 +9388,12 @@
     "lng": 76.7840603,
     "website": "https://www.sabhidigital.in/",
     "phone": "+918398060443",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.sabhidigital.in/carrer",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T23:31:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -9373,7 +9420,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.sabhidigital.in/carrer",
+        "provider": "company_website",
+        "api_url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T23:31:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -25535,6 +25590,39 @@
     }
   },
   {
+    "name": "Honeywell Technology Solutions",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 9.9382388,
+    "lng": 78.1708028,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:673827537"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technology, solutions",
+    "raw": {
+      "osm_tags": {
+        "landuse": "industrial",
+        "name": "Honeywell Technology Solutions"
+      }
+    }
+  },
+  {
     "name": "4Bains Technologies Private Limited",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -41230,6 +41318,42 @@
     }
   },
   {
+    "name": "Department of Information Technology",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 9.8823964,
+    "lng": 78.0837529,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=college"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:755264610"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: information technology, technology; negative hints: college",
+    "raw": {
+      "osm_tags": {
+        "building": "college",
+        "building:levels": "3",
+        "name": "Department of Information Technology"
+      }
+    }
+  },
+  {
     "name": "Central Institute of Information Technology",
     "city": "Nagpur",
     "region": "Maharashtra",
@@ -55451,6 +55575,42 @@
     }
   },
   {
+    "name": "CA Infotech India Private Limited",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "No 5/103, Narmadha street, Athikulam, 625007",
+    "lat": 9.9526372,
+    "lng": 78.1376623,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6009672713"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Athikulam",
+        "addr:housenumber": "No 5/103",
+        "addr:postcode": "625007",
+        "addr:street": "Narmadha street",
+        "name": "CA Infotech India Private Limited"
+      }
+    }
+  },
+  {
     "name": "Asian Paints - Research & Technology",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -62292,6 +62452,49 @@
         "phone": "+91-9656-335394",
         "shop": "hifi",
         "website": "https://www.shdigimedia.com/"
+      }
+    }
+  },
+  {
+    "name": "Bajaj Capital",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "272/273, 5, First Floor, Suriya Towers, Goods Shed Street, Madurai Main, Madurai, Tamil Nadu",
+    "lat": 9.9234541,
+    "lng": 78.1139029,
+    "website": "https://www.bajajcapital.com/",
+    "phone": "0452 234 5885",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=financial",
+      "description=Here at BajajCapital Limited, we offer personalized investment solutions to individual investors, Non-Resident Indians (NRIs), and High Networth clients, among others."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12858458758"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "272/273",
+        "addr:street": "5, First Floor, Suriya Towers, Goods Shed Street, Madurai Main, Madurai, Tamil Nadu",
+        "description": "Here at BajajCapital Limited, we offer personalized investment solutions to individual investors, Non-Resident Indians (NRIs), and High Networth clients, among others.",
+        "name": "Bajaj Capital",
+        "name:ta": "பஜாஜ் மூலதனம்",
+        "office": "financial",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "phone": "0452 234 5885",
+        "website": "https://www.bajajcapital.com/"
       }
     }
   },
