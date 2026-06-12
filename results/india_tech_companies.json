@@ -2383,6 +2383,56 @@
     }
   },
   {
+    "name": "QBUrst Technologies",
+    "city": "Thiruvananthapuram",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Vazhuthacaud, SH 2, Thiruvananthapuram, 695014",
+    "lat": 8.4988326,
+    "lng": 76.9577955,
+    "website": "https://www.qburst.com/",
+    "phone": "",
+    "careers_url": "https://www.qburst.com/en-jp/company/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://storage.googleapis.com/qb-revamp-stg/v2/Logo_and_Wordmark_1e2d2c081b/Logo_and_Wordmark_1e2d2c081b.svg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T20:57:30+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2630867641"
+    },
+    "tech_score": 71.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Thiruvananthapuram",
+        "addr:housename": "Artech Magnet",
+        "addr:housenumber": "Vazhuthacaud",
+        "addr:postcode": "695014",
+        "addr:street": "SH 2",
+        "name": "QBUrst Technologies",
+        "office": "it",
+        "opening_hours": "08:30-17:30",
+        "website": "https://www.qburst.com/"
+      },
+      "careers": {
+        "url": "https://www.qburst.com/en-jp/company/career/",
+        "provider": "company_website",
+        "api_url": "https://storage.googleapis.com/qb-revamp-stg/v2/Logo_and_Wordmark_1e2d2c081b/Logo_and_Wordmark_1e2d2c081b.svg",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T20:57:30+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "TrackoBit",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -5397,56 +5447,6 @@
     }
   },
   {
-    "name": "QBUrst Technologies",
-    "city": "Thiruvananthapuram",
-    "region": "Kerala",
-    "country": "India",
-    "address": "Vazhuthacaud, SH 2, Thiruvananthapuram, 695014",
-    "lat": 8.4988326,
-    "lng": 76.9577955,
-    "website": "https://www.qburst.com/",
-    "phone": "",
-    "careers_url": "https://www.qburst.com/en-jp/company/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://storage.googleapis.com/qb-revamp-stg/v2/Logo_and_Wordmark_1e2d2c081b/Logo_and_Wordmark_1e2d2c081b.svg",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T20:57:30+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2630867641"
-    },
-    "tech_score": 67.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Thiruvananthapuram",
-        "addr:housename": "Artech Magnet",
-        "addr:housenumber": "Vazhuthacaud",
-        "addr:postcode": "695014",
-        "addr:street": "SH 2",
-        "name": "QBUrst Technologies",
-        "office": "it",
-        "opening_hours": "08:30-17:30",
-        "website": "https://www.qburst.com/"
-      },
-      "careers": {
-        "url": "https://www.qburst.com/en-jp/company/career/",
-        "provider": "company_website",
-        "api_url": "https://storage.googleapis.com/qb-revamp-stg/v2/Logo_and_Wordmark_1e2d2c081b/Logo_and_Wordmark_1e2d2c081b.svg",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T20:57:30+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "CMS IT Services",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -7478,12 +7478,12 @@
     "lng": 75.858034,
     "website": "https://glitchprobe.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://glitchprobe.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://glitchprobe.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T21:35:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -7504,6 +7504,14 @@
         "fixme": "Here is a company called Glitch Probe Infotech, a software development company",
         "name": "Glitch Probe Infotech",
         "website": "https://glitchprobe.com/"
+      },
+      "careers": {
+        "url": "https://glitchprobe.com/career",
+        "provider": "company_website",
+        "api_url": "https://glitchprobe.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T21:35:46+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -8051,12 +8059,12 @@
     "lng": 77.3061377,
     "website": "https://www.appetenza.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.appetenza.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.appetenza.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T21:35:53+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=Software company"
     ],
@@ -8086,7 +8094,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.appetenza.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.appetenza.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T21:35:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
