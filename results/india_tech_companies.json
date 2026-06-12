@@ -3768,6 +3768,49 @@
     }
   },
   {
+    "name": "ITKX Technologies",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "19, Bishop Main Road, Tiruchirappalli, 620017",
+    "lat": 10.8155971,
+    "lng": 78.6782841,
+    "website": "https://itkx.tech",
+    "phone": "+919442260944",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12566963690"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Tiruchirappalli",
+        "addr:district": "Tiruchirappalli",
+        "addr:housenumber": "19",
+        "addr:postcode": "620017",
+        "addr:street": "Bishop Main Road",
+        "name": "ITKX Technologies",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:30-17:30",
+        "phone": "+919442260944",
+        "website": "https://itkx.tech"
+      }
+    }
+  },
+  {
     "name": "Amber Road Software Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -5850,6 +5893,56 @@
         "building:material": "concrete",
         "height": "12",
         "name": "Computer Engineering And Information Technology"
+      }
+    }
+  },
+  {
+    "name": "Kapstone Cybersecurity Private Limited – an iC Consult Company",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No. 301, 3rd Floor, “Tech Summit”, Survey No. 87, Plot No.110, Priyanka Park, Baner Road, Baner, Pune, Maharashtra 411045",
+    "lat": 18.5639224,
+    "lng": 73.7744021,
+    "website": "https://ic-consult.com/",
+    "phone": "",
+    "careers_url": "https://careers.ic-consult.com/en/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://careers.ic-consult.com/en//current-jobs/favorites/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T22:12:47+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12179203327"
+    },
+    "tech_score": 65.0,
+    "confidence": "high",
+    "notes": "matched: cybersecurity, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:full": "Office No. 301, 3rd Floor, “Tech Summit”, Survey No. 87, Plot No.110, Priyanka Park, Baner Road, Baner, Pune, Maharashtra 411045",
+        "addr:housenumber": "110",
+        "addr:postcode": "411045",
+        "addr:street": "Baner Road",
+        "consulting": "security",
+        "name": "Kapstone Cybersecurity Private Limited – an iC Consult Company",
+        "office": "it",
+        "website": "https://ic-consult.com/"
+      },
+      "careers": {
+        "url": "https://careers.ic-consult.com/en/",
+        "provider": "company_website",
+        "api_url": "https://careers.ic-consult.com/en//current-jobs/favorites/",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T22:12:47+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -8611,56 +8704,6 @@
     }
   },
   {
-    "name": "Kapstone Cybersecurity Private Limited – an iC Consult Company",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Office No. 301, 3rd Floor, “Tech Summit”, Survey No. 87, Plot No.110, Priyanka Park, Baner Road, Baner, Pune, Maharashtra 411045",
-    "lat": 18.5639224,
-    "lng": 73.7744021,
-    "website": "https://ic-consult.com/",
-    "phone": "",
-    "careers_url": "https://careers.ic-consult.com/en/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://careers.ic-consult.com/en//current-jobs/favorites/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T22:12:47+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12179203327"
-    },
-    "tech_score": 61.0,
-    "confidence": "high",
-    "notes": "matched: cybersecurity, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:full": "Office No. 301, 3rd Floor, “Tech Summit”, Survey No. 87, Plot No.110, Priyanka Park, Baner Road, Baner, Pune, Maharashtra 411045",
-        "addr:housenumber": "110",
-        "addr:postcode": "411045",
-        "addr:street": "Baner Road",
-        "consulting": "security",
-        "name": "Kapstone Cybersecurity Private Limited – an iC Consult Company",
-        "office": "it",
-        "website": "https://ic-consult.com/"
-      },
-      "careers": {
-        "url": "https://careers.ic-consult.com/en/",
-        "provider": "company_website",
-        "api_url": "https://careers.ic-consult.com/en//current-jobs/favorites/",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T22:12:47+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Atlyx",
     "city": "Ahmedabad",
     "region": "Gujarat",
@@ -8806,12 +8849,12 @@
     "lng": 77.0394971,
     "website": "https://www.kasadara.com",
     "phone": "+91994467585",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://kasadara.com/awsm_job_openings-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://kasadara.com/careers/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T22:50:57+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -8840,7 +8883,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://kasadara.com/awsm_job_openings-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://kasadara.com/careers/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T22:50:57+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -8853,12 +8904,12 @@
     "lng": 77.6037016,
     "website": "https://www.acldigital.com",
     "phone": "+918040343000",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.acldigital.com/video/exceptional-growth-and-rewarding-career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.acldigital.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T22:51:17+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -8884,6 +8935,14 @@
         "office": "it",
         "phone": "+918040343000",
         "website": "https://www.acldigital.com"
+      },
+      "careers": {
+        "url": "https://www.acldigital.com/video/exceptional-growth-and-rewarding-career",
+        "provider": "company_website",
+        "api_url": "https://www.acldigital.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T22:51:17+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -18239,6 +18298,50 @@
       "osm_tags": {
         "name": "Rsoft Software Solutions",
         "office": "yes"
+      }
+    }
+  },
+  {
+    "name": "SuXuS Mobile ServicsS",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "41, Almas Plasa , Promenade Road,, Bharathidasan Salai, Trichirapalli, 620001",
+    "lat": 10.8033032,
+    "lng": 78.6884492,
+    "website": "",
+    "phone": "04314050478",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=mobile_phone",
+      "description=\"Computer based troubleshooting, Software upgrade, Unlock done by Skilled Service Engineer. Also available car chargers, multi chargers. One unit charger 6 usb ports, Quality charger for V8 Charging Port, Quality charger for Type-C Charging Port. Wired qu"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11044550281"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: software, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Trichirapalli",
+        "addr:country": "IN",
+        "addr:district": "Tamilnadu",
+        "addr:housenumber": "41, Almas Plasa , Promenade Road,",
+        "addr:postcode": "620001",
+        "addr:street": "Bharathidasan Salai",
+        "description": "\"Computer based troubleshooting, Software upgrade, Unlock done by Skilled Service Engineer. Also available car chargers, multi chargers. One unit charger 6 usb ports, Quality charger for V8 Charging Port, Quality charger for Type-C Charging Port. Wired qu",
+        "name": "SuXuS Mobile ServicsS",
+        "phone": "04314050478",
+        "shop": "mobile_phone"
       }
     }
   },
@@ -59229,6 +59332,120 @@
     }
   },
   {
+    "name": "cistron infotech pvt",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 10.8062398,
+    "lng": 78.680753,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "craft=electrician"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5234732316"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "craft": "electrician",
+        "name": "cistron infotech pvt"
+      }
+    }
+  },
+  {
+    "name": "Insys Solutions",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "9",
+    "lat": 10.7957484,
+    "lng": 78.7584444,
+    "website": "",
+    "phone": "+919843079797",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5224415321"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "9",
+        "name": "Insys Solutions",
+        "phone": "+919843079797",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Scofish Technologies Private Limited",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "16/73 E, Salai Road, Trichy, 620018",
+    "lat": 10.8285822,
+    "lng": 78.6838431,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=yes",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1226563750"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Trichy",
+        "addr:housenumber": "16/73 E",
+        "addr:postcode": "620018",
+        "addr:street": "Salai Road",
+        "building": "yes",
+        "name": "Scofish Technologies Private Limited",
+        "office": "yes",
+        "source": "microsoft/BuildingFootprints"
+      }
+    }
+  },
+  {
     "name": "Apidel Technologies",
     "city": "Vadodara",
     "region": "Gujarat",
@@ -60590,6 +60807,41 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "A+ve Laptop Solutions",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 10.8220245,
+    "lng": 78.6834236,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4701651809"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "A+ve Laptop Solutions",
+        "shop": "computer"
+      }
     }
   },
   {
