@@ -41,6 +41,10 @@ def _same_source_id(a: Company, b: Company) -> bool:
     for source, source_id in a.source_ids.items():
         if source_id and b.source_ids.get(source) == source_id:
             return True
+        if source_id and source.startswith("google"):
+            for other_source, other_id in b.source_ids.items():
+                if other_source.startswith("google") and other_id == source_id:
+                    return True
     return False
 
 
@@ -154,6 +158,17 @@ def merge_company(base: Company, incoming: Company) -> Company:
     base.raw["google_search_points"] = _union(
         base.raw.get("google_search_points", []), incoming.raw.get("google_search_points", [])
     )
+    base.raw["google_places_new_queries"] = _union(
+        base.raw.get("google_places_new_queries", []), incoming.raw.get("google_places_new_queries", [])
+    )
+    base.raw["google_places_new_types"] = _union(
+        base.raw.get("google_places_new_types", []), incoming.raw.get("google_places_new_types", [])
+    )
+    base.raw["google_places_new_cells"] = _union(
+        base.raw.get("google_places_new_cells", []), incoming.raw.get("google_places_new_cells", [])
+    )
+    if not base.raw.get("google_maps_uri") and incoming.raw.get("google_maps_uri"):
+        base.raw["google_maps_uri"] = incoming.raw.get("google_maps_uri")
     base.raw["search_queries"] = _union(
         base.raw.get("search_queries", []), incoming.raw.get("search_queries", [])
     )

@@ -5,7 +5,7 @@ A Python CLI that automatically collects **tech-company candidates across major 
 It combines:
 
 - **OpenStreetMap / Overpass** — free, no API key, lower coverage.
-- **Google Places API** — optional API key, much better coverage, uses official APIs instead of scraping Google Maps.
+- **Google Places API / Places API (New)** — optional API key, better coverage, uses official APIs instead of scraping Google Maps.
 - **Official web search APIs** — optional Bing Web Search or SerpAPI source for company websites, LinkedIn company pages, ATS/job-board pages, and career pages.
 - **CSV seed import** — optional, for your own lists that should be de-duplicated with API results.
 - **Careers enrichment** — optional, discovers careers pages, ATS providers, and public jobs API endpoints where detectable.
@@ -60,22 +60,22 @@ Free OSM-only run across Indian tech cities:
 python -m india_tech_finder.cli find --sources osm
 ```
 
-Recommended hybrid run with Google Places enabled:
+Recommended run with Google Places API (New) enabled:
 
 ```bash
-python -m india_tech_finder.cli find --sources osm,google,search --granularity hybrid --grid-size-m 5000
+python -m india_tech_finder.cli find --sources osm,google_new,search --google-new-grid-size-m 1000
 ```
 
-The `search` source uses official Bing Web Search or SerpAPI if you provide a key; otherwise it is skipped.
+`google_new` uses the official Places API (New) with small rectangular `locationRestriction` cells, low-cost discovery field masks, Nearby Search for office-like place types, and adaptive splitting when a cell appears capped. The `search` source uses official Bing Web Search or SerpAPI if you provide a key; otherwise it is skipped.
 
 If you are hitting 429s, run a small rotating batch and merge it into existing results:
 
 ```bash
 python -m india_tech_finder.cli find \
-  --sources osm,google,search \
+  --sources osm,google_new,search \
   --granularity hybrid \
   --region-batch-size 1 \
-  --google-point-batch-size 1 \
+  --google-new-cell-batch-size 1 \
   --batch-index 0 \
   --no-google-details \
   --merge-existing
@@ -100,6 +100,32 @@ The JSON includes careers metadata when enrichment runs:
   "careers_notes": "detected ATS/provider"
 }
 ```
+
+## Google Places API (New) grid strategy
+
+The `google_new` source implements the granular approach for long-tail discovery:
+
+- splits city bounding boxes into small rectangular cells, default `1000m`
+- uses Places API (New) Text Search with `locationRestriction.rectangle`
+- uses low-cost discovery fields only: id, name, address, location, types, Google Maps URI
+- avoids website/phone/rating/review fields during discovery
+- uses Nearby Search with `corporate_office`, `business_center`, `coworking_space`
+- if a Text/Nearby request hits the result cap, it adaptively splits that cell into 4 smaller cells
+- dedupes by Google place id, name/location, and website when enriched later
+
+Useful options:
+
+```bash
+python -m india_tech_finder.cli find \
+  --region bengaluru \
+  --sources google_new \
+  --google-new-grid-size-m 1000 \
+  --google-new-cell-batch-size 5 \
+  --google-new-mode both \
+  --google-new-adaptive-depth 1
+```
+
+For deeper one-off scans, decrease grid size or increase adaptive depth, but watch Google quota/cost.
 
 ## Granularity and 429 strategy
 
@@ -130,9 +156,9 @@ For maximum recall on a one-off local run, you can increase:
 
 ```bash
 python -m india_tech_finder.cli find \
-  --sources osm,google,search \
+  --sources osm,google_new,search \
   --granularity hybrid \
-  --grid-size-m 3000 \
+  --google-new-grid-size-m 500 \
   --max-pages 3 \
   --google-request-sleep-s 0.5
 ```
@@ -271,13 +297,17 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 
 - `TECH_FINDER_PRESET` — default `india-tech-cities`
 - `TECH_FINDER_REGIONS` — comma-separated subset, e.g. `bengaluru,hyderabad,pune`
-- `TECH_FINDER_SOURCES` — default `osm,google,search`
+- `TECH_FINDER_SOURCES` — default `osm,google_new,search`
 - `TECH_FINDER_GRANULARITY` — default `hybrid`; choices: `city`, `zones`, `grid`, `hybrid`
 - `TECH_FINDER_GRID_SIZE_M` — default `5000`
 - `TECH_FINDER_GRID_RADIUS_M` — optional; default equals grid size
 - `TECH_FINDER_ZONE_RADIUS_M` — default `4000`
 - `TECH_FINDER_REGION_BATCH_SIZE` — default `1`, to avoid Overpass/Google bursts
-- `TECH_FINDER_GOOGLE_POINT_BATCH_SIZE` — default `1`, number of grid points per run
+- `TECH_FINDER_GOOGLE_POINT_BATCH_SIZE` — default `1`, classic Google Places grid points per run
+- `TECH_FINDER_GOOGLE_NEW_GRID_SIZE_M` — default `1000`, Places API New rectangle cell size
+- `TECH_FINDER_GOOGLE_NEW_CELL_BATCH_SIZE` — default `1`, Places API New cells per run
+- `TECH_FINDER_GOOGLE_NEW_MODE` — default `both`; choices: `text`, `nearby`, `both`
+- `TECH_FINDER_GOOGLE_NEW_ADAPTIVE_DEPTH` — default `1`, split capped cells recursively
 - `TECH_FINDER_BATCH_INDEX` — optional; defaults to GitHub run number for rotation
 - `TECH_FINDER_MIN_SCORE` — default `20`
 - `TECH_FINDER_MAX_PAGES` — default `1`; use `3` for deeper Google results, but it costs more

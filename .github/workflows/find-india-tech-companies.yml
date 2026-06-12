@@ -34,6 +34,10 @@ jobs:
       TECH_FINDER_ZONE_RADIUS_M: ${{ vars.TECH_FINDER_ZONE_RADIUS_M }}
       TECH_FINDER_REGION_BATCH_SIZE: ${{ vars.TECH_FINDER_REGION_BATCH_SIZE }}
       TECH_FINDER_GOOGLE_POINT_BATCH_SIZE: ${{ vars.TECH_FINDER_GOOGLE_POINT_BATCH_SIZE }}
+      TECH_FINDER_GOOGLE_NEW_GRID_SIZE_M: ${{ vars.TECH_FINDER_GOOGLE_NEW_GRID_SIZE_M }}
+      TECH_FINDER_GOOGLE_NEW_CELL_BATCH_SIZE: ${{ vars.TECH_FINDER_GOOGLE_NEW_CELL_BATCH_SIZE }}
+      TECH_FINDER_GOOGLE_NEW_MODE: ${{ vars.TECH_FINDER_GOOGLE_NEW_MODE }}
+      TECH_FINDER_GOOGLE_NEW_ADAPTIVE_DEPTH: ${{ vars.TECH_FINDER_GOOGLE_NEW_ADAPTIVE_DEPTH }}
       TECH_FINDER_BATCH_INDEX: ${{ vars.TECH_FINDER_BATCH_INDEX }}
       TECH_FINDER_MIN_SCORE: ${{ vars.TECH_FINDER_MIN_SCORE }}
       TECH_FINDER_MAX_PAGES: ${{ vars.TECH_FINDER_MAX_PAGES }}
@@ -65,12 +69,16 @@ jobs:
         run: |
           set -euo pipefail
           PRESET="${TECH_FINDER_PRESET:-india-tech-cities}"
-          SOURCES="${TECH_FINDER_SOURCES:-osm,google,search}"
+          SOURCES="${TECH_FINDER_SOURCES:-osm,google_new,search}"
           GRANULARITY="${TECH_FINDER_GRANULARITY:-hybrid}"
           GRID_SIZE_M="${TECH_FINDER_GRID_SIZE_M:-5000}"
           ZONE_RADIUS_M="${TECH_FINDER_ZONE_RADIUS_M:-4000}"
           REGION_BATCH_SIZE="${TECH_FINDER_REGION_BATCH_SIZE:-1}"
           GOOGLE_POINT_BATCH_SIZE="${TECH_FINDER_GOOGLE_POINT_BATCH_SIZE:-1}"
+          GOOGLE_NEW_GRID_SIZE_M="${TECH_FINDER_GOOGLE_NEW_GRID_SIZE_M:-1000}"
+          GOOGLE_NEW_CELL_BATCH_SIZE="${TECH_FINDER_GOOGLE_NEW_CELL_BATCH_SIZE:-1}"
+          GOOGLE_NEW_MODE="${TECH_FINDER_GOOGLE_NEW_MODE:-both}"
+          GOOGLE_NEW_ADAPTIVE_DEPTH="${TECH_FINDER_GOOGLE_NEW_ADAPTIVE_DEPTH:-1}"
           BATCH_INDEX="${TECH_FINDER_BATCH_INDEX:-${GITHUB_RUN_NUMBER}}"
           MIN_SCORE="${TECH_FINDER_MIN_SCORE:-20}"
           MAX_PAGES="${TECH_FINDER_MAX_PAGES:-1}"
@@ -111,6 +119,10 @@ jobs:
             --zone-radius-m "$ZONE_RADIUS_M" \
             --region-batch-size "$REGION_BATCH_SIZE" \
             --google-point-batch-size "$GOOGLE_POINT_BATCH_SIZE" \
+            --google-new-grid-size-m "$GOOGLE_NEW_GRID_SIZE_M" \
+            --google-new-cell-batch-size "$GOOGLE_NEW_CELL_BATCH_SIZE" \
+            --google-new-mode "$GOOGLE_NEW_MODE" \
+            --google-new-adaptive-depth "$GOOGLE_NEW_ADAPTIVE_DEPTH" \
             --batch-index "$BATCH_INDEX" \
             --min-score "$MIN_SCORE" \
             --max-pages "$MAX_PAGES" \

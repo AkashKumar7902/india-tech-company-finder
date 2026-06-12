@@ -9,6 +9,7 @@ from typing import Iterable, Sequence, Tuple
 
 Bbox = Tuple[float, float, float, float]  # south, west, north, east
 SearchPoint = Tuple[float, float, str]  # lat, lng, label
+SearchCell = Tuple[float, float, float, float, str]  # south, west, north, east, label
 
 
 @dataclass(frozen=True)
@@ -188,6 +189,39 @@ def grid_points_for_bbox(
 
 def grid_points_for_region(region: Region, *, spacing_m: int) -> list[SearchPoint]:
     return grid_points_for_bbox(region.bbox, spacing_m=spacing_m, center=(region.lat, region.lng))
+
+
+def grid_cells_for_bbox(bbox: Bbox, *, cell_size_m: int) -> list[SearchCell]:
+    """Build rectangular grid cells covering a bbox.
+
+    Google Places API (New) Text Search supports rectangle
+    ``locationRestriction``. Rectangular cells are better than broad radius
+    searches for long-tail / low-review businesses.
+    """
+    south, west, north, east = bbox
+    mid_lat = (south + north) / 2
+    lat_step = max(cell_size_m / 111_000, 0.001)
+    lng_step = max(cell_size_m / (111_000 * max(math.cos(math.radians(mid_lat)), 0.1)), 0.001)
+
+    cells: list[SearchCell] = []
+    row = 1
+    cell_south = south
+    while cell_south < north:
+        cell_north = min(cell_south + lat_step, north)
+        col = 1
+        cell_west = west
+        while cell_west < east:
+            cell_east = min(cell_west + lng_step, east)
+            cells.append((cell_south, cell_west, cell_north, cell_east, f"cell-r{row:03d}-c{col:03d}"))
+            cell_west = cell_east
+            col += 1
+        cell_south = cell_north
+        row += 1
+    return cells
+
+
+def grid_cells_for_region(region: Region, *, cell_size_m: int) -> list[SearchCell]:
+    return grid_cells_for_bbox(region.bbox, cell_size_m=cell_size_m)
 
 
 def filter_regions(regions: Iterable[Region], filters: Iterable[str] | None) -> list[Region]:

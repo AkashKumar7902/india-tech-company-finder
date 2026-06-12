@@ -15,14 +15,21 @@ from .models import Company
 from .regions import (
     PRESETS,
     Region,
+    SearchCell,
     SearchPoint,
     filter_regions,
+    grid_cells_for_region,
     grid_points_for_region,
     load_regions_file,
 )
 from .scoring import score_company
 from .sources.csv_seed import fetch_csv_seed
 from .sources.google_places import DEFAULT_QUERY_TEMPLATES, fetch_google_places, render_queries
+from .sources.google_places_new import (
+    DEFAULT_NEARBY_TYPES,
+    DEFAULT_TEXT_QUERIES,
+    fetch_google_places_new,
+)
 from .sources.osm import OVERPASS_URL, fetch_osm
 from .sources.web_search import SEARCH_QUERY_TEMPLATES, fetch_web_search
 from .zones import TechZone, load_tech_zones, tech_zone_points_for_region, zones_by_region
@@ -50,6 +57,9 @@ def parse_sources(text: str) -> set[str]:
         "google": "google_places",
         "places": "google_places",
         "google_places": "google_places",
+        "google_new": "google_places_new",
+        "places_new": "google_places_new",
+        "google_places_new": "google_places_new",
         "osm": "openstreetmap",
         "openstreetmap": "openstreetmap",
         "csv": "seed_csv",
@@ -114,6 +124,18 @@ def load_web_query_templates(args: argparse.Namespace) -> list[str]:
         queries.extend(_load_template_file(args.web_queries_file))
     queries.extend(args.web_query or [])
     return queries or list(SEARCH_QUERY_TEMPLATES)
+
+
+def load_google_new_text_queries(args: argparse.Namespace) -> list[str]:
+    queries: list[str] = []
+    if args.google_new_text_queries_file:
+        queries.extend(_load_template_file(args.google_new_text_queries_file))
+    queries.extend(args.google_new_text_query or [])
+    return queries or list(DEFAULT_TEXT_QUERIES)
+
+
+def parse_csv_values(text: str) -> list[str]:
+    return [part.strip() for part in (text or "").split(",") if part.strip()]
 
 
 def resolve_regions(args: argparse.Namespace) -> list[Region]:
@@ -223,6 +245,29 @@ def select_google_point_batches(
     return dict(grouped), len(all_items), batch_label
 
 
+def select_google_new_cell_batches(
+    regions: list[Region],
+    args: argparse.Namespace,
+    *,
+    batch_index: int,
+) -> tuple[dict[str, list[SearchCell]], int, str]:
+    all_items: list[tuple[str, SearchCell]] = []
+    for region in regions:
+        cells = grid_cells_for_region(region, cell_size_m=args.google_new_grid_size_m)
+        for cell in cells:
+            all_items.append((region.id, cell))
+
+    selected, batch_label = select_batch(
+        all_items,
+        batch_size=args.google_new_cell_batch_size,
+        batch_index=batch_index,
+    )
+    grouped: dict[str, list[SearchCell]] = defaultdict(list)
+    for region_id, cell in selected:
+        grouped[region_id].append(cell)
+    return dict(grouped), len(all_items), batch_label
+
+
 def build_web_locations(
     region: Region,
     args: argparse.Namespace,
@@ -316,6 +361,8 @@ def cmd_find(args: argparse.Namespace) -> int:
             source_counts["existing_results"] = len(existing)
 
     query_templates = load_query_templates(args)
+    google_new_text_queries = load_google_new_text_queries(args)
+    google_new_nearby_types = parse_csv_values(args.google_new_nearby_types) or list(DEFAULT_NEARBY_TYPES)
     web_query_templates = load_web_query_templates(args)
     tech_zones = load_tech_zones(args.tech_zones_file)
     grouped_zones = zones_by_region(tech_zones)
@@ -324,14 +371,20 @@ def cmd_find(args: argparse.Namespace) -> int:
     google_points_by_region: dict[str, list[SearchPoint]] = {}
     total_google_points = 0
     google_point_batch_label = "all"
-    if "google_places" in requested_sources:
+    google_new_cells_by_region: dict[str, list[SearchCell]] = {}
+    total_google_new_cells = 0
+    google_new_cell_batch_label = "all"
+    if "google_places" in requested_sources or "google_places_new" in requested_sources:
         google_api_key = args.google_api_key or os.getenv("GOOGLE_PLACES_API_KEY") or os.getenv("GOOGLE_MAPS_API_KEY")
         if not google_api_key:
             print(
                 "Skipping Google Places: set GOOGLE_PLACES_API_KEY in .env or pass --google-api-key.",
                 file=sys.stderr,
             )
-            source_counts["google_places"] = 0
+            if "google_places" in requested_sources:
+                source_counts["google_places"] = 0
+            if "google_places_new" in requested_sources:
+                source_counts["google_places_new"] = 0
         else:
             if args.google_point_batch_index is not None:
                 point_batch_index = args.google_point_batch_index
@@ -340,12 +393,24 @@ def cmd_find(args: argparse.Namespace) -> int:
                 # point batch once per full region cycle. This prevents a city
                 # from repeatedly getting the same grid slice forever.
                 point_batch_index = args.batch_index // region_batch_count
-            google_points_by_region, total_google_points, google_point_batch_label = select_google_point_batches(
-                regions,
-                args,
-                grouped_zones=grouped_zones,
-                point_batch_index=point_batch_index,
-            )
+            if "google_places" in requested_sources:
+                google_points_by_region, total_google_points, google_point_batch_label = select_google_point_batches(
+                    regions,
+                    args,
+                    grouped_zones=grouped_zones,
+                    point_batch_index=point_batch_index,
+                )
+            if "google_places_new" in requested_sources:
+                google_new_batch_index = (
+                    args.google_new_cell_batch_index
+                    if args.google_new_cell_batch_index is not None
+                    else args.batch_index // region_batch_count
+                )
+                google_new_cells_by_region, total_google_new_cells, google_new_cell_batch_label = select_google_new_cell_batches(
+                    regions,
+                    args,
+                    batch_index=google_new_batch_index,
+                )
 
     web_search_enabled = False
     web_locations_by_region: dict[str, list[str]] = {}
@@ -372,14 +437,28 @@ def cmd_find(args: argparse.Namespace) -> int:
 
     print(f"Selected {len(regions)}/{len(all_regions)} region(s), region batch: {region_batch_label}")
     print(f"Regions: {', '.join(region.label for region in regions)}")
-    if google_api_key:
+    if google_api_key and "google_places" in requested_sources:
         selected_points = sum(len(points) for points in google_points_by_region.values())
         max_text_searches = selected_points * len(query_templates) * max(args.max_pages, 1)
         print(
-            "Google plan: "
+            "Google classic plan: "
             f"granularity={args.granularity}, points={selected_points}/{total_google_points}, "
             f"point batch={google_point_batch_label}, queries={len(query_templates)}, "
             f"max text-search requests={max_text_searches}"
+        )
+    if google_api_key and "google_places_new" in requested_sources:
+        selected_cells = sum(len(cells) for cells in google_new_cells_by_region.values())
+        mode = args.google_new_mode
+        per_cell_calls = 0
+        if mode in {"text", "both"}:
+            per_cell_calls += len(google_new_text_queries) * max(args.google_new_max_pages, 1)
+        if mode in {"nearby", "both"}:
+            per_cell_calls += len(google_new_nearby_types)
+        print(
+            "Google Places New plan: "
+            f"cells={selected_cells}/{total_google_new_cells}, cell batch={google_new_cell_batch_label}, "
+            f"grid={args.google_new_grid_size_m}m, mode={mode}, "
+            f"max discovery requests={selected_cells * per_cell_calls} before adaptive splits"
         )
     if web_search_enabled:
         selected_locations = sum(len(locations) for locations in web_locations_by_region.values())
@@ -450,6 +529,38 @@ def cmd_find(args: argparse.Namespace) -> int:
             )
             source_counts["google_places"] = source_counts.get("google_places", 0) + len(companies)
             all_companies.extend(companies)
+
+        if "google_places_new" in requested_sources and google_api_key:
+            cells = google_new_cells_by_region.get(region.id, [])
+            if not cells:
+                print(f"Skipping Google Places New ({region.label}): no cells in this batch")
+            else:
+                companies = _safe_fetch(
+                    f"Google Places New ({region.label}, {len(cells)} cell(s), grid={args.google_new_grid_size_m}m)",
+                    lambda region=region, cells=cells: fetch_google_places_new(
+                        google_api_key,
+                        cells=cells,
+                        city=region.city,
+                        region=region.state,
+                        country=region.country,
+                        text_queries=google_new_text_queries,
+                        nearby_types=google_new_nearby_types,
+                        mode=args.google_new_mode,
+                        page_size=args.google_new_page_size,
+                        max_pages=args.google_new_max_pages,
+                        nearby_max_results=args.google_new_nearby_max_results,
+                        adaptive=not args.no_google_new_adaptive,
+                        adaptive_depth=args.google_new_adaptive_depth,
+                        min_cell_size_m=args.google_new_min_cell_size_m,
+                        timeout=args.timeout,
+                        max_retries=args.google_max_retries,
+                        retry_backoff_s=args.retry_backoff_s,
+                        request_sleep_s=args.google_new_request_sleep_s,
+                    ),
+                    strict=args.strict,
+                )
+                source_counts["google_places_new"] = source_counts.get("google_places_new", 0) + len(companies)
+                all_companies.extend(companies)
 
         if "web_search" in requested_sources and web_search_enabled:
             web_locations = web_locations_by_region.get(region.id, [])
@@ -547,7 +658,7 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     find = subparsers.add_parser("find", help="collect and export company candidates")
-    find.add_argument("--sources", default="osm,google,search", help="comma-separated: osm,google,search,csv")
+    find.add_argument("--sources", default="osm,google_new,search", help="comma-separated: osm,google,google_new,search,csv")
     find.add_argument("--env", default=".env", help="dotenv file containing GOOGLE_PLACES_API_KEY")
     find.add_argument(
         "--preset",
@@ -581,6 +692,20 @@ def build_parser() -> argparse.ArgumentParser:
     find.add_argument("--merge-existing", action="store_true", help="merge with existing JSON output before exporting")
     find.add_argument("--overpass-url", default=OVERPASS_URL, help="Overpass API endpoint")
     find.add_argument("--google-api-key", default=None, help="Google Places API key")
+    find.add_argument("--google-new-grid-size-m", type=int, default=1000, help="Places API New rectangle grid cell size")
+    find.add_argument("--google-new-cell-batch-size", type=int, help="process only N Places API New cells in this run")
+    find.add_argument("--google-new-cell-batch-index", type=int, help="override Places API New cell batch index")
+    find.add_argument("--google-new-mode", choices=["text", "nearby", "both"], default="both", help="Places API New discovery mode")
+    find.add_argument("--google-new-page-size", type=int, default=20, help="Places API New Text Search page size")
+    find.add_argument("--google-new-max-pages", type=int, default=1, help="Places API New Text Search pages per query")
+    find.add_argument("--google-new-nearby-max-results", type=int, default=20, help="Places API New Nearby max results per type")
+    find.add_argument("--google-new-nearby-types", default=",".join(DEFAULT_NEARBY_TYPES), help="comma-separated Nearby Search includedTypes")
+    find.add_argument("--google-new-text-query", action="append", help="extra Places API New Text Search query; can be repeated")
+    find.add_argument("--google-new-text-queries-file", help="file with one Places API New Text Search query per line")
+    find.add_argument("--google-new-request-sleep-s", type=float, default=0.2, help="sleep between Places API New requests")
+    find.add_argument("--google-new-adaptive-depth", type=int, default=1, help="split capped cells recursively up to this depth")
+    find.add_argument("--google-new-min-cell-size-m", type=int, default=250, help="do not split cells below this size")
+    find.add_argument("--no-google-new-adaptive", action="store_true", help="disable adaptive splitting for capped Places API New cells")
     find.add_argument("--search-provider", choices=["auto", "bing", "serpapi"], default="auto", help="official search API provider")
     find.add_argument("--bing-search-api-key", default=None, help="Bing Web Search API key")
     find.add_argument("--bing-search-endpoint", default="https://api.bing.microsoft.com/v7.0/search", help="Bing Web Search endpoint")

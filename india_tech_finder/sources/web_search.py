@@ -241,7 +241,7 @@ def _fetch_bing_query(
 ) -> list[SearchResult]:
     response = session.get(
         endpoint,
-        headers={"Ocp-Apim-Subscription-Key": api_key, "User-Agent": "india-tech-company-finder/0.6"},
+        headers={"Ocp-Apim-Subscription-Key": api_key, "User-Agent": "india-tech-company-finder/0.7"},
         params={"q": query, "mkt": "en-IN", "count": min(max_results, 50), "responseFilter": "Webpages"},
         timeout=timeout,
     )
@@ -262,7 +262,7 @@ def _fetch_serpapi_query(
 ) -> list[SearchResult]:
     response = session.get(
         endpoint,
-        headers={"User-Agent": "india-tech-company-finder/0.6"},
+        headers={"User-Agent": "india-tech-company-finder/0.7"},
         params={"engine": "google", "q": query, "api_key": api_key, "google_domain": "google.co.in", "gl": "in", "num": min(max_results, 20)},
         timeout=timeout,
     )
