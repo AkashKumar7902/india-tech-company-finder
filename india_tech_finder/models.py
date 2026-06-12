@@ -17,6 +17,12 @@ class Company:
     lng: Optional[float] = None
     website: str = ""
     phone: str = ""
+    careers_url: str = ""
+    careers_provider: str = ""
+    careers_api_url: str = ""
+    careers_confidence: str = ""
+    careers_last_checked: str = ""
+    careers_notes: str = ""
     categories: List[str] = field(default_factory=list)
     sources: List[str] = field(default_factory=list)
     source_ids: Dict[str, str] = field(default_factory=dict)

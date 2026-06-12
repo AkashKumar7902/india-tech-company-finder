@@ -7,6 +7,7 @@ It combines:
 - **OpenStreetMap / Overpass** — free, no API key, lower coverage.
 - **Google Places API** — optional API key, much better coverage, uses official APIs instead of scraping Google Maps.
 - **CSV seed import** — optional, for your own lists that should be de-duplicated with API results.
+- **Careers enrichment** — optional, discovers careers pages, ATS providers, and public jobs API endpoints where detectable.
 
 > No public source can guarantee a perfect list of *all* companies. This project now uses curated tech-zone searches plus granular city-grid searches and rotating batches to improve recall without hammering APIs. Treat the output as a ranked candidate list and verify important rows manually.
 
@@ -83,6 +84,19 @@ Outputs:
 - `results/india_tech_companies.csv`
 - `results/india_tech_companies.json`
 
+The JSON includes careers metadata when enrichment runs:
+
+```json
+{
+  "careers_url": "https://jobs.lever.co/example",
+  "careers_provider": "lever",
+  "careers_api_url": "https://api.lever.co/v0/postings/example?mode=json",
+  "careers_confidence": "high",
+  "careers_last_checked": "2026-06-13T12:00:00+00:00",
+  "careers_notes": "detected ATS/provider"
+}
+```
+
 ## Granularity and 429 strategy
 
 The finder now has a curated tech-zone list in:
@@ -139,6 +153,9 @@ python -m india_tech_finder.cli find --sources osm,google --min-score 0
 # Search only curated tech zones
 python -m india_tech_finder.cli find --granularity zones --sources osm,google
 
+# Enrich careers page / ATS / jobs API for companies with websites
+python -m india_tech_finder.cli find --merge-existing --enrich-careers --careers-batch-size 50
+
 # Add your own Google query template
 python -m india_tech_finder.cli find --query "software product company"
 
@@ -153,6 +170,25 @@ python -m india_tech_finder.cli find --sources osm,google,csv --seed-csv my_comp
 ```
 
 Seed CSV headers supported: `name,city,region,country,address,lat,lng,website,phone,categories`.
+
+## Careers enrichment
+
+Use:
+
+```bash
+python -m india_tech_finder.cli find --merge-existing --enrich-careers
+```
+
+It checks each company website in small batches and adds these JSON/CSV fields:
+
+- `careers_url`
+- `careers_provider` — examples: `greenhouse`, `lever`, `ashby`, `workday`, `smartrecruiters`, `company_website`
+- `careers_api_url` — public jobs API endpoint when the ATS/provider is detectable
+- `careers_confidence`
+- `careers_last_checked`
+- `careers_notes`
+
+It only runs for companies that already have a `website`. If Google Place Details are disabled, some Google-only results may not have websites yet.
 
 ## Curated tech zones file
 
@@ -240,6 +276,9 @@ Optional repo variables under **Settings → Secrets and variables → Actions �
 - `TECH_FINDER_MAX_PAGES` — default `1`; use `3` for deeper Google results, but it costs more
 - `TECH_FINDER_NO_GOOGLE_DETAILS` — default `true` in cron to reduce Google API calls by skipping Place Details
 - `TECH_FINDER_GOOGLE_REQUEST_SLEEP_S` — default `0.3`, small pause between Google API calls
+- `TECH_FINDER_ENRICH_CAREERS` — default `true`; finds careers URL/provider/API for companies with websites
+- `TECH_FINDER_CAREERS_BATCH_SIZE` — default `20`
+- `TECH_FINDER_CAREERS_REQUEST_SLEEP_S` — default `1`
 
 ## How scoring works
 

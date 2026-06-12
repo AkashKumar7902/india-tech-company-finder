@@ -8,6 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Callable, Iterable, Optional, TypeVar
 
+from .careers import enrich_companies_with_careers
 from .dedupe import dedupe_companies
 from .export import read_json, write_csv, write_json
 from .models import Company
@@ -366,6 +367,30 @@ def cmd_find(args: argparse.Namespace) -> int:
     if args.limit:
         filtered = filtered[: args.limit]
 
+    if args.enrich_careers:
+        careers_candidates = [
+            company
+            for company in filtered
+            if company.website and (args.refresh_careers or not company.careers_last_checked)
+        ]
+        careers_batch_index = args.careers_batch_index if args.careers_batch_index is not None else args.batch_index
+        careers_batch, careers_batch_label = select_batch(
+            careers_candidates,
+            batch_size=args.careers_batch_size,
+            batch_index=careers_batch_index,
+        )
+        print(
+            f"\nCareers enrichment: {len(careers_batch)}/{len(careers_candidates)} "
+            f"company website(s), batch={careers_batch_label}"
+        )
+        enriched_count = enrich_companies_with_careers(
+            careers_batch,
+            timeout=args.careers_timeout,
+            max_pages=args.careers_max_pages,
+            request_sleep_s=args.careers_request_sleep_s,
+        )
+        print(f"  Enriched careers metadata for {enriched_count} company website(s)")
+
     csv_path = write_csv(filtered, out_csv)
     json_path = write_json(filtered, out_json)
 
@@ -436,6 +461,13 @@ def build_parser() -> argparse.ArgumentParser:
     find.add_argument("--include-closed", action="store_true", help="include permanently closed Google places")
     find.add_argument("--google-request-sleep-s", type=float, default=0.0, help="sleep between Google API requests")
     find.add_argument("--google-max-retries", type=int, default=5, help="Google 429/quota retry attempts")
+    find.add_argument("--enrich-careers", action="store_true", help="discover careers page/provider/API for companies with websites")
+    find.add_argument("--refresh-careers", action="store_true", help="re-check careers metadata even if already checked")
+    find.add_argument("--careers-batch-size", type=int, help="process only N company websites for careers enrichment")
+    find.add_argument("--careers-batch-index", type=int, help="override careers enrichment batch index")
+    find.add_argument("--careers-timeout", type=int, default=10, help="careers enrichment HTTP timeout seconds")
+    find.add_argument("--careers-max-pages", type=int, default=5, help="max homepage/careers candidate pages to inspect per company")
+    find.add_argument("--careers-request-sleep-s", type=float, default=0.5, help="sleep between company career-site checks")
     find.add_argument("--osm-max-retries", type=int, default=3, help="Overpass HTTP 429 retry attempts")
     find.add_argument("--retry-backoff-s", type=float, default=2.0, help="base exponential retry backoff seconds")
     find.add_argument("--seed-csv", help="optional CSV seed file with extra candidates")

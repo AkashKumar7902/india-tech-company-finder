@@ -37,6 +37,9 @@ jobs:
       TECH_FINDER_MAX_PAGES: ${{ vars.TECH_FINDER_MAX_PAGES }}
       TECH_FINDER_NO_GOOGLE_DETAILS: ${{ vars.TECH_FINDER_NO_GOOGLE_DETAILS }}
       TECH_FINDER_GOOGLE_REQUEST_SLEEP_S: ${{ vars.TECH_FINDER_GOOGLE_REQUEST_SLEEP_S }}
+      TECH_FINDER_ENRICH_CAREERS: ${{ vars.TECH_FINDER_ENRICH_CAREERS }}
+      TECH_FINDER_CAREERS_BATCH_SIZE: ${{ vars.TECH_FINDER_CAREERS_BATCH_SIZE }}
+      TECH_FINDER_CAREERS_REQUEST_SLEEP_S: ${{ vars.TECH_FINDER_CAREERS_REQUEST_SLEEP_S }}
 
     steps:
       - name: Checkout
@@ -67,6 +70,8 @@ jobs:
           MIN_SCORE="${TECH_FINDER_MIN_SCORE:-20}"
           MAX_PAGES="${TECH_FINDER_MAX_PAGES:-1}"
           GOOGLE_REQUEST_SLEEP_S="${TECH_FINDER_GOOGLE_REQUEST_SLEEP_S:-0.3}"
+          CAREERS_BATCH_SIZE="${TECH_FINDER_CAREERS_BATCH_SIZE:-20}"
+          CAREERS_REQUEST_SLEEP_S="${TECH_FINDER_CAREERS_REQUEST_SLEEP_S:-1}"
 
           EXTRA_ARGS=()
           if [ -n "${TECH_FINDER_REGIONS:-}" ]; then
@@ -85,6 +90,9 @@ jobs:
           # TECH_FINDER_NO_GOOGLE_DETAILS=false if you want websites/phones.
           if [ "${TECH_FINDER_NO_GOOGLE_DETAILS:-true}" = "true" ]; then
             EXTRA_ARGS+=(--no-google-details)
+          fi
+          if [ "${TECH_FINDER_ENRICH_CAREERS:-true}" = "true" ]; then
+            EXTRA_ARGS+=(--enrich-careers --careers-batch-size "$CAREERS_BATCH_SIZE" --careers-request-sleep-s "$CAREERS_REQUEST_SLEEP_S")
           fi
 
           python -m india_tech_finder.cli find \
@@ -120,7 +128,7 @@ jobs:
               count=$(( $(wc -l < results/india_tech_companies.csv) - 1 ))
               echo "Rows exported: **$count**"
               echo
-              echo "This workflow uses small rotating batches and merges with existing results to avoid API 429s."
+              echo "This workflow uses small rotating batches, merges existing results, and enriches careers metadata for a small website batch."
             else
               echo "No results file was created. Check logs."
             fi
