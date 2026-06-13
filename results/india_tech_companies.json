@@ -10340,12 +10340,12 @@
     "lng": 76.8410494,
     "website": "https://www.netsolutions.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.netsolutions.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.netsolutions.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T02:20:35+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=Net Solutions is a digital experience agency that helps brands leverage design, engineering and AI to build consumer-focused products and platforms. Established in the year 2000, our global clients include leading brands and startups, including Harvard B"
     ],
@@ -10373,7 +10373,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.netsolutions.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.netsolutions.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T02:20:35+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -10389,9 +10397,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T02:20:47+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://www.novactech.in/jobs: ConnectTimeout; https://www.novactech.in/jobs/: ConnectTimeout; https://www.novactech.in/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -10417,7 +10425,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T02:20:47+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://www.novactech.in/jobs: ConnectTimeout; https://www.novactech.in/jobs/: ConnectTimeout; https://www.novactech.in/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -13488,6 +13504,78 @@
       "osm_tags": {
         "check_date": "2024-02-11",
         "name": "Aeries Soft Tech Solutions",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "iON Digital Zone. IDZ Yerragattugutta",
+    "city": "Warangal",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 18.0535767,
+    "lng": 79.5332914,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13338251036"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "air_conditioning": "no",
+        "name": "iON Digital Zone. IDZ Yerragattugutta",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      }
+    }
+  },
+  {
+    "name": "Softwayz IT Solutions",
+    "city": "Warangal",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 18.0216048,
+    "lng": 79.5495724,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13340126755"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Softwayz IT Solutions",
         "office": "it"
       }
     }
@@ -26490,6 +26578,42 @@
       "osm_tags": {
         "name": "TriGeo Technologies Private Limited",
         "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Teja Aqua Technologies",
+    "city": "Warangal",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.9991283,
+    "lng": 79.5608646,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6840090620"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Teja Aqua Technologies",
+        "office": "company",
+        "source": "survey"
       }
     }
   },
@@ -42201,6 +42325,40 @@
         "contact:email": "mahendra.d.panchal@gmail.com",
         "description": "bit coins only",
         "name": "Software Consultant"
+      }
+    }
+  },
+  {
+    "name": "Block 5 Dept of Information Technology",
+    "city": "Warangal",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 18.0531207,
+    "lng": 79.5379011,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13336072826"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: information technology, technology; negative hints: college",
+    "raw": {
+      "osm_tags": {
+        "education": "college",
+        "name": "Block 5 Dept of Information Technology",
+        "panoramax": "panoramax.openstreetmap.fr/sequence/c3a83163-e14d-4a9c-bac9-92d524808136"
       }
     }
   },
