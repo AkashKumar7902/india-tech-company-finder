@@ -9048,6 +9048,60 @@
     }
   },
   {
+    "name": "Net Solutions",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "15, Rajiv Gandhi Chandigarh Technology Park, Chandigarh, 160101",
+    "lat": 30.7268559,
+    "lng": 76.8410494,
+    "website": "https://www.netsolutions.com/",
+    "phone": "",
+    "careers_url": "https://www.netsolutions.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.netsolutions.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T02:20:35+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Net Solutions is a digital experience agency that helps brands leverage design, engineering and AI to build consumer-focused products and platforms. Established in the year 2000, our global clients include leading brands and startups, including Harvard B"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13301446745"
+    },
+    "tech_score": 60.0,
+    "confidence": "high",
+    "notes": "matched: technology, solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chandigarh",
+        "addr:country": "IN",
+        "addr:district": "Chandigarh",
+        "addr:housenumber": "15",
+        "addr:postcode": "160101",
+        "addr:street": "Rajiv Gandhi Chandigarh Technology Park",
+        "description": "Net Solutions is a digital experience agency that helps brands leverage design, engineering and AI to build consumer-focused products and platforms. Established in the year 2000, our global clients include leading brands and startups, including Harvard B",
+        "name": "Net Solutions",
+        "phone:mobile": "+91 172 4315000",
+        "website": "https://www.netsolutions.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.netsolutions.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.netsolutions.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T02:20:35+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "miracle software systems",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
@@ -9701,6 +9755,44 @@
     }
   },
   {
+    "name": "Software Technology Park India",
+    "city": "Hubballi-Dharwad",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 15.3534338,
+    "lng": 75.1325197,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:162173239"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: software, technology",
+    "raw": {
+      "osm_tags": {
+        "alt_name": "I T Park",
+        "alt_name:ur": "آئی ٹی پارک",
+        "building": "office",
+        "name": "Software Technology Park India",
+        "name:ur": "سافٹ ویئر ٹیکنالوجی پارک انڈیا"
+      }
+    }
+  },
+  {
     "name": "Geosys Enterprise Solutions Pvt. Ltd.",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -10331,60 +10423,6 @@
     }
   },
   {
-    "name": "Net Solutions",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "15, Rajiv Gandhi Chandigarh Technology Park, Chandigarh, 160101",
-    "lat": 30.7268559,
-    "lng": 76.8410494,
-    "website": "https://www.netsolutions.com/",
-    "phone": "",
-    "careers_url": "https://www.netsolutions.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.netsolutions.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T02:20:35+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Net Solutions is a digital experience agency that helps brands leverage design, engineering and AI to build consumer-focused products and platforms. Established in the year 2000, our global clients include leading brands and startups, including Harvard B"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13301446745"
-    },
-    "tech_score": 56.0,
-    "confidence": "high",
-    "notes": "matched: technology, solutions, digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chandigarh",
-        "addr:country": "IN",
-        "addr:district": "Chandigarh",
-        "addr:housenumber": "15",
-        "addr:postcode": "160101",
-        "addr:street": "Rajiv Gandhi Chandigarh Technology Park",
-        "description": "Net Solutions is a digital experience agency that helps brands leverage design, engineering and AI to build consumer-focused products and platforms. Established in the year 2000, our global clients include leading brands and startups, including Harvard B",
-        "name": "Net Solutions",
-        "phone:mobile": "+91 172 4315000",
-        "website": "https://www.netsolutions.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://www.netsolutions.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.netsolutions.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T02:20:35+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Novac Technology Solutions",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -10529,9 +10567,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T03:46:28+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
       "description=Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology."
@@ -10575,7 +10613,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T03:46:28+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -10591,9 +10637,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T03:46:36+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://complitech.us/jobs: ConnectTimeout; https://complitech.us/jobs/: ConnectTimeout; https://complitech.us/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -10616,6 +10662,14 @@
         "office": "it",
         "opening_hours": "Mo-Sa 09:00-18:00",
         "website": "https://complitech.us/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T03:46:36+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://complitech.us/jobs: ConnectTimeout; https://complitech.us/jobs/: ConnectTimeout; https://complitech.us/career: ConnectTimeout; no careers page detected"
       }
     }
   },
@@ -52137,6 +52191,42 @@
         "name": "Samsung",
         "operator": "Spice Technologies",
         "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "N. S. Infotech Ltd",
+    "city": "Hubballi-Dharwad",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Navanagar, Hubli, 580025",
+    "lat": 15.3985839,
+    "lng": 75.0734759,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:377130430"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Hubli",
+        "addr:postcode": "580025",
+        "addr:street": "Navanagar",
+        "landuse": "industrial",
+        "name": "N. S. Infotech Ltd"
       }
     }
   },
