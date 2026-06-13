@@ -1661,7 +1661,14 @@
         "opening_hours": "Monday: 10:00 AM - 8:30 PM Tuesday: 10:00 AM - 8:30 PM Wednesday: 10:00 AM - 8:30 PM Thursday: 10:00 AM - 8:30 PM Friday: 10:00 AM - 8:30 PM Saturday: 10:00 AM - 8:30 PM Sunday: Closed",
         "phone": "+91 9484830629",
         "website": "https://ahmedabadcctv.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -2280,7 +2287,14 @@
         "phone": "+91 6354995516",
         "service": "software",
         "website": "https://www.techdecade.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -3117,7 +3131,14 @@
         "opening_hours": "Mo-Fr 09:30-19:00",
         "phone": "+91 7069018504",
         "website": "https://zenkins.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -10331,7 +10352,14 @@
         "confidence": "none",
         "checked_at": "2026-06-12T22:13:02+00:00",
         "notes": "https://theatlyx.com/jobs: HTTPError; https://theatlyx.com/jobs/: HTTPError; https://theatlyx.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -12463,7 +12491,14 @@
         "confidence": "none",
         "checked_at": "2026-06-13T03:46:36+00:00",
         "notes": "homepage fetch failed: ConnectTimeout; https://complitech.us/jobs: ConnectTimeout; https://complitech.us/jobs/: ConnectTimeout; https://complitech.us/career: ConnectTimeout; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15708,6 +15743,57 @@
     }
   },
   {
+    "name": "ThinkPalm Technologies Pvt. Ltd.",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "B-1,1st floor, Athulya Building, Infopark-SEZ Infopark, kakanad, 682042",
+    "lat": 10.0093876,
+    "lng": 76.3619496,
+    "website": "https://thinkpalm.com/",
+    "phone": "+91 0484 410 4100",
+    "careers_url": "https://thinkpalm.com/company/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://thinkpalm.com/company/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T18:15:11+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12806398244"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "kakanad",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "B-1,1st floor",
+        "addr:postcode": "682042",
+        "addr:street": "Athulya Building, Infopark-SEZ Infopark",
+        "name": "ThinkPalm Technologies Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91 0484 410 4100",
+        "website": "https://thinkpalm.com/"
+      },
+      "careers": {
+        "url": "https://thinkpalm.com/company/careers/",
+        "provider": "company_website",
+        "api_url": "https://thinkpalm.com/company/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T18:15:11+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Credent Solutions & Services Private Limited\nक्रेडेंट सॉल्यूशंस & सर्विसेज प्राइवेट लिमिटेड",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -17903,57 +17989,6 @@
     }
   },
   {
-    "name": "ThinkPalm Technologies Pvt. Ltd.",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "B-1,1st floor, Athulya Building, Infopark-SEZ Infopark, kakanad, 682042",
-    "lat": 10.0093876,
-    "lng": 76.3619496,
-    "website": "https://thinkpalm.com/",
-    "phone": "+91 0484 410 4100",
-    "careers_url": "https://thinkpalm.com/company/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://thinkpalm.com/company/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T18:15:11+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12806398244"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "kakanad",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "B-1,1st floor",
-        "addr:postcode": "682042",
-        "addr:street": "Athulya Building, Infopark-SEZ Infopark",
-        "name": "ThinkPalm Technologies Pvt. Ltd.",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91 0484 410 4100",
-        "website": "https://thinkpalm.com/"
-      },
-      "careers": {
-        "url": "https://thinkpalm.com/company/careers/",
-        "provider": "company_website",
-        "api_url": "https://thinkpalm.com/company/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T18:15:11+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Comhard Technologies Pvt.Ltd",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -18065,12 +18100,12 @@
     "lng": 77.4830571,
     "website": "https://www.terasoltechnologies.com/",
     "phone": "0120-4100999",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.terasoltechnologies.com/jobs-in-noida",
+    "careers_provider": "zoho_recruit",
+    "careers_api_url": "https://www.terasoltechnologies.com/jobs-in-noida",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-13T18:49:41+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -18102,7 +18137,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.terasoltechnologies.com/jobs-in-noida",
+        "provider": "zoho_recruit",
+        "api_url": "https://www.terasoltechnologies.com/jobs-in-noida",
+        "confidence": "high",
+        "checked_at": "2026-06-13T18:49:41+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -18118,9 +18161,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T18:49:43+00:00",
+    "careers_notes": "https://perveniredigital.com/jobs: HTTPError; https://perveniredigital.com/jobs/: HTTPError; https://perveniredigital.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company",
       "description=Pervenire Digital Solutions Private Limited offers a wide range of Digital Marketing services to customers based around the globe. As a leading digital marketing company in Patna, India, we take pride in our accomplishments. We provide a variety of digita"
@@ -18148,6 +18191,14 @@
         "opening_hours": "Mo-Sa 11:00-20:00",
         "phone": "+91 6206337124",
         "website": "https://www.perveniredigital.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T18:49:43+00:00",
+        "notes": "https://perveniredigital.com/jobs: HTTPError; https://perveniredigital.com/jobs/: HTTPError; https://perveniredigital.com/career: HTTPError; no careers page detected"
       }
     }
   },
@@ -18285,7 +18336,14 @@
         "phone": "+919727577587",
         "website": "https://www.novuslogics.com/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18327,7 +18385,14 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "9537442430",
         "website": "https://www.thanksweb.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21913,7 +21978,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -30611,7 +30680,14 @@
         "image": "https://ashwatthaps.com/wp-content/uploads/2020/11/ashwattha-softwares.jpg",
         "name": "Ashwatthaps",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -30658,7 +30734,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -30692,8 +30772,16 @@
     "raw": {
       "osm_tags": {
         "name": "York IE APAC PVT LTD",
-        "office": "it"
-      }
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00+"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -44256,7 +44344,14 @@
         "phone": "7948003327",
         "start_date": "18 August, 2015",
         "website": "https://www.sauberenv.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48658,7 +48753,14 @@
         "name": "Red Turtle",
         "phone": "079 2970 2818",
         "website": "https://redturtle.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -51761,7 +51863,14 @@
         "office": "company",
         "opening_hours": "24/7",
         "website": "https://www.satleolabs.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52129,7 +52238,14 @@
         "operator": "JM Zhongkai Chemical Equipment LLP",
         "phone": "+91-79-40327309",
         "product": "tanks;scrubbers;blowers;waste_water_treatment_plants;etp_machineries;stp_machineries;composite;frp"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52168,7 +52284,14 @@
         "addr:street": "Krupa Shankar Joshi Marg",
         "name": "TM Systems Pvt. Ltd.",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -54197,7 +54320,14 @@
         "name": "ARE Infotech",
         "roof:material": "concrete",
         "roof:shape": "flat"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -54236,7 +54366,14 @@
         "addr:street": "Dev Aurum Commercial, Near Anand Nagar Cross Roads",
         "building": "yes",
         "name": "Creative Encode Technologies - Dev Aurum"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -54278,7 +54415,14 @@
         "name": "Faculty of Technology, CEPT University",
         "roof:material": "concrete",
         "roof:shape": "flat"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -54318,7 +54462,14 @@
         "name": "Infineon Infotech",
         "roof:material": "concrete",
         "roof:shape": "flat"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -54359,7 +54510,14 @@
         "building": "yes",
         "building:levels": "4",
         "name": "Moweb Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -54394,7 +54552,14 @@
         "addr:postcode": "380007",
         "addr:street": "2nd Floor, Aditya Complex, Opp kasturi Dining Hall, Paldi Cross Road, Paldi",
         "name": "parshwa technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71001,7 +71166,14 @@
         "opening_hours": "Mon - Fri: 9am - 7pm Sat - Sun: Closed",
         "phone": "09574474443",
         "website": "https://www.seogiants.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
