@@ -3796,7 +3796,14 @@
         "opening_hours": "10:00-19:00",
         "phone": "+91-9713275229",
         "website": "https://www.maptrax.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -3839,7 +3846,14 @@
         "description": "Nehvij Technologies is an Indian Game and Software development company that caters to the need of the top esteemed clients. We are a full-fledged digital service agency we wanted to serve your customers with an uninterrupted seamless experience.",
         "name": "Nehvij Technologies Private Limited",
         "source": "local knowledge;gps"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -12374,7 +12388,14 @@
         "name": "Syscraft Information System - Web & Mobile App Development",
         "phone": "+917314090138",
         "website": "https://www.syscraftonline.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15769,7 +15790,14 @@
         "name:ur": "ایف5 بڈی",
         "phone": "095221 48006",
         "website": "https://www.f5buddy.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -16657,6 +16685,63 @@
         "api_url": "https://kizzyconsulting.com/careers/",
         "confidence": "medium",
         "checked_at": "2026-06-13T21:09:32+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Truckrr Information services",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "4, New MGR Road, Veeramamunivar, 1st street, CHENNAI, 600096",
+    "lat": 12.9647683,
+    "lng": 80.2465261,
+    "website": "https://www.truckrr.com/",
+    "phone": "04447768360",
+    "careers_url": "https://www.truckrr.com/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.truckrr.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T21:41:41+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11152623082"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "CHENNAI",
+        "addr:housenumber": "4",
+        "addr:postcode": "600096",
+        "addr:street": "New MGR Road, Veeramamunivar, 1st street",
+        "name": "Truckrr Information services",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "phone": "04447768360",
+        "website": "https://www.truckrr.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.truckrr.com/jobs/",
+        "provider": "company_website",
+        "api_url": "https://www.truckrr.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T21:41:41+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -20186,63 +20271,6 @@
     }
   },
   {
-    "name": "Truckrr Information services",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "4, New MGR Road, Veeramamunivar, 1st street, CHENNAI, 600096",
-    "lat": 12.9647683,
-    "lng": 80.2465261,
-    "website": "https://www.truckrr.com/",
-    "phone": "04447768360",
-    "careers_url": "https://www.truckrr.com/jobs/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.truckrr.com/jobs/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T21:41:41+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11152623082"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "CHENNAI",
-        "addr:housenumber": "4",
-        "addr:postcode": "600096",
-        "addr:street": "New MGR Road, Veeramamunivar, 1st street",
-        "name": "Truckrr Information services",
-        "office": "it",
-        "opening_hours": "Mo-Sa 09:00-19:00",
-        "phone": "04447768360",
-        "website": "https://www.truckrr.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.truckrr.com/jobs/",
-        "provider": "company_website",
-        "api_url": "https://www.truckrr.com/jobs/",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T21:41:41+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Wcart",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -20396,12 +20424,12 @@
     "lng": 72.6490612,
     "website": "https://campusonclick.co.in",
     "phone": "+918866744499",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://campusonclick.co.in/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;600;900&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T22:14:29+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -20431,7 +20459,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://campusonclick.co.in/career",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;600;900&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T22:14:29+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -20447,9 +20483,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T22:14:33+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.unityinfoway.com/jobs: HTTPError; https://www.unityinfoway.com/jobs/: HTTPError; https://www.unityinfoway.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -20479,7 +20515,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T22:14:33+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.unityinfoway.com/jobs: HTTPError; https://www.unityinfoway.com/jobs/: HTTPError; https://www.unityinfoway.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -20974,7 +21018,14 @@
         "name": "Cluestech Website Designing Company in Indore",
         "office": "it",
         "website": "https://www.cluestech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23152,7 +23203,14 @@
         "name": "Mad Maven Infotech",
         "office": "advertising_agency",
         "website": "www.madmaveninfotech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -26011,7 +26069,14 @@
         "opening_hours": "Mo-Sa 10:00-19:00",
         "phone": "9009155444",
         "website": "http://concorderp.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -26057,7 +26122,14 @@
         "phone": "+919039822000",
         "smoking": "no",
         "website": "https://www.mutualfundsoftware.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -26099,7 +26171,14 @@
         "office": "it",
         "opening_hours": "Mo-Sa 08:00-21:00",
         "phone": "0731- 2431972"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29819,7 +29898,14 @@
       "osm_tags": {
         "name": "Lemosys infotech Pvt ltd",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38041,7 +38127,14 @@
         "office": "company",
         "opening_hours": "Mo-Sa 10:00-18:30",
         "website": "https://hostzop.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38076,7 +38169,14 @@
       "osm_tags": {
         "name": "Teleperformance",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48454,7 +48554,14 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "Concord ERP Management Software"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50903,7 +51010,14 @@
         "landuse": "education",
         "name": "Raja Ramanna Centre for Advanced Technology",
         "website": "http://www.cat.gov.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62516,7 +62630,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "Citrusly Media technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62551,7 +62672,14 @@
       "osm_tags": {
         "name": "India Infotech",
         "shop": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62586,7 +62714,14 @@
       "osm_tags": {
         "name": "Ixora Infotech",
         "shop": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62630,7 +62765,14 @@
         "opening_hours": "24/7",
         "security_guard": "no",
         "source": "2C_Indore Field Survey 2019"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62666,7 +62808,14 @@
         "building": "yes",
         "building:levels": "1",
         "name": "ssv technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76494,7 +76643,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76536,7 +76689,14 @@
         "landuse": "retail",
         "name": "Himank.digital",
         "website": "https://himankpatel.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76578,7 +76738,14 @@
         "office": "private",
         "opening_hours": "Mo-Sa 09:00-19:00",
         "website": "https://www.omrdigital.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76619,7 +76786,14 @@
         "name:hi": "स्माइल इंदौर डेंटल सॉल्यूशंस",
         "opening_hours": "Mo-Sa 10:00-20:00",
         "personnel:count": "2"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
