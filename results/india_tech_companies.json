@@ -16909,6 +16909,63 @@
     }
   },
   {
+    "name": "Dinoustech Private Limited",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Plot no.2, 4th floor, Ganga Tower, Tagore Nagar, Chitrakoot Marg, Jaipur, 302021",
+    "lat": 26.8946479,
+    "lng": 75.7390328,
+    "website": "https://dinoustech.com/",
+    "phone": "09166373236",
+    "careers_url": "https://www.dinoustech.com/career.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.dinoustech.com/images/iconimages/careers.png",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T23:15:03+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12282029934"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "Plot no.2, 4th floor, Ganga Tower, Tagore Nagar",
+        "addr:postcode": "302021",
+        "addr:street": "Chitrakoot Marg",
+        "name": "Dinoustech Private Limited",
+        "office": "it",
+        "phone": "09166373236",
+        "website": "https://dinoustech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.dinoustech.com/career.html",
+        "provider": "company_website",
+        "api_url": "https://www.dinoustech.com/images/iconimages/careers.png",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T23:15:03+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Ideamine Technologies Pvt Ltd",
     "city": "Kochi",
     "region": "Kerala",
@@ -17388,7 +17445,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21122,63 +21183,6 @@
     }
   },
   {
-    "name": "Dinoustech Private Limited",
-    "city": "Jaipur",
-    "region": "Rajasthan",
-    "country": "India",
-    "address": "Plot no.2, 4th floor, Ganga Tower, Tagore Nagar, Chitrakoot Marg, Jaipur, 302021",
-    "lat": 26.8946479,
-    "lng": 75.7390328,
-    "website": "https://dinoustech.com/",
-    "phone": "09166373236",
-    "careers_url": "https://www.dinoustech.com/career.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.dinoustech.com/images/iconimages/careers.png",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T23:15:03+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12282029934"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Jaipur",
-        "addr:district": "Jaipur",
-        "addr:housenumber": "Plot no.2, 4th floor, Ganga Tower, Tagore Nagar",
-        "addr:postcode": "302021",
-        "addr:street": "Chitrakoot Marg",
-        "name": "Dinoustech Private Limited",
-        "office": "it",
-        "phone": "09166373236",
-        "website": "https://dinoustech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.dinoustech.com/career.html",
-        "provider": "company_website",
-        "api_url": "https://www.dinoustech.com/images/iconimages/careers.png",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T23:15:03+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Milansoft eServices",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -21345,12 +21349,12 @@
     "lng": 76.3328781,
     "website": "https://caminoinfotech.com",
     "phone": "+91 94478 38710",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://caminoinfotech.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://caminoinfotech.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T23:43:12+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -21369,6 +21373,14 @@
         "office": "it",
         "phone": "+91 94478 38710",
         "website": "https://caminoinfotech.com"
+      },
+      "careers": {
+        "url": "https://caminoinfotech.com/careers",
+        "provider": "company_website",
+        "api_url": "https://caminoinfotech.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T23:43:12+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -21382,12 +21394,12 @@
     "lng": 76.3123233,
     "website": "http://idealetech.com",
     "phone": "+918891889977",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "http://idealetech.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-13T23:43:13+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -21411,6 +21423,14 @@
         "opening_hours": "24/7",
         "phone": "+918891889977",
         "website": "http://idealetech.com"
+      },
+      "careers": {
+        "url": "http://idealetech.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-13T23:43:13+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -43825,7 +43845,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -51651,7 +51675,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66695,7 +66723,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66730,7 +66762,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66769,7 +66805,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66807,7 +66847,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
