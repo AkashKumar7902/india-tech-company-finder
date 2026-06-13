@@ -137,6 +137,81 @@
     }
   },
   {
+    "name": "Proponent Technologies Private Limited",
+    "city": "Dehradun",
+    "region": "Uttarakhand",
+    "country": "India",
+    "address": "",
+    "lat": 30.2908822,
+    "lng": 78.0508691,
+    "website": "https://proponenttechnologies.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=Proponent Technologies Pvt. Ltd. is an offshore software and web development company. We specialize in creating smart user interfaces and offer website and mobile app development, digital marketing, and IT consulting."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11542645031"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies, app development, mobile app, web development, digital",
+    "raw": {
+      "osm_tags": {
+        "description": "Proponent Technologies Pvt. Ltd. is an offshore software and web development company. We specialize in creating smart user interfaces and offer website and mobile app development, digital marketing, and IT consulting.",
+        "image": "https://proponenttechnologies.com/img/header/proponent-logo.png",
+        "name": "Proponent Technologies Private Limited",
+        "website": "https://proponenttechnologies.com/"
+      }
+    }
+  },
+  {
+    "name": "SPARC PVT LTD",
+    "city": "Dehradun",
+    "region": "Uttarakhand",
+    "country": "India",
+    "address": "",
+    "lat": 30.3616873,
+    "lng": 78.086204,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it",
+      "description=GIS, Software Development, Business Intelligence, Artificial Intelligence, IoT and Customized GIS based IT Solutions and Services"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6123254070"
+    },
+    "tech_score": 100.0,
+    "confidence": "high",
+    "notes": "matched: software, artificial intelligence, solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "description": "GIS, Software Development, Business Intelligence, Artificial Intelligence, IoT and Customized GIS based IT Solutions and Services",
+        "email": "atul.kumar@sparcindia.com",
+        "name": "SPARC PVT LTD",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Absolute Online Web | Website Designers in Hyderabad | Digital Marketing in Hyderabad | SEO Services in Hyderabad",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -13021,9 +13096,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T11:48:07+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://avenxolabs.com/jobs: ConnectionError; http://avenxolabs.com/jobs/: ConnectionError; http://avenxolabs.com/career: ConnectionError; no careers page detected",
     "categories": [
       "description=Avenxo Labs, inspired by innovations Founded by like minded professionals to innovate the software development industry. The company is located in Bangalore, the IT hub of India. The expertise and experience of our team enables clients to be services wi"
     ],
@@ -13048,6 +13123,14 @@
         "phone": "+91 97 47 335 216",
         "start_date": "21/08/2016",
         "website": "http://avenxolabs.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T11:48:07+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://avenxolabs.com/jobs: ConnectionError; http://avenxolabs.com/jobs/: ConnectionError; http://avenxolabs.com/career: ConnectionError; no careers page detected"
       }
     }
   },
@@ -13209,12 +13292,12 @@
     "lng": 77.609513,
     "website": "https://razorpay.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://razorpay.com/careers/",
+    "careers_provider": "greenhouse",
+    "careers_api_url": "https://razorpay.com/careers/",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-13T11:48:09+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -13233,6 +13316,14 @@
         "name": "Razorpay Software Private Limited",
         "office": "company",
         "website": "https://razorpay.com"
+      },
+      "careers": {
+        "url": "https://razorpay.com/careers/",
+        "provider": "greenhouse",
+        "api_url": "https://razorpay.com/careers/",
+        "confidence": "high",
+        "checked_at": "2026-06-13T11:48:09+00:00",
+        "notes": "detected ATS/provider"
       }
     }
   },
@@ -14480,6 +14571,69 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "TES Infotech",
+    "city": "Dehradun",
+    "region": "Uttarakhand",
+    "country": "India",
+    "address": "91-A, Chandra Shekhar Azad Colony, New, Patel Nagar, 248001 Dehradun, IN, Dehradun, 248001",
+    "lat": 30.3120152,
+    "lng": 78.0151005,
+    "website": "https://gigates.com/",
+    "phone": "+916396341502",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=Installs, upgrades, maintains, and repairs CCTV security systems"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11553601412"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, systems",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Dehradun",
+        "addr:district": "Dehradun",
+        "addr:housenumber": "91-A",
+        "addr:postcode": "248001",
+        "addr:street": "Chandra Shekhar Azad Colony, New, Patel Nagar, 248001 Dehradun, IN",
+        "air_conditioning": "no",
+        "branch": "Dehradun",
+        "brand": "CCTV Camera & Biometric Services",
+        "camera:direction": "360",
+        "camera:mount": "building",
+        "currency:rupee": "yes",
+        "description": "Installs, upgrades, maintains, and repairs CCTV security systems",
+        "email": "support@gigates.com",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "TES Infotech",
+        "level": "0",
+        "man_made": "surveillance",
+        "name": "TES Infotech",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "opening_hours:covid19": "restricted",
+        "operator": "TES Infotech",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "phone": "+916396341502",
+        "surveillance": "cctv",
+        "surveillance:type": "camera",
+        "surveillance:zone": "area",
+        "website": "https://gigates.com/"
+      }
     }
   },
   {
@@ -31441,6 +31595,46 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "VerveGen- EdTech, Software Training, Internship and Development Company",
+    "city": "Dehradun",
+    "region": "Uttarakhand",
+    "country": "India",
+    "address": "Ballupur Road, Dehraun, 248001",
+    "lat": 30.3322713,
+    "lng": 78.0104171,
+    "website": "https://edtech.vervegen.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10875904400"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Dehraun",
+        "addr:postcode": "248001",
+        "addr:street": "Ballupur Road",
+        "name": "VerveGen- EdTech, Software Training, Internship and Development Company",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "website": "https://edtech.vervegen.com/"
+      }
     }
   },
   {
@@ -64889,6 +65083,49 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Krafting Digital",
+    "city": "Dehradun",
+    "region": "Uttarakhand",
+    "country": "India",
+    "address": "West Rest Camp, 7,, Tyagi Road, Adjacent Dang CA classes Govind Nagar, Race Course, Dehradun, 248001",
+    "lat": 30.3112485,
+    "lng": 78.0356444,
+    "website": "https://kraftingdigital.com/",
+    "phone": "9760097910",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=advertising_agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12951512321"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Dehradun",
+        "addr:district": "Dehradun",
+        "addr:housenumber": "West Rest Camp, 7,",
+        "addr:postcode": "248001",
+        "addr:street": "Tyagi Road, Adjacent Dang CA classes Govind Nagar, Race Course",
+        "name": "Krafting Digital",
+        "office": "advertising_agency",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "9760097910",
+        "website": "https://kraftingdigital.com/"
+      }
     }
   },
   {
