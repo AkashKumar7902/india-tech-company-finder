@@ -487,7 +487,14 @@
         "confidence": "none",
         "checked_at": "2026-06-12T19:00:17+00:00",
         "notes": "https://bugbattlers.com/jobs: HTTPError; https://bugbattlers.com/jobs/: HTTPError; https://bugbattlers.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -540,7 +547,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T19:00:21+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -575,7 +589,14 @@
       "osm_tags": {
         "description": "'Web Brace Technologies providing all kind of Digital Services like web designing, web development, Digital Marketing, SEO, SMO, Mobile app development etc..'",
         "name": "Web Brace Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -729,7 +750,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T19:01:32+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -1514,7 +1542,14 @@
         "opening_hours": "10:00-18:00",
         "phone": "+91 96658 62273",
         "website": "https://bee-logical.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -2548,7 +2583,14 @@
         "building": "yes",
         "name": "Cognizant Technology Solutions",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -2776,7 +2818,14 @@
         "name": "VMware Software India Pvt. Ltd.",
         "office": "it",
         "website": "https://www.vmware.com/in.html"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -4210,7 +4259,14 @@
         "opening_hours": "Mo-Fr 09:00-17:00",
         "phone": "+919890295287",
         "website": "https://khtechnologies.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -4258,7 +4314,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -5381,7 +5441,14 @@
         "addr:street": "Lane no. 8",
         "name": "Cloud Micro Solutions",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -5421,7 +5488,14 @@
         "industrial": "software",
         "name": "Cognizant",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -5461,7 +5535,14 @@
         "designation": "Software company",
         "name": "Screen-Magic Mobile Media Pvt Ltd.",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -6597,7 +6678,14 @@
         "building:material": "concrete",
         "height": "12",
         "name": "Computer Engineering And Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -6647,7 +6735,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T22:12:47+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9360,7 +9455,14 @@
         "landuse": "commercial",
         "name": "Famic Technologies Pvt Ltd",
         "website": "https://www.famictech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9395,7 +9497,14 @@
       "osm_tags": {
         "name": "Futurism Technologies",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9430,7 +9539,14 @@
       "osm_tags": {
         "name": "HCL Technologies Limited (Amber Fort)",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9465,7 +9581,14 @@
       "osm_tags": {
         "name": "Infosys Technologies Pvt Ltd",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9505,7 +9628,14 @@
         "name:en": "Marathe Infotech Private Limited",
         "name:mr": "मराठे इन्फोटेक प्रायव्हेट लिमिटेड",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9541,7 +9671,14 @@
         "name": "Storynest Technologies Private Limited",
         "name:en": "Storynest Technologies Private Limited",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9583,7 +9720,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11408,7 +11549,14 @@
         "name": "Datavision Software solutions Pvt Ltd",
         "office": "company",
         "smoking": "outside"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11451,7 +11599,14 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "+917888037987",
         "website": "https://www.exaltechsolutions.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11493,7 +11648,14 @@
         "building:levels": "3",
         "description": "SplendorNet Technologies Pvt. Ltd. is one of the leading opensource software company that helps realize business dream through consulting and IT partnership",
         "name": "SplendorNet Technologies Pvt. Ltd."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13008,7 +13170,14 @@
         "confidence": "high",
         "checked_at": "2026-06-13T12:22:18+00:00",
         "notes": "detected ATS/provider"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13046,7 +13215,14 @@
         "description": "Industrial CCTV Suppliers Security Alarm Systems Biometric Access & Attendance",
         "name": "Naman Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13084,6 +13260,75 @@
         "note": "Its a excellent startup to work with.",
         "office": "it",
         "website": "http://nityaalabs.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
+    }
+  },
+  {
+    "name": "iWave Systems Technologies Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "7/B, 29th Main Road, Bengaluru, 560076",
+    "lat": 12.9126885,
+    "lng": 77.6150964,
+    "website": "https://www.iwavesystems.com/",
+    "phone": "+91-80-26683700",
+    "careers_url": "https://www.iwavesystems.com/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.iwavesystems.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T13:02:40+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=yes",
+      "description=iWave Systems Technologies, an ISO 9001:2015 certified company, established in the year 1999, focuses on standard and customised System on Module/SBC product development in Industrial, Medical, Automotive & Embedded Computing application domains. "
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:348306686"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, systems",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "7/B",
+        "addr:postcode": "560076",
+        "addr:street": "29th Main Road",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "iWave Systems Technologies, an ISO 9001:2015 certified company, established in the year 1999, focuses on standard and customised System on Module/SBC product development in Industrial, Medical, Automotive & Embedded Computing application domains. ",
+        "email": "mktg@iwavesystems.com",
+        "fax": "+91-80-26685200",
+        "name": "iWave Systems Technologies Pvt Ltd",
+        "phone": "+91-80-26683700",
+        "website": "https://www.iwavesystems.com/",
+        "wheelchair": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.iwavesystems.com/jobs/",
+        "provider": "company_website",
+        "api_url": "https://www.iwavesystems.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T13:02:40+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -13304,6 +13549,60 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Tarka Labs",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "7th Avenue, Chennai, 600033",
+    "lat": 13.0365057,
+    "lng": 80.2164385,
+    "website": "https://tarkalabs.com/",
+    "phone": "",
+    "careers_url": "https://tarkalabs.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://tarkalabs.com/assets/js/page--src--pages--careers-vue.c070b49e.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T13:02:48+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=yes",
+      "description=A software services company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:354832478"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: software, labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chennai",
+        "addr:postcode": "600033",
+        "addr:street": "7th Avenue",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "A software services company",
+        "name": "Tarka Labs",
+        "website": "https://tarkalabs.com/",
+        "wheelchair": "no"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://tarkalabs.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://tarkalabs.com/assets/js/page--src--pages--careers-vue.c070b49e.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T13:02:48+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -13661,7 +13960,14 @@
         "confidence": "none",
         "checked_at": "2026-06-13T11:06:38+00:00",
         "notes": "homepage fetch failed: ConnectionError; http://www.itsystemsglobal.com/jobs: ConnectionError; http://www.itsystemsglobal.com/jobs/: ConnectionError; http://www.itsystemsglobal.com/career: ConnectionError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13697,7 +14003,14 @@
         "name": "Persistent Systems",
         "name:en": "Persistent Systems",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13735,7 +14048,14 @@
         "name:hi": "पर्सिसटंट सिस्टीम्स",
         "name:mr": "पर्सिसटंट सिस्टीम्स",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -14957,7 +15277,14 @@
         "name": "e-Zest Solutions",
         "name:en": "e-Zest Solutions",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -14993,7 +15320,14 @@
         "name": "Neeyamo Enterprise Solutions",
         "name:en": "Neeyamo Enterprise Solutions",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15323,68 +15657,6 @@
     }
   },
   {
-    "name": "iWave Systems Technologies Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "7/B, 29th Main Road, Bengaluru, 560076",
-    "lat": 12.9126885,
-    "lng": 77.6150964,
-    "website": "https://www.iwavesystems.com/",
-    "phone": "+91-80-26683700",
-    "careers_url": "https://www.iwavesystems.com/jobs/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.iwavesystems.com/jobs/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T13:02:40+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=yes",
-      "description=iWave Systems Technologies, an ISO 9001:2015 certified company, established in the year 1999, focuses on standard and customised System on Module/SBC product development in Industrial, Medical, Automotive & Embedded Computing application domains. "
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:348306686"
-    },
-    "tech_score": 48.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, systems",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:housenumber": "7/B",
-        "addr:postcode": "560076",
-        "addr:street": "29th Main Road",
-        "building": "yes",
-        "building:levels": "3",
-        "description": "iWave Systems Technologies, an ISO 9001:2015 certified company, established in the year 1999, focuses on standard and customised System on Module/SBC product development in Industrial, Medical, Automotive & Embedded Computing application domains. ",
-        "email": "mktg@iwavesystems.com",
-        "fax": "+91-80-26685200",
-        "name": "iWave Systems Technologies Pvt Ltd",
-        "phone": "+91-80-26683700",
-        "website": "https://www.iwavesystems.com/",
-        "wheelchair": "yes"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.iwavesystems.com/jobs/",
-        "provider": "company_website",
-        "api_url": "https://www.iwavesystems.com/jobs/",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T13:02:40+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Keystride Labs Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -15512,60 +15784,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Tarka Labs",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "7th Avenue, Chennai, 600033",
-    "lat": 13.0365057,
-    "lng": 80.2164385,
-    "website": "https://tarkalabs.com/",
-    "phone": "",
-    "careers_url": "https://tarkalabs.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://tarkalabs.com/assets/js/page--src--pages--careers-vue.c070b49e.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T13:02:48+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=yes",
-      "description=A software services company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:354832478"
-    },
-    "tech_score": 48.0,
-    "confidence": "medium",
-    "notes": "matched: software, labs",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chennai",
-        "addr:postcode": "600033",
-        "addr:street": "7th Avenue",
-        "building": "yes",
-        "building:levels": "1",
-        "description": "A software services company",
-        "name": "Tarka Labs",
-        "website": "https://tarkalabs.com/",
-        "wheelchair": "no"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://tarkalabs.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://tarkalabs.com/assets/js/page--src--pages--careers-vue.c070b49e.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T13:02:48+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -15942,12 +16160,12 @@
     "lng": 77.5523378,
     "website": "https://www.auminfotech.com/",
     "phone": "08023303024",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://auminfotech.com/pages/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://auminfotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fauminfotech.com%2Fpages%2Fcareers%2F",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T13:47:41+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -15978,7 +16196,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://auminfotech.com/pages/careers/",
+        "provider": "company_website",
+        "api_url": "https://auminfotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fauminfotech.com%2Fpages%2Fcareers%2F",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T13:47:41+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -15994,9 +16220,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T13:47:46+00:00",
+    "careers_notes": "https://www.bizframe.com/jobs: HTTPError; https://www.bizframe.com/jobs/: HTTPError; https://www.bizframe.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -16027,7 +16253,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T13:47:46+00:00",
+        "notes": "https://www.bizframe.com/jobs: HTTPError; https://www.bizframe.com/jobs/: HTTPError; https://www.bizframe.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -20881,7 +21115,14 @@
         "office": "it",
         "phone": "+91 20 6626 0100;+91 20 2528 4201;+91 20 2528 4202;+91 20 2528 4203",
         "website": "https://www.harbingergroup.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -20920,7 +21161,14 @@
         "addr:street": "Erandavane, Nal Stop, Karve Road., Behind Tele Exchange",
         "description": "SAPL’s world class products and services have successfully helped organizations to get a definitive edge in the market place, without the exorbitant pricing associated with such solutions. SAPL pioneered the usage of Application Software for Alcoholic Bev",
         "name": "Smile Automation Pvt Ltd"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -20958,7 +21206,14 @@
         "addr:street": "Shivraj Nagar - Kokane Chowk Road",
         "building": "commercial",
         "name": "Software Solutions - Used laptops Pune"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22602,7 +22857,14 @@
         "office": "company",
         "opening_hours": "Mo-Fr 09:00-19:00",
         "website": "https://www.delphianlogic.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22643,7 +22905,14 @@
         "office": "company",
         "opening_hours": "Mo-Fr 12:00-20:00",
         "website": "https://mitplindia.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22684,7 +22953,14 @@
         "office": "company",
         "opening_hours": "Mo-Fr 09:00-19:00",
         "website": "bajajfinserv.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22735,7 +23011,14 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "operator": "TomTom India Pvt Ltd",
         "website": "https://www.tomtom.com/careers/offices/pune/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24111,7 +24394,14 @@
         "name": "Codekul.com-Java|Android|Angular|iOS MEAN/Full Stack UI Web Game Python Data Science Classes & Jobs Pune",
         "office": "it",
         "website": "https://www.codekul.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24153,7 +24443,14 @@
         "name": "miniOrange",
         "office": "it",
         "website": "https://www.miniorange.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24190,7 +24487,14 @@
         "name:en": "Techlead",
         "office": "it",
         "website": "http://www.techlead-india.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24536,7 +24840,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -25048,7 +25356,14 @@
         "name": "Birlasoft SDB2",
         "office": "it",
         "phone": "+91 20 6652 5000"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29326,7 +29641,14 @@
       "osm_tags": {
         "name": "Bitcode Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29372,7 +29694,14 @@
         "phone": "+91 98224 06015",
         "shop": "computer",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29407,7 +29736,14 @@
       "osm_tags": {
         "name": "Hilti Technology Solutions India Private Limited",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29448,7 +29784,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38990,7 +39330,14 @@
         "name": "Apexon",
         "name:en": "Apexon",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39026,7 +39373,14 @@
         "check_date": "2026-03-12",
         "name": "Applus+ IDIADA",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39063,7 +39417,14 @@
         "name": "Birlamedisoft",
         "note": "Location to be checked for precisiion",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39100,7 +39461,14 @@
         "name": "Bitwise",
         "name:mr": "बिटवाईज",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39141,7 +39509,14 @@
         "name": "Calsoft Pvt. Ltd.",
         "office": "it",
         "opening_hours": "Mo-Fr 09:00-17:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39179,7 +39554,14 @@
         "name": "Cybage Software Pvt Ltd",
         "website": "https://www.cybage.com/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39215,7 +39597,14 @@
         "name": "Darwish Cybertech",
         "name:en": "Darwish Cybertech",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39251,7 +39640,14 @@
         "name": "Dassault Systèmes",
         "name:en": "Dassault Systèmes",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39288,7 +39684,14 @@
         "name:mr": "एफआयएस",
         "office": "it",
         "opening_hours": "PH,Mo-Su 00:00-12:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39324,7 +39727,14 @@
         "name": "Globant",
         "name:en": "Globant",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39362,7 +39772,14 @@
         "name": "GS LAB",
         "office": "it",
         "opening_hours": "Mo-Fr 09:00-18:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39400,7 +39817,14 @@
         "building": "office",
         "name": "IBM",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39439,7 +39863,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39475,7 +39903,14 @@
         "name": "Microland",
         "name:en": "Microland",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39514,7 +39949,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39550,7 +39989,14 @@
         "check_date": "2026-03-15",
         "name": "OLA head office",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39586,7 +40032,14 @@
         "name": "PubMatic",
         "name:mr": "पबमॅटिक",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39622,7 +40075,14 @@
         "name": "Saama",
         "name:en": "Saama",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39663,7 +40123,14 @@
         "office": "it",
         "opening_hours": "09:00-17:00",
         "smoking": "isolated"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39699,7 +40166,14 @@
         "name": "Searce",
         "name:en": "Searce",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39735,7 +40209,14 @@
         "addr:street": "Balewadi gaon road",
         "name": "Speciality Business Center",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39777,7 +40258,14 @@
         "name": "Tower 5",
         "office": "it",
         "smoking": "isolated"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39813,7 +40301,14 @@
         "name": "Vsynergize",
         "name:en": "Vsynergize",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39849,7 +40344,14 @@
         "name": "Xoriant",
         "name:mr": "झोरियंट",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42169,7 +42671,14 @@
         "name:en": "Dell Technologies",
         "name:mr": "डेल टेक्नॉलॉगीस",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42204,7 +42713,14 @@
       "osm_tags": {
         "name": "Lapworld Technologies",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42239,7 +42755,14 @@
       "osm_tags": {
         "description": "ProCTH is the most efficient, trustable, and intelligent mobile app for virtual, digital, and decentralized clinical trials. Characteristics of our Mobile Application are: Patient Recruitment, ePRO & Real-time monitoring, Telemedicine, e-ICF(Electronic In",
         "name": "ProCTH"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42275,7 +42798,14 @@
         "check_date": "2026-03-09",
         "name": "Victory Infotech",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42743,7 +43273,14 @@
         "opening_hours": "Mo-Sa 09:30-18:00",
         "phone": "+912066434111",
         "website": "https://agnisolar.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45387,7 +45924,14 @@
         "name": "MechIT Technologies",
         "phone": "+918626023035",
         "website": "www.mechittechnologies.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45427,7 +45971,14 @@
         "office": "company",
         "opening_hours": "Mo-Sa 08:00-18:00",
         "website": "https://www.persistent.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45469,7 +46020,14 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "07972289981",
         "website": "https://www.virtubox.io/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46844,7 +47402,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "ANSYS Software PVT. Ltd."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46885,7 +47450,14 @@
         "parking": "multi-storey",
         "supervised": "yes",
         "surface": "paved"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46921,7 +47493,14 @@
         "building": "school",
         "building:levels": "5",
         "name": "Department of Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46958,7 +47537,14 @@
         "ele": "500",
         "name": "Knowhere Geomatics",
         "source": "local knowledge"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46995,7 +47581,14 @@
         "building": "yes",
         "name": "Software Development Block 3",
         "office": "coworking"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -47033,7 +47626,14 @@
         "addr:street": "Blue Ridge Road, Phase 1",
         "building": "college",
         "name": "Symbiosis Centre for Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49601,7 +50201,14 @@
         "name": "Amura Marketing Technologies",
         "website": "https://www.amuratech.com/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49641,7 +50248,14 @@
         "name:en": "Discreet Solutions",
         "office": "company",
         "website": "https://discreet.co.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49680,7 +50294,14 @@
         "office": "educational_institution",
         "opening_hours": "Mo-Su 09:30-18:00",
         "website": "https://seedinfotech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49718,7 +50339,14 @@
         "name": "synthesys solutions pvt. ltd",
         "office": "company",
         "website": "https://synthesys.co.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49760,7 +50388,14 @@
         "name": "VayuZon Technology",
         "opening_hours": "Mo-Fr 09:00-19:00",
         "website": "https://vayuzon.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49804,7 +50439,14 @@
         "name": "Vidnyan Kendra, Lohegaon",
         "start_date": "27th May 2018",
         "website": "https://vidnyankendra.neocities.org"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50223,7 +50865,14 @@
         "addr:street": "Pune - Bangalore Hwy, Warje,",
         "building": "yes",
         "name": "Net Gyani IT Services Private Limited"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -64988,7 +65637,14 @@
         "addr:postcode": "411017",
         "addr:street": "Rainbow Plaza Wakad- Nashik Phata BRTS Road above McDonalds Pimple , Saudagar, Rahatani",
         "name": "3RI Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65032,7 +65688,14 @@
         "name": "A G Technology",
         "smoking": "no",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65072,7 +65735,14 @@
         "email": "gujarlaser@gmail.com",
         "name": "Anjali Technologies",
         "opening_hours": "Fr-We 00:00-24:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65109,7 +65779,14 @@
         "name": "Astech Laptop & Security Systems",
         "name:en": "Astech Laptop & Security Systems",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65146,7 +65823,14 @@
         "building": "yes",
         "name": "Bio Informatics and Bio Technology Dept",
         "office": "educational_institution"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65187,7 +65871,14 @@
         "check_date": "2026-03-09",
         "name": "Bonzai Digital Pvt. Ltd",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65230,7 +65921,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65263,7 +65958,14 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "Ebixcash Technologies Pvt Ltd"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65301,7 +66003,14 @@
         "name:en": "Elite Computer Systems",
         "opening_hours": "Mo-Su 10:00-22:00",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65336,7 +66045,14 @@
       "osm_tags": {
         "name": "FPL Technologies Pvt. Ltd.",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65375,7 +66091,14 @@
         "addr:street": "DSK Vishwa Road",
         "building": "yes",
         "name": "GameCloud Technologies Private Limited"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65408,7 +66131,14 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "HCL technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65441,7 +66171,14 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "Hinjawadi Rajiv Gandhi Infotech Park"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65474,7 +66211,14 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "JK Infotech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65513,7 +66257,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65549,7 +66297,14 @@
         "name": "KPIT Technologies",
         "name:en": "KPIT Technologies",
         "office": "engineer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65584,7 +66339,14 @@
       "osm_tags": {
         "building": "commercial",
         "name": "KPIT Technologies R&D Building"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65616,7 +66378,14 @@
     "raw": {
       "osm_tags": {
         "name": "kreativ technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65654,7 +66423,14 @@
         "addr:street": "Kate Khadi Machine, Pune-Nashik Highway, Pajnjarpol",
         "building": "industrial",
         "name": "Micorprecision Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65689,7 +66465,14 @@
       "osm_tags": {
         "building": "office",
         "name": "Microlucid Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65731,7 +66514,14 @@
         "int_name": "Motega Technologies Pvt. Ltd.",
         "name": "Motega Technologies Pvt. Ltd.",
         "old_name": "Motega Technologies Pvt. Ltd.Cho"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65766,7 +66556,14 @@
       "osm_tags": {
         "name": "Nitor Infotech",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65801,7 +66598,14 @@
       "osm_tags": {
         "name": "Nuvolo Technologies",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65841,7 +66645,14 @@
         "building": "yes",
         "building:levels": "2",
         "name": "Passogen Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65881,7 +66692,14 @@
         "building": "office",
         "name": "Pesh Infotech",
         "name:en": "Pesh Infotech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65917,7 +66735,14 @@
         "check_date": "2026-03-05",
         "name": "Rathod Systems",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65958,7 +66783,14 @@
         "building": "commercial",
         "layer": "1",
         "name": "Reinvent Design Technologies LLP"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65998,7 +66830,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66036,7 +66872,14 @@
         "name:en": "Seed infotech",
         "name:mr": "सीड इन्फोटेक",
         "office": "educational_institution"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66071,7 +66914,14 @@
       "osm_tags": {
         "name": "Sterlite Technologies Ltd",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66108,7 +66958,14 @@
         "name": "Sysap Technologies",
         "name:en": "Sysap Technologies",
         "office": "employment_agency"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66142,7 +66999,14 @@
         "leisure": "pitch",
         "name": "Tennis Court, Wipro Technologies",
         "sport": "tennis"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66183,7 +67047,14 @@
         "building": "commercial",
         "building:levels": "6",
         "name": "ThoughtWorks Technologies (India) Pvt. Ltd."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66219,7 +67090,14 @@
         "amenity": "office",
         "name": "Transworld Technologies",
         "official_name": "Transworld Technologies Ltd."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66258,7 +67136,14 @@
         "addr:street": "Kharadi",
         "building": "office",
         "name": "Zensar Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67321,7 +68206,14 @@
         "name": "CLOUDEAN : TRUE CLOUD",
         "note": "CLOUDEAN : ENTERPRISE SSD CLOUD CLOUD HOST - MOST POWERFUL AND FLEXIBLE HOSTING POWERED BY CPANEL & CLOUDLINUX. CLOUD SERVER - PRODUCTION READY CLOUD DOMAIN NAME SSL CERTIFICATES - CHEAPEST SSL PAYMENT MODE -  INR PAYMENTS, PAYPAL, OKPAY, BITCOINS.",
         "website": "https://cloudean.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71330,6 +72222,61 @@
         "opening_hours": "Mo-Sa 09:00-19:00",
         "phone": "+917588876699",
         "website": "https://geniebee.co"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
+    }
+  },
+  {
+    "name": "Naik Homeopathy",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Lilashree Building, 2nd floor, opp. of Ayurvedic Rasshala Prabhat galli, 9, Karve Rd, Pune, 411004",
+    "lat": 18.5115138,
+    "lng": 73.8364625,
+    "website": "https://naikhomoeopathy.com/",
+    "phone": "919552528129",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=Naik Homeopathy brings over 40 years of trusted homeopathic healing across Asia. Led by renowned doctors, we specialize in thyroid treatment, weight loss solutions, and obesity therapy using natural homeopathic medicine."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13922662570"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411004",
+        "addr:street": "Lilashree Building, 2nd floor, opp. of Ayurvedic Rasshala Prabhat galli, 9, Karve Rd",
+        "description": "Naik Homeopathy brings over 40 years of trusted homeopathic healing across Asia. Led by renowned doctors, we specialize in thyroid treatment, weight loss solutions, and obesity therapy using natural homeopathic medicine.",
+        "healthcare": "alternative",
+        "healthcare:speciality": "homeopathy",
+        "mobile": "919552528129",
+        "name": "Naik Homeopathy",
+        "opening_hours": "Mo-Su 11:00-18:00",
+        "payment:cash": "yes",
+        "payment:google_pay": "yes",
+        "phone": "919552528129",
+        "start_date": "1984-04-10",
+        "website": "https://naikhomoeopathy.com/"
       }
     }
   },
@@ -71378,7 +72325,14 @@
         "name:mr": "रिलायन्स डिजिटल",
         "opening_hours": "Mo-Su 10:00-22:00",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71427,7 +72381,14 @@
         "phone": "918698359356",
         "start_date": "2025-04-30",
         "website": "https://connectitapp.in/swapnsahyadri-pest-solutions"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72192,7 +73153,14 @@
         "name": "AppArchet LLC",
         "office": "it",
         "website": "htttps://apparchetllc.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72229,7 +73197,14 @@
         "craft": "caterer",
         "name": "Charcoal Eats/B Burger Cloud Kitchen",
         "name:en": "Charcoal Eats/B Burger Cloud Kitchen"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72262,7 +73237,14 @@
       "osm_tags": {
         "name": "cloud 9",
         "tourism": "camp_site"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72306,7 +73288,14 @@
         "name": "Orthos Orthopedic and Spine Centre",
         "operator": "Novosalus Technology",
         "operator:type": "private"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -74100,7 +75089,14 @@
         "building:levels": "8",
         "name": "Eternal Solutions System",
         "website": "https://eternalsolutionssystem.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -74145,7 +75141,14 @@
         "height": "0",
         "name": "Osumare",
         "website": "https://osumare.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
