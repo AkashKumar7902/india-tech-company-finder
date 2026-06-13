@@ -2031,6 +2031,53 @@
     }
   },
   {
+    "name": "Barcode Wala ( Retail System )",
+    "city": "Patna",
+    "region": "Bihar",
+    "country": "India",
+    "address": "Road, Road Number 12, Patna, 800016",
+    "lat": 25.6048774,
+    "lng": 85.1662571,
+    "website": "https://rspatna.com/",
+    "phone": "9334493507",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it",
+      "description=Barcode Related All Setup for Fuly Business Automation\nSoftware and Hardware , Anti-Theft Solution\nCall for any Need : 9334493507 ashok"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11072536178"
+    },
+    "tech_score": 75.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Patna",
+        "addr:district": "Patna",
+        "addr:housenumber": "Road",
+        "addr:postcode": "800016",
+        "addr:street": "Road Number 12",
+        "check_date": "2023-07-28",
+        "description": "Barcode Related All Setup for Fuly Business Automation\nSoftware and Hardware , Anti-Theft Solution\nCall for any Need : 9334493507 ashok",
+        "image": "https://rspatna.com/",
+        "name": "Barcode Wala ( Retail System )",
+        "office": "it",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "9334493507",
+        "website": "https://rspatna.com/"
+      }
+    }
+  },
+  {
     "name": "CodeRythm Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -10631,6 +10678,105 @@
     }
   },
   {
+    "name": "GrayMatter Software Services Pvt. Ltd.",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "20, 4th Floor, West Wing, RMZ Ecoworld SEZ, Outer Ring Road,, Bengaluru, 560103",
+    "lat": 12.9258227,
+    "lng": 77.6866283,
+    "website": "https://www.graymatter.co.in/",
+    "phone": "080671 56666",
+    "careers_url": "https://www.graymatter.co.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.graymatter.co.in/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T08:01:52+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4445351664"
+    },
+    "tech_score": 56.0,
+    "confidence": "high",
+    "notes": "matched: software, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "20",
+        "addr:postcode": "560103",
+        "addr:street": "4th Floor, West Wing, RMZ Ecoworld SEZ, Outer Ring Road,",
+        "name": "GrayMatter Software Services Pvt. Ltd.",
+        "office": "company",
+        "phone": "080671 56666",
+        "smoking": "outside",
+        "website": "https://www.graymatter.co.in/"
+      },
+      "careers": {
+        "url": "https://www.graymatter.co.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.graymatter.co.in/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T08:01:52+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "jda software pvt.limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Sevice Road, Bengaluru, 560103",
+    "lat": 12.9323774,
+    "lng": 77.6835493,
+    "website": "https://jda.com/",
+    "phone": "+918061018888",
+    "careers_url": "https://blueyonder.com/resources/challenges-and-opportunities-of-supply-chain-disruption",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://blueyonder.com/en/data/header/header/about/right/blue-yonder-at-a-glance/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T08:02:11+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4447209004"
+    },
+    "tech_score": 56.0,
+    "confidence": "high",
+    "notes": "matched: software, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:postcode": "560103",
+        "addr:street": "Sevice Road",
+        "name": "jda software pvt.limited",
+        "office": "company",
+        "phone": "+918061018888",
+        "smoking": "isolated",
+        "website": "https://jda.com/"
+      },
+      "careers": {
+        "url": "https://blueyonder.com/resources/challenges-and-opportunities-of-supply-chain-disruption",
+        "provider": "company_website",
+        "api_url": "https://blueyonder.com/en/data/header/header/about/right/blue-yonder-at-a-glance/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T08:02:11+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Novac Technology Solutions",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -11606,105 +11752,6 @@
     }
   },
   {
-    "name": "GrayMatter Software Services Pvt. Ltd.",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "20, 4th Floor, West Wing, RMZ Ecoworld SEZ, Outer Ring Road,, Bengaluru, 560103",
-    "lat": 12.9258227,
-    "lng": 77.6866283,
-    "website": "https://www.graymatter.co.in/",
-    "phone": "080671 56666",
-    "careers_url": "https://www.graymatter.co.in/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.graymatter.co.in/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T08:01:52+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4445351664"
-    },
-    "tech_score": 52.0,
-    "confidence": "medium",
-    "notes": "matched: software, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:housenumber": "20",
-        "addr:postcode": "560103",
-        "addr:street": "4th Floor, West Wing, RMZ Ecoworld SEZ, Outer Ring Road,",
-        "name": "GrayMatter Software Services Pvt. Ltd.",
-        "office": "company",
-        "phone": "080671 56666",
-        "smoking": "outside",
-        "website": "https://www.graymatter.co.in/"
-      },
-      "careers": {
-        "url": "https://www.graymatter.co.in/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.graymatter.co.in/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T08:01:52+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "jda software pvt.limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Sevice Road, Bengaluru, 560103",
-    "lat": 12.9323774,
-    "lng": 77.6835493,
-    "website": "https://jda.com/",
-    "phone": "+918061018888",
-    "careers_url": "https://blueyonder.com/resources/challenges-and-opportunities-of-supply-chain-disruption",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://blueyonder.com/en/data/header/header/about/right/blue-yonder-at-a-glance/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T08:02:11+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4447209004"
-    },
-    "tech_score": 52.0,
-    "confidence": "medium",
-    "notes": "matched: software, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:postcode": "560103",
-        "addr:street": "Sevice Road",
-        "name": "jda software pvt.limited",
-        "office": "company",
-        "phone": "+918061018888",
-        "smoking": "isolated",
-        "website": "https://jda.com/"
-      },
-      "careers": {
-        "url": "https://blueyonder.com/resources/challenges-and-opportunities-of-supply-chain-disruption",
-        "provider": "company_website",
-        "api_url": "https://blueyonder.com/en/data/header/header/about/right/blue-yonder-at-a-glance/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T08:02:11+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "McAfee Software India Pvt. Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -11865,12 +11912,12 @@
     "lng": 76.6890554,
     "website": "https://www.tech-prastish.com/",
     "phone": "+919988960789",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.tech-prastish.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.tech-prastish.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T09:17:11+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -11894,7 +11941,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.tech-prastish.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.tech-prastish.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T09:17:11+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -11950,9 +12005,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T09:17:14+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://www.tvfplay.com/jobs: SSLError; https://www.tvfplay.com/jobs/: SSLError; https://www.tvfplay.com/career: SSLError; no careers page detected",
     "categories": [
       "office=company",
       "description=software company"
@@ -11980,7 +12035,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T09:17:14+00:00",
+        "notes": "homepage fetch failed: SSLError; https://www.tvfplay.com/jobs: SSLError; https://www.tvfplay.com/jobs/: SSLError; https://www.tvfplay.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -15866,6 +15929,91 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Pervenire Digital Solutions Private Limited",
+    "city": "Patna",
+    "region": "Bihar",
+    "country": "India",
+    "address": "Rose Mine, B.M Das Road, Patna, 800004",
+    "lat": 25.6167636,
+    "lng": 85.1652392,
+    "website": "https://www.perveniredigital.com/",
+    "phone": "+91 6206337124",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company",
+      "description=Pervenire Digital Solutions Private Limited offers a wide range of Digital Marketing services to customers based around the globe. As a leading digital marketing company in Patna, India, we take pride in our accomplishments. We provide a variety of digita"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8283157635"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Patna",
+        "addr:housenumber": "Rose Mine",
+        "addr:postcode": "800004",
+        "addr:street": "B.M Das Road",
+        "air_conditioning": "yes",
+        "description": "Pervenire Digital Solutions Private Limited offers a wide range of Digital Marketing services to customers based around the globe. As a leading digital marketing company in Patna, India, we take pride in our accomplishments. We provide a variety of digita",
+        "email": "perveniredigital@gmail.com",
+        "name": "Pervenire Digital Solutions Private Limited",
+        "office": "company",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "phone": "+91 6206337124",
+        "website": "https://www.perveniredigital.com/"
+      }
+    }
+  },
+  {
+    "name": "Sify Technologies Ltd.",
+    "city": "Patna",
+    "region": "Bihar",
+    "country": "India",
+    "address": "Anam Plaza, 3rd Floor, South gandhi maidan, Beside RBI",
+    "lat": 25.6136758,
+    "lng": 85.1471291,
+    "website": "http://www.sifycorp.com",
+    "phone": "+91 6122320061",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5488932060"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "Anam Plaza, 3rd Floor",
+        "addr:street": "South gandhi maidan, Beside RBI",
+        "name": "Sify Technologies Ltd.",
+        "office": "company",
+        "phone": "+91 6122320061",
+        "website": "http://www.sifycorp.com"
+      }
     }
   },
   {
@@ -45248,6 +45396,87 @@
     }
   },
   {
+    "name": "iON Digital Zone Examination Centre",
+    "city": "Patna",
+    "region": "Bihar",
+    "country": "India",
+    "address": "GATE NO 1 Road No 2, Block 3 Patliputra Industrial Estate, Road No. 2, Patna, 800013",
+    "lat": 25.6343683,
+    "lng": 85.1037307,
+    "website": "https://www.tcsion.com",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8758555602"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Patna",
+        "addr:housenumber": "GATE NO 1 Road No 2, Block 3 Patliputra Industrial Estate",
+        "addr:postcode": "800013",
+        "addr:street": "Road No. 2",
+        "alt_name": "Uno Digital Pvt Ltd GATE NO 1",
+        "name": "iON Digital Zone Examination Centre",
+        "office": "company",
+        "source": "https://drive.google.com/file/d/1OMfSEWWgrukEEv5oIFxBa4QCHPGFbqqf/view",
+        "website": "https://www.tcsion.com"
+      }
+    }
+  },
+  {
+    "name": "Technology Bhavan",
+    "city": "Patna",
+    "region": "Bihar",
+    "country": "India",
+    "address": "Bailey Road, 800001",
+    "lat": 25.6064939,
+    "lng": 85.114903,
+    "website": "http://dst.bih.nic.in",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=government"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5845683094"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "800001",
+        "addr:street": "Bailey Road",
+        "name": "Technology Bhavan",
+        "name:hi": "टेक्नोलोजी भवन",
+        "office": "government",
+        "website": "http://dst.bih.nic.in"
+      }
+    }
+  },
+  {
     "name": "Amura Marketing Technologies",
     "city": "Pune",
     "region": "Maharashtra",
@@ -63046,6 +63275,39 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "DIGITAL COMPUTER CENTRE (DCC)",
+    "city": "Patna",
+    "region": "Bihar",
+    "country": "India",
+    "address": "",
+    "lat": 25.5959574,
+    "lng": 85.1282757,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11698016745"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: digital, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "DIGITAL COMPUTER CENTRE (DCC)",
+        "telecom": "data_center"
+      }
     }
   },
   {
