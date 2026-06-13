@@ -7128,6 +7128,41 @@
     }
   },
   {
+    "name": "I innovation technologies",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.177444,
+    "lng": 91.7566091,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12595800188"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "I innovation technologies",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Arbiva Technologies Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -9177,6 +9212,104 @@
     }
   },
   {
+    "name": "SBSOL Digital Pvt. Ltd.",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "2nd & 3rd Floor, PPJC Towers, Kalavath Road, Palarivattom, 682025",
+    "lat": 10.0034384,
+    "lng": 76.3093921,
+    "website": "https://www.sbsoldigital.com/",
+    "phone": "",
+    "careers_url": "https://careers.sbsoldigital.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T06:42:51+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9992466634"
+    },
+    "tech_score": 59.0,
+    "confidence": "high",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Palarivattom",
+        "addr:housenumber": "2nd & 3rd Floor, PPJC Towers",
+        "addr:postcode": "682025",
+        "addr:street": "Kalavath Road",
+        "name": "SBSOL Digital Pvt. Ltd.",
+        "office": "it",
+        "website": "https://www.sbsoldigital.com/"
+      },
+      "careers": {
+        "url": "https://careers.sbsoldigital.com/",
+        "provider": "company_website",
+        "api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T06:42:51+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "ITECONIC Solutions LLP",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.6116357,
+    "lng": 77.3777841,
+    "website": "https://iteconic.com/",
+    "phone": "",
+    "careers_url": "https://iteconic.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-13T06:42:55+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11670008960"
+    },
+    "tech_score": 59.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "ITECONIC Solutions LLP",
+        "office": "it",
+        "opening_hours": "Mo-Fr 00:00-24:00; PH closed",
+        "website": "https://iteconic.com/",
+        "wheelchair": "no"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://iteconic.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-13T06:42:55+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "miracle software systems",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
@@ -11024,6 +11157,42 @@
     }
   },
   {
+    "name": "Department Of Information Technology",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "781014",
+    "lat": 26.1526227,
+    "lng": 91.6645327,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4689353601"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "781014",
+        "name": "Department Of Information Technology",
+        "office": "educational_institution"
+      }
+    }
+  },
+  {
     "name": "Unwired Labs (India) Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -11061,54 +11230,6 @@
         "office": "it",
         "phone": "+91-4066-588335",
         "website": "https://unwiredlabs.com"
-      }
-    }
-  },
-  {
-    "name": "SBSOL Digital Pvt. Ltd.",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "2nd & 3rd Floor, PPJC Towers, Kalavath Road, Palarivattom, 682025",
-    "lat": 10.0034384,
-    "lng": 76.3093921,
-    "website": "https://www.sbsoldigital.com/",
-    "phone": "",
-    "careers_url": "https://careers.sbsoldigital.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T06:42:51+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9992466634"
-    },
-    "tech_score": 55.0,
-    "confidence": "high",
-    "notes": "matched: digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Palarivattom",
-        "addr:housenumber": "2nd & 3rd Floor, PPJC Towers",
-        "addr:postcode": "682025",
-        "addr:street": "Kalavath Road",
-        "name": "SBSOL Digital Pvt. Ltd.",
-        "office": "it",
-        "website": "https://www.sbsoldigital.com/"
-      },
-      "careers": {
-        "url": "https://careers.sbsoldigital.com/",
-        "provider": "company_website",
-        "api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T06:42:51+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -11221,56 +11342,6 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
-    }
-  },
-  {
-    "name": "ITECONIC Solutions LLP",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "",
-    "lat": 28.6116357,
-    "lng": 77.3777841,
-    "website": "https://iteconic.com/",
-    "phone": "",
-    "careers_url": "https://iteconic.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-13T06:42:55+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11670008960"
-    },
-    "tech_score": 55.0,
-    "confidence": "high",
-    "notes": "matched: solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "level": "1",
-        "name": "ITECONIC Solutions LLP",
-        "office": "it",
-        "opening_hours": "Mo-Fr 00:00-24:00; PH closed",
-        "website": "https://iteconic.com/",
-        "wheelchair": "no"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://iteconic.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-13T06:42:55+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -11544,12 +11615,12 @@
     "lng": 77.6866283,
     "website": "https://www.graymatter.co.in/",
     "phone": "080671 56666",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.graymatter.co.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.graymatter.co.in/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T08:01:52+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -11573,6 +11644,14 @@
         "phone": "080671 56666",
         "smoking": "outside",
         "website": "https://www.graymatter.co.in/"
+      },
+      "careers": {
+        "url": "https://www.graymatter.co.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.graymatter.co.in/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T08:01:52+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -11586,12 +11665,12 @@
     "lng": 77.6835493,
     "website": "https://jda.com/",
     "phone": "+918061018888",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://blueyonder.com/resources/challenges-and-opportunities-of-supply-chain-disruption",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://blueyonder.com/en/data/header/header/about/right/blue-yonder-at-a-glance/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T08:02:11+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -11614,6 +11693,14 @@
         "phone": "+918061018888",
         "smoking": "isolated",
         "website": "https://jda.com/"
+      },
+      "careers": {
+        "url": "https://blueyonder.com/resources/challenges-and-opportunities-of-supply-chain-disruption",
+        "provider": "company_website",
+        "api_url": "https://blueyonder.com/en/data/header/header/about/right/blue-yonder-at-a-glance/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T08:02:11+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -15297,6 +15384,48 @@
     }
   },
   {
+    "name": "Zoxola Technologies Pvt. Ltd.",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "H.No. 58, Ambika giri nagar, 781024",
+    "lat": 26.1686901,
+    "lng": 91.7820487,
+    "website": "https://zoxola.com",
+    "phone": "+919854910429",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6132466586"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "H.No. 58",
+        "addr:postcode": "781024",
+        "addr:street": "Ambika giri nagar",
+        "email": "contactus@zoxola.com",
+        "name": "Zoxola Technologies Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+919854910429",
+        "website": "https://zoxola.com"
+      }
+    }
+  },
+  {
     "name": "Eesavyasa Technologies Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -17513,6 +17642,90 @@
         "opening_hours": "Mo-Fr 10:00-19:00",
         "phone": "+91 88264 85123",
         "website": "https://voyagex.ai/"
+      }
+    }
+  },
+  {
+    "name": "Lumenoid Studios",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1757034,
+    "lng": 91.7634063,
+    "website": "https://www.lumenoidstudios.com",
+    "phone": "7002054954",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9120781185"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Lumenoid Studios",
+        "office": "it",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "7002054954",
+        "website": "https://www.lumenoidstudios.com"
+      }
+    }
+  },
+  {
+    "name": "Web .com (India)",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "191, Maniram Dewan Rd, Guwahati, 781003",
+    "lat": 26.184102,
+    "lng": 91.7690999,
+    "website": "https://www.webcomindia.biz/",
+    "phone": "0361 266 7017",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13521056381"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Guwahati",
+        "addr:district": "Kamrup metro",
+        "addr:housenumber": "191",
+        "addr:postcode": "781003",
+        "addr:street": "Maniram Dewan Rd",
+        "alt_name": "Webcom India",
+        "internet_access:fee": "yes",
+        "name": "Web .com (India)",
+        "office": "it",
+        "official_name": "Web .com (India)",
+        "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-17:00",
+        "phone": "0361 266 7017",
+        "website": "https://www.webcomindia.biz/"
       }
     }
   },
@@ -37105,6 +37318,146 @@
     }
   },
   {
+    "name": "Continental Infotech",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1779694,
+    "lng": 91.7527122,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11942572551"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Continental Infotech",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "HTS COMPUTER & TECHNOLOGY",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1743991,
+    "lng": 91.7580084,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=electronics"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13511606895"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technology, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "HTS COMPUTER & TECHNOLOGY",
+        "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "MGS Technologies",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1444871,
+    "lng": 91.780072,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12977182584"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "MGS Technologies",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "RM Infotech",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1766591,
+    "lng": 91.7547107,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11947564105"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "RM Infotech",
+        "shop": "computer"
+      }
+    }
+  },
+  {
     "name": "Dot Labs Web Solutions Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -43924,6 +44277,48 @@
     }
   },
   {
+    "name": "Insitute of Advanced Study in Science and Technology",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "IASST, Paschim Boragaon, Garchuk, Vigyan Path, Guwahati, 781035",
+    "lat": 26.1110986,
+    "lng": 91.6852742,
+    "website": "https://iasst.gov.in/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "amenity=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:517462558"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Guwahati",
+        "addr:district": "Kamrup M.",
+        "addr:housenumber": "IASST, Paschim Boragaon, Garchuk",
+        "addr:postcode": "781035",
+        "addr:street": "Vigyan Path",
+        "amenity": "university",
+        "name": "Insitute of Advanced Study in Science and Technology",
+        "short_name": "IASST",
+        "website": "https://iasst.gov.in/"
+      }
+    }
+  },
+  {
     "name": "Centre for Quantum Science & Technology",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -45314,6 +45709,41 @@
         "check_date": "2023-12-12",
         "name": "Electro Cloud",
         "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Saas Babu",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1810638,
+    "lng": 91.7402051,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12976879927"
+    },
+    "tech_score": 31.0,
+    "confidence": "low",
+    "notes": "matched: saas",
+    "raw": {
+      "osm_tags": {
+        "name": "Saas Babu",
+        "shop": "yes"
       }
     }
   },
@@ -52720,6 +53150,287 @@
         "name": "Samsung",
         "operator": "Spice Technologies",
         "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "advance infotech",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1527514,
+    "lng": 91.7880008,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=electronics"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12970716197"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "advance infotech",
+        "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "Assam Science and Technology University",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1412711,
+    "lng": 91.6664819,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "amenity=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1024517861"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "amenity": "university",
+        "barrier": "wall",
+        "name": "Assam Science and Technology University",
+        "name:bn": "অসম বিজ্ঞান আৰু প্ৰযুক্তিবিদ্যা বিশ্ববিদ্যালয়",
+        "wikidata": "Q19456923"
+      }
+    }
+  },
+  {
+    "name": "Dee Tee Infotech",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1846512,
+    "lng": 91.7749326,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=consulting"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11896883252"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2024-05-11",
+        "name": "Dee Tee Infotech",
+        "office": "consulting"
+      }
+    }
+  },
+  {
+    "name": "Elevate Technology",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1779089,
+    "lng": 91.7528858,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=electronics"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11942619697"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "name": "Elevate Technology",
+        "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "J.D. Infotech",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1774544,
+    "lng": 91.7535333,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11942655449"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "J.D. Infotech",
+        "shop": "repair"
+      }
+    }
+  },
+  {
+    "name": "M. STATIONAERY AND INFOTECH",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1319443,
+    "lng": 91.8072904,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=stationery"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13516352682"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "M. STATIONAERY AND INFOTECH",
+        "shop": "stationery"
+      }
+    }
+  },
+  {
+    "name": "Ragvik technologies",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1726598,
+    "lng": 91.7596304,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3002313795"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Ragvik technologies"
+      }
+    }
+  },
+  {
+    "name": "VIMAL INFOTECH",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1715843,
+    "lng": 91.7479749,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "craft=electronics_repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13506845476"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "craft": "electronics_repair",
+        "name": "VIMAL INFOTECH"
       }
     }
   },
@@ -61859,6 +62570,41 @@
     }
   },
   {
+    "name": "Starnet Computer and Solutions",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1786483,
+    "lng": 91.7509962,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11932595328"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Starnet Computer and Solutions",
+        "shop": "computer"
+      }
+    }
+  },
+  {
     "name": "Value Labs",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -65514,6 +66260,41 @@
       "osm_tags": {
         "building": "university",
         "name": "Centre of Excellence in Cyber Security"
+      }
+    }
+  },
+  {
+    "name": "CLOUD 9  UNISEX",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1236632,
+    "lng": 91.7984009,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=beauty"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13517102233"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "name": "CLOUD 9  UNISEX",
+        "shop": "beauty"
       }
     }
   },
