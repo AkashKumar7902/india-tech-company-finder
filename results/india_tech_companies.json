@@ -1354,7 +1354,11 @@
         "confidence": "none",
         "checked_at": "2026-06-12T19:02:45+00:00",
         "notes": "https://vyomnet.tech/jobs: HTTPError; https://vyomnet.tech/jobs/: HTTPError; https://vyomnet.tech/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -4176,7 +4180,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -6587,7 +6595,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9476,7 +9488,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -12985,7 +13001,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -14030,7 +14050,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15157,6 +15181,65 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "RVS Land Surveyors",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "29 Palani Illam, Sundaram Brothers Layout, Coimbatore, 641045",
+    "lat": 10.9988634,
+    "lng": 76.989966,
+    "website": "https://www.rvslandsurveyors.com/",
+    "phone": "04224212672",
+    "careers_url": "https://www.rvslandsurveyors.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.rvslandsurveyors.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T17:04:48+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "description=We're experts in digital land surveying and provide pan India-based land surveying and aerial mapping solutions to Architect, Engineers, and the locals from Coimbatore, Tamilnadu. We also have branch in Madurai, Salem and Pollachi."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10981917436"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Coimbatore",
+        "addr:housenumber": "29 Palani Illam",
+        "addr:postcode": "641045",
+        "addr:street": "Sundaram Brothers Layout",
+        "air_conditioning": "yes",
+        "description": "We're experts in digital land surveying and provide pan India-based land surveying and aerial mapping solutions to Architect, Engineers, and the locals from Coimbatore, Tamilnadu. We also have branch in Madurai, Salem and Pollachi.",
+        "email": "helpdesk@rvsls.com",
+        "mobile": "096005 35855",
+        "name": "RVS Land Surveyors",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "04224212672",
+        "website": "https://www.rvslandsurveyors.com/",
+        "wheelchair": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.rvslandsurveyors.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.rvslandsurveyors.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T17:04:48+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -17453,65 +17536,6 @@
     }
   },
   {
-    "name": "RVS Land Surveyors",
-    "city": "Coimbatore",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "29 Palani Illam, Sundaram Brothers Layout, Coimbatore, 641045",
-    "lat": 10.9988634,
-    "lng": 76.989966,
-    "website": "https://www.rvslandsurveyors.com/",
-    "phone": "04224212672",
-    "careers_url": "https://www.rvslandsurveyors.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.rvslandsurveyors.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T17:04:48+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "description=We're experts in digital land surveying and provide pan India-based land surveying and aerial mapping solutions to Architect, Engineers, and the locals from Coimbatore, Tamilnadu. We also have branch in Madurai, Salem and Pollachi."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10981917436"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: solutions, digital, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Coimbatore",
-        "addr:housenumber": "29 Palani Illam",
-        "addr:postcode": "641045",
-        "addr:street": "Sundaram Brothers Layout",
-        "air_conditioning": "yes",
-        "description": "We're experts in digital land surveying and provide pan India-based land surveying and aerial mapping solutions to Architect, Engineers, and the locals from Coimbatore, Tamilnadu. We also have branch in Madurai, Salem and Pollachi.",
-        "email": "helpdesk@rvsls.com",
-        "mobile": "096005 35855",
-        "name": "RVS Land Surveyors",
-        "office": "company",
-        "opening_hours": "Mo-Sa 09:00-18:00",
-        "phone": "04224212672",
-        "website": "https://www.rvslandsurveyors.com/",
-        "wheelchair": "yes"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://www.rvslandsurveyors.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.rvslandsurveyors.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T17:04:48+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Zoxola Technologies Pvt. Ltd.",
     "city": "Guwahati",
     "region": "Assam",
@@ -17619,9 +17643,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T17:42:28+00:00",
+    "careers_notes": "https://optionmatrix.com/jobs: HTTPError; https://optionmatrix.com/jobs/: HTTPError; https://optionmatrix.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -17653,7 +17677,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T17:42:28+00:00",
+        "notes": "https://optionmatrix.com/jobs: HTTPError; https://optionmatrix.com/jobs/: HTTPError; https://optionmatrix.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -17669,9 +17701,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T17:42:34+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.vimukti.com/jobs: ConnectionError; https://www.vimukti.com/jobs/: ConnectionError; https://www.vimukti.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -17702,7 +17734,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T17:42:34+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.vimukti.com/jobs: ConnectionError; https://www.vimukti.com/jobs/: ConnectionError; https://www.vimukti.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -21175,7 +21215,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21217,7 +21261,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21272,7 +21320,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21319,7 +21371,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22519,63 +22575,6 @@
     }
   },
   {
-    "name": "Kailash Path Labs",
-    "city": "Ghaziabad",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "Shop/Unit No. UGF 003, Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari, Greater Noida, 201306",
-    "lat": 28.5865642,
-    "lng": 77.439639,
-    "website": "https://www.kailashpathlabs.com/",
-    "phone": "+91-9911370370",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
-    "categories": [
-      "description=Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12627911775"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, labs",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:housenumber": "Shop/Unit No. UGF 003",
-        "addr:postcode": "201306",
-        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
-        "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
-        "email": "info@kailashpathlabs.com",
-        "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
-        "mobile": "+91-9911370370",
-        "name": "Kailash Path Labs",
-        "opening_hours": "Mo-Su 07:00-20:00",
-        "payment:cash": "yes",
-        "payment:contactless": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:google_pay": "yes",
-        "payment:maestro": "yes",
-        "payment:mastercard": "yes",
-        "payment:phonepe": "yes",
-        "payment:visa": "yes",
-        "phone": "+91-9911370370",
-        "source": "local knowledge;streetlevel imagery",
-        "website": "https://www.kailashpathlabs.com/"
-      }
-    }
-  },
-  {
     "name": "Keysight Technologies Inc",
     "city": "Gurugram",
     "region": "Haryana",
@@ -23127,7 +23126,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24680,7 +24683,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -25697,7 +25704,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29961,7 +29972,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -39523,7 +39538,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42837,7 +42856,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42879,7 +42902,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42917,7 +42944,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46333,7 +46364,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -47799,7 +47834,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50514,7 +50553,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50559,7 +50602,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65440,7 +65487,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65479,7 +65530,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65517,7 +65572,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65560,7 +65619,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65599,7 +65662,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65637,7 +65704,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65672,7 +65743,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65716,7 +65791,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65765,7 +65844,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72596,7 +72679,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72635,7 +72722,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72681,7 +72772,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -75773,7 +75868,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -75815,7 +75914,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -75857,7 +75960,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
