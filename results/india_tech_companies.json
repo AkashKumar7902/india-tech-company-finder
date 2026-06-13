@@ -16201,6 +16201,134 @@
     }
   },
   {
+    "name": "Novus Logics",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "406, Lilamani Corporate Heights, Ramapir no Tekro BRTS Station, Vadaj, Ahmedabad, 380013",
+    "lat": 23.0622048,
+    "lng": 72.5713002,
+    "website": "https://www.novuslogics.com/",
+    "phone": "+919727577587",
+    "careers_url": "https://www.novuslogics.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.novuslogics.com/_nuxt/static/1674719016/career/state.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T19:23:13+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5353985489"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:country": "IN",
+        "addr:housenumber": "406, Lilamani Corporate Heights",
+        "addr:postcode": "380013",
+        "addr:street": "Ramapir no Tekro BRTS Station",
+        "addr:suburb": "Vadaj",
+        "ele": "13.5",
+        "email": "sales@novuslogics.com",
+        "level": "4",
+        "name": "Novus Logics",
+        "office": "it",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+919727577587",
+        "website": "https://www.novuslogics.com/",
+        "wheelchair": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.novuslogics.com/career/",
+        "provider": "company_website",
+        "api_url": "https://www.novuslogics.com/_nuxt/static/1674719016/career/state.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T19:23:13+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Thanksweb",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B-503, Arved Transcube Plaza, Radhaswami Road, Ahmedabad, 382480",
+    "lat": 23.068303,
+    "lng": 72.5759447,
+    "website": "https://www.thanksweb.in/",
+    "phone": "9537442430",
+    "careers_url": "https://www.thanksweb.in/career.php",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-13T19:23:16+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9642945518"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "B-503, Arved Transcube Plaza",
+        "addr:postcode": "382480",
+        "addr:street": "Radhaswami Road",
+        "name": "Thanksweb",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "9537442430",
+        "website": "https://www.thanksweb.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.thanksweb.in/career.php",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-13T19:23:16+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Banyan Data Services",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -18298,134 +18426,6 @@
     }
   },
   {
-    "name": "Novus Logics",
-    "city": "Ahmedabad",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "406, Lilamani Corporate Heights, Ramapir no Tekro BRTS Station, Vadaj, Ahmedabad, 380013",
-    "lat": 23.0622048,
-    "lng": 72.5713002,
-    "website": "https://www.novuslogics.com/",
-    "phone": "+919727577587",
-    "careers_url": "https://www.novuslogics.com/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.novuslogics.com/_nuxt/static/1674719016/career/state.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T19:23:13+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5353985489"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ahmedabad",
-        "addr:country": "IN",
-        "addr:housenumber": "406, Lilamani Corporate Heights",
-        "addr:postcode": "380013",
-        "addr:street": "Ramapir no Tekro BRTS Station",
-        "addr:suburb": "Vadaj",
-        "ele": "13.5",
-        "email": "sales@novuslogics.com",
-        "level": "4",
-        "name": "Novus Logics",
-        "office": "it",
-        "opening_hours": "Mo-Sa 10:00-19:00",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:electronic_purses": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "payment:visa_debit": "yes",
-        "payment:visa_electron": "yes",
-        "phone": "+919727577587",
-        "website": "https://www.novuslogics.com/",
-        "wheelchair": "yes"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.novuslogics.com/career/",
-        "provider": "company_website",
-        "api_url": "https://www.novuslogics.com/_nuxt/static/1674719016/career/state.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T19:23:13+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Thanksweb",
-    "city": "Ahmedabad",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "B-503, Arved Transcube Plaza, Radhaswami Road, Ahmedabad, 382480",
-    "lat": 23.068303,
-    "lng": 72.5759447,
-    "website": "https://www.thanksweb.in/",
-    "phone": "9537442430",
-    "careers_url": "https://www.thanksweb.in/career.php",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-13T19:23:16+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9642945518"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ahmedabad",
-        "addr:housenumber": "B-503, Arved Transcube Plaza",
-        "addr:postcode": "382480",
-        "addr:street": "Radhaswami Road",
-        "name": "Thanksweb",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "9537442430",
-        "website": "https://www.thanksweb.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.thanksweb.in/career.php",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-13T19:23:16+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "eth1 Network Solutions",
     "city": "Belagavi",
     "region": "Karnataka",
@@ -18698,9 +18698,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T20:01:46+00:00",
+    "careers_notes": "https://www.teamgenius.in/jobs: HTTPError; https://www.teamgenius.in/jobs/: HTTPError; https://www.teamgenius.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -18728,7 +18728,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T20:01:46+00:00",
+        "notes": "https://www.teamgenius.in/jobs: HTTPError; https://www.teamgenius.in/jobs/: HTTPError; https://www.teamgenius.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -18836,9 +18844,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T20:01:48+00:00",
+    "careers_notes": "https://www.kavinsoft.com/jobs: HTTPError; https://www.kavinsoft.com/jobs/: HTTPError; https://www.kavinsoft.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "description=Customized Tech firm, specializing in the Social, Development, and Health Sector."
@@ -18873,7 +18881,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T20:01:48+00:00",
+        "notes": "https://www.kavinsoft.com/jobs: HTTPError; https://www.kavinsoft.com/jobs/: HTTPError; https://www.kavinsoft.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
