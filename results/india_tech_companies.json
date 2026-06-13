@@ -918,6 +918,43 @@
     }
   },
   {
+    "name": "Immo Information Technology",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "Belgaum - Panaji Highway, Merces",
+    "lat": 15.492543,
+    "lng": 73.8511974,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5848315621"
+    },
+    "tech_score": 90.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Merces",
+        "addr:street": "Belgaum - Panaji Highway",
+        "name": "Immo Information Technology",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Conversantech",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -1434,6 +1471,44 @@
         "opening_hours": "Monday: 10:00 AM - 8:30 PM Tuesday: 10:00 AM - 8:30 PM Wednesday: 10:00 AM - 8:30 PM Thursday: 10:00 AM - 8:30 PM Friday: 10:00 AM - 8:30 PM Saturday: 10:00 AM - 8:30 PM Sunday: Closed",
         "phone": "+91 9484830629",
         "website": "https://ahmedabadcctv.in"
+      }
+    }
+  },
+  {
+    "name": "Persistent Systems Limited",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "L-44, Unit 1, Software Technology Park, Verna Industrial Estate, 403722",
+    "lat": 15.3660665,
+    "lng": 73.9328877,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5257979363"
+    },
+    "tech_score": 83.0,
+    "confidence": "high",
+    "notes": "matched: software, technology, systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "403722",
+        "addr:street": "L-44, Unit 1, Software Technology Park, Verna Industrial Estate",
+        "name": "Persistent Systems Limited",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00"
       }
     }
   },
@@ -10999,12 +11074,12 @@
     "lng": 76.3093921,
     "website": "https://www.sbsoldigital.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://careers.sbsoldigital.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T06:42:51+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -11026,6 +11101,14 @@
         "name": "SBSOL Digital Pvt. Ltd.",
         "office": "it",
         "website": "https://www.sbsoldigital.com/"
+      },
+      "careers": {
+        "url": "https://careers.sbsoldigital.com/",
+        "provider": "company_website",
+        "api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T06:42:51+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -11150,12 +11233,12 @@
     "lng": 77.3777841,
     "website": "https://iteconic.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://iteconic.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-13T06:42:55+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -11179,7 +11262,52 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://iteconic.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-13T06:42:55+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Department Of Information Technology Engineering",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.4252041,
+    "lng": 73.9795401,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "amenity=parking"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1359536463"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology",
+    "raw": {
+      "osm_tags": {
+        "amenity": "parking",
+        "fee": "no",
+        "operator": "Department Of Information Technology Engineering",
+        "surface": "paved"
+      }
     }
   },
   {
@@ -34952,6 +35080,118 @@
     }
   },
   {
+    "name": "Dreamlogic Infosystems",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "4B-G3, Models Complex, Amralwado, panjim, 403002",
+    "lat": 15.4696134,
+    "lng": 73.8232276,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6490629831"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "panjim",
+        "addr:housenumber": "4B-G3",
+        "addr:postcode": "403002",
+        "addr:street": "Models Complex, Amralwado",
+        "air_conditioning": "yes",
+        "name": "Dreamlogic Infosystems",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:30-18:30"
+      }
+    }
+  },
+  {
+    "name": "GoanWap.Com",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.5592665,
+    "lng": 73.7535411,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:1291377725"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "GoanWap.Com",
+        "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.5936735,
+    "lng": 73.8159189,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1376645663"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "Tata Consultancy Services",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Apexon",
     "city": "Pune",
     "region": "Maharashtra",
@@ -37850,6 +38090,42 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Hatley Technologies",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.590459,
+    "lng": 73.8085416,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11159475520"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Hatley Technologies",
+        "opening_hours": "Mo-Su 10:00-14:00, 15:00-19:00",
+        "shop": "computer"
+      }
     }
   },
   {
@@ -40813,6 +41089,48 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Sygnus Technologies",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "Panjim, 403001",
+    "lat": 15.4943998,
+    "lng": 73.8333648,
+    "website": "https://sygnustech.com",
+    "phone": "+919168879482",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=hifi"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9524025421"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Panjim",
+        "addr:postcode": "403001",
+        "name": "Sygnus Technologies",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Siddhant Amonkar",
+        "payment:cash": "yes",
+        "phone": "+919168879482",
+        "shop": "hifi",
+        "website": "https://sygnustech.com"
+      }
     }
   },
   {
@@ -44421,6 +44739,120 @@
     }
   },
   {
+    "name": "Department Of Science, Technology & Waste Management",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.5167401,
+    "lng": 73.8376415,
+    "website": "https://dstwm.goa.gov.in/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=government"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12709416803"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Department Of Science, Technology & Waste Management",
+        "office": "government",
+        "website": "https://dstwm.goa.gov.in/"
+      }
+    }
+  },
+  {
+    "name": "Goa State Council for Science & Technology",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.5347309,
+    "lng": 73.7926421,
+    "website": "https://gscst.goa.gov.in/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=government"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1372586487"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "Goa State Council for Science & Technology",
+        "office": "government",
+        "website": "https://gscst.goa.gov.in/"
+      }
+    }
+  },
+  {
+    "name": "Immo Infotech Pvt Ltd",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "Belgaum - Panaji Highway, Merces, 403005",
+    "lat": 15.4925172,
+    "lng": 73.8511991,
+    "website": "https://www.iazi.ch/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:475838561"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Merces",
+        "addr:postcode": "403005",
+        "addr:street": "Belgaum - Panaji Highway",
+        "building": "commercial",
+        "landuse": "commercial",
+        "name": "Immo Infotech Pvt Ltd",
+        "website": "https://www.iazi.ch/"
+      }
+    }
+  },
+  {
     "name": "Amura Marketing Technologies",
     "city": "Pune",
     "region": "Maharashtra",
@@ -47181,6 +47613,46 @@
         "opening_hours": "24/7",
         "phone": "91722 06400",
         "website": "https://kcyberexperts.com/"
+      }
+    }
+  },
+  {
+    "name": "Candolim Area Luxury 6BR Luxury Villa Cloud with private pool",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.4970981,
+    "lng": 73.8016136,
+    "website": "https://villagoa.in/6-bedroom-sea-view-luxury-villa-cloud/",
+    "phone": "+91 95451 00011",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12222072165"
+    },
+    "tech_score": 28.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "contact:facebook": "https://www.facebook.com/villagoa.in",
+        "email": "office@villagoa.in",
+        "guest_house": "guest_house",
+        "image": "https://villagoa.in/wp-content/uploads/2024/02/1-3.jpg",
+        "name": "Candolim Area Luxury 6BR Luxury Villa Cloud with private pool",
+        "phone": "+91 95451 00011",
+        "rooms": "6",
+        "tourism": "guest_house",
+        "website": "https://villagoa.in/6-bedroom-sea-view-luxury-villa-cloud/"
       }
     }
   },
@@ -58368,6 +58840,77 @@
     }
   },
   {
+    "name": "Pro Imaging Technologies",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.5271928,
+    "lng": 73.8259428,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=electronics"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4759414825"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Pro Imaging Technologies",
+        "name:en": "Pro Imaging Technologies",
+        "shop": "electronics"
+      }
+    }
+  },
+  {
+    "name": "Vipra Infotech",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.4911965,
+    "lng": 73.8199973,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4561922837"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "Vipra Infotech",
+        "shop": "yes"
+      }
+    }
+  },
+  {
     "name": "3RI Technologies",
     "city": "Pune",
     "region": "Maharashtra",
@@ -65080,6 +65623,42 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "White cloud laundry",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.5269822,
+    "lng": 73.8265199,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=laundry"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4759448122"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "name": "White cloud laundry",
+        "name:en": "White cloud laundry",
+        "shop": "laundry"
+      }
     }
   },
   {
