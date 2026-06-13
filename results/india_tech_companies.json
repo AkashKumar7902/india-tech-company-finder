@@ -2757,7 +2757,14 @@
         "website": "https://www.nagarro.com",
         "wikidata": "Q18128427",
         "wikipedia": "de:Nagarro"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -5924,7 +5931,14 @@
         "office": "it",
         "opening_hours": "Mo-Su 09:00-18:00",
         "website": "https://unmukti.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -12717,7 +12731,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-13T10:15:45+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -14827,6 +14848,118 @@
     }
   },
   {
+    "name": "TTP Technologies PVT. Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "486, D, 13th Cross Road, Bangalore, 560058",
+    "lat": 13.0187312,
+    "lng": 77.5052249,
+    "website": "ttpradiators.com",
+    "phone": "080 2836 1488",
+    "careers_url": "https://ttpradiators.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ttpradiators.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T15:52:51+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4488702704"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "486, D",
+        "addr:postcode": "560058",
+        "addr:street": "13th Cross Road",
+        "name": "TTP Technologies PVT. Ltd",
+        "office": "company",
+        "phone": "080 2836 1488",
+        "website": "ttpradiators.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://ttpradiators.com/careers",
+        "provider": "company_website",
+        "api_url": "https://ttpradiators.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T15:52:51+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Zieta Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "RMZ Eco World,SEZ Unit, Devarabisanahalli, Outer Ring Road,, Bengaluru, 560103",
+    "lat": 12.9255755,
+    "lng": 77.6866008,
+    "website": "https://www.zietatech.com/",
+    "phone": "080 2609 5999",
+    "careers_url": "https://www.zietatech.com/index.php?page=careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T15:52:55+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4445330574"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:postcode": "560103",
+        "addr:street": "RMZ Eco World,SEZ Unit, Devarabisanahalli, Outer Ring Road,",
+        "name": "Zieta Technologies",
+        "office": "company",
+        "phone": "080 2609 5999",
+        "smoking": "outside",
+        "website": "https://www.zietatech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.zietatech.com/index.php?page=careers",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T15:52:55+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sterling Software Pvt Ltd",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -16911,118 +17044,6 @@
     }
   },
   {
-    "name": "TTP Technologies PVT. Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "486, D, 13th Cross Road, Bangalore, 560058",
-    "lat": 13.0187312,
-    "lng": 77.5052249,
-    "website": "ttpradiators.com",
-    "phone": "080 2836 1488",
-    "careers_url": "https://ttpradiators.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://ttpradiators.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T15:52:51+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4488702704"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "486, D",
-        "addr:postcode": "560058",
-        "addr:street": "13th Cross Road",
-        "name": "TTP Technologies PVT. Ltd",
-        "office": "company",
-        "phone": "080 2836 1488",
-        "website": "ttpradiators.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://ttpradiators.com/careers",
-        "provider": "company_website",
-        "api_url": "https://ttpradiators.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T15:52:51+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Zieta Technologies",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "RMZ Eco World,SEZ Unit, Devarabisanahalli, Outer Ring Road,, Bengaluru, 560103",
-    "lat": 12.9255755,
-    "lng": 77.6866008,
-    "website": "https://www.zietatech.com/",
-    "phone": "080 2609 5999",
-    "careers_url": "https://www.zietatech.com/index.php?page=careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T15:52:55+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4445330574"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:postcode": "560103",
-        "addr:street": "RMZ Eco World,SEZ Unit, Devarabisanahalli, Outer Ring Road,",
-        "name": "Zieta Technologies",
-        "office": "company",
-        "phone": "080 2609 5999",
-        "smoking": "outside",
-        "website": "https://www.zietatech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.zietatech.com/index.php?page=careers",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T15:52:55+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Mindsight Web Technology WFH Extn",
     "city": "Bhubaneswar",
     "region": "Odisha",
@@ -17118,12 +17139,12 @@
     "lng": 76.7450219,
     "website": "https://www.windowit.in/",
     "phone": "9876997280",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.windowit.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-13T16:31:28+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -17151,7 +17172,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.windowit.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-13T16:31:28+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -17167,9 +17196,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T16:31:32+00:00",
+    "careers_notes": "https://viviramall.com/jobs: HTTPError; https://viviramall.com/jobs/: HTTPError; https://viviramall.com/career: HTTPError; no careers page detected",
     "categories": [
       "amenity=theatre",
       "description=Established in 2006 by three brothers, AGS is a successful and ever filled multiplex chain in India. Equipped with the latest technologies like Dolby Digital Surround Sound & Atmos and 4K resolution picture quality and with a capacity to hold 3800 people"
@@ -17200,7 +17229,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T16:31:32+00:00",
+        "notes": "https://viviramall.com/jobs: HTTPError; https://viviramall.com/jobs/: HTTPError; https://viviramall.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -19960,7 +19997,14 @@
         "opening_hours": "Mo-Fr 10:00-19:00",
         "phone": "+91 88264 85123",
         "website": "https://voyagex.ai/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22476,7 +22520,14 @@
         "opening_hours": "Mo-Fr 08:00-16:30",
         "website": "https://www.keysight.com/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24064,7 +24115,14 @@
         "name": "Dresma",
         "office": "it",
         "website": "https://www.dresma.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -28340,7 +28398,14 @@
       "osm_tags": {
         "name": "Dell Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35110,7 +35175,14 @@
       "osm_tags": {
         "name": "Guavus Network Systems1",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35145,7 +35217,14 @@
       "osm_tags": {
         "name": "NIIT",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35181,7 +35260,14 @@
         "company": "consulting",
         "name": "Phoenix Tech Consulting",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35217,7 +35303,14 @@
         "addr:housenumber": "A",
         "name": "The Hitech Robotics Systemz",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49479,7 +49572,14 @@
         "name": "Immersive Technologies",
         "shop": "yes",
         "website": "https://www.immersivetech.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -51548,7 +51648,14 @@
         "shop": "computer",
         "website": "https://www.thecompsolutions.com",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -59348,7 +59455,14 @@
         "landuse": "industrial",
         "name": "Electronic Hardware and Technology Park",
         "type": "boundary"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -59384,7 +59498,14 @@
         "addr:housenumber": "102",
         "building": "yes",
         "name": "Indo-German Science and Technology Center"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -59423,7 +59544,14 @@
         "name": "Samsung",
         "operator": "Spice Technologies",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -69380,7 +69508,14 @@
         "name": "Asus",
         "operator": "Satya Computer Solutions",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -69417,7 +69552,14 @@
         "name": "Lenovo",
         "operator": "Satya Computer Solutions",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -74517,7 +74659,14 @@
         "name": "Hawkworx Digital Marketing",
         "official_name": "Hawkworx Digital",
         "website": "https://hawkworx.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -74558,7 +74707,14 @@
         "name": "M2M Cybernetics",
         "office": "company",
         "website": "http://www.m2mcybernetics.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -74611,7 +74767,14 @@
         "start_date": "2016",
         "website": "https://sheetmetalsolutions.co.in/",
         "wheelchair": "limited"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
