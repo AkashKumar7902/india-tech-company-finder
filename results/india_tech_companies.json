@@ -5005,7 +5005,14 @@
         "email": "business@ajatus.co.in",
         "name": "AJATUS SOFTWARE",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -10374,7 +10381,14 @@
         "building:levels": "9",
         "description": "Full-Service Digital Marketing and SEO service provider in NYC with expertise in Responsive Web, Mobile App Development, Video production, SMO, and PPC.",
         "name": "AuroIN LLC"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11139,7 +11153,14 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "Software Technology Parks of India"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18060,7 +18081,14 @@
         "opening_hours": "Mo-Su 10:00-18:00",
         "phone": "+91 993 846 9393",
         "website": "https://www.mindsightweb.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -19999,7 +20027,12 @@
         "website": "https://www.csm.tech/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21098,12 +21131,12 @@
     "lng": 75.7390328,
     "website": "https://dinoustech.com/",
     "phone": "09166373236",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.dinoustech.com/career.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.dinoustech.com/images/iconimages/careers.png",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T23:15:03+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -21134,7 +21167,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.dinoustech.com/career.html",
+        "provider": "company_website",
+        "api_url": "https://www.dinoustech.com/images/iconimages/careers.png",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T23:15:03+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -21150,9 +21191,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T23:15:09+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://milansoft.com/jobs: ConnectionError; https://milansoft.com/jobs/: ConnectionError; https://milansoft.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -21185,7 +21226,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T23:15:09+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://milansoft.com/jobs: ConnectionError; https://milansoft.com/jobs/: ConnectionError; https://milansoft.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -23037,7 +23086,14 @@
         "office": "company",
         "opening_hours": "Mo-Fr 09:00-17:00",
         "website": "https://orbizen.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -28563,7 +28619,14 @@
         "fixme": "MITPL ODISHA",
         "image": "https://drive.google.com/file/d/12ZD73DvXDtMNydbhfd8AnMH8bd3tzUgh/view?usp=sharing",
         "name": "MITPL ODISHA"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -34848,7 +34911,14 @@
         "addr:street": "maitrivihar",
         "name": "Tech Mahindra",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48297,7 +48367,14 @@
         "description": "IT Consulting, Software Services",
         "name": "Deepak Ranjan Sarangi",
         "start_date": "2019-09-28"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50560,7 +50637,14 @@
         "amenity": "university",
         "name": "Odisha University Of Technology And Research",
         "website": "https://www.cet.edu.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -59111,7 +59195,12 @@
         "surface": "asphalt"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -59149,7 +59238,12 @@
         "surface": "asphalt"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
