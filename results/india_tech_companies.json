@@ -10804,9 +10804,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T05:18:53+00:00",
+    "careers_notes": "https://www.beezlabs.com/jobs: HTTPError; https://www.beezlabs.com/jobs/: HTTPError; https://www.beezlabs.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -10833,7 +10833,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T05:18:53+00:00",
+        "notes": "https://www.beezlabs.com/jobs: HTTPError; https://www.beezlabs.com/jobs/: HTTPError; https://www.beezlabs.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -10849,9 +10857,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T05:18:55+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.touchmarkmedia.in/jobs: ConnectionError; http://www.touchmarkmedia.in/jobs/: ConnectionError; http://www.touchmarkmedia.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it",
       "description=Touch Mark Media is one of the leading Digital Media Marketing and Advertising Company in Chennai. Digital marketing helps all the business persons to bring out more sales for their business."
@@ -10879,7 +10887,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T05:18:55+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.touchmarkmedia.in/jobs: ConnectionError; http://www.touchmarkmedia.in/jobs/: ConnectionError; http://www.touchmarkmedia.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -15732,6 +15748,47 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "9537442430",
         "website": "https://www.thanksweb.in/"
+      }
+    }
+  },
+  {
+    "name": "eth1 Network Solutions",
+    "city": "Belagavi",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1st Floor, Maruti Galli, 590001",
+    "lat": 15.8577531,
+    "lng": 74.5113692,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2325393508"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: software, solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:housename": "Radhakrishna Complex",
+        "addr:housenumber": "1st Floor",
+        "addr:postcode": "590001",
+        "addr:street": "Maruti Galli",
+        "building": "office",
+        "designation": "Software firm",
+        "name": "eth1 Network Solutions",
+        "name:kn": "ಇತ್೧ ನೆಟ್ವರ್ಕ್ ಸೊಲುಶನ್ಸ್"
       }
     }
   },
