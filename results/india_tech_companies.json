@@ -14394,6 +14394,63 @@
     }
   },
   {
+    "name": "Aum Infotech Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Y122 1st and 2nd Floor, 16th Main Road, Bangalore, 560010",
+    "lat": 12.9859838,
+    "lng": 77.5523378,
+    "website": "https://www.auminfotech.com/",
+    "phone": "08023303024",
+    "careers_url": "https://auminfotech.com/pages/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://auminfotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fauminfotech.com%2Fpages%2Fcareers%2F",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T13:47:41+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6646295301"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "Y122 1st and 2nd Floor",
+        "addr:postcode": "560010",
+        "addr:street": "16th Main Road",
+        "name": "Aum Infotech Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:30-18:30",
+        "phone": "08023303024",
+        "website": "https://www.auminfotech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://auminfotech.com/pages/careers/",
+        "provider": "company_website",
+        "api_url": "https://auminfotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fauminfotech.com%2Fpages%2Fcareers%2F",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T13:47:41+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Avenxo Labs Private Limited",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -16151,63 +16208,6 @@
     }
   },
   {
-    "name": "Aum Infotech Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Y122 1st and 2nd Floor, 16th Main Road, Bangalore, 560010",
-    "lat": 12.9859838,
-    "lng": 77.5523378,
-    "website": "https://www.auminfotech.com/",
-    "phone": "08023303024",
-    "careers_url": "https://auminfotech.com/pages/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://auminfotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fauminfotech.com%2Fpages%2Fcareers%2F",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T13:47:41+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6646295301"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: infotech, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "Y122 1st and 2nd Floor",
-        "addr:postcode": "560010",
-        "addr:street": "16th Main Road",
-        "name": "Aum Infotech Pvt Ltd",
-        "office": "company",
-        "opening_hours": "Mo-Sa 09:30-18:30",
-        "phone": "08023303024",
-        "website": "https://www.auminfotech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://auminfotech.com/pages/careers/",
-        "provider": "company_website",
-        "api_url": "https://auminfotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fauminfotech.com%2Fpages%2Fcareers%2F",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T13:47:41+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Bizframe Technologies Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -16373,9 +16373,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T14:35:54+00:00",
+    "careers_notes": "https://enerman.in/jobs: HTTPError; https://enerman.in/jobs/: HTTPError; https://enerman.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -16407,7 +16407,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T14:35:54+00:00",
+        "notes": "https://enerman.in/jobs: HTTPError; https://enerman.in/jobs/: HTTPError; https://enerman.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -16423,9 +16431,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T14:35:58+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; http://growsquare.com/jobs: HTTPError; http://growsquare.com/jobs/: HTTPError; http://growsquare.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -16455,7 +16463,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T14:35:58+00:00",
+        "notes": "homepage fetch failed: HTTPError; http://growsquare.com/jobs: HTTPError; http://growsquare.com/jobs/: HTTPError; http://growsquare.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
