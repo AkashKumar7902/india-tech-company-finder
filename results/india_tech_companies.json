@@ -1287,7 +1287,14 @@
         "confidence": "none",
         "checked_at": "2026-06-12T19:02:43+00:00",
         "notes": "https://www.samajinfotech.com/jobs: HTTPError; https://www.samajinfotech.com/jobs/: HTTPError; https://www.samajinfotech.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13946,7 +13953,14 @@
         "confidence": "none",
         "checked_at": "2026-06-13T11:06:34+00:00",
         "notes": "https://csitpark.com/jobs: HTTPError; https://csitpark.com/jobs/: HTTPError; https://csitpark.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15835,6 +15849,64 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Terasol Technologies Pvt. Ltd.",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "69, Building Materials Market, Ecotech-II, Udyog Vihar, Greater Noida, 201306",
+    "lat": 28.4997985,
+    "lng": 77.4830571,
+    "website": "https://www.terasoltechnologies.com/",
+    "phone": "0120-4100999",
+    "careers_url": "https://www.terasoltechnologies.com/jobs-in-noida",
+    "careers_provider": "zoho_recruit",
+    "careers_api_url": "https://www.terasoltechnologies.com/jobs-in-noida",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-13T18:49:41+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3502469670"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "69",
+        "addr:postcode": "201306",
+        "addr:street": "Building Materials Market, Ecotech-II, Udyog Vihar",
+        "name": "Terasol Technologies Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "09:00-18:00",
+        "phone": "0120-4100999",
+        "smoking": "no",
+        "website": "https://www.terasoltechnologies.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.terasoltechnologies.com/jobs-in-noida",
+        "provider": "zoho_recruit",
+        "api_url": "https://www.terasoltechnologies.com/jobs-in-noida",
+        "confidence": "high",
+        "checked_at": "2026-06-13T18:49:41+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -18091,64 +18163,6 @@
     }
   },
   {
-    "name": "Terasol Technologies Pvt. Ltd.",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "69, Building Materials Market, Ecotech-II, Udyog Vihar, Greater Noida, 201306",
-    "lat": 28.4997985,
-    "lng": 77.4830571,
-    "website": "https://www.terasoltechnologies.com/",
-    "phone": "0120-4100999",
-    "careers_url": "https://www.terasoltechnologies.com/jobs-in-noida",
-    "careers_provider": "zoho_recruit",
-    "careers_api_url": "https://www.terasoltechnologies.com/jobs-in-noida",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-13T18:49:41+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3502469670"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:housenumber": "69",
-        "addr:postcode": "201306",
-        "addr:street": "Building Materials Market, Ecotech-II, Udyog Vihar",
-        "name": "Terasol Technologies Pvt. Ltd.",
-        "office": "company",
-        "opening_hours": "09:00-18:00",
-        "phone": "0120-4100999",
-        "smoking": "no",
-        "website": "https://www.terasoltechnologies.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.terasoltechnologies.com/jobs-in-noida",
-        "provider": "zoho_recruit",
-        "api_url": "https://www.terasoltechnologies.com/jobs-in-noida",
-        "confidence": "high",
-        "checked_at": "2026-06-13T18:49:41+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Pervenire Digital Solutions Private Limited",
     "city": "Patna",
     "region": "Bihar",
@@ -18293,12 +18307,12 @@
     "lng": 72.5713002,
     "website": "https://www.novuslogics.com/",
     "phone": "+919727577587",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.novuslogics.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.novuslogics.com/_nuxt/static/1674719016/career/state.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T19:23:13+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -18343,7 +18357,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.novuslogics.com/career/",
+        "provider": "company_website",
+        "api_url": "https://www.novuslogics.com/_nuxt/static/1674719016/career/state.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T19:23:13+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -18356,12 +18378,12 @@
     "lng": 72.5759447,
     "website": "https://www.thanksweb.in/",
     "phone": "9537442430",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.thanksweb.in/career.php",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-13T19:23:16+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -18392,7 +18414,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.thanksweb.in/career.php",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-13T19:23:16+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -20139,7 +20169,14 @@
         "office": "it",
         "phone": "+918866744499",
         "website": "https://campusonclick.co.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -20180,7 +20217,14 @@
         "office": "it",
         "phone": "+919157423333",
         "website": "https://www.unityinfoway.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35303,7 +35347,14 @@
         "office": "it",
         "roof:material": "concrete",
         "roof:shape": "flat"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35343,7 +35394,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35385,7 +35440,14 @@
         "office": "it",
         "roof:material": "concrete",
         "roof:shape": "flat"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -59899,7 +59961,14 @@
         "name": "Codoffer Infotech",
         "roof:material": "concrete",
         "roof:shape": "flat"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -59934,7 +60003,14 @@
       "osm_tags": {
         "name": "Department of Science Technology",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -74361,7 +74437,14 @@
       "osm_tags": {
         "building": "university",
         "name": "Centre of Excellence in Cyber Security"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
