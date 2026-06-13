@@ -8722,6 +8722,42 @@
     }
   },
   {
+    "name": "DBA Technologies",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 16.511743,
+    "lng": 80.6388733,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12852970962"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-05-21",
+        "name": "DBA Technologies",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Pennant Technologies",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
@@ -8810,6 +8846,57 @@
     }
   },
   {
+    "name": "Novyukthi Solutions Private Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "161, 2nd Cross, Bengaluru Central City Corporation, 560020",
+    "lat": 12.9960675,
+    "lng": 77.5795878,
+    "website": "https://www.novyukthi.com",
+    "phone": "+91-9900-034649",
+    "careers_url": "https://www.novyukthi.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-12T23:31:42+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13374150598"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru Central City Corporation",
+        "addr:district": "Bengaluru",
+        "addr:housenumber": "161",
+        "addr:postcode": "560020",
+        "addr:street": "2nd Cross",
+        "name": "Novyukthi Solutions Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91-9900-034649",
+        "website": "https://www.novyukthi.com"
+      },
+      "careers": {
+        "url": "https://www.novyukthi.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-12T23:31:42+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "AuroIN LLC",
     "city": "Bhubaneswar",
     "region": "Odisha",
@@ -8846,6 +8933,59 @@
         "building:levels": "9",
         "description": "Full-Service Digital Marketing and SEO service provider in NYC with expertise in Responsive Web, Mobile App Development, Video production, SMO, and PPC.",
         "name": "AuroIN LLC"
+      }
+    }
+  },
+  {
+    "name": "Sab Hi Digital",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "SCO 54-55-56, 3rd & 4th Floor Sector - 17 A, Jan Marg, Chandigarh, 160017",
+    "lat": 30.7438912,
+    "lng": 76.7840603,
+    "website": "https://www.sabhidigital.in/",
+    "phone": "+918398060443",
+    "careers_url": "https://www.sabhidigital.in/carrer",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-12T23:31:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9123608211"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chandigarh",
+        "addr:housenumber": "SCO 54-55-56, 3rd & 4th Floor Sector - 17 A",
+        "addr:postcode": "160017",
+        "addr:street": "Jan Marg",
+        "name": "Sab Hi Digital",
+        "office": "it",
+        "opening_hours": "24/7",
+        "phone": "+918398060443",
+        "website": "https://www.sabhidigital.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.sabhidigital.in/carrer",
+        "provider": "company_website",
+        "api_url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+        "confidence": "medium",
+        "checked_at": "2026-06-12T23:31:46+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -9142,57 +9282,6 @@
     }
   },
   {
-    "name": "Novyukthi Solutions Private Limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "161, 2nd Cross, Bengaluru Central City Corporation, 560020",
-    "lat": 12.9960675,
-    "lng": 77.5795878,
-    "website": "https://www.novyukthi.com",
-    "phone": "+91-9900-034649",
-    "careers_url": "https://www.novyukthi.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-12T23:31:42+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13374150598"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru Central City Corporation",
-        "addr:district": "Bengaluru",
-        "addr:housenumber": "161",
-        "addr:postcode": "560020",
-        "addr:street": "2nd Cross",
-        "name": "Novyukthi Solutions Private Limited",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91-9900-034649",
-        "website": "https://www.novyukthi.com"
-      },
-      "careers": {
-        "url": "https://www.novyukthi.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-12T23:31:42+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Nucleon Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -9375,59 +9464,6 @@
       "osm_tags": {
         "landuse": "commercial",
         "name": "Software Technology Parks of India"
-      }
-    }
-  },
-  {
-    "name": "Sab Hi Digital",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "SCO 54-55-56, 3rd & 4th Floor Sector - 17 A, Jan Marg, Chandigarh, 160017",
-    "lat": 30.7438912,
-    "lng": 76.7840603,
-    "website": "https://www.sabhidigital.in/",
-    "phone": "+918398060443",
-    "careers_url": "https://www.sabhidigital.in/carrer",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-12T23:31:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9123608211"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chandigarh",
-        "addr:housenumber": "SCO 54-55-56, 3rd & 4th Floor Sector - 17 A",
-        "addr:postcode": "160017",
-        "addr:street": "Jan Marg",
-        "name": "Sab Hi Digital",
-        "office": "it",
-        "opening_hours": "24/7",
-        "phone": "+918398060443",
-        "website": "https://www.sabhidigital.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://www.sabhidigital.in/carrer",
-        "provider": "company_website",
-        "api_url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
-        "confidence": "medium",
-        "checked_at": "2026-06-12T23:31:46+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -9621,9 +9657,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T00:07:31+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.iloads.in/jobs: ConnectionError; http://www.iloads.in/jobs/: ConnectionError; http://www.iloads.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it",
       "building=yes"
@@ -9653,7 +9689,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T00:07:31+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.iloads.in/jobs: ConnectionError; http://www.iloads.in/jobs/: ConnectionError; http://www.iloads.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -9669,9 +9713,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T00:07:32+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://geosys.co.in/jobs: SSLError; https://geosys.co.in/jobs/: SSLError; https://geosys.co.in/career: SSLError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -9694,6 +9738,14 @@
         "office": "it",
         "phone": "+914065522333",
         "website": "https://geosys.co.in/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T00:07:32+00:00",
+        "notes": "homepage fetch failed: SSLError; https://geosys.co.in/jobs: SSLError; https://geosys.co.in/jobs/: SSLError; https://geosys.co.in/career: SSLError; no careers page detected"
       }
     }
   },
@@ -10223,6 +10275,42 @@
         "name": "Ideology Software Technologies Pvt Ltd",
         "name:en": "Ideology Software Technologies Pvt Ltd",
         "name:ml": "ഐഡിയോളജി സോഫ്റ്റ്‌വെയർ ടെക്നോളജീസ് പ്രൈവറ്റ് ലിമിറ്റഡ്"
+      }
+    }
+  },
+  {
+    "name": "Lenovo",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 16.5098332,
+    "lng": 80.6391845,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13001406941"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: software, systems, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Lenovo",
+        "operator": "Expert Systems & Software",
+        "shop": "computer"
       }
     }
   },
@@ -11958,6 +12046,72 @@
       "osm_tags": {
         "name": "Paranoia Systems International Pvt. Ltd. (PSI Pvt. Ltd.)",
         "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Swecha Andhra Pradesh",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "S6, Jammi chettu center, Vijayawada, 520010",
+    "lat": 16.5071093,
+    "lng": 80.6454387,
+    "website": "https://swechaap.org",
+    "phone": "+91 95055 62303",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=ngo",
+      "description=Swecha Andhra Pradesh is a non-profit leveraging Free and Open Source Software (FOSS) for community development, addressing social issues, and reducing the digital divide. Committed to creating an inclusive, technologically empowered society."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11468881519"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: software, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Vijayawada",
+        "addr:district": "Krishna",
+        "addr:door": "S6",
+        "addr:housenumber": "S6",
+        "addr:postcode": "520010",
+        "addr:street": "Jammi chettu center",
+        "air_conditioning": "yes",
+        "baby_feeding": "no",
+        "check_date": "2024-07-08",
+        "contact:facebook": "swechaap",
+        "contact:instagram": "swechaap",
+        "contact:twitter": "swechaap",
+        "description": "Swecha Andhra Pradesh is a non-profit leveraging Free and Open Source Software (FOSS) for community development, addressing social issues, and reducing the digital divide. Committed to creating an inclusive, technologically empowered society.",
+        "email": "contactus@swechaap.org",
+        "image": "https://www.swechaap.org/wp-content/uploads/2023/11/photo_6210793860347574180_y-e1701108753361-1200x437.jpg",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "Swecha AP",
+        "level": "2",
+        "mobile": "+91 9505562303",
+        "name": "Swecha Andhra Pradesh",
+        "name:en": "Swecha Andhra Pradesh",
+        "name:hi": "स्वेच्छा आंध्रप्रदेश",
+        "name:te": "స్వేఛ్ఛా ఆంధ్రప్రదేశ్",
+        "office": "ngo",
+        "opening_hours": "PH,Mo-Su 09:00-20:00",
+        "phone": "+91 95055 62303",
+        "short_name": "Swecha AP",
+        "smoking": "no",
+        "start_date": "2023-01-01",
+        "website": "https://swechaap.org",
+        "wheelchair": "no"
       }
     }
   },
@@ -15281,6 +15435,48 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Eruvaka Technologies Pvt Ltd",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "Plot no 69, Road number 5, Kanaka Durga Gazetted Officers Colony, Vijayawada, 520008",
+    "lat": 16.504356,
+    "lng": 80.6659811,
+    "website": "https://eruvaka.com/",
+    "phone": "+919908963863",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8982523555"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Vijayawada",
+        "addr:housenumber": "Plot no 69",
+        "addr:postcode": "520008",
+        "addr:street": "Road number 5, Kanaka Durga Gazetted Officers Colony",
+        "name": "Eruvaka Technologies Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "phone": "+919908963863",
+        "website": "https://eruvaka.com/"
+      }
     }
   },
   {
@@ -46411,6 +46607,129 @@
     }
   },
   {
+    "name": "Efftronics Systems Pvt Ltd",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "4, IT Park, Mangalagiri, 522503",
+    "lat": 16.4210676,
+    "lng": 80.5608602,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13232198610"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mangalagiri",
+        "addr:district": "guntur",
+        "addr:housenumber": "4",
+        "addr:postcode": "522503",
+        "addr:street": "IT Park",
+        "name": "Efftronics Systems Pvt Ltd",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Elite Aqua Chem Technologies",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 16.5064971,
+    "lng": 80.6760876,
+    "website": "",
+    "phone": "+91 80963 19645",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "amenity=car_wash"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12991193959"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "amenity": "car_wash",
+        "check_date": "2025-07-11",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Elite Aqua Chem Technologies",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+91 80963 19645",
+        "wheelchair": "yes"
+      }
+    }
+  },
+  {
+    "name": "svt infotech",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "29-2-4/5, ramamandiram road",
+    "lat": 16.511645,
+    "lng": 80.6299921,
+    "website": "",
+    "phone": "9494788179",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11292673983"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "29-2-4/5",
+        "addr:street": "ramamandiram road",
+        "contact:email": "svtinfotech05@gmail.com",
+        "name": "svt infotech",
+        "office": "educational_institution",
+        "phone": "9494788179"
+      }
+    }
+  },
+  {
     "name": "Sri Sai Teja Technologies",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
@@ -59715,6 +60034,78 @@
     }
   },
   {
+    "name": "KK Systems",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 16.5112347,
+    "lng": 80.625113,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11573979313"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:door": "48",
+        "check_date": "2024-01-31",
+        "name": "KK Systems",
+        "shop": "computer"
+      }
+    }
+  },
+  {
+    "name": "Vijaya Technologies",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 16.5067281,
+    "lng": 80.6442695,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12873579812"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Vijaya Technologies",
+        "shop": "yes"
+      }
+    }
+  },
+  {
     "name": "Innovation centre for drone technologies",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
@@ -63782,6 +64173,92 @@
     }
   },
   {
+    "name": "Digital Seva",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "4-13/6, Vaddeswaram Main Road, 522503",
+    "lat": 16.4488502,
+    "lng": 80.6110764,
+    "website": "https://www.meeseva.in/",
+    "phone": "7382512764",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=government"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5641031622"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "4-13/6",
+        "addr:postcode": "522503",
+        "addr:street": "Vaddeswaram Main Road",
+        "name": "Digital Seva",
+        "office": "government",
+        "opening_hours": "Mo-Sa 09:00-18:30",
+        "phone": "7382512764",
+        "website": "https://www.meeseva.in/"
+      }
+    }
+  },
+  {
+    "name": "Paisa Pulse",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "2nd floor, Nishanth apartment, 54-20/2-3A/1, near Sneha cars, Srinivasa Nagar Bank Colony, Kanuru",
+    "lat": 16.5132747,
+    "lng": 80.6702152,
+    "website": "https://www.paisapulse.com/",
+    "phone": "917981643315",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=financial_advisor",
+      "description=Paisa Pulse is your trusted financial partner specializing in home loans, education loans, business loans, and personal loan solutions. As experienced loan consultants and financial planners, we offer hassle-free lending with quick approvals and transpare"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13928910946"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kanuru",
+        "addr:district": "Krishna",
+        "addr:street": "2nd floor, Nishanth apartment, 54-20/2-3A/1, near Sneha cars, Srinivasa Nagar Bank Colony",
+        "description": "Paisa Pulse is your trusted financial partner specializing in home loans, education loans, business loans, and personal loan solutions. As experienced loan consultants and financial planners, we offer hassle-free lending with quick approvals and transpare",
+        "mobile": "917981643315",
+        "name": "Paisa Pulse",
+        "office": "financial_advisor",
+        "opening_hours": "Mo-Su 09:30-19:00",
+        "phone": "917981643315",
+        "start_date": "2018-06-26",
+        "website": "https://www.paisapulse.com/"
+      }
+    }
+  },
+  {
     "name": "8 Cloud 8",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -64357,6 +64834,42 @@
         "name": "Orthos Orthopedic and Spine Centre",
         "operator": "Novosalus Technology",
         "operator:type": "private"
+      }
+    }
+  },
+  {
+    "name": "Cloud 9 Trip",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 16.5041348,
+    "lng": 80.6501563,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=travel_agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12994276243"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-07-11",
+        "name": "Cloud 9 Trip",
+        "shop": "travel_agency"
       }
     }
   },
@@ -66291,6 +66804,48 @@
         "image": "https://\"C:\\Users\\sundar sahu\\Desktop\\2023-10-30.jpg\"",
         "name": "Mamo TechnoLabs LLP , Vadodara",
         "website": "https://mamotechnolabs.com/"
+      }
+    }
+  },
+  {
+    "name": "AM Digital Studio",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "munni kerana shop, sanath nagar",
+    "lat": 16.4937523,
+    "lng": 80.6774483,
+    "website": "https://9052833777",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "craft=photographer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12993650532"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "munni kerana shop",
+        "addr:street": "sanath nagar",
+        "check_date": "2025-07-11",
+        "craft": "photographer",
+        "name": "AM Digital Studio",
+        "name:en": "AM Digital Studio",
+        "name:hi": "AM Digital Studio",
+        "name:mr": "AM Digital Studio",
+        "website": "https://9052833777"
       }
     }
   }
