@@ -3609,7 +3609,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -3655,7 +3659,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -8166,7 +8174,11 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T22:50:57+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -8204,7 +8216,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11312,7 +11328,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11368,7 +11388,11 @@
         "confidence": "none",
         "checked_at": "2026-06-13T00:07:31+00:00",
         "notes": "homepage fetch failed: ConnectionError; http://www.iloads.in/jobs: ConnectionError; http://www.iloads.in/jobs/: ConnectionError; http://www.iloads.in/career: ConnectionError; no careers page detected"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -12945,7 +12969,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -14834,7 +14862,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15431,7 +15463,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15490,7 +15526,11 @@
         "confidence": "medium",
         "checked_at": "2026-06-13T17:04:48+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -16789,6 +16829,62 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Campus On Click",
+    "city": "Gandhinagar",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "704, Abhishek Complex, Sector 11, Gandhinagar, 382011",
+    "lat": 23.2168333,
+    "lng": 72.6490612,
+    "website": "https://campusonclick.co.in",
+    "phone": "+918866744499",
+    "careers_url": "https://campusonclick.co.in/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;600;900&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T22:14:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10790125020"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gandhinagar",
+        "addr:housenumber": "704",
+        "addr:postcode": "382011",
+        "addr:street": "Abhishek Complex, Sector 11",
+        "name": "Campus On Click",
+        "office": "it",
+        "phone": "+918866744499",
+        "website": "https://campusonclick.co.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://campusonclick.co.in/career",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;600;900&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T22:14:29+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -20411,63 +20507,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
-    }
-  },
-  {
-    "name": "Campus On Click",
-    "city": "Gandhinagar",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "704, Abhishek Complex, Sector 11, Gandhinagar, 382011",
-    "lat": 23.2168333,
-    "lng": 72.6490612,
-    "website": "https://campusonclick.co.in",
-    "phone": "+918866744499",
-    "careers_url": "https://campusonclick.co.in/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;600;900&display=swap",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T22:14:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10790125020"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Gandhinagar",
-        "addr:housenumber": "704",
-        "addr:postcode": "382011",
-        "addr:street": "Abhishek Complex, Sector 11",
-        "name": "Campus On Click",
-        "office": "it",
-        "phone": "+918866744499",
-        "website": "https://campusonclick.co.in"
-      },
-      "google_queries": [],
-      "google_types": [],
       "google_search_points": [],
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://campusonclick.co.in/career",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;600;900&display=swap",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T22:14:29+00:00",
-        "notes": "careers page found on company website"
-      }
+      "search_queries": []
     }
   },
   {
@@ -20630,9 +20674,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T22:42:31+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://www.webcomindia.biz/jobs: SSLError; https://www.webcomindia.biz/jobs/: SSLError; https://www.webcomindia.biz/career: SSLError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -20660,6 +20704,14 @@
         "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-17:00",
         "phone": "0361 266 7017",
         "website": "https://www.webcomindia.biz/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T22:42:31+00:00",
+        "notes": "homepage fetch failed: SSLError; https://www.webcomindia.biz/jobs: SSLError; https://www.webcomindia.biz/jobs/: SSLError; https://www.webcomindia.biz/career: SSLError; no careers page detected"
       }
     }
   },
@@ -20718,9 +20770,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T22:42:36+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; http://www.mclean.in/jobs: HTTPError; http://www.mclean.in/jobs/: HTTPError; http://www.mclean.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "description=McLean is a Professional Cleaning Services Provider based out of Hyderabad. McLean offers residential & commercial cleaning services Pan India"
@@ -20752,7 +20804,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T22:42:36+00:00",
+        "notes": "homepage fetch failed: HTTPError; http://www.mclean.in/jobs: HTTPError; http://www.mclean.in/jobs/: HTTPError; http://www.mclean.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -25967,7 +26027,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -28975,7 +29039,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29015,7 +29083,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29057,7 +29129,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35667,7 +35743,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -35705,7 +35785,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46144,7 +46228,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46192,7 +46280,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46240,7 +46332,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60284,7 +60380,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60323,7 +60423,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60363,7 +60467,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60405,7 +60513,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60443,7 +60555,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60479,7 +60595,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60518,7 +60638,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60564,7 +60688,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71898,7 +72026,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72966,7 +73098,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -73011,7 +73147,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76381,7 +76521,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
