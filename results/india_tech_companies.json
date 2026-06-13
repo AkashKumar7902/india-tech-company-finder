@@ -339,7 +339,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T19:00:02+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -387,7 +394,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T19:00:07+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -3867,7 +3881,14 @@
         "opening_hours": "Mo-Su 10:00-20:00",
         "phone": "+917062626015",
         "website": "https://electrontechnology.co.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -3915,7 +3936,14 @@
         "payment:credit_cards": "yes",
         "phone": "+917820919773",
         "website": "https://www.rasukoo.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -6212,7 +6240,14 @@
         "name": "Optratec Technologies Pvt. Ltd.",
         "office": "it",
         "website": "https://www.optratec.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -6621,7 +6656,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T21:35:46+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -6760,7 +6802,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "University Center For Computer Science And Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13401,7 +13450,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-13T12:22:03+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13444,7 +13500,14 @@
         "email": "business@w3care.in",
         "name": "W3care Technologies",
         "website": "https://www.w3care.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -16538,6 +16601,62 @@
         "api_url": "https://www.google.com/recaptcha/api.js",
         "confidence": "medium",
         "checked_at": "2026-06-13T20:40:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Kizzy Consulting LLP",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "Sco-45 1st floor, Swastik Vihar Sector 5, Panchkula, 134109",
+    "lat": 30.7167059,
+    "lng": 76.8486674,
+    "website": "https://kizzyconsulting.com/",
+    "phone": "+91 98724 55911",
+    "careers_url": "https://kizzyconsulting.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://kizzyconsulting.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T21:09:32+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10878114511"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Panchkula",
+        "addr:postcode": "134109",
+        "addr:street": "Sco-45 1st floor, Swastik Vihar Sector 5",
+        "name": "Kizzy Consulting LLP",
+        "office": "it",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "+91 98724 55911",
+        "website": "https://kizzyconsulting.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://kizzyconsulting.com/careers",
+        "provider": "company_website",
+        "api_url": "https://kizzyconsulting.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T21:09:32+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -19751,62 +19870,6 @@
     }
   },
   {
-    "name": "Kizzy Consulting LLP",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "Sco-45 1st floor, Swastik Vihar Sector 5, Panchkula, 134109",
-    "lat": 30.7167059,
-    "lng": 76.8486674,
-    "website": "https://kizzyconsulting.com/",
-    "phone": "+91 98724 55911",
-    "careers_url": "https://kizzyconsulting.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://kizzyconsulting.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T21:09:32+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10878114511"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Panchkula",
-        "addr:postcode": "134109",
-        "addr:street": "Sco-45 1st floor, Swastik Vihar Sector 5",
-        "name": "Kizzy Consulting LLP",
-        "office": "it",
-        "opening_hours": "Mo-Sa 10:00-19:00",
-        "phone": "+91 98724 55911",
-        "website": "https://kizzyconsulting.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://kizzyconsulting.com/careers",
-        "provider": "company_website",
-        "api_url": "https://kizzyconsulting.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T21:09:32+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Akshaya Shanthi",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -20019,9 +20082,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T21:41:38+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://globalenglish.com/jobs: ConnectionError; https://globalenglish.com/jobs/: ConnectionError; https://globalenglish.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -20056,7 +20119,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T21:41:38+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://globalenglish.com/jobs: ConnectionError; https://globalenglish.com/jobs/: ConnectionError; https://globalenglish.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -20124,12 +20195,12 @@
     "lng": 80.2465261,
     "website": "https://www.truckrr.com/",
     "phone": "04447768360",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.truckrr.com/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.truckrr.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T21:41:41+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -20160,7 +20231,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.truckrr.com/jobs/",
+        "provider": "company_website",
+        "api_url": "https://www.truckrr.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T21:41:41+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -20937,7 +21016,14 @@
         "office": "it",
         "phone": "09166373236",
         "website": "https://dinoustech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -20981,7 +21067,14 @@
         "opening_hours": "Mo-Sa 10:00-19:00",
         "phone": "+91 9414044900",
         "website": "https://milansoft.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21022,7 +21115,14 @@
         "office": "it",
         "phone": "+91 9660268331",
         "website": "http://www.tetraskelion.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -21065,7 +21165,14 @@
         "opening_hours:covid19": "restricted",
         "phone": "+918882082786",
         "website": "https://webapplicationconsultant.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23085,7 +23192,14 @@
         "office": "company",
         "opening_hours": "Mo-Fr 00:00-24:00",
         "website": "https://dotsquares.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24763,7 +24877,14 @@
         "name": "Rafc Private Limited",
         "office": "it",
         "website": "https://www.rafc.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -29737,7 +29858,14 @@
         "name": "Ranosys Technologies - Sitapura",
         "office": "company",
         "opening_hours": "Mo-Fr 09:00-18:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -37988,7 +38116,14 @@
         "wheelchair": "yes",
         "wikidata": "Q48732496",
         "wikipedia": "en:Arya Group Of Colleges"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38023,7 +38158,14 @@
       "osm_tags": {
         "name": "eSageIT",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38060,7 +38202,14 @@
         "building": "yes",
         "name": "Genpact",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38097,7 +38246,14 @@
         "landuse": "commercial",
         "name": "Genpact - Sitapura",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38132,7 +38288,14 @@
       "osm_tags": {
         "name": "Teleperfomance - Sitapura",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42909,7 +43072,14 @@
         "operator": "Openhippo Technologies Services",
         "operator:type": "private",
         "seamark:landmark:category": "Openhippo Library"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -46395,7 +46565,14 @@
         "opening_hours": "Mo-Su 10:00-21:30",
         "phone": "9413194723",
         "website": "https://ramrajassociates.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48318,7 +48495,14 @@
         "building": "yes",
         "description": "Janadhar Software to enable politicians to access the local, national and global politics by offering them a wide range of political knowledge. www.janadhar.in",
         "name": "Janadhar EMS"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50763,7 +50947,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50806,7 +50994,14 @@
         "description": "Microzon Infotech are the best training programs and development providing company giving international level dot net training in Jaipur.",
         "name": "Microzon Infotech",
         "website": "https://microzon.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52152,7 +52347,14 @@
         "addr:street": "Vikas Path",
         "name": "Saas Bahu Ladies Tailor",
         "shop": "tailor"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62504,7 +62706,14 @@
         "addr:street": "VT Road",
         "building": "yes",
         "name": "Digital Creative Tech Solutions"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62537,7 +62746,14 @@
       "osm_tags": {
         "man_made": "works",
         "name": "Hero Motocorp. - Centre of Innovation and Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62573,7 +62789,14 @@
         "addr:postcode": "302022",
         "name": "iON Digital Zone iDZ Sitapura",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62610,7 +62833,14 @@
         "addr:street": "Khatipura Road",
         "name": "kvcolor - Digital Marketing and SEO Solutions",
         "opening_hours": "Mo-Su 10:00-22:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62655,7 +62885,14 @@
         "name": "Sashakta Technologies, SAP Jaipur, SAP Rajasthan",
         "old_name": "Sashakta Technologies Private Limited, SAP Education, SAP Training",
         "source": "Sashakta Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62691,7 +62928,14 @@
         "addr:postcode": "302013",
         "name": "Sigma Engineered Solutions सिग्मा इंजीनियर्ड सॉल्यूशंस",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62724,7 +62968,14 @@
       "osm_tags": {
         "leisure": "park",
         "name": "TECHNOLOGY PARK"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -73012,7 +73263,14 @@
         "opening_hours": "24/7",
         "phone": "+918058212586",
         "website": "https://hpcjindia.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76406,7 +76664,14 @@
         "name": "MSM Coretech Innovations",
         "opening_hours": "24/7",
         "website": "https://msmcoretech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
