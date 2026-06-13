@@ -9890,9 +9890,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T01:24:00+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://keyvalue.system/jobs: ConnectionError; https://keyvalue.system/jobs/: ConnectionError; https://keyvalue.system/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -9910,6 +9910,14 @@
         "name": "Key Value Systems",
         "office": "it",
         "website": "keyvalue.system"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T01:24:00+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://keyvalue.system/jobs: ConnectionError; https://keyvalue.system/jobs/: ConnectionError; https://keyvalue.system/career: ConnectionError; no careers page detected"
       }
     }
   },
@@ -9926,9 +9934,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T01:24:02+00:00",
+    "careers_notes": "https://www.techmavenit.com/jobs: HTTPError; https://www.techmavenit.com/jobs/: HTTPError; https://www.techmavenit.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -9953,6 +9961,14 @@
         "opening_hours": "Mo-Fr 09:00-22:00",
         "phone": "+01-9746-530365",
         "website": "https://www.techmavenit.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T01:24:02+00:00",
+        "notes": "https://www.techmavenit.com/jobs: HTTPError; https://www.techmavenit.com/jobs/: HTTPError; https://www.techmavenit.com/career: HTTPError; no careers page detected"
       }
     }
   },
@@ -30550,6 +30566,48 @@
         "office": "it",
         "roof:material": "concrete",
         "roof:shape": "flat"
+      }
+    }
+  },
+  {
+    "name": "Veda",
+    "city": "Guntur",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "Vidyanagar 1st line, GUNTUR, 522007",
+    "lat": 16.3174702,
+    "lng": 80.4260201,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:410569243"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "GUNTUR",
+        "addr:district": "Guntur",
+        "addr:postcode": "522007",
+        "addr:street": "Vidyanagar 1st line",
+        "building": "yes",
+        "name": "Veda",
+        "office": "it",
+        "opening_hours": "sunrise-sunset"
       }
     }
   },
@@ -60840,6 +60898,42 @@
       "google_queries": [],
       "google_types": [],
       "google_search_points": []
+    }
+  },
+  {
+    "name": "Professional it solutions",
+    "city": "Guntur",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "lam",
+    "lat": 16.38244,
+    "lng": 80.4342967,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5309964836"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "lam",
+        "name": "Professional it solutions",
+        "shop": "computer"
+      }
     }
   },
   {
