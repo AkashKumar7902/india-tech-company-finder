@@ -10777,6 +10777,56 @@
     }
   },
   {
+    "name": "Tech Prastish Software Solutions Pvt. Ltd.",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "E237, Ground Floor, Industrial Area, Phase 8B, Mohali, 160055",
+    "lat": 30.7116635,
+    "lng": 76.6890554,
+    "website": "https://www.tech-prastish.com/",
+    "phone": "+919988960789",
+    "careers_url": "https://www.tech-prastish.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.tech-prastish.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T09:17:11+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6165261384"
+    },
+    "tech_score": 56.0,
+    "confidence": "high",
+    "notes": "matched: software, solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mohali",
+        "addr:housenumber": "E237",
+        "addr:postcode": "160055",
+        "addr:street": "Ground Floor, Industrial Area, Phase 8B",
+        "email": "info@tech-prastish.com",
+        "name": "Tech Prastish Software Solutions Pvt. Ltd.",
+        "phone": "+919988960789",
+        "website": "https://www.tech-prastish.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.tech-prastish.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.tech-prastish.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T09:17:11+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Novac Technology Solutions",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -11903,56 +11953,6 @@
     }
   },
   {
-    "name": "Tech Prastish Software Solutions Pvt. Ltd.",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "E237, Ground Floor, Industrial Area, Phase 8B, Mohali, 160055",
-    "lat": 30.7116635,
-    "lng": 76.6890554,
-    "website": "https://www.tech-prastish.com/",
-    "phone": "+919988960789",
-    "careers_url": "https://www.tech-prastish.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.tech-prastish.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T09:17:11+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6165261384"
-    },
-    "tech_score": 52.0,
-    "confidence": "medium",
-    "notes": "matched: software, solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mohali",
-        "addr:housenumber": "E237",
-        "addr:postcode": "160055",
-        "addr:street": "Ground Floor, Industrial Area, Phase 8B",
-        "email": "info@tech-prastish.com",
-        "name": "Tech Prastish Software Solutions Pvt. Ltd.",
-        "phone": "+919988960789",
-        "website": "https://www.tech-prastish.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://www.tech-prastish.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.tech-prastish.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T09:17:11+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Drona Systems",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -12439,12 +12439,12 @@
     "lng": 80.6454387,
     "website": "https://swechaap.org",
     "phone": "+91 95055 62303",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.swechaap.org/workwithus/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://work.swechaap.org/jobs/linux-system-administrator-intern",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T10:15:36+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=ngo",
       "description=Swecha Andhra Pradesh is a non-profit leveraging Free and Open Source Software (FOSS) for community development, addressing social issues, and reducing the digital divide. Committed to creating an inclusive, technologically empowered society."
@@ -12492,6 +12492,14 @@
         "start_date": "2023-01-01",
         "website": "https://swechaap.org",
         "wheelchair": "no"
+      },
+      "careers": {
+        "url": "https://www.swechaap.org/workwithus/",
+        "provider": "company_website",
+        "api_url": "https://work.swechaap.org/jobs/linux-system-administrator-intern",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T10:15:36+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -12736,12 +12744,12 @@
     "lng": 77.1455382,
     "website": "https://www.usitservices.in/",
     "phone": "9015035702",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.usitservices.in/blog/how-companies-handle-it-gaps-between-hiring-and-onboarding/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://challenges.cloudflare.com/turnstile/v0/api.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T10:15:45+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -12767,6 +12775,14 @@
         "opening_hours": "24/7",
         "phone": "9015035702",
         "website": "https://www.usitservices.in/"
+      },
+      "careers": {
+        "url": "https://www.usitservices.in/blog/how-companies-handle-it-gaps-between-hiring-and-onboarding/",
+        "provider": "company_website",
+        "api_url": "https://challenges.cloudflare.com/turnstile/v0/api.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T10:15:45+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -36448,6 +36464,44 @@
     }
   },
   {
+    "name": "Invincible App Developers",
+    "city": "Ranchi",
+    "region": "Jharkhand",
+    "country": "India",
+    "address": "Birsa Chowk,Prakash Nagar, Ranchi, 834002",
+    "lat": 23.3265541,
+    "lng": 85.30711,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4254523874"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ranchi",
+        "addr:postcode": "834002",
+        "addr:street": "Birsa Chowk,Prakash Nagar",
+        "name": "Invincible App Developers",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Codeleven",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -43177,6 +43231,71 @@
         "addr:street": "Blue Ridge Road, Phase 1",
         "building": "college",
         "name": "Symbiosis Centre for Information Technology"
+      }
+    }
+  },
+  {
+    "name": "Cloud SEO \"Best Digital Marketing Agency in Ranchi\"",
+    "city": "Ranchi",
+    "region": "Jharkhand",
+    "country": "India",
+    "address": "",
+    "lat": 23.3808905,
+    "lng": 85.3274055,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12573462405"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: cloud, digital",
+    "raw": {
+      "osm_tags": {
+        "name": "Cloud SEO \"Best Digital Marketing Agency in Ranchi\""
+      }
+    }
+  },
+  {
+    "name": "Yaseer Innovative Software Private Limited",
+    "city": "Ranchi",
+    "region": "Jharkhand",
+    "country": "India",
+    "address": "",
+    "lat": 23.3452652,
+    "lng": 85.3273071,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9666838085"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "name": "Yaseer Innovative Software Private Limited",
+        "name:en": "Yaseer Innovative Software Private Limited"
       }
     }
   },
@@ -63307,6 +63426,39 @@
       "osm_tags": {
         "name": "DIGITAL COMPUTER CENTRE (DCC)",
         "telecom": "data_center"
+      }
+    }
+  },
+  {
+    "name": "computer solutions",
+    "city": "Ranchi",
+    "region": "Jharkhand",
+    "country": "India",
+    "address": "",
+    "lat": 23.3778508,
+    "lng": 85.3329036,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:352724953"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "area": "yes",
+        "name": "computer solutions"
       }
     }
   },
