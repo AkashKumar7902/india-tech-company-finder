@@ -3043,7 +3043,14 @@
         "confidence": "medium",
         "checked_at": "2026-06-12T20:57:30+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -5705,7 +5712,14 @@
         "name": "IBS Software Services Registered Office",
         "office": "it",
         "opening_hours": "08:30-17:30"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9931,7 +9945,14 @@
         "building": "yes",
         "name": "aquila technologies",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9966,7 +9987,14 @@
       "osm_tags": {
         "name": "Ergonomics Communication and Information Technologies (P) Ltd",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -10019,7 +10047,14 @@
         "shortest_name": "KSITM",
         "website": "https://itmission.kerala.gov.in/",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11966,7 +12001,14 @@
         "name": "Ideology Software Technologies Pvt Ltd",
         "name:en": "Ideology Software Technologies Pvt Ltd",
         "name:ml": "ഐഡിയോളജി സോഫ്റ്റ്‌വെയർ ടെക്നോളജീസ് പ്രൈവറ്റ് ലിമിറ്റഡ്"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13139,7 +13181,14 @@
       "osm_tags": {
         "name": "B S S Information Technology Mission",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13174,7 +13223,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "Kerala State Information Technology Mission (PMU)"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13209,7 +13265,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "Star One Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -14393,7 +14456,14 @@
       "osm_tags": {
         "name": "Paranoia Systems International Pvt. Ltd. (PSI Pvt. Ltd.)",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -16046,7 +16116,14 @@
         "shop": "computer",
         "toilets": "yes",
         "website": "https://pcland.co.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -16089,7 +16166,14 @@
         "opening_hours": "Mo-Fr 09:00-17:00",
         "phone": "+91-9447028012",
         "website": "https://wiktait.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -19043,9 +19127,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-13T20:40:06+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.mpowerglobal.com/jobs: HTTPError; https://www.mpowerglobal.com/jobs/: HTTPError; https://www.mpowerglobal.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "building=office"
@@ -19073,7 +19157,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-13T20:40:06+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.mpowerglobal.com/jobs: HTTPError; https://www.mpowerglobal.com/jobs/: HTTPError; https://www.mpowerglobal.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -19392,12 +19484,12 @@
     "lng": 77.4925829,
     "website": "https://webbirth.in/",
     "phone": "+91 9535135278",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://webbirth.in/careers.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.google.com/recaptcha/api.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T20:40:08+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -19429,7 +19521,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://webbirth.in/careers.html",
+        "provider": "company_website",
+        "api_url": "https://www.google.com/recaptcha/api.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T20:40:08+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -23615,7 +23715,14 @@
         "opening_hours": "Mo-Sa 09:30-18:00",
         "phone": "+91-4712437476",
         "website": "https://genilok.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -25996,7 +26103,14 @@
         "wheelchair": "yes",
         "wikidata": "Q5969548",
         "wikipedia": "en:ICFOSS"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -30522,7 +30636,14 @@
         "level": "3",
         "name": "IGDS Technologies Pvt Ltd",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41262,7 +41383,14 @@
       "osm_tags": {
         "name": "Codeleven",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41302,7 +41430,14 @@
         "building": "yes",
         "name": "Gayatri Building",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41339,6 +41474,52 @@
         "building": "yes",
         "name": "geekboz, the tech store",
         "office": "it"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
+    }
+  },
+  {
+    "name": "GPS Renewables",
+    "city": "Thiruvananthapuram",
+    "region": "Kerala",
+    "country": "India",
+    "address": "",
+    "lat": 8.5230051,
+    "lng": 76.955841,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13919146791"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "GPS Renewables",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-17:30",
+        "smoking": "no",
+        "wheelchair": "yes"
       }
     }
   },
@@ -41384,7 +41565,14 @@
         "website": "https://www.iiitmk.ac.in/",
         "wikidata": "Q6020620",
         "wikipedia": "en:Indian Institute of Information Technology and Management, Kerala"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41420,7 +41608,14 @@
         "landuse": "commercial",
         "name": "Infosys Limited",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41462,7 +41657,12 @@
         "office": "it"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41501,7 +41701,14 @@
         "name": "Infosys SDB4",
         "name:ml": "ഇൻഫോസിസ് എസ്ഡിബി4",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41539,7 +41746,12 @@
         "website": "https://www.nijolawrence.com"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41580,7 +41792,14 @@
         "building": "yes",
         "name": "Quest Towers",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41619,7 +41838,14 @@
         "addr:street": "Technopark Back Gate Road",
         "name": "Sherston Softwares",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41655,7 +41881,14 @@
         "landuse": "commercial",
         "name": "Tata Consultancy Services - Peepul Park",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41691,7 +41924,14 @@
         "name": "Technoview",
         "name:ml": "ടെക്നോവ്യൂ",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41729,7 +41969,14 @@
         "name": "UST Global Campus, Trivandrum",
         "office": "it",
         "opening_hours": "24/7"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41770,7 +42017,14 @@
         "name": "UST Trivandrum",
         "nohousenumber": "yes",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41805,7 +42059,14 @@
       "osm_tags": {
         "name": "Vetturoad E-Seva Centre",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41840,7 +42101,14 @@
       "osm_tags": {
         "name": "Volks Electronics Development Centre",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48714,7 +48982,12 @@
         "oneway": "yes"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -51541,7 +51814,14 @@
         "description": "5th Floor, Yamuna Building\nTechnopark Phase III Campus, Trivandrum\nKerala, India-695581",
         "name": "Livares Technologies Pvt Ltd",
         "website": "https://livares.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -51582,7 +51862,12 @@
         "website": "https://kstmuseum.com/"
       },
       "google_queries": [],
-      "google_types": []
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -54060,7 +54345,14 @@
         "name": "Gloria Systems",
         "phone": "+91-471-2555623",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68614,7 +68906,14 @@
       "osm_tags": {
         "name": "Addon Technologies",
         "shop": "printer_ink"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68656,7 +68955,14 @@
         "name": "Captronic Systems Pvt Ltd",
         "shop": "computer",
         "source": "microsoft/BuildingFootprints"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68691,7 +68997,14 @@
       "osm_tags": {
         "building": "commercial",
         "name": "CDNS Technology India Pvt Ltd ( Apple Authorized Reseller )"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68726,7 +69039,14 @@
       "osm_tags": {
         "name": "Council for Science Technology and Environment",
         "office": "government"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68761,7 +69081,14 @@
       "osm_tags": {
         "name": "Department of Bio Technology",
         "office": "educational_institution"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68798,7 +69125,14 @@
         "building": "yes",
         "name": "Dnet Systems",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68833,7 +69167,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "Fakeeh technologies pvt"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68868,7 +69209,14 @@
       "osm_tags": {
         "building": "commercial",
         "name": "KM Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68903,7 +69251,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "MohandasCollege of Engineering and Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68938,7 +69293,14 @@
       "osm_tags": {
         "building": "yes",
         "name": "Oval Blue Office Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68973,7 +69335,14 @@
       "osm_tags": {
         "name": "Prompt Systems",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -69008,7 +69377,14 @@
       "osm_tags": {
         "name": "Silicon Systems and Services",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -69045,7 +69421,14 @@
         "building": "yes",
         "name": "Virtus Innovative Solutions Private Limited",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76858,7 +77241,14 @@
         "office": "ngo",
         "short_name": "CDF",
         "website": "https://citizendigitalfoundation.org"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76904,7 +77294,14 @@
         "office": "ngo",
         "website": "https://indicarchive.org",
         "wikidata": "Q138387058"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
