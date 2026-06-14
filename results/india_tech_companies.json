@@ -8401,7 +8401,14 @@
       "osm_tags": {
         "name": "I innovation technologies",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13337,7 +13344,14 @@
         "addr:postcode": "781014",
         "name": "Department Of Information Technology",
         "office": "educational_institution"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18968,6 +18982,68 @@
     }
   },
   {
+    "name": "Stannik - Best SAP Implementation Partner in Noida & AWS Services Provider",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "A-25, Sector 63 Road, Noida, 201301",
+    "lat": 28.6297777,
+    "lng": 77.381187,
+    "website": "https://www.stannik.in",
+    "phone": "",
+    "careers_url": "https://stannik.in/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://stannik.in/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T17:53:20+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=office",
+      "description=Best SAP Implementation Partner in Noida, We provide SAP & AWS Services."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:351421030"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:district": "Gautam Budh Nagar",
+        "addr:housenumber": "A-25",
+        "addr:postcode": "201301",
+        "addr:street": "Sector 63 Road",
+        "building": "office",
+        "building:levels": "3",
+        "description": "Best SAP Implementation Partner in Noida, We provide SAP & AWS Services.",
+        "name": "Stannik - Best SAP Implementation Partner in Noida & AWS Services Provider",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "website": "https://www.stannik.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://stannik.in/career/",
+        "provider": "company_website",
+        "api_url": "https://stannik.in/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T17:53:20+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Ascent HR Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -19962,7 +20038,14 @@
         "opening_hours": "Mo-Su 09:00-18:00",
         "phone": "+919854910429",
         "website": "https://zoxola.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22281,7 +22364,14 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "phone": "7002054954",
         "website": "https://www.lumenoidstudios.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22335,7 +22425,14 @@
         "confidence": "none",
         "checked_at": "2026-06-13T22:42:31+00:00",
         "notes": "homepage fetch failed: SSLError; https://www.webcomindia.biz/jobs: SSLError; https://www.webcomindia.biz/jobs/: SSLError; https://www.webcomindia.biz/career: SSLError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -26108,68 +26205,6 @@
     }
   },
   {
-    "name": "Stannik - Best SAP Implementation Partner in Noida & AWS Services Provider",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "A-25, Sector 63 Road, Noida, 201301",
-    "lat": 28.6297777,
-    "lng": 77.381187,
-    "website": "https://www.stannik.in",
-    "phone": "",
-    "careers_url": "https://stannik.in/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://stannik.in/career/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T17:53:20+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=office",
-      "description=Best SAP Implementation Partner in Noida, We provide SAP & AWS Services."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:351421030"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida",
-        "addr:district": "Gautam Budh Nagar",
-        "addr:housenumber": "A-25",
-        "addr:postcode": "201301",
-        "addr:street": "Sector 63 Road",
-        "building": "office",
-        "building:levels": "3",
-        "description": "Best SAP Implementation Partner in Noida, We provide SAP & AWS Services.",
-        "name": "Stannik - Best SAP Implementation Partner in Noida & AWS Services Provider",
-        "office": "it",
-        "opening_hours": "Mo-Fr 10:00-18:00",
-        "website": "https://www.stannik.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://stannik.in/career/",
-        "provider": "company_website",
-        "api_url": "https://stannik.in/career/",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T17:53:20+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Codekul.com-Java|Android|Angular|iOS MEAN/Full Stack UI Web Game Python Data Science Classes & Jobs Pune",
     "city": "Pune",
     "region": "Maharashtra",
@@ -26328,9 +26363,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T18:30:38+00:00",
+    "careers_notes": "https://www.p9labs.com/jobs: HTTPError; https://www.p9labs.com/jobs/: HTTPError; https://www.p9labs.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -26360,7 +26395,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T18:30:38+00:00",
+        "notes": "https://www.p9labs.com/jobs: HTTPError; https://www.p9labs.com/jobs/: HTTPError; https://www.p9labs.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -26376,9 +26419,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T18:30:43+00:00",
+    "careers_notes": "https://www.amindeveloper.com/jobs: HTTPError; https://www.amindeveloper.com/jobs/: HTTPError; https://www.amindeveloper.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -26409,7 +26452,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T18:30:43+00:00",
+        "notes": "https://www.amindeveloper.com/jobs: HTTPError; https://www.amindeveloper.com/jobs/: HTTPError; https://www.amindeveloper.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -44069,7 +44120,14 @@
       "osm_tags": {
         "name": "Continental Infotech",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -44104,7 +44162,14 @@
       "osm_tags": {
         "name": "HTS COMPUTER & TECHNOLOGY",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -44139,7 +44204,14 @@
       "osm_tags": {
         "name": "MGS Technologies",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -44174,7 +44246,14 @@
       "osm_tags": {
         "name": "RM Infotech",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52079,7 +52158,14 @@
         "name": "Insitute of Advanced Study in Science and Technology",
         "short_name": "IASST",
         "website": "https://iasst.gov.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -53841,7 +53927,14 @@
       "osm_tags": {
         "name": "Saas Babu",
         "shop": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62540,7 +62633,14 @@
       "osm_tags": {
         "name": "advance infotech",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62578,7 +62678,14 @@
         "name": "Assam Science and Technology University",
         "name:bn": "অসম বিজ্ঞান আৰু প্ৰযুক্তিবিদ্যা বিশ্ববিদ্যালয়",
         "wikidata": "Q19456923"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62614,7 +62721,14 @@
         "check_date": "2024-05-11",
         "name": "Dee Tee Infotech",
         "office": "consulting"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62649,7 +62763,14 @@
       "osm_tags": {
         "name": "Elevate Technology",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62684,7 +62805,14 @@
       "osm_tags": {
         "name": "J.D. Infotech",
         "shop": "repair"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62719,7 +62847,14 @@
       "osm_tags": {
         "name": "M. STATIONAERY AND INFOTECH",
         "shop": "stationery"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62751,7 +62886,14 @@
     "raw": {
       "osm_tags": {
         "name": "Ragvik technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -62786,7 +62928,14 @@
       "osm_tags": {
         "craft": "electronics_repair",
         "name": "VIMAL INFOTECH"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -73097,7 +73246,14 @@
       "osm_tags": {
         "name": "Starnet Computer and Solutions",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -77349,7 +77505,14 @@
       "osm_tags": {
         "name": "CLOUD 9  UNISEX",
         "shop": "beauty"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
