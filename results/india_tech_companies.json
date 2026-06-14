@@ -826,7 +826,14 @@
         "office": "it",
         "phone": "+91 93602 39309",
         "website": "https://cron24.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18188,6 +18195,128 @@
     }
   },
   {
+    "name": "Technology Innovation and Collaboration Center (TICC)",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Viman Nagar Road, Pune, 411014",
+    "lat": 18.5661394,
+    "lng": 73.9179113,
+    "website": "bajajfinserv.in",
+    "phone": "",
+    "careers_url": "https://www.bajajfinserv.in/",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-14T13:10:04+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11001450613"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411014",
+        "addr:street": "Viman Nagar Road",
+        "alt_name": "TICC",
+        "name": "Technology Innovation and Collaboration Center (TICC)",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "website": "bajajfinserv.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.bajajfinserv.in/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-14T13:10:04+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "TomTom",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "206 A/1, Pl no-88/4, Nagar Road, Pune, 411006",
+    "lat": 18.5538654,
+    "lng": 73.9039057,
+    "website": "https://www.tomtom.com/careers/offices/pune/",
+    "phone": "",
+    "careers_url": "https://www.tomtom.com/careers/offices/pune/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.tomtom.com/careers/offices/pune/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T13:10:08+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "description=We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9239602961"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:floor": "3",
+        "addr:housename": "Shanti One",
+        "addr:housenumber": "206 A/1, Pl no-88/4",
+        "addr:postcode": "411006",
+        "addr:street": "Nagar Road",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144",
+        "check_date": "2026-03-14",
+        "description": "We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers.",
+        "image": "https://a.storyblok.com/f/178460/2500x2500/7ce22c98fd/pune_office_card_600x600px.jpg",
+        "level": "3",
+        "name": "TomTom",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "operator": "TomTom India Pvt Ltd",
+        "website": "https://www.tomtom.com/careers/offices/pune/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.tomtom.com/careers/offices/pune/",
+        "provider": "company_website",
+        "api_url": "https://www.tomtom.com/careers/offices/pune/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T13:10:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "aviva software pvt.ltd",
     "city": "Raipur",
     "region": "Chhattisgarh",
@@ -24481,128 +24610,6 @@
     }
   },
   {
-    "name": "Technology Innovation and Collaboration Center (TICC)",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Viman Nagar Road, Pune, 411014",
-    "lat": 18.5661394,
-    "lng": 73.9179113,
-    "website": "bajajfinserv.in",
-    "phone": "",
-    "careers_url": "https://www.bajajfinserv.in/",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-14T13:10:04+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11001450613"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:postcode": "411014",
-        "addr:street": "Viman Nagar Road",
-        "alt_name": "TICC",
-        "name": "Technology Innovation and Collaboration Center (TICC)",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-19:00",
-        "website": "bajajfinserv.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.bajajfinserv.in/",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-14T13:10:04+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "TomTom",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "206 A/1, Pl no-88/4, Nagar Road, Pune, 411006",
-    "lat": 18.5538654,
-    "lng": 73.9039057,
-    "website": "https://www.tomtom.com/careers/offices/pune/",
-    "phone": "",
-    "careers_url": "https://www.tomtom.com/careers/offices/pune/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.tomtom.com/careers/offices/pune/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T13:10:08+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "description=We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9239602961"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:floor": "3",
-        "addr:housename": "Shanti One",
-        "addr:housenumber": "206 A/1, Pl no-88/4",
-        "addr:postcode": "411006",
-        "addr:street": "Nagar Road",
-        "brand": "TomTom",
-        "brand:wikidata": "Q682144",
-        "check_date": "2026-03-14",
-        "description": "We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers.",
-        "image": "https://a.storyblok.com/f/178460/2500x2500/7ce22c98fd/pune_office_card_600x600px.jpg",
-        "level": "3",
-        "name": "TomTom",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "operator": "TomTom India Pvt Ltd",
-        "website": "https://www.tomtom.com/careers/offices/pune/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.tomtom.com/careers/offices/pune/",
-        "provider": "company_website",
-        "api_url": "https://www.tomtom.com/careers/offices/pune/",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T13:10:08+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Genilok computer solutions pvt ltd",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -24750,12 +24757,12 @@
     "lng": 77.6311838,
     "website": "https://cleartax.in",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.clear.in/s/careers?utm_ref=undefined_pages_navbar",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://www.clear.in/s/careers",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-14T13:54:26+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=it"
     ],
@@ -24781,7 +24788,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.clear.in/s/careers?utm_ref=undefined_pages_navbar",
+        "provider": "darwinbox",
+        "api_url": "https://www.clear.in/s/careers",
+        "confidence": "high",
+        "checked_at": "2026-06-14T13:54:26+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -24797,9 +24812,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T13:54:28+00:00",
+    "careers_notes": "homepage fetch failed: ReadTimeout; https://www.codemancers.com/jobs: ReadTimeout; https://www.codemancers.com/jobs/: ReadTimeout; https://www.codemancers.com/career: ReadTimeout; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -24829,7 +24844,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T13:54:28+00:00",
+        "notes": "homepage fetch failed: ReadTimeout; https://www.codemancers.com/jobs: ReadTimeout; https://www.codemancers.com/jobs/: ReadTimeout; https://www.codemancers.com/career: ReadTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -31098,7 +31121,14 @@
       "osm_tags": {
         "landuse": "industrial",
         "name": "Honeywell Technology Solutions"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49648,7 +49678,14 @@
         "building": "college",
         "building:levels": "3",
         "name": "Department of Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66873,7 +66910,14 @@
         "addr:postcode": "625007",
         "addr:street": "Narmadha street",
         "name": "CA Infotech India Private Limited"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -75036,7 +75080,14 @@
         "opening_hours": "Mo-Sa 10:00-20:00",
         "phone": "0452 234 5885",
         "website": "https://www.bajajcapital.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
