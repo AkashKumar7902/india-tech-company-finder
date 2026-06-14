@@ -27463,6 +27463,60 @@
     }
   },
   {
+    "name": "BETA CAE Systems India Pvt. Ltd. (Hyderabad Office)",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "500033",
+    "lat": 17.4305019,
+    "lng": 78.4081313,
+    "website": "https://www.beta-cae.com/",
+    "phone": "+918066493400",
+    "careers_url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-14T22:53:54+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11578362769"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "500033",
+        "email": "info@beta-cae.in",
+        "name": "BETA CAE Systems India Pvt. Ltd. (Hyderabad Office)",
+        "office": "company",
+        "phone": "+918066493400",
+        "website": "https://www.beta-cae.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+        "provider": "workday",
+        "api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-14T22:53:54+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Swecha Office",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -27722,6 +27776,66 @@
         "contact:phone": "+91 484 230 3988;+91 484 401 3188;+91 484401399",
         "name": "Smartsoft",
         "office": "it"
+      }
+    }
+  },
+  {
+    "name": "Persistent Systems Limited",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Plot 8-9, Gargi-Maitreyi, Persistent Building, IT Park Road, Gayatri nagar, Nagpur, 440022",
+    "lat": 21.1214069,
+    "lng": 79.0473067,
+    "website": "https://www.persistent.com/",
+    "phone": "+91 712 669 2000",
+    "careers_url": "https://careers.persistent.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T22:53:58+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1300842467"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:district": "Nagpur",
+        "addr:housenumber": "Plot 8-9, Gargi-Maitreyi",
+        "addr:postcode": "440022",
+        "addr:street": "Persistent Building, IT Park Road, Gayatri nagar",
+        "building": "yes",
+        "name": "Persistent Systems Limited",
+        "office": "company",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "phone": "+91 712 669 2000",
+        "website": "https://www.persistent.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.persistent.com/",
+        "provider": "company_website",
+        "api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T22:53:58+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -46106,120 +46220,6 @@
     }
   },
   {
-    "name": "BETA CAE Systems India Pvt. Ltd. (Hyderabad Office)",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "500033",
-    "lat": 17.4305019,
-    "lng": 78.4081313,
-    "website": "https://www.beta-cae.com/",
-    "phone": "+918066493400",
-    "careers_url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
-    "careers_provider": "workday",
-    "careers_api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-14T22:53:54+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11578362769"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "500033",
-        "email": "info@beta-cae.in",
-        "name": "BETA CAE Systems India Pvt. Ltd. (Hyderabad Office)",
-        "office": "company",
-        "phone": "+918066493400",
-        "website": "https://www.beta-cae.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
-        "provider": "workday",
-        "api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
-        "confidence": "high",
-        "checked_at": "2026-06-14T22:53:54+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
-    "name": "Persistent Systems Limited",
-    "city": "Nagpur",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Plot 8-9, Gargi-Maitreyi, Persistent Building, IT Park Road, Gayatri nagar, Nagpur, 440022",
-    "lat": 21.1214069,
-    "lng": 79.0473067,
-    "website": "https://www.persistent.com/",
-    "phone": "+91 712 669 2000",
-    "careers_url": "https://careers.persistent.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T22:53:58+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1300842467"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Nagpur",
-        "addr:district": "Nagpur",
-        "addr:housenumber": "Plot 8-9, Gargi-Maitreyi",
-        "addr:postcode": "440022",
-        "addr:street": "Persistent Building, IT Park Road, Gayatri nagar",
-        "building": "yes",
-        "name": "Persistent Systems Limited",
-        "office": "company",
-        "opening_hours": "Mo-Fr 08:00-20:00",
-        "phone": "+91 712 669 2000",
-        "website": "https://www.persistent.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://careers.persistent.com/",
-        "provider": "company_website",
-        "api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T22:53:58+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Agni Solar Systems Pvt Ltd",
     "city": "Pune",
     "region": "Maharashtra",
@@ -46516,12 +46516,12 @@
     "lng": 72.5030927,
     "website": "https://www.sauberenv.com/",
     "phone": "7948003327",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.sauberenv.com/career.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://sauberenv.com/career.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T23:28:53+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -46556,7 +46556,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sauberenv.com/career.html",
+        "provider": "company_website",
+        "api_url": "https://sauberenv.com/career.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T23:28:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -46572,9 +46580,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T23:28:57+00:00",
+    "careers_notes": "https://brooksrunningindia.com/jobs: HTTPError; https://brooksrunningindia.com/jobs/: HTTPError; https://brooksrunningindia.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=sports",
       "description=Brooks designs and markets running-specific performance footwear, apparel, and accessories in more than 60 countries worldwide. The number is increasing step by step with the latest technology and comfort with which the shoes are crafted. Brooks’ mission"
@@ -46622,7 +46630,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T23:28:57+00:00",
+        "notes": "https://brooksrunningindia.com/jobs: HTTPError; https://brooksrunningindia.com/jobs/: HTTPError; https://brooksrunningindia.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
