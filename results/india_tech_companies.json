@@ -17356,6 +17356,110 @@
     }
   },
   {
+    "name": "Brillio Technologies Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "4th Floor of Bren Optimus No 8/2, Dr.M.H Marigowda Road, Bangalore – 560029",
+    "lat": 12.9368197,
+    "lng": 77.6068343,
+    "website": "https://www.brillio.com/",
+    "phone": "",
+    "careers_url": "https://www.brillio.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.brillio.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T04:01:42+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12082405660"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "4th Floor of Bren Optimus No 8/2, Dr.M.H Marigowda Road, Bangalore – 560029",
+        "name": "Brillio Technologies Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "https://www.brillio.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.brillio.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.brillio.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T04:01:42+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "eAge technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9743317,
+    "lng": 77.6398645,
+    "website": "https://www.eageit.com/",
+    "phone": "",
+    "careers_url": "https://www.eageit.com/careers.php",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://34.93.111.64/api/uploadfile.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T04:01:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9288049788"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "eAge technologies",
+        "office": "company",
+        "website": "https://www.eageit.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.eageit.com/careers.php",
+        "provider": "company_website",
+        "api_url": "http://34.93.111.64/api/uploadfile.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T04:01:46+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Keystride Labs Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -22777,110 +22881,6 @@
     }
   },
   {
-    "name": "Brillio Technologies Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "4th Floor of Bren Optimus No 8/2, Dr.M.H Marigowda Road, Bangalore – 560029",
-    "lat": 12.9368197,
-    "lng": 77.6068343,
-    "website": "https://www.brillio.com/",
-    "phone": "",
-    "careers_url": "https://www.brillio.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.brillio.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T04:01:42+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12082405660"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:street": "4th Floor of Bren Optimus No 8/2, Dr.M.H Marigowda Road, Bangalore – 560029",
-        "name": "Brillio Technologies Pvt Ltd",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "website": "https://www.brillio.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.brillio.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.brillio.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T04:01:42+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "eAge technologies",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "",
-    "lat": 12.9743317,
-    "lng": 77.6398645,
-    "website": "https://www.eageit.com/",
-    "phone": "",
-    "careers_url": "https://www.eageit.com/careers.php",
-    "careers_provider": "company_website",
-    "careers_api_url": "http://34.93.111.64/api/uploadfile.php",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T04:01:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9288049788"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "name": "eAge technologies",
-        "office": "company",
-        "website": "https://www.eageit.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.eageit.com/careers.php",
-        "provider": "company_website",
-        "api_url": "http://34.93.111.64/api/uploadfile.php",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T04:01:46+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Enfireix Technologies Pvt Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -22988,9 +22988,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T05:46:57+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://inkoniq.com/jobs: SSLError; https://inkoniq.com/jobs/: SSLError; https://inkoniq.com/career: SSLError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -23025,7 +23025,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T05:46:57+00:00",
+        "notes": "homepage fetch failed: SSLError; https://inkoniq.com/jobs: SSLError; https://inkoniq.com/jobs/: SSLError; https://inkoniq.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -23038,12 +23046,12 @@
     "lng": 77.6326812,
     "website": "https://www.instamojo.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://recruiterflow.com/instamojo/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://recruiterflow.com/api/careers/social/image?for=facebook&amp;company=instamojo",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T05:46:59+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -23074,7 +23082,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://recruiterflow.com/instamojo/jobs",
+        "provider": "company_website",
+        "api_url": "https://recruiterflow.com/api/careers/social/image?for=facebook&amp;company=instamojo",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T05:46:59+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
