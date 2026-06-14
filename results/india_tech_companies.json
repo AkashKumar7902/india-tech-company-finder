@@ -2470,7 +2470,14 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "phone": "9334493507",
         "website": "https://rspatna.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -20506,7 +20513,14 @@
         "confidence": "none",
         "checked_at": "2026-06-13T18:49:43+00:00",
         "notes": "https://perveniredigital.com/jobs: HTTPError; https://perveniredigital.com/jobs/: HTTPError; https://perveniredigital.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -20545,7 +20559,14 @@
         "office": "company",
         "phone": "+91 6122320061",
         "website": "http://www.sifycorp.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -26938,9 +26959,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T19:03:50+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.swecha.org/jobs: HTTPError; https://www.swecha.org/jobs/: HTTPError; https://www.swecha.org/career: HTTPError; no careers page detected",
     "categories": [
       "office=ngo",
       "description=స్వేచ్ఛా సాఫ్ట్‌వేర్‌ ఉద్యమం వ్యాప్తికై పని చేస్తున్న లాభాపేక్ష లేని సంస్థ. Nonprofit organization working to build free software movement in Telugu states."
@@ -26982,7 +27003,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T19:03:50+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.swecha.org/jobs: HTTPError; https://www.swecha.org/jobs/: HTTPError; https://www.swecha.org/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -26998,9 +27027,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T19:03:52+00:00",
+    "careers_notes": "http://concorderp.com/jobs: HTTPError; http://concorderp.com/jobs/: HTTPError; http://concorderp.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=yes"
     ],
@@ -27031,7 +27060,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T19:03:52+00:00",
+        "notes": "http://concorderp.com/jobs: HTTPError; http://concorderp.com/jobs/: HTTPError; http://concorderp.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -53306,7 +53343,14 @@
         "office": "company",
         "source": "https://drive.google.com/file/d/1OMfSEWWgrukEEv5oIFxBa4QCHPGFbqqf/view",
         "website": "https://www.tcsion.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -53345,7 +53389,14 @@
         "name:hi": "टेक्नोलोजी भवन",
         "office": "government",
         "website": "http://dst.bih.nic.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -73749,7 +73800,14 @@
       "osm_tags": {
         "name": "DIGITAL COMPUTER CENTRE (DCC)",
         "telecom": "data_center"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
