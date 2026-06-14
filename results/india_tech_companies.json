@@ -26785,6 +26785,118 @@
     }
   },
   {
+    "name": "Accel IT Services",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "A-61/1, 110020",
+    "lat": 28.5396614,
+    "lng": 77.2697139,
+    "website": "http://accelits.com",
+    "phone": "+91 11 4657 5100;+91 11 4657 5113",
+    "careers_url": "https://accelits.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://accelits.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T21:19:58+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "craft=electronics_repair",
+      "description=Authorised service centre for Logitech and Toshiba"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5655284936"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: it services",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "A-61/1",
+        "addr:place": "Okhla Industrial Area Phase 2",
+        "addr:postcode": "110020",
+        "brand": "Logitech;Omron",
+        "contact:phone": "+91 11 4657 5100;+91 11 4657 5113",
+        "contact:website": "http://accelits.com",
+        "craft": "electronics_repair",
+        "description": "Authorised service centre for Logitech and Toshiba",
+        "level": "0",
+        "name": "Accel IT Services",
+        "opening_hours": "Mo-Fr 09:30-17:30, Sa 09:30-13:00",
+        "wheelchair": "no"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://accelits.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://accelits.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T21:19:58+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Cyfuture India Pvt Ltd",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5390893,
+    "lng": 77.3996504,
+    "website": "https://cyfuture.com",
+    "phone": "",
+    "careers_url": "https://cyfuture.com/careers.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cyfuture.com/careers.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T21:20:08+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Cyfuture Specializes in Business Process Outsourcing (BPO) Services, Setting up Data Centers, Provides Enterprise Cloud Storage and Cloud Hosting Solutions, Chatbot Service."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12041521778"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: cloud, solutions",
+    "raw": {
+      "osm_tags": {
+        "description": "Cyfuture Specializes in Business Process Outsourcing (BPO) Services, Setting up Data Centers, Provides Enterprise Cloud Storage and Cloud Hosting Solutions, Chatbot Service.",
+        "name": "Cyfuture India Pvt Ltd",
+        "website": "https://cyfuture.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://cyfuture.com/careers.html",
+        "provider": "company_website",
+        "api_url": "https://cyfuture.com/careers.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T21:20:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ARM Embedded Technologies Private Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -41507,67 +41619,6 @@
     }
   },
   {
-    "name": "Accel IT Services",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "A-61/1, 110020",
-    "lat": 28.5396614,
-    "lng": 77.2697139,
-    "website": "http://accelits.com",
-    "phone": "+91 11 4657 5100;+91 11 4657 5113",
-    "careers_url": "https://accelits.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://accelits.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T21:19:58+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "craft=electronics_repair",
-      "description=Authorised service centre for Logitech and Toshiba"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5655284936"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: it services",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "A-61/1",
-        "addr:place": "Okhla Industrial Area Phase 2",
-        "addr:postcode": "110020",
-        "brand": "Logitech;Omron",
-        "contact:phone": "+91 11 4657 5100;+91 11 4657 5113",
-        "contact:website": "http://accelits.com",
-        "craft": "electronics_repair",
-        "description": "Authorised service centre for Logitech and Toshiba",
-        "level": "0",
-        "name": "Accel IT Services",
-        "opening_hours": "Mo-Fr 09:30-17:30, Sa 09:30-13:00",
-        "wheelchair": "no"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://accelits.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://accelits.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T21:19:58+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Arohan infocare Private Limited\nआरोहण इन्फोकेयर प्राइवेट लिमिटेड",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -41610,57 +41661,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Cyfuture India Pvt Ltd",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "",
-    "lat": 28.5390893,
-    "lng": 77.3996504,
-    "website": "https://cyfuture.com",
-    "phone": "",
-    "careers_url": "https://cyfuture.com/careers.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://cyfuture.com/careers.html",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T21:20:08+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Cyfuture Specializes in Business Process Outsourcing (BPO) Services, Setting up Data Centers, Provides Enterprise Cloud Storage and Cloud Hosting Solutions, Chatbot Service."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12041521778"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: cloud, solutions",
-    "raw": {
-      "osm_tags": {
-        "description": "Cyfuture Specializes in Business Process Outsourcing (BPO) Services, Setting up Data Centers, Provides Enterprise Cloud Storage and Cloud Hosting Solutions, Chatbot Service.",
-        "name": "Cyfuture India Pvt Ltd",
-        "website": "https://cyfuture.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://cyfuture.com/careers.html",
-        "provider": "company_website",
-        "api_url": "https://cyfuture.com/careers.html",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T21:20:08+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -43358,9 +43358,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T21:52:37+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.nijolawrence.com/jobs: HTTPError; https://www.nijolawrence.com/jobs/: HTTPError; https://www.nijolawrence.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=Software Engineer, Drupal Developer"
     ],
@@ -43385,7 +43385,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T21:52:37+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.nijolawrence.com/jobs: HTTPError; https://www.nijolawrence.com/jobs/: HTTPError; https://www.nijolawrence.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -43758,9 +43766,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T21:52:38+00:00",
+    "careers_notes": "https://sa-link.blogspot.com/jobs: HTTPError; https://sa-link.blogspot.com/jobs/: HTTPError; https://sa-link.blogspot.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -43787,7 +43795,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T21:52:38+00:00",
+        "notes": "https://sa-link.blogspot.com/jobs: HTTPError; https://sa-link.blogspot.com/jobs/: HTTPError; https://sa-link.blogspot.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
