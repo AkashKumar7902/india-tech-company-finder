@@ -18751,6 +18751,54 @@
     }
   },
   {
+    "name": "Aabasoft",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Seaport Airport Road, Chittethukara",
+    "lat": 9.9946969,
+    "lng": 76.3520125,
+    "website": "https://www.aabasoft.com/",
+    "phone": "",
+    "careers_url": "https://www.aabasoft.com/in-en/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.aabasoft.com/in-en/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T16:44:32+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7462694483"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chittethukara",
+        "addr:district": "Ernakulam",
+        "addr:street": "Seaport Airport Road",
+        "air_conditioning": "yes",
+        "name": "Aabasoft",
+        "office": "it",
+        "website": "https://www.aabasoft.com/"
+      },
+      "careers": {
+        "url": "https://www.aabasoft.com/in-en/career/",
+        "provider": "company_website",
+        "api_url": "https://www.aabasoft.com/in-en/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T16:44:32+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Aris Global Software Pvt Ltd.",
     "city": "Mysuru",
     "region": "Karnataka",
@@ -20380,7 +20428,14 @@
         "designation": "Software firm",
         "name": "eth1 Network Solutions",
         "name:kn": "ಇತ್೧ ನೆಟ್ವರ್ಕ್ ಸೊಲುಶನ್ಸ್"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -25757,54 +25812,6 @@
     }
   },
   {
-    "name": "Aabasoft",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "Seaport Airport Road, Chittethukara",
-    "lat": 9.9946969,
-    "lng": 76.3520125,
-    "website": "https://www.aabasoft.com/",
-    "phone": "",
-    "careers_url": "https://www.aabasoft.com/in-en/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.aabasoft.com/in-en/career/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T16:44:32+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7462694483"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chittethukara",
-        "addr:district": "Ernakulam",
-        "addr:street": "Seaport Airport Road",
-        "air_conditioning": "yes",
-        "name": "Aabasoft",
-        "office": "it",
-        "website": "https://www.aabasoft.com/"
-      },
-      "careers": {
-        "url": "https://www.aabasoft.com/in-en/career/",
-        "provider": "company_website",
-        "api_url": "https://www.aabasoft.com/in-en/career/",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T16:44:32+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "ITES Habitat Centre",
     "city": "Kochi",
     "region": "Kerala",
@@ -25892,12 +25899,12 @@
     "lng": 88.431377,
     "website": "https://www.beasconsultancy.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.beasconsultancy.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.beasconsultancy.com/><title>Careers at BEAS Consultancy | IT Jobs &amp; Opportunities</title><meta name=",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T17:17:03+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -25927,7 +25934,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.beasconsultancy.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.beasconsultancy.com/><title>Careers at BEAS Consultancy | IT Jobs &amp; Opportunities</title><meta name=",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T17:17:03+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -25940,12 +25955,12 @@
     "lng": 72.8812603,
     "website": "https://www.idfy.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.idfy.com/careers/",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-14T17:17:10+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -25966,7 +25981,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.idfy.com/careers/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-14T17:17:10+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
