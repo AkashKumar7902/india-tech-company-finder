@@ -2655,7 +2655,14 @@
         "addr:street": "Bombay Truck Terminus",
         "name": "Ion Digital Zone I",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -9636,7 +9643,14 @@
         "building": "yes",
         "name": "STPI Infotech Tower",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -11858,7 +11872,14 @@
         "designation": "Software Company",
         "name": "Precision E-Technologies Private Limited",
         "source": "ADCC Infocad Limited"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13289,7 +13310,14 @@
     "raw": {
       "osm_tags": {
         "name": "Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -17173,6 +17201,61 @@
         "name": "Ideamine Technologies Pvt Ltd",
         "note": "IT, Computer related, Server Management",
         "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Capco Wipro",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "4, HK Bhaba Road, Mumbai, 400050",
+    "lat": 19.0490411,
+    "lng": 72.8210121,
+    "website": "https://www.capco.com/",
+    "phone": "+91 022 7197 7562",
+    "careers_url": "https://www.capco.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.capco.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T00:15:15+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:356284814"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai",
+        "addr:housenumber": "4",
+        "addr:postcode": "400050",
+        "addr:street": "HK Bhaba Road",
+        "building": "commercial",
+        "name": "Capco Wipro",
+        "name:en": "Capco Wipro",
+        "office": "it",
+        "phone": "+91 022 7197 7562",
+        "website": "https://www.capco.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.capco.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.capco.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T00:15:15+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -21747,61 +21830,6 @@
     }
   },
   {
-    "name": "Capco Wipro",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "4, HK Bhaba Road, Mumbai, 400050",
-    "lat": 19.0490411,
-    "lng": 72.8210121,
-    "website": "https://www.capco.com/",
-    "phone": "+91 022 7197 7562",
-    "careers_url": "https://www.capco.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.capco.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T00:15:15+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:356284814"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mumbai",
-        "addr:housenumber": "4",
-        "addr:postcode": "400050",
-        "addr:street": "HK Bhaba Road",
-        "building": "commercial",
-        "name": "Capco Wipro",
-        "name:en": "Capco Wipro",
-        "office": "it",
-        "phone": "+91 022 7197 7562",
-        "website": "https://www.capco.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "careers": {
-        "url": "https://www.capco.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.capco.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T00:15:15+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Edifycode",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -21997,9 +22025,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T01:31:10+00:00",
+    "careers_notes": "https://meentosys.com/jobs: TooManyRedirects; https://meentosys.com/jobs/: TooManyRedirects; https://meentosys.com/career: TooManyRedirects; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -22040,7 +22068,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T01:31:10+00:00",
+        "notes": "https://meentosys.com/jobs: TooManyRedirects; https://meentosys.com/jobs/: TooManyRedirects; https://meentosys.com/career: TooManyRedirects; no careers page detected"
+      }
     }
   },
   {
@@ -22056,9 +22092,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T01:31:56+00:00",
+    "careers_notes": "https://weds.guru/jobs: HTTPError; https://weds.guru/jobs/: HTTPError; https://weds.guru/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "building=yes"
@@ -22091,7 +22127,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T01:31:56+00:00",
+        "notes": "https://weds.guru/jobs: HTTPError; https://weds.guru/jobs/: HTTPError; https://weds.guru/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -25416,7 +25460,14 @@
         "name": "Beta computronics pvt ltd",
         "office": "it",
         "website": "betacomp.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -40526,7 +40577,14 @@
         "email": "butler@6simplex.co.in",
         "name": "6Simplex",
         "website": "https://6simplex.co.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -44015,7 +44073,14 @@
     "raw": {
       "osm_tags": {
         "name": "Computer Technology and Electrical"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45059,7 +45124,14 @@
         "opening_hours": "Mo-Fr 08:00-20:00",
         "phone": "+91 712 669 2000",
         "website": "https://www.persistent.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45240,7 +45312,14 @@
         "name": "Kutub Mobile shop",
         "phone": "+918999938838;+919604172637",
         "shop": "mobile_phone"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45282,7 +45361,14 @@
         "phone": "+917030770622",
         "shop": "mobile_phone",
         "youtube": "moblie hub 01;@sohelsheikh7111"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -47548,7 +47634,14 @@
         "opening_hours": "Mo-Sa 08:00-20:00",
         "phone": "+91-9822231642",
         "website": "https://www.elan-tech.net/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49046,7 +49139,14 @@
       "osm_tags": {
         "name": "Central Institute of Information Technology",
         "office": "research"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -55447,7 +55547,14 @@
         "opening_hours": "24/7",
         "phone": "91722 06400",
         "website": "https://kcyberexperts.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67135,7 +67242,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67167,7 +67278,14 @@
     "raw": {
       "osm_tags": {
         "name": "Shri Krishna Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -77732,7 +77850,14 @@
         "building": "office",
         "name": "Ascent Business Solutions",
         "website": "https://ascent-group.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
