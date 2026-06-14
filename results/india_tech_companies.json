@@ -1551,6 +1551,40 @@
     }
   },
   {
+    "name": "Department of Information Technology",
+    "city": "Mangaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 13.0112342,
+    "lng": 74.7922643,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3655381894"
+    },
+    "tech_score": 87.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology, artificial intelligence, labs",
+    "raw": {
+      "osm_tags": {
+        "entrance": "yes",
+        "information": "This is the common building for Electrical and Electronics, Information Technology, and Artificial Intelligence. It has multiple and different kinds of labs for all the three branches.",
+        "name": "Department of Information Technology"
+      }
+    }
+  },
+  {
     "name": "Beelogical Software Solutions",
     "city": "Pune",
     "region": "Maharashtra",
@@ -10759,6 +10793,52 @@
     }
   },
   {
+    "name": "OneCity Technologies Pvt Ltd",
+    "city": "Mangaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "D.No. 16-3-138 / 24, 1st Floor, Mohtisham Emporium Complex, Old Pumpwell Road, Kankanady, Mangalore, 575002",
+    "lat": 12.8676561,
+    "lng": 74.8588179,
+    "website": "https://www.onecity.co.in/",
+    "phone": "+91 9902330233",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=consulting",
+      "description=Website Designing, Web Applications, eCommerce Websites, Ecommerce Business Planning, Dropshipping E-commerce, Social Media Marketing, Digital Marketing, Graphic Designing and more."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7921961777"
+    },
+    "tech_score": 58.0,
+    "confidence": "high",
+    "notes": "matched: technologies, solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mangalore",
+        "addr:housenumber": "D.No. 16-3-138 / 24, 1st Floor",
+        "addr:postcode": "575002",
+        "addr:street": "Mohtisham Emporium Complex, Old Pumpwell Road, Kankanady",
+        "consulting": "marketing;finance;web_designing;digital_marketing;seo;web_development;app_development;iso_certification;trademark_registration;company_registration;branding_solutions;it_solutions",
+        "description": "Website Designing, Web Applications, eCommerce Websites, Ecommerce Business Planning, Dropshipping E-commerce, Social Media Marketing, Digital Marketing, Graphic Designing and more.",
+        "name": "OneCity Technologies Pvt Ltd",
+        "office": "consulting",
+        "opening_hours": "Mo-Sa 09:30-18:00",
+        "phone": "+91 9902330233",
+        "source": "local knowledge;streetlevel imagery;survey",
+        "website": "https://www.onecity.co.in/"
+      }
+    }
+  },
+  {
     "name": "Ambara Software Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -16966,6 +17046,101 @@
     }
   },
   {
+    "name": "Camino Info Tech",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "",
+    "lat": 10.0530474,
+    "lng": 76.3328781,
+    "website": "https://caminoinfotech.com",
+    "phone": "+91 94478 38710",
+    "careers_url": "https://caminoinfotech.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://caminoinfotech.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-13T23:43:12+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9534648247"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Camino Info Tech",
+        "office": "it",
+        "phone": "+91 94478 38710",
+        "website": "https://caminoinfotech.com"
+      },
+      "careers": {
+        "url": "https://caminoinfotech.com/careers",
+        "provider": "company_website",
+        "api_url": "https://caminoinfotech.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-13T23:43:12+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Etech India office",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "001, bypass road, 682024",
+    "lat": 10.0145807,
+    "lng": 76.3123233,
+    "website": "http://idealetech.com",
+    "phone": "+918891889977",
+    "careers_url": "http://idealetech.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-13T23:43:13+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4707168000"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "001",
+        "addr:postcode": "682024",
+        "addr:street": "bypass road",
+        "email": "anil@idealetech.com",
+        "name": "Etech India office",
+        "office": "it",
+        "opening_hours": "24/7",
+        "phone": "+918891889977",
+        "website": "http://idealetech.com"
+      },
+      "careers": {
+        "url": "http://idealetech.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-13T23:43:13+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Ideamine Technologies Pvt Ltd",
     "city": "Kochi",
     "region": "Kerala",
@@ -21340,101 +21515,6 @@
     }
   },
   {
-    "name": "Camino Info Tech",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "",
-    "lat": 10.0530474,
-    "lng": 76.3328781,
-    "website": "https://caminoinfotech.com",
-    "phone": "+91 94478 38710",
-    "careers_url": "https://caminoinfotech.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://caminoinfotech.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-13T23:43:12+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9534648247"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "name": "Camino Info Tech",
-        "office": "it",
-        "phone": "+91 94478 38710",
-        "website": "https://caminoinfotech.com"
-      },
-      "careers": {
-        "url": "https://caminoinfotech.com/careers",
-        "provider": "company_website",
-        "api_url": "https://caminoinfotech.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-13T23:43:12+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Etech India office",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "001, bypass road, 682024",
-    "lat": 10.0145807,
-    "lng": 76.3123233,
-    "website": "http://idealetech.com",
-    "phone": "+918891889977",
-    "careers_url": "http://idealetech.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-13T23:43:13+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4707168000"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "001",
-        "addr:postcode": "682024",
-        "addr:street": "bypass road",
-        "email": "anil@idealetech.com",
-        "name": "Etech India office",
-        "office": "it",
-        "opening_hours": "24/7",
-        "phone": "+918891889977",
-        "website": "http://idealetech.com"
-      },
-      "careers": {
-        "url": "http://idealetech.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-13T23:43:13+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Mfluid",
     "city": "Kochi",
     "region": "Kerala",
@@ -21622,9 +21702,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T00:15:14+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://alicein/jobs: ConnectionError; https://alicein/jobs/: ConnectionError; https://alicein/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -21655,7 +21735,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T00:15:14+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://alicein/jobs: ConnectionError; https://alicein/jobs/: ConnectionError; https://alicein/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -21668,12 +21756,12 @@
     "lng": 72.8210121,
     "website": "https://www.capco.com/",
     "phone": "+91 022 7197 7562",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.capco.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.capco.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T00:15:15+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=commercial"
@@ -21702,7 +21790,15 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "careers": {
+        "url": "https://www.capco.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.capco.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T00:15:15+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -30523,6 +30619,44 @@
       "osm_tags": {
         "landuse": "industrial",
         "name": "Honeywell Technology Solutions"
+      }
+    }
+  },
+  {
+    "name": "Infosys Technologies Limited",
+    "city": "Mangaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9046307,
+    "lng": 74.836386,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:103721300"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "brand": "Infosys Technologies Limited",
+        "landuse": "commercial",
+        "name": "Infosys Technologies Limited",
+        "name:kn": "ಇನ್ಫೋಸಿಸ್",
+        "office": "company"
       }
     }
   },
@@ -51459,6 +51593,46 @@
     }
   },
   {
+    "name": "Softcodelink Web Solutions",
+    "city": "Mangaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Balmatta Cross Road, Mangalre",
+    "lat": 12.8704731,
+    "lng": 74.8460444,
+    "website": "http://softcodelink.com/",
+    "phone": "08244253725",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2470277369"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mangalre",
+        "addr:housename": "Citi centre Building",
+        "addr:street": "Balmatta Cross Road",
+        "name": "Softcodelink Web Solutions",
+        "phone": "08244253725",
+        "shop": "computer",
+        "website": "http://softcodelink.com/"
+      }
+    }
+  },
+  {
     "name": "LogiNext Solutions",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -54808,6 +54982,41 @@
       "osm_tags": {
         "building": "office",
         "name": "Verdant Telemetry & Antenna Systems",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Diya systems",
+    "city": "Mangaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9135547,
+    "lng": 74.8622131,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6395118243"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Diya systems",
         "office": "company"
       }
     }
@@ -65807,6 +66016,41 @@
         "addr:postcode": "625007",
         "addr:street": "Narmadha street",
         "name": "CA Infotech India Private Limited"
+      }
+    }
+  },
+  {
+    "name": "Invenger Technologies",
+    "city": "Mangaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.90576,
+    "lng": 74.83638,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:1208929432"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Invenger Technologies"
       }
     }
   },
