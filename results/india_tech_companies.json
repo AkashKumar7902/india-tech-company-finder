@@ -4579,7 +4579,14 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "9913878358",
         "website": "https://geeniinfotech.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -6515,7 +6522,14 @@
         "confidence": "none",
         "checked_at": "2026-06-12T20:55:59+00:00",
         "notes": "homepage fetch failed: ConnectTimeout; https://codigo.co.in/jobs: ConnectTimeout; https://codigo.co.in/jobs/: ConnectTimeout; https://codigo.co.in/career: ConnectTimeout; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -12216,7 +12230,14 @@
         "name": "Shreedama Technologies",
         "source": "web designer in surat",
         "source_1": "Software Development"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -17713,6 +17734,57 @@
     }
   },
   {
+    "name": "Trimble Information Technologies India Pvt Ltd",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 12.9633028,
+    "lng": 80.2445952,
+    "website": "https://www.trimble.com/en/",
+    "phone": "",
+    "careers_url": "https://www.trimble.com/en/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.trimble.com/en/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T08:39:04+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9768615294"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Trimble Information Technologies India Pvt Ltd",
+        "office": "company",
+        "website": "https://www.trimble.com/en/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.trimble.com/en/careers",
+        "provider": "company_website",
+        "api_url": "https://www.trimble.com/en/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T08:39:04+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "TES Infotech",
     "city": "Dehradun",
     "region": "Uttarakhand",
@@ -22737,7 +22809,14 @@
         "office": "it",
         "phone": "+919601292310",
         "website": "https://www.gnantech.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22772,7 +22851,14 @@
       "osm_tags": {
         "name": "Rsoft Software Solutions",
         "office": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23413,57 +23499,6 @@
     }
   },
   {
-    "name": "Trimble Information Technologies India Pvt Ltd",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "",
-    "lat": 12.9633028,
-    "lng": 80.2445952,
-    "website": "https://www.trimble.com/en/",
-    "phone": "",
-    "careers_url": "https://www.trimble.com/en/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.trimble.com/en/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T08:39:04+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9768615294"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "name": "Trimble Information Technologies India Pvt Ltd",
-        "office": "company",
-        "website": "https://www.trimble.com/en/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.trimble.com/en/careers",
-        "provider": "company_website",
-        "api_url": "https://www.trimble.com/en/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T08:39:04+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Kailash Path Labs",
     "city": "Ghaziabad",
     "region": "Uttar Pradesh",
@@ -23635,9 +23670,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T09:57:34+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.madmaveninfotech.com/jobs: ConnectionError; https://www.madmaveninfotech.com/jobs/: ConnectionError; https://www.madmaveninfotech.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=advertising_agency",
       "description=Mad Maven InfoTech is a Digital Marketing agency made of creative digital experts. We help the Brands to achieve their Business goals though accurately tracking their advertising results and generating more leads."
@@ -23665,7 +23700,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T09:57:34+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.madmaveninfotech.com/jobs: ConnectionError; https://www.madmaveninfotech.com/jobs/: ConnectionError; https://www.madmaveninfotech.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -23678,12 +23721,12 @@
     "lng": 75.8570864,
     "website": "https://dotsquares.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.dotsquares.com/casestudies/networking-opportunities-for-gonnahappen",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-14T09:57:36+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -23712,7 +23755,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.dotsquares.com/casestudies/networking-opportunities-for-gonnahappen",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-14T09:57:36+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -25929,7 +25980,14 @@
         "office": "it",
         "opening_hours": "24/7",
         "website": "https://www.p9labs.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -31408,7 +31466,14 @@
         "addr:street": "Railway Station Road",
         "name": "Bigscal Technologies Pvt. Ltd.",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52933,7 +52998,14 @@
         "description": "Developing High-Performance\nWebsites and Mobile Apps that Drive Results",
         "name": "Rising Star Infotech",
         "website": "https://risingstarinfotech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -70333,7 +70405,14 @@
       "osm_tags": {
         "name": "Essela Technologies Inc,",
         "note": "Sun Trade Centre, Ram Ngar, Surat - 395009, Gujarat"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -78795,7 +78874,14 @@
         "phone": "+91 98257 83454",
         "shop": "computer",
         "website": "https://gsmchevli.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
