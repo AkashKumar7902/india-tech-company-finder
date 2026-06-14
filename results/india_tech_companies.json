@@ -26674,6 +26674,117 @@
     }
   },
   {
+    "name": "Sonata Software Limites",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "1-10-176, Green Towers, Begumpet Main Road, Hyderabad, 500016",
+    "lat": 17.4416904,
+    "lng": 78.4587997,
+    "website": "https://www.sonata-software.com/",
+    "phone": "",
+    "careers_url": "https://www.sonata-software.com/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://sonataone.darwinbox.in/ms/candidate/careers",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-14T20:48:28+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:357187956"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Hyderabad",
+        "addr:housenumber": "1-10-176",
+        "addr:postcode": "500016",
+        "addr:street": "Green Towers, Begumpet Main Road",
+        "building:levels": "7",
+        "height": "20",
+        "name": "Sonata Software Limites",
+        "website": "https://www.sonata-software.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sonata-software.com/",
+        "provider": "darwinbox",
+        "api_url": "https://sonataone.darwinbox.in/ms/candidate/careers",
+        "confidence": "high",
+        "checked_at": "2026-06-14T20:48:28+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
+    "name": "Hostzop Cloud Services Pvt Ltd",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "102, Annapurna Road, Indore, 452009",
+    "lat": 22.6855829,
+    "lng": 75.8359715,
+    "website": "https://hostzop.com",
+    "phone": "",
+    "careers_url": "https://www.hostzop.com/career.php",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.hostzop.com/career.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T20:48:30+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13043272201"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: cloud, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "102",
+        "addr:postcode": "452009",
+        "addr:street": "Annapurna Road",
+        "email": "nikhil@hostzop.com",
+        "name": "Hostzop Cloud Services Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Sa 10:00-18:30",
+        "website": "https://hostzop.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hostzop.com/career.php",
+        "provider": "company_website",
+        "api_url": "https://www.hostzop.com/career.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T20:48:30+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ARM Embedded Technologies Private Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -38578,60 +38689,6 @@
     }
   },
   {
-    "name": "Sonata Software Limites",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "1-10-176, Green Towers, Begumpet Main Road, Hyderabad, 500016",
-    "lat": 17.4416904,
-    "lng": 78.4587997,
-    "website": "https://www.sonata-software.com/",
-    "phone": "",
-    "careers_url": "https://www.sonata-software.com/",
-    "careers_provider": "darwinbox",
-    "careers_api_url": "https://sonataone.darwinbox.in/ms/candidate/careers",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-14T20:48:28+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:357187956"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: software",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Hyderabad",
-        "addr:housenumber": "1-10-176",
-        "addr:postcode": "500016",
-        "addr:street": "Green Towers, Begumpet Main Road",
-        "building:levels": "7",
-        "height": "20",
-        "name": "Sonata Software Limites",
-        "website": "https://www.sonata-software.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.sonata-software.com/",
-        "provider": "darwinbox",
-        "api_url": "https://sonataone.darwinbox.in/ms/candidate/careers",
-        "confidence": "high",
-        "checked_at": "2026-06-14T20:48:28+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Sri Kakatiya Industries (India)Pvt.ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -39278,63 +39335,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Hostzop Cloud Services Pvt Ltd",
-    "city": "Indore",
-    "region": "Madhya Pradesh",
-    "country": "India",
-    "address": "102, Annapurna Road, Indore, 452009",
-    "lat": 22.6855829,
-    "lng": 75.8359715,
-    "website": "https://hostzop.com",
-    "phone": "",
-    "careers_url": "https://www.hostzop.com/career.php",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.hostzop.com/career.php",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T20:48:30+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13043272201"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: cloud, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Indore",
-        "addr:housenumber": "102",
-        "addr:postcode": "452009",
-        "addr:street": "Annapurna Road",
-        "email": "nikhil@hostzop.com",
-        "name": "Hostzop Cloud Services Pvt Ltd",
-        "office": "company",
-        "opening_hours": "Mo-Sa 10:00-18:30",
-        "website": "https://hostzop.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.hostzop.com/career.php",
-        "provider": "company_website",
-        "api_url": "https://www.hostzop.com/career.php",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T20:48:30+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -41516,12 +41516,12 @@
     "lng": 77.2697139,
     "website": "http://accelits.com",
     "phone": "+91 11 4657 5100;+91 11 4657 5113",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://accelits.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://accelits.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T21:19:58+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "craft=electronics_repair",
       "description=Authorised service centre for Logitech and Toshiba"
@@ -41556,7 +41556,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://accelits.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://accelits.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T21:19:58+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -41614,12 +41622,12 @@
     "lng": 77.3996504,
     "website": "https://cyfuture.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://cyfuture.com/careers.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cyfuture.com/careers.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T21:20:08+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=Cyfuture Specializes in Business Process Outsourcing (BPO) Services, Setting up Data Centers, Provides Enterprise Cloud Storage and Cloud Hosting Solutions, Chatbot Service."
     ],
@@ -41644,7 +41652,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://cyfuture.com/careers.html",
+        "provider": "company_website",
+        "api_url": "https://cyfuture.com/careers.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T21:20:08+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -74791,6 +74807,54 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Sign Boards Maker",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "505, East End Main Road, Jayanagar 9th Block, Bengaluru, 560069",
+    "lat": 12.9173526,
+    "lng": 77.5967367,
+    "website": "https://signboardsmaker.com/",
+    "phone": "+91-9845385315",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "craft=signmaker",
+      "description=Professional signboard manufacturer offering glow sign boards, pylon signs, wayfinding signage, LED displays, ACP cladding, advertising hoarding structures, frosted glass installations, retail branding, and custom indoor/outdoor signage solutions."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13935352216"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:district": "Bengaluru Urban",
+        "addr:housenumber": "505",
+        "addr:postcode": "560069",
+        "addr:street": "East End Main Road, Jayanagar 9th Block",
+        "craft": "signmaker",
+        "description": "Professional signboard manufacturer offering glow sign boards, pylon signs, wayfinding signage, LED displays, ACP cladding, advertising hoarding structures, frosted glass installations, retail branding, and custom indoor/outdoor signage solutions.",
+        "name": "Sign Boards Maker",
+        "official_name": "Sign Boards Maker",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "operator": "Sign Boards Maker",
+        "phone": "+91-9845385315",
+        "service": "Signages, LED Video Display, ACP Cladding, Frosted Glass, Wall Graphics",
+        "website": "https://signboardsmaker.com/"
+      }
     }
   },
   {
