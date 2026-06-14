@@ -27366,6 +27366,46 @@
     }
   },
   {
+    "name": "Fintech City",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Mount - Poonamallee - Avadi Road, 600089",
+    "lat": 13.0155567,
+    "lng": 80.1892412,
+    "website": "https://tidco.com/fintech.php",
+    "phone": "+91 9876543210",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13937892501"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: fintech, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "600089",
+        "addr:street": "Mount - Poonamallee - Avadi Road",
+        "check_date": "2026-06-14",
+        "name": "Fintech City",
+        "office": "company",
+        "phone": "+91 9876543210",
+        "website": "https://tidco.com/fintech.php"
+      }
+    }
+  },
+  {
     "name": "Hexolabs Interactive Tech Pvt Ltd",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -32885,6 +32925,67 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Sauber Environmental Solutions Pvt. Ltd.",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "A – 502, Ambli Bopal Road, Ahmedabad, 380058",
+    "lat": 23.0261005,
+    "lng": 72.5030927,
+    "website": "https://www.sauberenv.com/",
+    "phone": "7948003327",
+    "careers_url": "https://www.sauberenv.com/career.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://sauberenv.com/career.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T23:28:53+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7066497233"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:country": "IN",
+        "addr:housenumber": "A – 502",
+        "addr:postcode": "380058",
+        "addr:street": "Ambli Bopal Road",
+        "email": "Info@sauberenv.com",
+        "level": "5",
+        "name": "Sauber Environmental Solutions Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:30-18:30",
+        "phone": "7948003327",
+        "start_date": "18 August, 2015",
+        "website": "https://www.sauberenv.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sauberenv.com/career.html",
+        "provider": "company_website",
+        "api_url": "https://sauberenv.com/career.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T23:28:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -46507,67 +46608,6 @@
     }
   },
   {
-    "name": "Sauber Environmental Solutions Pvt. Ltd.",
-    "city": "Ahmedabad",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "A – 502, Ambli Bopal Road, Ahmedabad, 380058",
-    "lat": 23.0261005,
-    "lng": 72.5030927,
-    "website": "https://www.sauberenv.com/",
-    "phone": "7948003327",
-    "careers_url": "https://www.sauberenv.com/career.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://sauberenv.com/career.html",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T23:28:53+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7066497233"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ahmedabad",
-        "addr:country": "IN",
-        "addr:housenumber": "A – 502",
-        "addr:postcode": "380058",
-        "addr:street": "Ambli Bopal Road",
-        "email": "Info@sauberenv.com",
-        "level": "5",
-        "name": "Sauber Environmental Solutions Pvt. Ltd.",
-        "office": "company",
-        "opening_hours": "Mo-Sa 09:30-18:30",
-        "phone": "7948003327",
-        "start_date": "18 August, 2015",
-        "website": "https://www.sauberenv.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.sauberenv.com/career.html",
-        "provider": "company_website",
-        "api_url": "https://sauberenv.com/career.html",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T23:28:53+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Brooks Running",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -46702,9 +46742,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T23:56:05+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.expresscion.com/jobs: ConnectionError; http://www.expresscion.com/jobs/: ConnectionError; http://www.expresscion.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company",
       "building=yes"
@@ -46740,7 +46780,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T23:56:05+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.expresscion.com/jobs: ConnectionError; http://www.expresscion.com/jobs/: ConnectionError; http://www.expresscion.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -46756,9 +46804,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T23:56:07+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.firstsource.com/jobs: HTTPError; https://www.firstsource.com/jobs/: HTTPError; https://www.firstsource.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -46788,7 +46836,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T23:56:07+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.firstsource.com/jobs: HTTPError; https://www.firstsource.com/jobs/: HTTPError; https://www.firstsource.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
