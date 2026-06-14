@@ -12597,7 +12597,14 @@
         "office": "company",
         "opening_hours": "Mo-Sa 10:00-18:00",
         "website": "https://soln.tech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -13292,7 +13299,14 @@
         "description": "Maharishi University of Information Technology IIM bypass Lucknow",
         "internet_access": "yes",
         "name": "Maharishi University Of Information Technology"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -17276,6 +17290,67 @@
         "api_url": "https://www.capco.com/careers",
         "confidence": "medium",
         "checked_at": "2026-06-14T00:15:15+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "New LJ Institute of Engineering and Technology",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "Sindhu Bhavan Road, Ahmedabad, 380054",
+    "lat": 23.0378426,
+    "lng": 72.5096246,
+    "website": "https://www.ljku.edu.in/program/engineering-new-lj-11",
+    "phone": "18001210082",
+    "careers_url": "https://ljku.edu.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://ljku.edu.in/jobs",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T02:33:38+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=educational_institution",
+      "description=New L J Institute of Engineering and Technology is a GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch.",
+      "building=college",
+      "description=New LJ Institute of Engineering and Technology is an GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1157956222"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technology, artificial intelligence, machine learning, computer; negative hints: institute, college",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:postcode": "380054",
+        "addr:street": "Sindhu Bhavan Road",
+        "description": "New LJ Institute of Engineering and Technology is an GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch.",
+        "name": "New LJ Institute of Engineering and Technology",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Sa 09:00-15:00",
+        "phone": "18001210082",
+        "website": "https://www.ljku.edu.in/program/engineering-new-lj-11",
+        "building": "college"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://ljku.edu.in/jobs",
+        "provider": "company_website",
+        "api_url": "http://ljku.edu.in/jobs",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T02:33:38+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -22609,67 +22684,6 @@
     }
   },
   {
-    "name": "New LJ Institute of Engineering and Technology",
-    "city": "Ahmedabad",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "Sindhu Bhavan Road, Ahmedabad, 380054",
-    "lat": 23.0378426,
-    "lng": 72.5096246,
-    "website": "https://www.ljku.edu.in/program/engineering-new-lj-11",
-    "phone": "18001210082",
-    "careers_url": "https://ljku.edu.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "http://ljku.edu.in/jobs",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T02:33:38+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=educational_institution",
-      "description=New L J Institute of Engineering and Technology is a GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch.",
-      "building=college",
-      "description=New LJ Institute of Engineering and Technology is an GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1157956222"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, artificial intelligence, machine learning, computer; negative hints: institute, college",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ahmedabad",
-        "addr:postcode": "380054",
-        "addr:street": "Sindhu Bhavan Road",
-        "description": "New LJ Institute of Engineering and Technology is an GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch.",
-        "name": "New LJ Institute of Engineering and Technology",
-        "office": "educational_institution",
-        "opening_hours": "Mo-Sa 09:00-15:00",
-        "phone": "18001210082",
-        "website": "https://www.ljku.edu.in/program/engineering-new-lj-11",
-        "building": "college"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://ljku.edu.in/jobs",
-        "provider": "company_website",
-        "api_url": "http://ljku.edu.in/jobs",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T02:33:38+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Aishan Technologies India Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -22772,12 +22786,12 @@
     "lng": 77.6068343,
     "website": "https://www.brillio.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.brillio.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.brillio.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T04:01:42+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -22804,7 +22818,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.brillio.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.brillio.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T04:01:42+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -22817,12 +22839,12 @@
     "lng": 77.6398645,
     "website": "https://www.eageit.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.eageit.com/careers.php",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://34.93.111.64/api/uploadfile.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T04:01:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -22847,7 +22869,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.eageit.com/careers.php",
+        "provider": "company_website",
+        "api_url": "http://34.93.111.64/api/uploadfile.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T04:01:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -39981,7 +40011,14 @@
         "building": "yes",
         "name": "HCL IT-03",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -40018,7 +40055,14 @@
         "building": "yes",
         "name": "HCL Office",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -40055,7 +40099,14 @@
         "building": "yes",
         "name": "HCL SDC 2",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -40092,7 +40143,14 @@
         "building": "yes",
         "name": "Tata Consultancy Services",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -53495,7 +53553,14 @@
         "opening_hours": "Mo-Sa 10:30-17:30",
         "shop": "computer",
         "website": "http://www.aimindiatrust.org"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66141,7 +66206,14 @@
     "raw": {
       "osm_tags": {
         "name": "Augurs Technologies Pvt. Ltd."
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66177,7 +66249,14 @@
         "addr:postcode": "226012",
         "addr:street": "VIP Road",
         "name": "Iph technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72893,7 +72972,14 @@
         "phone": "+91-7054034673",
         "self_checkout": "no",
         "shop": "bakery"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
