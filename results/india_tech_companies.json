@@ -16724,7 +16724,14 @@
         "name": "iON Digital Zone. IDZ Yerragattugutta",
         "office": "it",
         "opening_hours": "Mo-Fr 09:00-17:00"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -16759,7 +16766,14 @@
       "osm_tags": {
         "name": "Softwayz IT Solutions",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18475,6 +18489,61 @@
         "api_url": "",
         "confidence": "low",
         "checked_at": "2026-06-14T14:47:12+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "RCS Tech LLP",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "38/3, Halanayakanahalli Lake Road, Bengaluru, 560035",
+    "lat": 12.9047743,
+    "lng": 77.6919057,
+    "website": "https://www.traxx.in/",
+    "phone": "",
+    "careers_url": "https://traxx.in/about/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T15:28:17+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10761165099"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "38/3",
+        "addr:postcode": "560035",
+        "addr:street": "Halanayakanahalli Lake Road",
+        "name": "RCS Tech LLP",
+        "office": "it",
+        "website": "https://www.traxx.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://traxx.in/about/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T15:28:17+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -25191,61 +25260,6 @@
     }
   },
   {
-    "name": "RCS Tech LLP",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "38/3, Halanayakanahalli Lake Road, Bengaluru, 560035",
-    "lat": 12.9047743,
-    "lng": 77.6919057,
-    "website": "https://www.traxx.in/",
-    "phone": "",
-    "careers_url": "https://traxx.in/about/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T15:28:17+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10761165099"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:housenumber": "38/3",
-        "addr:postcode": "560035",
-        "addr:street": "Halanayakanahalli Lake Road",
-        "name": "RCS Tech LLP",
-        "office": "it",
-        "website": "https://www.traxx.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://traxx.in/about/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T15:28:17+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Subconscious Compute Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -25409,12 +25423,12 @@
     "lng": 76.6887524,
     "website": "https://skycap.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://skycap.co.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://skycap.co.in/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T16:05:50+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -25444,7 +25458,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://skycap.co.in/careers",
+        "provider": "company_website",
+        "api_url": "https://skycap.co.in/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T16:05:50+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -25499,12 +25521,12 @@
     "lng": 77.1061408,
     "website": "https://www.dresma.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.dresma.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.dresma.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T16:05:59+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -25534,7 +25556,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.dresma.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.dresma.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T16:05:59+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -32005,7 +32035,14 @@
         "name": "Teja Aqua Technologies",
         "office": "company",
         "source": "survey"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50569,7 +50606,14 @@
         "education": "college",
         "name": "Block 5 Dept of Information Technology",
         "panoramax": "panoramax.openstreetmap.fr/sequence/c3a83163-e14d-4a9c-bac9-92d524808136"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
