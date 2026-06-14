@@ -45832,12 +45832,12 @@
     "lng": 77.6884487,
     "website": "https://www.cadence.com/",
     "phone": "080-4184 1111",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-14T22:26:42+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -45868,7 +45868,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+        "provider": "workday",
+        "api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-14T22:26:42+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -45881,12 +45889,12 @@
     "lng": 77.6367469,
     "website": "https://www.routematic.com",
     "phone": "+91 80 3951 2990",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://routematic.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://routematic.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T22:26:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "description=Office of Routematic (Nivaata Systems Pvt. Ltd.)",
@@ -45922,7 +45930,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://routematic.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://routematic.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T22:26:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -77027,7 +77043,14 @@
         "phone": "919552528129",
         "start_date": "1984-04-10",
         "website": "https://naikhomoeopathy.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
