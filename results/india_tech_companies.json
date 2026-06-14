@@ -185,7 +185,14 @@
         "image": "https://proponenttechnologies.com/img/header/proponent-logo.png",
         "name": "Proponent Technologies Private Limited",
         "website": "https://proponenttechnologies.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -223,7 +230,14 @@
         "email": "atul.kumar@sparcindia.com",
         "name": "SPARC PVT LTD",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18027,7 +18041,14 @@
         "surveillance:type": "camera",
         "surveillance:zone": "area",
         "website": "https://gigates.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -36894,7 +36915,14 @@
         "confidence": "none",
         "checked_at": "2026-06-14T20:16:59+00:00",
         "notes": "homepage fetch failed: SSLError; https://edtech.vervegen.com/jobs: HTTPError; https://edtech.vervegen.com/jobs/: HTTPError; https://edtech.vervegen.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -38559,12 +38587,12 @@
     "lng": 78.4587997,
     "website": "https://www.sonata-software.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.sonata-software.com/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://sonataone.darwinbox.in/ms/candidate/careers",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-14T20:48:28+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -38592,7 +38620,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sonata-software.com/",
+        "provider": "darwinbox",
+        "api_url": "https://sonataone.darwinbox.in/ms/candidate/careers",
+        "confidence": "high",
+        "checked_at": "2026-06-14T20:48:28+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -39254,12 +39290,12 @@
     "lng": 75.8359715,
     "website": "https://hostzop.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.hostzop.com/career.php",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.hostzop.com/career.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T20:48:30+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -39290,7 +39326,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hostzop.com/career.php",
+        "provider": "company_website",
+        "api_url": "https://www.hostzop.com/career.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T20:48:30+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -75209,7 +75253,14 @@
         "opening_hours": "Mo-Sa 10:00-19:00",
         "phone": "9760097910",
         "website": "https://kraftingdigital.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
