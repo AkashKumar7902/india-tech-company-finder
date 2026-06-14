@@ -27329,12 +27329,12 @@
     "lng": 76.8843598,
     "website": "https://icfoss.in/",
     "phone": "+91 471-2413012, +91-9400225962",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://icfoss.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://icfoss.in/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T19:45:19+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=government"
     ],
@@ -27370,7 +27370,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://icfoss.in/careers",
+        "provider": "company_website",
+        "api_url": "https://icfoss.in/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T19:45:19+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -33639,12 +33647,12 @@
     "lng": 77.5969649,
     "website": "https://fsmk.org",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://fsmk.org/events/dev_days_2/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Ek+Mukta:200,300,400,500,600,700,800&amp;subset=devanagari,latin-ext",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T19:45:24+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=association"
     ],
@@ -33677,7 +33685,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://fsmk.org/events/dev_days_2/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Ek+Mukta:200,300,400,500,600,700,800&amp;subset=devanagari,latin-ext",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T19:45:24+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -42883,7 +42899,14 @@
         "addr:street": "Birsa Chowk,Prakash Nagar",
         "name": "Invincible App Developers",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50676,7 +50699,14 @@
     "raw": {
       "osm_tags": {
         "name": "Cloud SEO \"Best Digital Marketing Agency in Ranchi\""
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50709,7 +50739,14 @@
       "osm_tags": {
         "name": "Yaseer Innovative Software Private Limited",
         "name:en": "Yaseer Innovative Software Private Limited"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -73840,7 +73877,14 @@
       "osm_tags": {
         "area": "yes",
         "name": "computer solutions"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
