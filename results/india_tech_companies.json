@@ -18595,6 +18595,118 @@
     }
   },
   {
+    "name": "Skycap",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "E-195, Sector 74, Mohali, 160055",
+    "lat": 30.7095651,
+    "lng": 76.6887524,
+    "website": "https://skycap.co.in/",
+    "phone": "",
+    "careers_url": "https://skycap.co.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://skycap.co.in/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T16:05:50+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10112297470"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mohali",
+        "addr:housenumber": "E-195",
+        "addr:postcode": "160055",
+        "addr:street": "Sector 74",
+        "level": "2",
+        "name": "Skycap",
+        "office": "it",
+        "website": "https://skycap.co.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://skycap.co.in/careers",
+        "provider": "company_website",
+        "api_url": "https://skycap.co.in/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T16:05:50+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Dresma",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "TOWER-A, Paras Twin Towers, 2nd floor, Suncity Road, Gurugram, 122022",
+    "lat": 28.4341847,
+    "lng": 77.1061408,
+    "website": "https://www.dresma.com/",
+    "phone": "",
+    "careers_url": "https://www.dresma.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.dresma.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T16:05:59+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11984952710"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gurugram",
+        "addr:district": "Gurugram",
+        "addr:housenumber": "TOWER-A, Paras Twin Towers, 2nd floor",
+        "addr:postcode": "122022",
+        "addr:street": "Suncity Road",
+        "name": "Dresma",
+        "office": "it",
+        "website": "https://www.dresma.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.dresma.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.dresma.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T16:05:59+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "innovative software solutions",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -25414,62 +25526,6 @@
     }
   },
   {
-    "name": "Skycap",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "E-195, Sector 74, Mohali, 160055",
-    "lat": 30.7095651,
-    "lng": 76.6887524,
-    "website": "https://skycap.co.in/",
-    "phone": "",
-    "careers_url": "https://skycap.co.in/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://skycap.co.in/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T16:05:50+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10112297470"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mohali",
-        "addr:housenumber": "E-195",
-        "addr:postcode": "160055",
-        "addr:street": "Sector 74",
-        "level": "2",
-        "name": "Skycap",
-        "office": "it",
-        "website": "https://skycap.co.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://skycap.co.in/careers",
-        "provider": "company_website",
-        "api_url": "https://skycap.co.in/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T16:05:50+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Livewire Poonamallee - IT Training|Machine Learning|Cybersecurity|PLC|Embedded|IOT",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -25509,62 +25565,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Dresma",
-    "city": "Gurugram",
-    "region": "Haryana",
-    "country": "India",
-    "address": "TOWER-A, Paras Twin Towers, 2nd floor, Suncity Road, Gurugram, 122022",
-    "lat": 28.4341847,
-    "lng": 77.1061408,
-    "website": "https://www.dresma.com/",
-    "phone": "",
-    "careers_url": "https://www.dresma.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.dresma.com/career",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T16:05:59+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11984952710"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Gurugram",
-        "addr:district": "Gurugram",
-        "addr:housenumber": "TOWER-A, Paras Twin Towers, 2nd floor",
-        "addr:postcode": "122022",
-        "addr:street": "Suncity Road",
-        "name": "Dresma",
-        "office": "it",
-        "website": "https://www.dresma.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.dresma.com/career",
-        "provider": "company_website",
-        "api_url": "https://www.dresma.com/career",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T16:05:59+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -25710,9 +25710,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T16:44:30+00:00",
+    "careers_notes": "https://rafc.in/jobs: HTTPError; https://rafc.in/jobs/: HTTPError; https://rafc.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -25745,7 +25745,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T16:44:30+00:00",
+        "notes": "https://rafc.in/jobs: HTTPError; https://rafc.in/jobs/: HTTPError; https://rafc.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -25758,12 +25766,12 @@
     "lng": 76.3520125,
     "website": "https://www.aabasoft.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.aabasoft.com/in-en/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.aabasoft.com/in-en/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T16:44:32+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -25785,6 +25793,14 @@
         "name": "Aabasoft",
         "office": "it",
         "website": "https://www.aabasoft.com/"
+      },
+      "careers": {
+        "url": "https://www.aabasoft.com/in-en/career/",
+        "provider": "company_website",
+        "api_url": "https://www.aabasoft.com/in-en/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T16:44:32+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
