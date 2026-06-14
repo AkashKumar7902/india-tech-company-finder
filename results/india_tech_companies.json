@@ -687,7 +687,11 @@
         "confidence": "none",
         "checked_at": "2026-06-12T19:00:25+00:00",
         "notes": "homepage fetch failed: ConnectionError; https://upsurgeinfotech.com/jobs: ConnectionError; https://upsurgeinfotech.com/jobs/: ConnectionError; https://upsurgeinfotech.com/career: ConnectionError; no careers page detected"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -1225,7 +1229,11 @@
         "confidence": "none",
         "checked_at": "2026-06-12T19:01:39+00:00",
         "notes": "homepage fetch failed: ConnectTimeout; https://www.conversantech.com/jobs: ConnectTimeout; https://www.conversantech.com/jobs/: ConnectTimeout; https://www.conversantech.com/career: ConnectTimeout; no careers page detected"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -3143,7 +3151,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -17516,7 +17528,11 @@
         "confidence": "medium",
         "checked_at": "2026-06-14T00:15:15+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18961,7 +18977,11 @@
         "confidence": "low",
         "checked_at": "2026-06-14T17:17:10+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23236,7 +23256,11 @@
         "confidence": "none",
         "checked_at": "2026-06-14T00:15:14+00:00",
         "notes": "homepage fetch failed: ConnectionError; https://alicein/jobs: ConnectionError; https://alicein/jobs/: ConnectionError; https://alicein/career: ConnectionError; no careers page detected"
-      }
+      },
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23281,7 +23305,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23330,7 +23358,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -27117,6 +27149,63 @@
     }
   },
   {
+    "name": "Cadence Design Systems (India) Private Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "21, Level 1, 2 &3, Campus 4A & 4B, RMZ Ecoworld Rd, Sarjapur-, Outer Ring Rd, Marathahalli,, Bengaluru, 560103",
+    "lat": 12.924382,
+    "lng": 77.6884487,
+    "website": "https://www.cadence.com/",
+    "phone": "080-4184 1111",
+    "careers_url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-14T22:26:42+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4445385041"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "21",
+        "addr:postcode": "560103",
+        "addr:street": "Level 1, 2 &3, Campus 4A & 4B, RMZ Ecoworld Rd, Sarjapur-, Outer Ring Rd, Marathahalli,",
+        "name": "Cadence Design Systems (India) Private Limited",
+        "office": "company",
+        "phone": "080-4184 1111",
+        "smoking": "outside",
+        "website": "https://www.cadence.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+        "provider": "workday",
+        "api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-14T22:26:42+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Data Recovery Service Bangalore",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -27164,6 +27253,68 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Routematic (Nivaata Systems)",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "549/E, Indiranagar Double Road (Paramahansa Yogananda road), Bangalore, 560038",
+    "lat": 12.9777147,
+    "lng": 77.6367469,
+    "website": "https://www.routematic.com",
+    "phone": "+91 80 3951 2990",
+    "careers_url": "https://routematic.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://routematic.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T22:26:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "description=Office of Routematic (Nivaata Systems Pvt. Ltd.)",
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7489262681"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "4th Floor, Shreyas Plaza",
+        "addr:postcode": "560038",
+        "addr:street": "100 Feet Road Indiranagar",
+        "description": "Office of Routematic (Nivaata Systems Pvt. Ltd.)",
+        "name": "Routematic (Nivaata Systems)",
+        "name_1": "Nivaata Systems Pvt. Ltd.",
+        "office": "yes",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "phone": "+91 80 3951 2990",
+        "website": "https://www.routematic.com",
+        "opening_hours:covid19": "restricted"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://routematic.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://routematic.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T22:26:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -31862,7 +32013,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -31901,7 +32056,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41095,7 +41254,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41220,7 +41383,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41301,7 +41468,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41339,7 +41510,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41427,7 +41602,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -41472,7 +41651,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -44966,7 +45149,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45823,125 +46010,6 @@
     }
   },
   {
-    "name": "Cadence Design Systems (India) Private Limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "21, Level 1, 2 &3, Campus 4A & 4B, RMZ Ecoworld Rd, Sarjapur-, Outer Ring Rd, Marathahalli,, Bengaluru, 560103",
-    "lat": 12.924382,
-    "lng": 77.6884487,
-    "website": "https://www.cadence.com/",
-    "phone": "080-4184 1111",
-    "careers_url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
-    "careers_provider": "workday",
-    "careers_api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-14T22:26:42+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4445385041"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:housenumber": "21",
-        "addr:postcode": "560103",
-        "addr:street": "Level 1, 2 &3, Campus 4A & 4B, RMZ Ecoworld Rd, Sarjapur-, Outer Ring Rd, Marathahalli,",
-        "name": "Cadence Design Systems (India) Private Limited",
-        "office": "company",
-        "phone": "080-4184 1111",
-        "smoking": "outside",
-        "website": "https://www.cadence.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
-        "provider": "workday",
-        "api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
-        "confidence": "high",
-        "checked_at": "2026-06-14T22:26:42+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
-    "name": "Routematic (Nivaata Systems)",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "549/E, Indiranagar Double Road (Paramahansa Yogananda road), Bangalore, 560038",
-    "lat": 12.9777147,
-    "lng": 77.6367469,
-    "website": "https://www.routematic.com",
-    "phone": "+91 80 3951 2990",
-    "careers_url": "https://routematic.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://routematic.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T22:26:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "description=Office of Routematic (Nivaata Systems Pvt. Ltd.)",
-      "office=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7489262681"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "4th Floor, Shreyas Plaza",
-        "addr:postcode": "560038",
-        "addr:street": "100 Feet Road Indiranagar",
-        "description": "Office of Routematic (Nivaata Systems Pvt. Ltd.)",
-        "name": "Routematic (Nivaata Systems)",
-        "name_1": "Nivaata Systems Pvt. Ltd.",
-        "office": "yes",
-        "opening_hours": "Mo-Fr 09:30-18:30",
-        "phone": "+91 80 3951 2990",
-        "website": "https://www.routematic.com",
-        "opening_hours:covid19": "restricted"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://routematic.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://routematic.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T22:26:46+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "TMEIC Industrial Systems india Pvt. Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -46047,12 +46115,12 @@
     "lng": 78.4081313,
     "website": "https://www.beta-cae.com/",
     "phone": "+918066493400",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-14T22:53:54+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -46080,7 +46148,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cadence.com/en_US/home/company/life-at-cadence.html",
+        "provider": "workday",
+        "api_url": "https://www.cadence.com/wday/cxs/www/en_US/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-14T22:53:54+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -46093,12 +46169,12 @@
     "lng": 79.0473067,
     "website": "https://www.persistent.com/",
     "phone": "+91 712 669 2000",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://careers.persistent.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T22:53:58+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "building=yes"
@@ -46132,7 +46208,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.persistent.com/",
+        "provider": "company_website",
+        "api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T22:53:58+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -48279,7 +48363,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48322,7 +48410,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48522,7 +48614,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48568,7 +48664,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48613,7 +48713,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52897,7 +53001,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52940,7 +53048,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -52985,7 +53097,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -53030,7 +53146,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -56425,7 +56545,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67743,7 +67867,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67781,7 +67909,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67817,7 +67949,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67853,7 +67989,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67894,7 +68034,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -67929,7 +68073,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68009,7 +68157,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68052,7 +68204,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68088,7 +68244,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68133,7 +68293,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68173,7 +68337,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68215,7 +68383,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68251,7 +68423,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68330,7 +68506,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68367,7 +68547,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -68446,7 +68630,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -73770,7 +73958,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -75857,7 +76049,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -75909,7 +76105,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -75968,7 +76168,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -76123,7 +76327,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -77820,7 +78028,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -79398,7 +79610,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -79447,7 +79663,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -79494,7 +79714,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
