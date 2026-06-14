@@ -4678,7 +4678,14 @@
         "opening_hours": "Mo-Sa 09:30-17:30",
         "phone": "+919442260944",
         "website": "https://itkx.tech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23151,7 +23158,14 @@
         "name": "SuXuS Mobile ServicsS",
         "phone": "04314050478",
         "shop": "mobile_phone"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -24476,12 +24490,12 @@
     "lng": 73.9179113,
     "website": "bajajfinserv.in",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.bajajfinserv.in/",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-14T13:10:04+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -24511,7 +24525,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.bajajfinserv.in/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-14T13:10:04+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -24524,12 +24546,12 @@
     "lng": 73.9039057,
     "website": "https://www.tomtom.com/careers/offices/pune/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.tomtom.com/careers/offices/pune/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.tomtom.com/careers/offices/pune/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T13:10:08+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "description=We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers."
@@ -24569,7 +24591,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.tomtom.com/careers/offices/pune/",
+        "provider": "company_website",
+        "api_url": "https://www.tomtom.com/careers/offices/pune/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T13:10:08+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -71382,7 +71412,14 @@
       "osm_tags": {
         "craft": "electrician",
         "name": "cistron infotech pvt"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71419,7 +71456,14 @@
         "name": "Insys Solutions",
         "phone": "+919843079797",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71461,7 +71505,14 @@
         "name": "Scofish Technologies Private Limited",
         "office": "yes",
         "source": "microsoft/BuildingFootprints"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -73260,7 +73311,14 @@
       "osm_tags": {
         "name": "A+ve Laptop Solutions",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
