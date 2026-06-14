@@ -2916,6 +2916,48 @@
     }
   },
   {
+    "name": "ESDS Software Solution Pvt Ltd",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Plot No. B- 24 & 25,, NICE Industrial Area, Nashik, 422007",
+    "lat": 19.9960502,
+    "lng": 73.7473064,
+    "website": "https://www.esds.co.in/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2839142996"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nashik",
+        "addr:housenumber": "Plot No. B- 24 & 25,",
+        "addr:postcode": "422007",
+        "addr:street": "NICE Industrial Area",
+        "ele": "-1",
+        "name": "ESDS Software Solution Pvt Ltd",
+        "office": "it",
+        "opening_hours": "24/7",
+        "website": "https://www.esds.co.in/"
+      }
+    }
+  },
+  {
     "name": "VMware Software India Pvt. Ltd.",
     "city": "Pune",
     "region": "Maharashtra",
@@ -13384,6 +13426,49 @@
     }
   },
   {
+    "name": "UMS Tech Labs",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "#404, Shree Ganesh Kuber, Gangapur Road, Nashik, 422005",
+    "lat": 20.0099934,
+    "lng": 73.7642047,
+    "website": "https://umstechlabs.com/",
+    "phone": "022 30770139",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5419812402"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: labs, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nashik",
+        "addr:housenumber": "#404, Shree Ganesh Kuber",
+        "addr:postcode": "422005",
+        "addr:street": "Gangapur Road",
+        "email": "sales@umstechlabs.com",
+        "name": "UMS Tech Labs",
+        "office": "it",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "022 30770139",
+        "website": "https://umstechlabs.com/"
+      }
+    }
+  },
+  {
     "name": "Delhi Information Technology Park",
     "city": "New Delhi",
     "region": "Delhi",
@@ -17989,6 +18074,52 @@
         "api_url": "",
         "confidence": "low",
         "checked_at": "2026-06-14T09:57:36+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Xtend Technologies",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Kalathiparambil Cross Road, 682016",
+    "lat": 9.9665871,
+    "lng": 76.2891885,
+    "website": "https://xtendtech.com/",
+    "phone": "",
+    "careers_url": "https://xtendtech.com/careers/index.php",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-14T11:05:35+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12020243970"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "682016",
+        "addr:street": "Kalathiparambil Cross Road",
+        "name": "Xtend Technologies",
+        "office": "company",
+        "website": "https://xtendtech.com/"
+      },
+      "careers": {
+        "url": "https://xtendtech.com/careers/index.php",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-14T11:05:35+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -23916,52 +24047,6 @@
     }
   },
   {
-    "name": "Xtend Technologies",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "Kalathiparambil Cross Road, 682016",
-    "lat": 9.9665871,
-    "lng": 76.2891885,
-    "website": "https://xtendtech.com/",
-    "phone": "",
-    "careers_url": "https://xtendtech.com/careers/index.php",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-14T11:05:35+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12020243970"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "682016",
-        "addr:street": "Kalathiparambil Cross Road",
-        "name": "Xtend Technologies",
-        "office": "company",
-        "website": "https://xtendtech.com/"
-      },
-      "careers": {
-        "url": "https://xtendtech.com/careers/index.php",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-14T11:05:35+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Alco Infotech Pvt Ltd",
     "city": "Kolkata",
     "region": "West Bengal",
@@ -23974,9 +24059,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T11:48:52+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.alcoinfotech.com/jobs: ConnectionError; http://www.alcoinfotech.com/jobs/: ConnectionError; http://www.alcoinfotech.com/career: ConnectionError; no careers page detected",
     "categories": [
       "shop=computer"
     ],
@@ -24005,7 +24090,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T11:48:52+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.alcoinfotech.com/jobs: ConnectionError; http://www.alcoinfotech.com/jobs/: ConnectionError; http://www.alcoinfotech.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -24018,12 +24111,12 @@
     "lng": 88.4865475,
     "website": "https://mapline.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://mapline.com/identify-growth-opportunities-with-mapping/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://mapline.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T11:48:53+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -24053,7 +24146,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://mapline.com/identify-growth-opportunities-with-mapping/",
+        "provider": "company_website",
+        "api_url": "https://mapline.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T11:48:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49540,6 +49641,42 @@
     }
   },
   {
+    "name": "VN Software (VNS)",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 19.9795481,
+    "lng": 73.787829,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1336474130"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "VN Software (VNS)"
+      }
+    }
+  },
+  {
     "name": "Belzabar Software Design",
     "city": "New Delhi",
     "region": "Delhi",
@@ -52354,6 +52491,45 @@
     }
   },
   {
+    "name": "DNA Technology",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Fh11-12, Trimbak Road, Nashik, 422008",
+    "lat": 19.9981054,
+    "lng": 73.7803273,
+    "website": "https://www.dnatechindia.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5221734075"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nashik",
+        "addr:housenumber": "Fh11-12",
+        "addr:postcode": "422008",
+        "addr:street": "Trimbak Road",
+        "addr:street_1": "Thakkar Bazar",
+        "email": "dnatechindia@gmail.com",
+        "name": "DNA Technology",
+        "website": "https://www.dnatechindia.com/"
+      }
+    }
+  },
+  {
     "name": "Aquevix Solutions Pvt Ltd.",
     "city": "New Delhi",
     "region": "Delhi",
@@ -53403,6 +53579,42 @@
       "osm_tags": {
         "name": "SAAS CLOTHING",
         "shop": "clothes"
+      }
+    }
+  },
+  {
+    "name": "Legrand Novateur Electrical & Digital Systems Pvt Ltd",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "D1/36",
+    "lat": 19.9638336,
+    "lng": 73.7360529,
+    "website": "",
+    "phone": "+91 0253 26655200;+91 0253 2309 6700",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1476906067"
+    },
+    "tech_score": 31.0,
+    "confidence": "low",
+    "notes": "matched: systems, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "D1/36",
+        "man_made": "works",
+        "name": "Legrand Novateur Electrical & Digital Systems Pvt Ltd",
+        "name:en": "Legrand Novateur Electrical & Digital Systems Pvt Ltd",
+        "phone": "+91 0253 26655200;+91 0253 2309 6700"
       }
     }
   },
@@ -67753,6 +67965,42 @@
     }
   },
   {
+    "name": "PAARSH INFOTECH PVT",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 19.9814295,
+    "lng": 73.7818864,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1336485516"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "PAARSH INFOTECH PVT"
+      }
+    }
+  },
+  {
     "name": "360 Degree Digital Solutions",
     "city": "New Delhi",
     "region": "Delhi",
@@ -78413,6 +78661,44 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Technokrafts Labs Pvt. Ltd.",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "9, Sadgurukrupa Apartment, Aditya Nagar, Ashoka Marg, Nashik, 422011",
+    "lat": 19.9776441,
+    "lng": 73.8014324,
+    "website": "https://www.technokrafts.com/",
+    "phone": "+91 253 2237780",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3287267927"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nashik",
+        "addr:housenumber": "9, Sadgurukrupa Apartment",
+        "addr:postcode": "422011",
+        "addr:street": "Aditya Nagar, Ashoka Marg",
+        "name": "Technokrafts Labs Pvt. Ltd.",
+        "phone": "+91 253 2237780",
+        "website": "https://www.technokrafts.com/"
+      }
     }
   },
   {
