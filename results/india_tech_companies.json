@@ -12638,22 +12638,22 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:12627911775"
+      "openstreetmap": "node:12627866655"
     },
     "tech_score": 56.0,
     "confidence": "high",
     "notes": "matched: technology, solutions, labs",
     "raw": {
       "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:housenumber": "Shop/Unit No. UGF 003",
-        "addr:postcode": "201306",
-        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "Shop No. GF 05",
+        "addr:postcode": "201014",
+        "addr:street": "Parsvanath Majestic Arcade, Vaibhav Khand, Indirapuram",
         "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
+        "description": "Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
         "email": "info@kailashpathlabs.com",
         "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOEWUABldwOSVjwBEcZJ2jJe2LF4s2vMO1Fv47x=s680-w680-h510",
         "mobile": "+91-9911370370",
         "name": "Kailash Path Labs",
         "opening_hours": "Mo-Su 07:00-20:00",
@@ -17609,6 +17609,65 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Thoughtworks Technologies (India) Pvt. Ltd.",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "147/F, ACR Mansion, 8th Main Road, bangalore, 560034",
+    "lat": 12.9287596,
+    "lng": 77.6287122,
+    "website": "https://www.thoughtworks.com/",
+    "phone": "",
+    "careers_url": "https://www.thoughtworks.com/careers/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/careers/english/cr_meta_search_jobs_en_01.jpg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T07:19:58+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:1605300900"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "bangalore",
+        "addr:housenumber": "147/F, ACR Mansion",
+        "addr:postcode": "560034",
+        "addr:street": "8th Main Road",
+        "name": "Thoughtworks Technologies (India) Pvt. Ltd.",
+        "office": "company",
+        "smoking": "isolated",
+        "website": "https://www.thoughtworks.com/",
+        "wikidata": "Q10382234",
+        "wikimedia_commons": "Category:ThoughtWorks",
+        "wikipedia": "en:ThoughtWorks"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.thoughtworks.com/careers/jobs",
+        "provider": "company_website",
+        "api_url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/careers/english/cr_meta_search_jobs_en_01.jpg",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T07:19:58+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -23203,65 +23262,6 @@
     }
   },
   {
-    "name": "Thoughtworks Technologies (India) Pvt. Ltd.",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "147/F, ACR Mansion, 8th Main Road, bangalore, 560034",
-    "lat": 12.9287596,
-    "lng": 77.6287122,
-    "website": "https://www.thoughtworks.com/",
-    "phone": "",
-    "careers_url": "https://www.thoughtworks.com/careers/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/careers/english/cr_meta_search_jobs_en_01.jpg",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T07:19:58+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:1605300900"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "bangalore",
-        "addr:housenumber": "147/F, ACR Mansion",
-        "addr:postcode": "560034",
-        "addr:street": "8th Main Road",
-        "name": "Thoughtworks Technologies (India) Pvt. Ltd.",
-        "office": "company",
-        "smoking": "isolated",
-        "website": "https://www.thoughtworks.com/",
-        "wikidata": "Q10382234",
-        "wikimedia_commons": "Category:ThoughtWorks",
-        "wikipedia": "en:ThoughtWorks"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.thoughtworks.com/careers/jobs",
-        "provider": "company_website",
-        "api_url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/careers/english/cr_meta_search_jobs_en_01.jpg",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T07:19:58+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Zebra Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -23422,12 +23422,12 @@
     "lng": 80.2445952,
     "website": "https://www.trimble.com/en/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.trimble.com/en/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.trimble.com/en/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T08:39:04+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -23452,7 +23452,80 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.trimble.com/en/careers",
+        "provider": "company_website",
+        "api_url": "https://www.trimble.com/en/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T08:39:04+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Kailash Path Labs",
+    "city": "Ghaziabad",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Shop/Unit No. UGF 003, Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari, Greater Noida, 201306",
+    "lat": 28.5865642,
+    "lng": 77.439639,
+    "website": "https://www.kailashpathlabs.com/",
+    "phone": "+91-9911370370",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T08:39:08+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "description=Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12627911775"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technology, labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "Shop/Unit No. UGF 003",
+        "addr:postcode": "201306",
+        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
+        "brand": "Kailash Healthcare Ltd.",
+        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
+        "email": "info@kailashpathlabs.com",
+        "healthcare": "sample_collection",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
+        "mobile": "+91-9911370370",
+        "name": "Kailash Path Labs",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:phonepe": "yes",
+        "payment:visa": "yes",
+        "phone": "+91-9911370370",
+        "source": "local knowledge;streetlevel imagery",
+        "website": "https://www.kailashpathlabs.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T08:39:08+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -46867,7 +46940,14 @@
         "opening_hours": "Mo-Sa 10:00-18:00",
         "phone": "+91 120 4553616",
         "website": "https://geocrat.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
