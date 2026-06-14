@@ -18125,6 +18125,62 @@
     }
   },
   {
+    "name": "Mapline Technology Private Limited",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "country": "India",
+    "address": "14ES6, 372, IIF/04, New Town, Kolkata, 700156",
+    "lat": 22.5847937,
+    "lng": 88.4865475,
+    "website": "https://mapline.com",
+    "phone": "",
+    "careers_url": "https://mapline.com/identify-growth-opportunities-with-mapping/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://mapline.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T11:48:53+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7051580443"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "New Town, Kolkata",
+        "addr:housenumber": "14ES6",
+        "addr:postcode": "700156",
+        "addr:street": "372, IIF/04",
+        "name": "Mapline Technology Private Limited",
+        "office": "company",
+        "opening_hours": "Mo-Fr 10:30-19:30",
+        "website": "https://mapline.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://mapline.com/identify-growth-opportunities-with-mapping/",
+        "provider": "company_website",
+        "api_url": "https://mapline.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T11:48:53+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "aviva software pvt.ltd",
     "city": "Raipur",
     "region": "Chhattisgarh",
@@ -24102,62 +24158,6 @@
     }
   },
   {
-    "name": "Mapline Technology Private Limited",
-    "city": "Kolkata",
-    "region": "West Bengal",
-    "country": "India",
-    "address": "14ES6, 372, IIF/04, New Town, Kolkata, 700156",
-    "lat": 22.5847937,
-    "lng": 88.4865475,
-    "website": "https://mapline.com",
-    "phone": "",
-    "careers_url": "https://mapline.com/identify-growth-opportunities-with-mapping/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://mapline.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-14T11:48:53+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7051580443"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "New Town, Kolkata",
-        "addr:housenumber": "14ES6",
-        "addr:postcode": "700156",
-        "addr:street": "372, IIF/04",
-        "name": "Mapline Technology Private Limited",
-        "office": "company",
-        "opening_hours": "Mo-Fr 10:30-19:30",
-        "website": "https://mapline.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://mapline.com/identify-growth-opportunities-with-mapping/",
-        "provider": "company_website",
-        "api_url": "https://mapline.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-14T11:48:53+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Passionate Solver Technologies",
     "city": "Kolkata",
     "region": "West Bengal",
@@ -24269,9 +24269,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T12:29:12+00:00",
+    "careers_notes": "https://laptopkharido.com/jobs: HTTPError; https://laptopkharido.com/jobs/: HTTPError; https://laptopkharido.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=computer"
     ],
@@ -24299,7 +24299,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T12:29:12+00:00",
+        "notes": "https://laptopkharido.com/jobs: HTTPError; https://laptopkharido.com/jobs/: HTTPError; https://laptopkharido.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -24315,9 +24323,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T12:29:17+00:00",
+    "careers_notes": "https://intactweb.in/jobs: HTTPError; https://intactweb.in/jobs/: HTTPError; https://intactweb.in/career: HTTPError; no careers page detected",
     "categories": [
       "building=yes",
       "description=Intact Web is a leading Digital Agency in India. Our team of expert developers & Digital Marketers has worked with diverse clients, enabling us to offer you custom web, App development & Digital Marketing services based on your requirements. Being a leadi"
@@ -24350,7 +24358,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T12:29:17+00:00",
+        "notes": "https://intactweb.in/jobs: HTTPError; https://intactweb.in/jobs/: HTTPError; https://intactweb.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -35492,7 +35508,14 @@
       "osm_tags": {
         "name": "D V Infosoft",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -51388,7 +51411,14 @@
         "description": "We offer comprehensive Digital Marketing Course in Patel Nagar, Bhopal",
         "name": "TechnoGaze Solutions",
         "website": "https://g.co/kgs/NJXw9EH"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60112,7 +60142,14 @@
     "raw": {
       "osm_tags": {
         "name": "Technology Park"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -60145,7 +60182,14 @@
       "osm_tags": {
         "landuse": "residential",
         "name": "Technology Park"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -77536,7 +77580,14 @@
         "name": "Auxost | Digital Marketing Agency",
         "source": "local knowledge",
         "website": "https://auxost.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
