@@ -10272,7 +10272,14 @@
         "check_date": "2024-05-11",
         "name": "Pennant Technologies",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -10755,7 +10762,14 @@
         "building": "yes",
         "name": "miracle software systems",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -16497,7 +16511,14 @@
         "check_date": "2024-02-11",
         "name": "Aeries Soft Tech Solutions",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22549,9 +22570,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-14T02:33:35+00:00",
+    "careers_notes": "https://www.vruux.com/jobs: HTTPError; https://www.vruux.com/jobs/: HTTPError; https://www.vruux.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -22576,6 +22597,14 @@
         "opening_hours": "Mo-Fr 09:00-17:00",
         "phone": "+91-9998331934",
         "website": "https://www.vruux.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-14T02:33:35+00:00",
+        "notes": "https://www.vruux.com/jobs: HTTPError; https://www.vruux.com/jobs/: HTTPError; https://www.vruux.com/career: HTTPError; no careers page detected"
       }
     }
   },
@@ -22589,12 +22618,12 @@
     "lng": 72.5096246,
     "website": "https://www.ljku.edu.in/program/engineering-new-lj-11",
     "phone": "18001210082",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://ljku.edu.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://ljku.edu.in/jobs",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-14T02:33:38+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=educational_institution",
       "description=New L J Institute of Engineering and Technology is a GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch.",
@@ -22629,7 +22658,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://ljku.edu.in/jobs",
+        "provider": "company_website",
+        "api_url": "http://ljku.edu.in/jobs",
+        "confidence": "medium",
+        "checked_at": "2026-06-14T02:33:38+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -31310,7 +31347,14 @@
         "name": "CP Plus Security Solutions",
         "operator": "Vibrant Technologies",
         "shop": "electronics"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -31346,7 +31390,14 @@
         "name": "Embeded technologies",
         "name:te": "ఎంబెడెడ్ టెక్నాలజీస్",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -31384,7 +31435,11 @@
       },
       "google_queries": [],
       "google_types": [],
-      "google_search_points": []
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -31419,7 +31474,14 @@
       "osm_tags": {
         "name": "TriGeo Technologies Private Limited",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -42903,7 +42965,14 @@
         "check_date": "2024-05-11",
         "name": "Infosys",
         "office": "it"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -45404,7 +45473,14 @@
         "amenity": "prep_school",
         "check_date": "2025-11-18",
         "name": "AIM Software Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48107,7 +48183,14 @@
         "opening_hours": "Mo-Sa 08:00-18:00",
         "phone": "8885730066",
         "website": "https://clovetech.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -55451,7 +55534,14 @@
         "name": "Sri Sai Teja Technologies",
         "phone": "+91 92480 73777; +91 92461 73777",
         "shop": "electrical"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -70919,7 +71009,14 @@
         "name": "Innovation centre for drone technologies",
         "office": "educational_institution",
         "operator": "Andhra University"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -70955,7 +71052,14 @@
         "building": "yes",
         "name": "Science and Technology Bhavan",
         "type": "multipolygon"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -70991,7 +71095,14 @@
         "check_date": "2025-11-18",
         "craft": "electronics_repair",
         "name": "Siri Infotech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71027,7 +71138,14 @@
         "check_date": "2025-11-18",
         "craft": "electronics_repair",
         "name": "Sree Silicon Technologies"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -71063,7 +71181,14 @@
         "check_date": "2026-05-06",
         "name": "Syam IT Solutions",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -72477,7 +72602,14 @@
         "check_date": "2026-05-06",
         "name": "Prologic Solutions",
         "shop": "computer"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
