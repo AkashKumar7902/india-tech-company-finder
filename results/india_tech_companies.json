@@ -42882,6 +42882,65 @@
     }
   },
   {
+    "name": "F.T. Solutions Pvt. Ltd.",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "A 278, Rd Number 16A, Ambica Nagar, Wagle Industrial Estate, Thane (West), 400604",
+    "lat": 19.2015476,
+    "lng": 72.9548316,
+    "website": "https://www.fts-pl.com/",
+    "phone": "+91 9152360678",
+    "careers_url": "https://www.fts-pl.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.fts-pl.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T15:34:41+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12829755257"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Thane (West)",
+        "addr:district": "Thane",
+        "addr:housenumber": "A 278",
+        "addr:postcode": "400604",
+        "addr:street": "Rd Number 16A, Ambica Nagar, Wagle Industrial Estate",
+        "image": "https://www.fts-pl.com/wp-content/uploads/2021/03/ftspl-logo-dark-320x96.png",
+        "name": "F.T. Solutions Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91 9152360678",
+        "website": "https://www.fts-pl.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.fts-pl.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.fts-pl.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T15:34:41+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Framestore",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -43006,6 +43065,66 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Impulse Digital",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "No. 5, Second Floor, Naupada, Dr. Moose Road, Thane, 400602",
+    "lat": 19.1929349,
+    "lng": 72.9735838,
+    "website": "https://www.theimpulsedigital.com/",
+    "phone": "022-25336112",
+    "careers_url": "https://www.theimpulsedigital.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.theimpulsedigital.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T15:34:45+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "building=residential"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4421752781"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Thane",
+        "addr:housename": "Sharadkunj",
+        "addr:housenumber": "No. 5, Second Floor, Naupada",
+        "addr:postcode": "400602",
+        "addr:street": "Dr. Moose Road",
+        "building": "residential",
+        "name": "Impulse Digital",
+        "office": "company",
+        "opening_hours": "10:00-19:00",
+        "phone": "022-25336112",
+        "website": "https://www.theimpulsedigital.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.theimpulsedigital.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.theimpulsedigital.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T15:34:45+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49310,125 +49429,6 @@
     }
   },
   {
-    "name": "F.T. Solutions Pvt. Ltd.",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "A 278, Rd Number 16A, Ambica Nagar, Wagle Industrial Estate, Thane (West), 400604",
-    "lat": 19.2015476,
-    "lng": 72.9548316,
-    "website": "https://www.fts-pl.com/",
-    "phone": "+91 9152360678",
-    "careers_url": "https://www.fts-pl.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.fts-pl.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T15:34:41+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12829755257"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Thane (West)",
-        "addr:district": "Thane",
-        "addr:housenumber": "A 278",
-        "addr:postcode": "400604",
-        "addr:street": "Rd Number 16A, Ambica Nagar, Wagle Industrial Estate",
-        "image": "https://www.fts-pl.com/wp-content/uploads/2021/03/ftspl-logo-dark-320x96.png",
-        "name": "F.T. Solutions Pvt. Ltd.",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91 9152360678",
-        "website": "https://www.fts-pl.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.fts-pl.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.fts-pl.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T15:34:41+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Impulse Digital",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "No. 5, Second Floor, Naupada, Dr. Moose Road, Thane, 400602",
-    "lat": 19.1929349,
-    "lng": 72.9735838,
-    "website": "https://www.theimpulsedigital.com/",
-    "phone": "022-25336112",
-    "careers_url": "https://www.theimpulsedigital.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.theimpulsedigital.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T15:34:45+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "building=residential"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4421752781"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: digital, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Thane",
-        "addr:housename": "Sharadkunj",
-        "addr:housenumber": "No. 5, Second Floor, Naupada",
-        "addr:postcode": "400602",
-        "addr:street": "Dr. Moose Road",
-        "building": "residential",
-        "name": "Impulse Digital",
-        "office": "company",
-        "opening_hours": "10:00-19:00",
-        "phone": "022-25336112",
-        "website": "https://www.theimpulsedigital.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.theimpulsedigital.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.theimpulsedigital.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T15:34:45+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Maker's Asylum",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -49543,9 +49543,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-15T17:26:46+00:00",
+    "careers_notes": "https://vutvs.com/jobs: HTTPError; https://vutvs.com/jobs/: HTTPError; https://vutvs.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=Founded in 2006 in California, Vu Technologies is an innovator and manufacturer of premium televisions and intelligent displays. The company has a revenue of Rs.1000 Cr ($130 Million) with over 3 Million TVs sold since inception. Vu Televisions specialize"
     ],
@@ -49576,7 +49576,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-15T17:26:46+00:00",
+        "notes": "https://vutvs.com/jobs: HTTPError; https://vutvs.com/jobs/: HTTPError; https://vutvs.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -49589,12 +49597,12 @@
     "lng": 79.0478892,
     "website": "https://www.elan-tech.net/",
     "phone": "+91-9822231642",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.elan-tech.net/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://elan-tech.net/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T17:26:49+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=graphic_design"
     ],
@@ -49626,7 +49634,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.elan-tech.net/careers/",
+        "provider": "company_website",
+        "api_url": "https://elan-tech.net/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T17:26:49+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
