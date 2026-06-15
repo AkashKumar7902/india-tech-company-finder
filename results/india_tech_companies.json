@@ -37936,6 +37936,65 @@
     }
   },
   {
+    "name": "Geocrat Technologies Private Limited",
+    "city": "Ghaziabad",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "UG-08, SG Alpha Tower 1, Sector 9, Vasundhara, Ghaziabad, 201012",
+    "lat": 28.6594882,
+    "lng": 77.3684606,
+    "website": "https://geocrat.com",
+    "phone": "+91 120 4553616",
+    "careers_url": "https://geocrat.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Montserrat",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T07:04:43+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=headquarters"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10994012707"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "UG-08, SG Alpha Tower 1",
+        "addr:postcode": "201012",
+        "addr:street": "Sector 9, Vasundhara",
+        "email": "info@geocrat.com",
+        "image": "https://gps.geocrat.in/media/erp/company/logo/Geocrat_Technologies_Logo_V15.0.png",
+        "name": "Geocrat Technologies Private Limited",
+        "office": "headquarters",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "+91 120 4553616",
+        "website": "https://geocrat.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://geocrat.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Montserrat",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T07:04:43+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Veda",
     "city": "Guntur",
     "region": "Andhra Pradesh",
@@ -47832,65 +47891,6 @@
     }
   },
   {
-    "name": "Geocrat Technologies Private Limited",
-    "city": "Ghaziabad",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "UG-08, SG Alpha Tower 1, Sector 9, Vasundhara, Ghaziabad, 201012",
-    "lat": 28.6594882,
-    "lng": 77.3684606,
-    "website": "https://geocrat.com",
-    "phone": "+91 120 4553616",
-    "careers_url": "https://geocrat.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Montserrat",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T07:04:43+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=headquarters"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10994012707"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ghaziabad",
-        "addr:housenumber": "UG-08, SG Alpha Tower 1",
-        "addr:postcode": "201012",
-        "addr:street": "Sector 9, Vasundhara",
-        "email": "info@geocrat.com",
-        "image": "https://gps.geocrat.in/media/erp/company/logo/Geocrat_Technologies_Logo_V15.0.png",
-        "name": "Geocrat Technologies Private Limited",
-        "office": "headquarters",
-        "opening_hours": "Mo-Sa 10:00-18:00",
-        "phone": "+91 120 4553616",
-        "website": "https://geocrat.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://geocrat.com/jobs",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Montserrat",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T07:04:43+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Bhavya Web Technologies Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -47996,12 +47996,12 @@
     "lng": 78.5655075,
     "website": "https://chartingnow.com",
     "phone": "+91 9885564260",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://chartingnow.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T09:19:34+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -48032,7 +48032,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://chartingnow.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T09:19:34+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -48045,12 +48053,12 @@
     "lng": 78.3689595,
     "website": "https://fleetronix.io",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://fleetronix.io/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T09:19:42+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -48080,7 +48088,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://fleetronix.io/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T09:19:42+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
