@@ -12790,22 +12790,22 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:12627866655"
+      "openstreetmap": "node:12627911775"
     },
     "tech_score": 56.0,
     "confidence": "high",
     "notes": "matched: technology, solutions, labs",
     "raw": {
       "osm_tags": {
-        "addr:city": "Ghaziabad",
-        "addr:housenumber": "Shop No. GF 05",
-        "addr:postcode": "201014",
-        "addr:street": "Parsvanath Majestic Arcade, Vaibhav Khand, Indirapuram",
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "Shop/Unit No. UGF 003",
+        "addr:postcode": "201306",
+        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
         "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
+        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
         "email": "info@kailashpathlabs.com",
         "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipOEWUABldwOSVjwBEcZJ2jJe2LF4s2vMO1Fv47x=s680-w680-h510",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
         "mobile": "+91-9911370370",
         "name": "Kailash Path Labs",
         "opening_hours": "Mo-Su 07:00-20:00",
@@ -34705,6 +34705,105 @@
     }
   },
   {
+    "name": "iBUYPC",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1st Floor, Ashok Tower, 88/1, Sadar Patrappa Rd, Bengaluru, 560002",
+    "lat": 12.964859,
+    "lng": 77.5837001,
+    "website": "https://ibuypc.in/",
+    "phone": "+919694699991",
+    "careers_url": "https://ibuypc.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T00:57:55+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=computer",
+      "description=iBUYPC designs and delivers custom-built PCs and branded components for gamers, creators, and businesses. The company offers systems for individual users (B2C) and scalable configurations with bulk procurement for businesses (B2B)."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12698412006"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:district": "Bengaluru Urban",
+        "addr:housenumber": "1st Floor, Ashok Tower, 88/1",
+        "addr:postcode": "560002",
+        "addr:street": "Sadar Patrappa Rd",
+        "air_conditioning": "yes",
+        "alt_name": "ibuypc",
+        "brand": "iBUYPC",
+        "contact:facebook": "https://www.facebook.com/ibuypc",
+        "currency:INR": "yes",
+        "description": "iBUYPC designs and delivers custom-built PCs and branded components for gamers, creators, and businesses. The company offers systems for individual users (B2C) and scalable configurations with bulk procurement for businesses (B2B).",
+        "email": "support@ibuypc.in",
+        "image": "https://ibuypc.in/cdn/shop/files/iBUYPC-brand-logo.png?v=1741330759",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "iBUYPC 5G",
+        "level": "1",
+        "mobile": "+919694699991",
+        "name": "iBUYPC",
+        "official_name": "IBUYPC",
+        "opening_hours": "Mo-Sa 10:30-20:30",
+        "operator": "Rudra Prosad Sen",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:bank_transfer": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:google_pay": "yes",
+        "payment:imps": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:mastercard_contactless": "yes",
+        "payment:neft": "yes",
+        "payment:net_banking": "yes",
+        "payment:paytm": "yes",
+        "payment:phonepe": "yes",
+        "payment:upi": "yes",
+        "payment:upi_qr": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "phone": "+919694699991",
+        "ref:vatin": "29CCMPR7908C1Z5",
+        "shop": "computer",
+        "start_date": "2025-01-10",
+        "website": "https://ibuypc.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://ibuypc.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T00:57:55+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Indiqube",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -46948,105 +47047,6 @@
     }
   },
   {
-    "name": "iBUYPC",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "1st Floor, Ashok Tower, 88/1, Sadar Patrappa Rd, Bengaluru, 560002",
-    "lat": 12.964859,
-    "lng": 77.5837001,
-    "website": "https://ibuypc.in/",
-    "phone": "+919694699991",
-    "careers_url": "https://ibuypc.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-15T00:57:55+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=computer",
-      "description=iBUYPC designs and delivers custom-built PCs and branded components for gamers, creators, and businesses. The company offers systems for individual users (B2C) and scalable configurations with bulk procurement for businesses (B2B)."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12698412006"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: systems, computer",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:country": "IN",
-        "addr:district": "Bengaluru Urban",
-        "addr:housenumber": "1st Floor, Ashok Tower, 88/1",
-        "addr:postcode": "560002",
-        "addr:street": "Sadar Patrappa Rd",
-        "air_conditioning": "yes",
-        "alt_name": "ibuypc",
-        "brand": "iBUYPC",
-        "contact:facebook": "https://www.facebook.com/ibuypc",
-        "currency:INR": "yes",
-        "description": "iBUYPC designs and delivers custom-built PCs and branded components for gamers, creators, and businesses. The company offers systems for individual users (B2C) and scalable configurations with bulk procurement for businesses (B2B).",
-        "email": "support@ibuypc.in",
-        "image": "https://ibuypc.in/cdn/shop/files/iBUYPC-brand-logo.png?v=1741330759",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "internet_access:ssid": "iBUYPC 5G",
-        "level": "1",
-        "mobile": "+919694699991",
-        "name": "iBUYPC",
-        "official_name": "IBUYPC",
-        "opening_hours": "Mo-Sa 10:30-20:30",
-        "operator": "Rudra Prosad Sen",
-        "payment:american_express": "yes",
-        "payment:apple_pay": "yes",
-        "payment:bank_transfer": "yes",
-        "payment:cash": "yes",
-        "payment:contactless": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:diners_club": "yes",
-        "payment:discover_card": "yes",
-        "payment:google_pay": "yes",
-        "payment:imps": "yes",
-        "payment:jcb": "yes",
-        "payment:mastercard": "yes",
-        "payment:mastercard_contactless": "yes",
-        "payment:neft": "yes",
-        "payment:net_banking": "yes",
-        "payment:paytm": "yes",
-        "payment:phonepe": "yes",
-        "payment:upi": "yes",
-        "payment:upi_qr": "yes",
-        "payment:visa": "yes",
-        "payment:visa_debit": "yes",
-        "phone": "+919694699991",
-        "ref:vatin": "29CCMPR7908C1Z5",
-        "shop": "computer",
-        "start_date": "2025-01-10",
-        "website": "https://ibuypc.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://ibuypc.in/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-15T00:57:55+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Nihon Communication Solutions Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -47203,9 +47203,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-15T01:58:11+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://radianttechups.com/jobs: ConnectionError; https://radianttechups.com/jobs/: ConnectionError; https://radianttechups.com/career: ConnectionError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -47233,7 +47233,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-15T01:58:11+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://radianttechups.com/jobs: ConnectionError; https://radianttechups.com/jobs/: ConnectionError; https://radianttechups.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -47249,9 +47257,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-15T01:58:12+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://www.saatviksolutions.com/jobs: SSLError; https://www.saatviksolutions.com/jobs/: SSLError; https://www.saatviksolutions.com/career: SSLError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -47283,7 +47291,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-15T01:58:12+00:00",
+        "notes": "homepage fetch failed: SSLError; https://www.saatviksolutions.com/jobs: SSLError; https://www.saatviksolutions.com/jobs/: SSLError; https://www.saatviksolutions.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
