@@ -43319,6 +43319,64 @@
     }
   },
   {
+    "name": "eLan Technology",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "21, Premier Technology Group, IT Park Road, Gayatri Nagar, Nagpur, 440022",
+    "lat": 21.1202655,
+    "lng": 79.0478892,
+    "website": "https://www.elan-tech.net/",
+    "phone": "+91-9822231642",
+    "careers_url": "https://www.elan-tech.net/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://elan-tech.net/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T17:26:49+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=graphic_design"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12048790789"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:district": "Nagpur",
+        "addr:housenumber": "21, Premier Technology Group",
+        "addr:postcode": "440022",
+        "addr:street": "IT Park Road, Gayatri Nagar",
+        "name": "eLan Technology",
+        "office": "graphic_design",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+91-9822231642",
+        "website": "https://www.elan-tech.net/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.elan-tech.net/careers/",
+        "provider": "company_website",
+        "api_url": "https://elan-tech.net/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T17:26:49+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Vodafone",
     "city": "New Delhi",
     "region": "Delhi",
@@ -49588,64 +49646,6 @@
     }
   },
   {
-    "name": "eLan Technology",
-    "city": "Nagpur",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "21, Premier Technology Group, IT Park Road, Gayatri Nagar, Nagpur, 440022",
-    "lat": 21.1202655,
-    "lng": 79.0478892,
-    "website": "https://www.elan-tech.net/",
-    "phone": "+91-9822231642",
-    "careers_url": "https://www.elan-tech.net/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://elan-tech.net/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T17:26:49+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=graphic_design"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12048790789"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Nagpur",
-        "addr:district": "Nagpur",
-        "addr:housenumber": "21, Premier Technology Group",
-        "addr:postcode": "440022",
-        "addr:street": "IT Park Road, Gayatri Nagar",
-        "name": "eLan Technology",
-        "office": "graphic_design",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "phone": "+91-9822231642",
-        "website": "https://www.elan-tech.net/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.elan-tech.net/careers/",
-        "provider": "company_website",
-        "api_url": "https://elan-tech.net/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T17:26:49+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Feminist Approach to Technology",
     "city": "New Delhi",
     "region": "Delhi",
@@ -49755,12 +49755,12 @@
     "lng": 77.4021198,
     "website": "https://garudauav.com",
     "phone": "9354915060",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://garudauav.com/join-us",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T18:55:14+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -49792,7 +49792,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://garudauav.com/join-us",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T18:55:14+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49805,12 +49813,12 @@
     "lng": 77.2553338,
     "website": "https://www.pointersoft.in/",
     "phone": "+91 9953327284",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.pointersoft.in/career.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.pointersoft.in/career.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T18:55:20+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -49839,7 +49847,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.pointersoft.in/career.html",
+        "provider": "company_website",
+        "api_url": "https://www.pointersoft.in/career.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T18:55:20+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
