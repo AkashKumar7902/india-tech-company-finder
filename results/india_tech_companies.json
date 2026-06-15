@@ -52221,12 +52221,12 @@
     "lng": 77.5907711,
     "website": "https://www.agiledgesolutions.com/",
     "phone": "080-23432343",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.agiledgesolutions.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.agiledgesolutions.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T22:08:31+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=computer"
     ],
@@ -52257,7 +52257,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.agiledgesolutions.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.agiledgesolutions.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T22:08:31+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52270,12 +52278,12 @@
     "lng": 77.6798965,
     "website": "https://www.altisource.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.altisource.com/about-us/news/press-release/2018/11/buffalo-ny-tops-list-of-best-places-to-live-for-career-focused-single-women/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.altisource.com/about-us/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T22:08:40+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -52304,7 +52312,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.altisource.com/about-us/news/press-release/2018/11/buffalo-ny-tops-list-of-best-places-to-live-for-career-focused-single-women/",
+        "provider": "company_website",
+        "api_url": "https://www.altisource.com/about-us/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T22:08:40+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
