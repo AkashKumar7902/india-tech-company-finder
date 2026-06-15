@@ -36986,6 +36986,66 @@
     }
   },
   {
+    "name": "ePropelled",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Gandhi Street, Chennai, 600088",
+    "lat": 12.9809542,
+    "lng": 80.1990653,
+    "website": "https://epropelled.com/",
+    "phone": "",
+    "careers_url": "https://epropelled.com/pages/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://epropelled.com/pages/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T05:15:36+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=industrial",
+      "description=ePropelled leads the electric propulsion motors industry with advanced systems and solutions customized for aerospace, unmanned aerial vehicles, unmanned ground vehicles, unmanned surface vehicles, unmanned sea vehicles, sustainability motors, connected s"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:938428422"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: systems, solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chennai",
+        "addr:district": "Chennai",
+        "addr:postcode": "600088",
+        "addr:street": "Gandhi Street",
+        "building": "industrial",
+        "building:levels": "9",
+        "description": "ePropelled leads the electric propulsion motors industry with advanced systems and solutions customized for aerospace, unmanned aerial vehicles, unmanned ground vehicles, unmanned surface vehicles, unmanned sea vehicles, sustainability motors, connected s",
+        "image": "https://epropelled.com/cdn/shop/files/APM30-Tilt-01.jpg?v=1736972530&width=1080",
+        "name": "ePropelled",
+        "note": "ePropelled specializes in electric propulsion motors for uncrewed vehicles.",
+        "website": "https://epropelled.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://epropelled.com/pages/careers",
+        "provider": "company_website",
+        "api_url": "https://epropelled.com/pages/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T05:15:36+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Free Software Foundation Tamil Nadu (FSFTN)",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -37529,6 +37589,63 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Zuan Technologies Private Limited",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "no 61, UI Colony 1st Cross St, chennai, 600024",
+    "lat": 13.0531356,
+    "lng": 80.2255306,
+    "website": "http://www.zuantechnology.com",
+    "phone": "04443534999",
+    "careers_url": "https://www.zuantechnologies.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.google.com/recaptcha/api.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T05:15:39+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:354843423"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "chennai",
+        "addr:housenumber": "no 61",
+        "addr:postcode": "600024",
+        "addr:street": "UI Colony 1st Cross St",
+        "building": "commercial",
+        "building:levels": "2nd floor",
+        "name": "Zuan Technologies Private Limited",
+        "phone": "04443534999",
+        "website": "http://www.zuantechnology.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.zuantechnologies.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.google.com/recaptcha/api.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T05:15:39+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -47550,123 +47667,6 @@
     }
   },
   {
-    "name": "ePropelled",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Gandhi Street, Chennai, 600088",
-    "lat": 12.9809542,
-    "lng": 80.1990653,
-    "website": "https://epropelled.com/",
-    "phone": "",
-    "careers_url": "https://epropelled.com/pages/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://epropelled.com/pages/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T05:15:36+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=industrial",
-      "description=ePropelled leads the electric propulsion motors industry with advanced systems and solutions customized for aerospace, unmanned aerial vehicles, unmanned ground vehicles, unmanned surface vehicles, unmanned sea vehicles, sustainability motors, connected s"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:938428422"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: systems, solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chennai",
-        "addr:district": "Chennai",
-        "addr:postcode": "600088",
-        "addr:street": "Gandhi Street",
-        "building": "industrial",
-        "building:levels": "9",
-        "description": "ePropelled leads the electric propulsion motors industry with advanced systems and solutions customized for aerospace, unmanned aerial vehicles, unmanned ground vehicles, unmanned surface vehicles, unmanned sea vehicles, sustainability motors, connected s",
-        "image": "https://epropelled.com/cdn/shop/files/APM30-Tilt-01.jpg?v=1736972530&width=1080",
-        "name": "ePropelled",
-        "note": "ePropelled specializes in electric propulsion motors for uncrewed vehicles.",
-        "website": "https://epropelled.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://epropelled.com/pages/careers",
-        "provider": "company_website",
-        "api_url": "https://epropelled.com/pages/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T05:15:36+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Zuan Technologies Private Limited",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "no 61, UI Colony 1st Cross St, chennai, 600024",
-    "lat": 13.0531356,
-    "lng": 80.2255306,
-    "website": "http://www.zuantechnology.com",
-    "phone": "04443534999",
-    "careers_url": "https://www.zuantechnologies.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.google.com/recaptcha/api.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T05:15:39+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:354843423"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "chennai",
-        "addr:housenumber": "no 61",
-        "addr:postcode": "600024",
-        "addr:street": "UI Colony 1st Cross St",
-        "building": "commercial",
-        "building:levels": "2nd floor",
-        "name": "Zuan Technologies Private Limited",
-        "phone": "04443534999",
-        "website": "http://www.zuantechnology.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.zuantechnologies.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.google.com/recaptcha/api.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T05:15:39+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Lakshmi Technology and Engineering Industries Limited",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -47784,9 +47784,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-15T07:04:40+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://searchpin.in/jobs: HTTPError; https://searchpin.in/jobs/: HTTPError; https://searchpin.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency",
       "description=Search Pin is a leading digital marketing company in Coimbatore, offering a range of services to boost your online presence. From SEO and PPC to social media marketing and web development, their expert team ensures tailored solutions for every business."
@@ -47820,7 +47820,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-15T07:04:40+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://searchpin.in/jobs: HTTPError; https://searchpin.in/jobs/: HTTPError; https://searchpin.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -47833,12 +47841,12 @@
     "lng": 77.3684606,
     "website": "https://geocrat.com",
     "phone": "+91 120 4553616",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://geocrat.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Montserrat",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T07:04:43+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=headquarters"
     ],
@@ -47871,7 +47879,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://geocrat.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Montserrat",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T07:04:43+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
