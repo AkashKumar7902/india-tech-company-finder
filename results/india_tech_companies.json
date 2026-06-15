@@ -44507,6 +44507,61 @@
     }
   },
   {
+    "name": "Persistent Systems Ramanujan",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Blue Ridge Road, Phase 1, Pune, 411057",
+    "lat": 18.5820109,
+    "lng": 73.7356,
+    "website": "https://www.persistent.com/",
+    "phone": "",
+    "careers_url": "https://careers.persistent.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T20:09:51+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10692524033"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411057",
+        "addr:street": "Blue Ridge Road, Phase 1",
+        "name": "Persistent Systems Ramanujan",
+        "office": "company",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "website": "https://www.persistent.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.persistent.com/",
+        "provider": "company_website",
+        "api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T20:09:51+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "PubMatic",
     "city": "Pune",
     "region": "Maharashtra",
@@ -44773,6 +44828,63 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "VirtuBox Infotech Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No. 14, 1st floor, Sparklink Lamour, Bhumkar Chowk Rd, near Ginger hotel, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033, Pune, 411033",
+    "lat": 18.6078193,
+    "lng": 73.7519513,
+    "website": "https://www.virtubox.io/",
+    "phone": "07972289981",
+    "careers_url": "https://www.virtubox.io/in",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T20:09:57+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11953308948"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, office=it; negative hints: hotel",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Maharashtra",
+        "addr:postcode": "411033",
+        "addr:street": "Office No. 14, 1st floor, Sparklink Lamour, Bhumkar Chowk Rd, near Ginger hotel, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033",
+        "name": "VirtuBox Infotech Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "07972289981",
+        "website": "https://www.virtubox.io/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.virtubox.io/in",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T20:09:57+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49954,118 +50066,6 @@
     }
   },
   {
-    "name": "Persistent Systems Ramanujan",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Blue Ridge Road, Phase 1, Pune, 411057",
-    "lat": 18.5820109,
-    "lng": 73.7356,
-    "website": "https://www.persistent.com/",
-    "phone": "",
-    "careers_url": "https://careers.persistent.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T20:09:51+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10692524033"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:postcode": "411057",
-        "addr:street": "Blue Ridge Road, Phase 1",
-        "name": "Persistent Systems Ramanujan",
-        "office": "company",
-        "opening_hours": "Mo-Sa 08:00-18:00",
-        "website": "https://www.persistent.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://careers.persistent.com/",
-        "provider": "company_website",
-        "api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T20:09:51+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "VirtuBox Infotech Pvt Ltd",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Office No. 14, 1st floor, Sparklink Lamour, Bhumkar Chowk Rd, near Ginger hotel, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033, Pune, 411033",
-    "lat": 18.6078193,
-    "lng": 73.7519513,
-    "website": "https://www.virtubox.io/",
-    "phone": "07972289981",
-    "careers_url": "https://www.virtubox.io/in",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-15T20:09:57+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11953308948"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: infotech, office=it; negative hints: hotel",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:district": "Maharashtra",
-        "addr:postcode": "411033",
-        "addr:street": "Office No. 14, 1st floor, Sparklink Lamour, Bhumkar Chowk Rd, near Ginger hotel, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033",
-        "name": "VirtuBox Infotech Pvt Ltd",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "07972289981",
-        "website": "https://www.virtubox.io/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.virtubox.io/in",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-15T20:09:57+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Rx infotech Pvt Ltd",
     "city": "Raipur",
     "region": "Chhattisgarh",
@@ -52019,9 +52019,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-15T21:18:35+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://redturtle.in/jobs: ConnectTimeout; https://redturtle.in/jobs/: ConnectTimeout; https://redturtle.in/career: ConnectTimeout; no careers page detected",
     "categories": [
       "description=Mobile Apps and Web Development Company - Develop apps in iPhone, Android and Website in WordPress, Magento, Laravel, PrestaShop."
     ],
@@ -52054,7 +52054,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-15T21:18:35+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://redturtle.in/jobs: ConnectTimeout; https://redturtle.in/jobs/: ConnectTimeout; https://redturtle.in/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -52070,9 +52078,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-15T21:20:07+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://aadinex.in/jobs: ConnectionError; https://aadinex.in/jobs/: ConnectionError; https://aadinex.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -52099,7 +52107,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-15T21:20:07+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://aadinex.in/jobs: ConnectionError; https://aadinex.in/jobs/: ConnectionError; https://aadinex.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
