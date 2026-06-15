@@ -40393,6 +40393,59 @@
     }
   },
   {
+    "name": "Transguard Electrical Systems",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "500055",
+    "lat": 17.5299024,
+    "lng": 78.458329,
+    "website": "http://www.transguard.in",
+    "phone": "",
+    "careers_url": "http://www.transguard.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://www.transguard.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.transguard.in%2Fcareers%2F",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T11:26:05+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13760072401"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "500055",
+        "check_date": "2026-04-25",
+        "name": "Transguard Electrical Systems",
+        "office": "company",
+        "website": "http://www.transguard.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "http://www.transguard.in/careers/",
+        "provider": "company_website",
+        "api_url": "http://www.transguard.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.transguard.in%2Fcareers%2F",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T11:26:05+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ux reactor india pvt",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -44616,7 +44669,14 @@
         "opening_hours": "Mo-Fr 09:30-17:30",
         "smoking": "no",
         "wheelchair": "yes"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -48878,59 +48938,6 @@
     }
   },
   {
-    "name": "Transguard Electrical Systems",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "500055",
-    "lat": 17.5299024,
-    "lng": 78.458329,
-    "website": "http://www.transguard.in",
-    "phone": "",
-    "careers_url": "http://www.transguard.in/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "http://www.transguard.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.transguard.in%2Fcareers%2F",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-15T11:26:05+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13760072401"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "500055",
-        "check_date": "2026-04-25",
-        "name": "Transguard Electrical Systems",
-        "office": "company",
-        "website": "http://www.transguard.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "http://www.transguard.in/careers/",
-        "provider": "company_website",
-        "api_url": "http://www.transguard.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.transguard.in%2Fcareers%2F",
-        "confidence": "medium",
-        "checked_at": "2026-06-15T11:26:05+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Ramraj Associates",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -49100,12 +49107,12 @@
     "lng": 76.3493921,
     "website": "https://codingcampuz.com/",
     "phone": "+91-8129-766988",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://codingcampuz.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T13:31:58+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=educational_institution"
     ],
@@ -49138,7 +49145,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://codingcampuz.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T13:31:58+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49151,12 +49166,12 @@
     "lng": 72.8183418,
     "website": "https://www.adityagroup.com/",
     "phone": "+912265523332",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.adityagroup.com/life-at-aditya-group",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T13:32:02+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "craft=electronics_repair"
     ],
@@ -49187,7 +49202,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.adityagroup.com/life-at-aditya-group",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T13:32:02+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
