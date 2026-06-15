@@ -41897,6 +41897,65 @@
     }
   },
   {
+    "name": "S-TECHNOLOGIES",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "3rd Floor, Mather Esperanza, Seaport Airport Road, Kochi, 682037",
+    "lat": 9.999702,
+    "lng": 76.3493921,
+    "website": "https://codingcampuz.com/",
+    "phone": "+91-8129-766988",
+    "careers_url": "https://codingcampuz.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T13:31:58+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13326395518"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "3rd Floor, Mather Esperanza",
+        "addr:postcode": "682037",
+        "addr:street": "Seaport Airport Road",
+        "air_conditioning": "yes",
+        "name": "S-TECHNOLOGIES",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+91-8129-766988",
+        "website": "https://codingcampuz.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://codingcampuz.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T13:31:58+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "SGI Netronics",
     "city": "Kochi",
     "region": "Kerala",
@@ -42591,6 +42650,63 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Aditya Infotech Asia Private Limited",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Tyre Terrace Building, 205/207, 1st floor, Dr, Lamington Rd, above Ali bhai Premji Tyre wala, Grant Road East, Mumbai, 400007",
+    "lat": 18.9635782,
+    "lng": 72.8183418,
+    "website": "https://www.adityagroup.com/",
+    "phone": "+912265523332",
+    "careers_url": "https://www.adityagroup.com/life-at-aditya-group",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-15T13:32:02+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "craft=electronics_repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7920057610"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai",
+        "addr:housenumber": "Tyre Terrace Building, 205/207, 1st floor, Dr, Lamington Rd, above Ali bhai Premji Tyre wala",
+        "addr:postcode": "400007",
+        "addr:street": "Grant Road East",
+        "check_date": "2026-03-20",
+        "craft": "electronics_repair",
+        "name": "Aditya Infotech Asia Private Limited",
+        "phone": "+912265523332",
+        "website": "https://www.adityagroup.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.adityagroup.com/life-at-aditya-group",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-15T13:32:02+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49098,122 +49214,6 @@
     }
   },
   {
-    "name": "S-TECHNOLOGIES",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "3rd Floor, Mather Esperanza, Seaport Airport Road, Kochi, 682037",
-    "lat": 9.999702,
-    "lng": 76.3493921,
-    "website": "https://codingcampuz.com/",
-    "phone": "+91-8129-766988",
-    "careers_url": "https://codingcampuz.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-15T13:31:58+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=educational_institution"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13326395518"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Kochi",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "3rd Floor, Mather Esperanza",
-        "addr:postcode": "682037",
-        "addr:street": "Seaport Airport Road",
-        "air_conditioning": "yes",
-        "name": "S-TECHNOLOGIES",
-        "office": "educational_institution",
-        "opening_hours": "Mo-Su 06:00-22:00",
-        "phone": "+91-8129-766988",
-        "website": "https://codingcampuz.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://codingcampuz.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-15T13:31:58+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Aditya Infotech Asia Private Limited",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Tyre Terrace Building, 205/207, 1st floor, Dr, Lamington Rd, above Ali bhai Premji Tyre wala, Grant Road East, Mumbai, 400007",
-    "lat": 18.9635782,
-    "lng": 72.8183418,
-    "website": "https://www.adityagroup.com/",
-    "phone": "+912265523332",
-    "careers_url": "https://www.adityagroup.com/life-at-aditya-group",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-15T13:32:02+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "craft=electronics_repair"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7920057610"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: infotech",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mumbai",
-        "addr:housenumber": "Tyre Terrace Building, 205/207, 1st floor, Dr, Lamington Rd, above Ali bhai Premji Tyre wala",
-        "addr:postcode": "400007",
-        "addr:street": "Grant Road East",
-        "check_date": "2026-03-20",
-        "craft": "electronics_repair",
-        "name": "Aditya Infotech Asia Private Limited",
-        "phone": "+912265523332",
-        "website": "https://www.adityagroup.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.adityagroup.com/life-at-aditya-group",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-15T13:32:02+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Datacomp Web Technologies (I) Pvt. Ltd.",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -49319,12 +49319,12 @@
     "lng": 72.9548316,
     "website": "https://www.fts-pl.com/",
     "phone": "+91 9152360678",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.fts-pl.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.fts-pl.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T15:34:41+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -49357,7 +49357,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.fts-pl.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.fts-pl.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T15:34:41+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49370,12 +49378,12 @@
     "lng": 72.9735838,
     "website": "https://www.theimpulsedigital.com/",
     "phone": "022-25336112",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.theimpulsedigital.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.theimpulsedigital.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-15T15:34:45+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "building=residential"
@@ -49409,7 +49417,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.theimpulsedigital.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.theimpulsedigital.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-15T15:34:45+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
