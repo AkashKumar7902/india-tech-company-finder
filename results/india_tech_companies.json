@@ -48266,6 +48266,63 @@
     }
   },
   {
+    "name": "Centre for Quantum Science & Technology",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "Old Bombay Road, Hyderabad, 500032",
+    "lat": 17.4455917,
+    "lng": 78.349991,
+    "website": "https://cqst.iiit.ac.in/",
+    "phone": "",
+    "careers_url": "https://cqst.iiit.ac.in/openings/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cqst.iiit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcqst.iiit.ac.in%2Fopenings%2F",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T04:01:59+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=research"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13545320662"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Hyderabad",
+        "addr:district": "Telangana",
+        "addr:postcode": "500032",
+        "addr:street": "Old Bombay Road",
+        "level": "2",
+        "name": "Centre for Quantum Science & Technology",
+        "office": "research",
+        "short_name": "CQST",
+        "website": "https://cqst.iiit.ac.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://cqst.iiit.ac.in/openings/",
+        "provider": "company_website",
+        "api_url": "https://cqst.iiit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcqst.iiit.ac.in%2Fopenings%2F",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T04:01:59+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Agni Solar Systems Pvt Ltd",
     "city": "Pune",
     "region": "Maharashtra",
@@ -53510,63 +53567,6 @@
     }
   },
   {
-    "name": "Centre for Quantum Science & Technology",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "Old Bombay Road, Hyderabad, 500032",
-    "lat": 17.4455917,
-    "lng": 78.349991,
-    "website": "https://cqst.iiit.ac.in/",
-    "phone": "",
-    "careers_url": "https://cqst.iiit.ac.in/openings/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://cqst.iiit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcqst.iiit.ac.in%2Fopenings%2F",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T04:01:59+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=research"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13545320662"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Hyderabad",
-        "addr:district": "Telangana",
-        "addr:postcode": "500032",
-        "addr:street": "Old Bombay Road",
-        "level": "2",
-        "name": "Centre for Quantum Science & Technology",
-        "office": "research",
-        "short_name": "CQST",
-        "website": "https://cqst.iiit.ac.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://cqst.iiit.ac.in/openings/",
-        "provider": "company_website",
-        "api_url": "https://cqst.iiit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcqst.iiit.ac.in%2Fopenings%2F",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T04:01:59+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Digital Mojo",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -53671,12 +53671,12 @@
     "lng": 78.4732248,
     "website": "http://aviationspaceindia.com/content/vem-technologies-pvtltd",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "http://www.aviationspaceindia.com/news/ministry-civil-aviation-launches-aviation-jobs-portal",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://www.aviationspaceindia.com/news/ministry-civil-aviation-launches-aviation-jobs-portal",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T06:04:09+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -53699,7 +53699,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "http://www.aviationspaceindia.com/news/ministry-civil-aviation-launches-aviation-jobs-portal",
+        "provider": "company_website",
+        "api_url": "http://www.aviationspaceindia.com/news/ministry-civil-aviation-launches-aviation-jobs-portal",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T06:04:09+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -53715,9 +53723,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T06:04:19+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.cat.gov.in/jobs: ConnectionError; http://www.cat.gov.in/jobs/: ConnectionError; http://www.cat.gov.in/career: ConnectionError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -53743,7 +53751,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T06:04:19+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.cat.gov.in/jobs: ConnectionError; http://www.cat.gov.in/jobs/: ConnectionError; http://www.cat.gov.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
