@@ -74498,6 +74498,65 @@
     }
   },
   {
+    "name": "SEO Giants",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B-401, Arham Purex SEO Giants Amrapali Lakeview, Vastrapur, Ahmedabad, 380054",
+    "lat": 23.0397947,
+    "lng": 72.529108,
+    "website": "https://www.seogiants.in/",
+    "phone": "09574474443",
+    "careers_url": "https://www.seogiants.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-16T23:23:20+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=marketing",
+      "description=Take your business to the next level. Get expert SEO and Digital Marketing services to grow your business. Get visible, Get Ahead - Free Consultation!"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12526016934"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "B-401",
+        "addr:postcode": "380054",
+        "addr:street": "Arham Purex SEO Giants Amrapali Lakeview, Vastrapur",
+        "description": "Take your business to the next level. Get expert SEO and Digital Marketing services to grow your business. Get visible, Get Ahead - Free Consultation!",
+        "name": "SEO Giants",
+        "office": "marketing",
+        "opening_hours": "Mon - Fri: 9am - 7pm Sat - Sun: Closed",
+        "phone": "09574474443",
+        "website": "https://www.seogiants.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.seogiants.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-16T23:23:20+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CloudJet Labs",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -76312,65 +76371,6 @@
     }
   },
   {
-    "name": "SEO Giants",
-    "city": "Ahmedabad",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "B-401, Arham Purex SEO Giants Amrapali Lakeview, Vastrapur, Ahmedabad, 380054",
-    "lat": 23.0397947,
-    "lng": 72.529108,
-    "website": "https://www.seogiants.in/",
-    "phone": "09574474443",
-    "careers_url": "https://www.seogiants.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-16T23:23:20+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=marketing",
-      "description=Take your business to the next level. Get expert SEO and Digital Marketing services to grow your business. Get visible, Get Ahead - Free Consultation!"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12526016934"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ahmedabad",
-        "addr:housenumber": "B-401",
-        "addr:postcode": "380054",
-        "addr:street": "Arham Purex SEO Giants Amrapali Lakeview, Vastrapur",
-        "description": "Take your business to the next level. Get expert SEO and Digital Marketing services to grow your business. Get visible, Get Ahead - Free Consultation!",
-        "name": "SEO Giants",
-        "office": "marketing",
-        "opening_hours": "Mon - Fri: 9am - 7pm Sat - Sun: Closed",
-        "phone": "09574474443",
-        "website": "https://www.seogiants.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.seogiants.in/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-16T23:23:20+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Cloudphysician",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -76479,9 +76479,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T23:59:25+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://1infoservices.com/jobs: ConnectionError; http://1infoservices.com/jobs/: ConnectionError; http://1infoservices.com/career: ConnectionError; no careers page detected",
     "categories": [
       "craft=electronics_repair"
     ],
@@ -76510,7 +76510,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T23:59:25+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://1infoservices.com/jobs: ConnectionError; http://1infoservices.com/jobs/: ConnectionError; http://1infoservices.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -76526,9 +76534,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T23:59:27+00:00",
+    "careers_notes": "https://www.house360.in/jobs: HTTPError; https://www.house360.in/jobs/: HTTPError; https://www.house360.in/career: HTTPError; no careers page detected",
     "categories": [
       "shop=wallpaper",
       "description=House360 in is a leading provider of custom wallpaper solutions in Bengaluru. We specialize in designing high-quality, personalized wallpapers for both residential and commercial spaces."
@@ -76566,7 +76574,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T23:59:27+00:00",
+        "notes": "https://www.house360.in/jobs: HTTPError; https://www.house360.in/jobs/: HTTPError; https://www.house360.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
