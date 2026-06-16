@@ -76124,9 +76124,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T23:21:46+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://www.integramicro.com/jobs: ConnectTimeout; https://www.integramicro.com/jobs/: ConnectTimeout; https://www.integramicro.com/career: ConnectTimeout; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -76155,7 +76155,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T23:21:46+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://www.integramicro.com/jobs: ConnectTimeout; https://www.integramicro.com/jobs/: ConnectTimeout; https://www.integramicro.com/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -76313,12 +76321,12 @@
     "lng": 72.529108,
     "website": "https://www.seogiants.in/",
     "phone": "09574474443",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.seogiants.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-16T23:23:20+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=marketing",
       "description=Take your business to the next level. Get expert SEO and Digital Marketing services to grow your business. Get visible, Get Ahead - Free Consultation!"
@@ -76351,7 +76359,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.seogiants.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-16T23:23:20+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
