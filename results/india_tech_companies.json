@@ -48710,6 +48710,60 @@
     }
   },
   {
+    "name": "SEED Infotech Nalanda centre",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.501148,
+    "lng": 73.8253956,
+    "website": "https://seedinfotech.com/",
+    "phone": "",
+    "careers_url": "https://www.seedinfotech.com/events/tech-career-fest-2025",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/3e0417bf-8373-4862-b1ee-0ce6ac2bbb09",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T17:33:47+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=educational_institution",
+      "description=IT education"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5253715090"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "description": "IT education",
+        "name": "SEED Infotech Nalanda centre",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Su 09:30-18:00",
+        "website": "https://seedinfotech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.seedinfotech.com/events/tech-career-fest-2025",
+        "provider": "company_website",
+        "api_url": "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/3e0417bf-8373-4862-b1ee-0ce6ac2bbb09",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T17:33:47+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Omikron Systems",
     "city": "Vadodara",
     "region": "Gujarat",
@@ -54951,60 +55005,6 @@
     }
   },
   {
-    "name": "SEED Infotech Nalanda centre",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "",
-    "lat": 18.501148,
-    "lng": 73.8253956,
-    "website": "https://seedinfotech.com/",
-    "phone": "",
-    "careers_url": "https://www.seedinfotech.com/events/tech-career-fest-2025",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/3e0417bf-8373-4862-b1ee-0ce6ac2bbb09",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T17:33:47+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=educational_institution",
-      "description=IT education"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5253715090"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: infotech",
-    "raw": {
-      "osm_tags": {
-        "description": "IT education",
-        "name": "SEED Infotech Nalanda centre",
-        "office": "educational_institution",
-        "opening_hours": "Mo-Su 09:30-18:00",
-        "website": "https://seedinfotech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.seedinfotech.com/events/tech-career-fest-2025",
-        "provider": "company_website",
-        "api_url": "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/3e0417bf-8373-4862-b1ee-0ce6ac2bbb09",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T17:33:47+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "synthesys solutions pvt. ltd",
     "city": "Pune",
     "region": "Maharashtra",
@@ -55111,9 +55111,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T18:57:35+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://vidnyankendra.neocities.org/jobs: HTTPError; https://vidnyankendra.neocities.org/jobs/: HTTPError; https://vidnyankendra.neocities.org/career: HTTPError; no careers page detected",
     "categories": [
       "description=Vidnyan Kendra is a Peoples' Science and Technology Movement."
     ],
@@ -55146,7 +55146,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T18:57:35+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://vidnyankendra.neocities.org/jobs: HTTPError; https://vidnyankendra.neocities.org/jobs/: HTTPError; https://vidnyankendra.neocities.org/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -55162,9 +55170,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T18:57:37+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://risingstarinfotech.com/jobs: ConnectionError; https://risingstarinfotech.com/jobs/: ConnectionError; https://risingstarinfotech.com/career: ConnectionError; no careers page detected",
     "categories": [
       "description=Developing High-Performance\nWebsites and Mobile Apps that Drive Results"
     ],
@@ -55189,7 +55197,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T18:57:37+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://risingstarinfotech.com/jobs: ConnectionError; https://risingstarinfotech.com/jobs/: ConnectionError; https://risingstarinfotech.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
