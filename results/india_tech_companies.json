@@ -52852,9 +52852,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T00:14:33+00:00",
+    "careers_notes": "https://www.proche.in/jobs: HTTPError; https://www.proche.in/jobs/: HTTPError; https://www.proche.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -52879,7 +52879,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T00:14:33+00:00",
+        "notes": "https://www.proche.in/jobs: HTTPError; https://www.proche.in/jobs/: HTTPError; https://www.proche.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -52892,12 +52900,12 @@
     "lng": 77.6449673,
     "website": "https://www.saartha.com/",
     "phone": "+91 9900743078",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.saartha.com/plan",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://panorama.wixapps.net/api/v1/bulklog",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T00:14:35+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -52929,7 +52937,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.saartha.com/plan",
+        "provider": "company_website",
+        "api_url": "https://panorama.wixapps.net/api/v1/bulklog",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T00:14:35+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
