@@ -54492,9 +54492,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T13:57:25+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.aksnetworkingsolutions.com/jobs: ConnectionError; https://www.aksnetworkingsolutions.com/jobs/: ConnectionError; https://www.aksnetworkingsolutions.com/career: ConnectionError; no careers page detected",
     "categories": [
       "shop=computer"
     ],
@@ -54530,7 +54530,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T13:57:25+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.aksnetworkingsolutions.com/jobs: ConnectionError; https://www.aksnetworkingsolutions.com/jobs/: ConnectionError; https://www.aksnetworkingsolutions.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -54543,12 +54551,12 @@
     "lng": 77.3774002,
     "website": "https://neuweg.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://neuweg.co.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://neuweg.co.in/_next/static/chunks/app/careers/page-b1174a459dcb1405.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T13:57:27+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=commercial"
     ],
@@ -54577,7 +54585,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://neuweg.co.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://neuweg.co.in/_next/static/chunks/app/careers/page-b1174a459dcb1405.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T13:57:27+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
