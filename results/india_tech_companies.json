@@ -11905,7 +11905,14 @@
         "building": "office",
         "name": "Software Technology Park India",
         "name:ur": "سافٹ ویئر ٹیکنالوجی پارک انڈیا"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -49382,6 +49389,64 @@
     }
   },
   {
+    "name": "Micro Labs Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "31, Race Course Road, Bengaluru, 560001",
+    "lat": 12.9843016,
+    "lng": 77.5789851,
+    "website": "https://www.microlabsltd.com/",
+    "phone": "",
+    "careers_url": "https://www.microlabsltd.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.microlabsltd.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T21:16:56+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7276500339"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: labs, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:hamlet": "Gandhi Nagar",
+        "addr:housenumber": "31",
+        "addr:postcode": "560001",
+        "addr:street": "Race Course Road",
+        "alt_name": "Microlabs",
+        "name": "Micro Labs Limited",
+        "office": "company",
+        "website": "https://www.microlabsltd.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.microlabsltd.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.microlabsltd.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T21:16:56+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Nihon Communication Solutions Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -49634,6 +49699,61 @@
         "confidence": "none",
         "checked_at": "2026-06-15T01:58:12+00:00",
         "notes": "homepage fetch failed: SSLError; https://www.saatviksolutions.com/jobs: SSLError; https://www.saatviksolutions.com/jobs/: SSLError; https://www.saatviksolutions.com/career: SSLError; no careers page detected"
+      }
+    }
+  },
+  {
+    "name": "Safepro Video Security Research Labs",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "122, 3rd Main Rd, C-Wing, Gruhalakshmi Layout, II stage, Basaweshwara Nagar, Bengaluru, Karnataka 560079, Bangalore, 560079",
+    "lat": 12.9944484,
+    "lng": 77.5323882,
+    "website": "https://www.safepro.tech/",
+    "phone": "",
+    "careers_url": "https://www.safepro.tech/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-16T21:17:00+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6451583824"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: labs, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "122",
+        "addr:postcode": "560079",
+        "addr:street": "3rd Main Rd, C-Wing, Gruhalakshmi Layout, II stage, Basaweshwara Nagar, Bengaluru, Karnataka 560079",
+        "name": "Safepro Video Security Research Labs",
+        "office": "company",
+        "website": "https://www.safepro.tech/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.safepro.tech/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-16T21:17:00+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -55798,119 +55918,6 @@
     }
   },
   {
-    "name": "Micro Labs Limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "31, Race Course Road, Bengaluru, 560001",
-    "lat": 12.9843016,
-    "lng": 77.5789851,
-    "website": "https://www.microlabsltd.com/",
-    "phone": "",
-    "careers_url": "https://www.microlabsltd.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.microlabsltd.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T21:16:56+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7276500339"
-    },
-    "tech_score": 30.0,
-    "confidence": "low",
-    "notes": "matched: labs, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:country": "IN",
-        "addr:hamlet": "Gandhi Nagar",
-        "addr:housenumber": "31",
-        "addr:postcode": "560001",
-        "addr:street": "Race Course Road",
-        "alt_name": "Microlabs",
-        "name": "Micro Labs Limited",
-        "office": "company",
-        "website": "https://www.microlabsltd.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.microlabsltd.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.microlabsltd.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T21:16:56+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Safepro Video Security Research Labs",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "122, 3rd Main Rd, C-Wing, Gruhalakshmi Layout, II stage, Basaweshwara Nagar, Bengaluru, Karnataka 560079, Bangalore, 560079",
-    "lat": 12.9944484,
-    "lng": 77.5323882,
-    "website": "https://www.safepro.tech/",
-    "phone": "",
-    "careers_url": "https://www.safepro.tech/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-16T21:17:00+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6451583824"
-    },
-    "tech_score": 30.0,
-    "confidence": "low",
-    "notes": "matched: labs, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "122",
-        "addr:postcode": "560079",
-        "addr:street": "3rd Main Rd, C-Wing, Gruhalakshmi Layout, II stage, Basaweshwara Nagar, Bengaluru, Karnataka 560079",
-        "name": "Safepro Video Security Research Labs",
-        "office": "company",
-        "website": "https://www.safepro.tech/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.safepro.tech/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-16T21:17:00+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "SAP Labs India Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -56016,9 +56023,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T22:05:35+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; http://www.aimindiatrust.org/jobs: ConnectTimeout; http://www.aimindiatrust.org/jobs/: ConnectTimeout; http://www.aimindiatrust.org/career: ConnectTimeout; no careers page detected",
     "categories": [
       "shop=computer"
     ],
@@ -56047,7 +56054,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T22:05:35+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; http://www.aimindiatrust.org/jobs: ConnectTimeout; http://www.aimindiatrust.org/jobs/: ConnectTimeout; http://www.aimindiatrust.org/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -56063,9 +56078,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T22:07:07+00:00",
+    "careers_notes": "https://accounts.google.com/jobs: HTTPError; https://accounts.google.com/jobs/: HTTPError; https://accounts.google.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=computer"
     ],
@@ -56094,7 +56109,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T22:07:07+00:00",
+        "notes": "https://accounts.google.com/jobs: HTTPError; https://accounts.google.com/jobs/: HTTPError; https://accounts.google.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -64566,7 +64589,14 @@
         "addr:street": "Navanagar",
         "landuse": "industrial",
         "name": "N. S. Infotech Ltd"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
