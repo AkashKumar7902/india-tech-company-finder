@@ -48372,6 +48372,61 @@
     }
   },
   {
+    "name": "Taski Technologies",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "43/203 1st Floor, PPJC Tower Kalavat, Kalavath Road, Palarivattom, 682025",
+    "lat": 10.0034577,
+    "lng": 76.309337,
+    "website": "https://www.taski.in/",
+    "phone": "",
+    "careers_url": "https://www.taski.in/wp-sitemap-posts-awsm_job_openings-1.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.taski.in/jobs/management-trainee-systems-operations/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T08:18:08+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9992466633"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Palarivattom",
+        "addr:housenumber": "43/203 1st Floor, PPJC Tower Kalavat",
+        "addr:postcode": "682025",
+        "addr:street": "Kalavath Road",
+        "name": "Taski Technologies",
+        "office": "yes",
+        "website": "https://www.taski.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.taski.in/wp-sitemap-posts-awsm_job_openings-1.xml",
+        "provider": "company_website",
+        "api_url": "https://www.taski.in/jobs/management-trainee-systems-operations/",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T08:18:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Agni Solar Systems Pvt Ltd",
     "city": "Pune",
     "region": "Maharashtra",
@@ -53923,61 +53978,6 @@
     }
   },
   {
-    "name": "Taski Technologies",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "43/203 1st Floor, PPJC Tower Kalavat, Kalavath Road, Palarivattom, 682025",
-    "lat": 10.0034577,
-    "lng": 76.309337,
-    "website": "https://www.taski.in/",
-    "phone": "",
-    "careers_url": "https://www.taski.in/wp-sitemap-posts-awsm_job_openings-1.xml",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.taski.in/jobs/management-trainee-systems-operations/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T08:18:08+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9992466633"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Palarivattom",
-        "addr:housenumber": "43/203 1st Floor, PPJC Tower Kalavat",
-        "addr:postcode": "682025",
-        "addr:street": "Kalavath Road",
-        "name": "Taski Technologies",
-        "office": "yes",
-        "website": "https://www.taski.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.taski.in/wp-sitemap-posts-awsm_job_openings-1.xml",
-        "provider": "company_website",
-        "api_url": "https://www.taski.in/jobs/management-trainee-systems-operations/",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T08:18:08+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Geforce Consulting Solutions Pvt. Ltd.",
     "city": "Kolkata",
     "region": "West Bengal",
@@ -54081,12 +54081,12 @@
     "lng": 72.9191634,
     "website": "https://www.loginextsolutions.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.loginextsolutions.com/join-us/culture",
+    "careers_provider": "trakstar_hire",
+    "careers_api_url": "https://www.loginextsolutions.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=1080&amp;q=75 2x",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-16T10:06:03+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -54119,7 +54119,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.loginextsolutions.com/join-us/culture",
+        "provider": "trakstar_hire",
+        "api_url": "https://www.loginextsolutions.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=1080&amp;q=75 2x",
+        "confidence": "high",
+        "checked_at": "2026-06-16T10:06:03+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -54132,12 +54140,12 @@
     "lng": 72.8555855,
     "website": "https://www.suntech-global.com/",
     "phone": "+91 22 4972 4686;+91 74004 36581;+91 74004 36585",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.suntech-global.com/opportunities-and-challenges-dealing-with-the-vibrant-saudi-arabian-jewellery-market/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.suntech-global.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T10:06:06+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=computer"
     ],
@@ -54166,7 +54174,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.suntech-global.com/opportunities-and-challenges-dealing-with-the-vibrant-saudi-arabian-jewellery-market/",
+        "provider": "company_website",
+        "api_url": "https://www.suntech-global.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T10:06:06+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
