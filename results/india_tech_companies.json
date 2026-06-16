@@ -48427,6 +48427,120 @@
     }
   },
   {
+    "name": "LogiNext Solutions",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Gate No 2, Plant No. 6, Lal Bahadur Shashtri Road, Vikhroli West, Mumbai, 400079",
+    "lat": 19.100581,
+    "lng": 72.9191634,
+    "website": "https://www.loginextsolutions.com/",
+    "phone": "",
+    "careers_url": "https://www.loginextsolutions.com/join-us/culture",
+    "careers_provider": "trakstar_hire",
+    "careers_api_url": "https://www.loginextsolutions.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=1080&amp;q=75 2x",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-16T10:06:03+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10159682891"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai",
+        "addr:country": "IN",
+        "addr:housenumber": "Gate No 2, Plant No. 6",
+        "addr:place": "Godrej & Boyce",
+        "addr:postcode": "400079",
+        "addr:state": "Maharashtra",
+        "addr:street": "Lal Bahadur Shashtri Road",
+        "addr:suburb": "Vikhroli West",
+        "name": "LogiNext Solutions",
+        "office": "company",
+        "website": "https://www.loginextsolutions.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.loginextsolutions.com/join-us/culture",
+        "provider": "trakstar_hire",
+        "api_url": "https://www.loginextsolutions.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=1080&amp;q=75 2x",
+        "confidence": "high",
+        "checked_at": "2026-06-16T10:06:03+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
+    "name": "Suntech Business Solutions",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 19.1153572,
+    "lng": 72.8555855,
+    "website": "https://www.suntech-global.com/",
+    "phone": "+91 22 4972 4686;+91 74004 36581;+91 74004 36585",
+    "careers_url": "https://www.suntech-global.com/opportunities-and-challenges-dealing-with-the-vibrant-saudi-arabian-jewellery-market/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.suntech-global.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T10:06:06+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8065431802"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "contact:email": "info@suntech-global.com",
+        "contact:phone": "+91 22 4972 4686;+91 74004 36581;+91 74004 36585",
+        "contact:website": "https://www.suntech-global.com/",
+        "name": "Suntech Business Solutions",
+        "opening_hours": "Fr 15:00-19:00;Mo-Th,Sa-Su 10:00-19:00",
+        "operator": "Suntech Business Solutions",
+        "shop": "computer"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.suntech-global.com/opportunities-and-challenges-dealing-with-the-vibrant-saudi-arabian-jewellery-market/",
+        "provider": "company_website",
+        "api_url": "https://www.suntech-global.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T10:06:06+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Agni Solar Systems Pvt Ltd",
     "city": "Pune",
     "region": "Maharashtra",
@@ -54072,120 +54186,6 @@
     }
   },
   {
-    "name": "LogiNext Solutions",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Gate No 2, Plant No. 6, Lal Bahadur Shashtri Road, Vikhroli West, Mumbai, 400079",
-    "lat": 19.100581,
-    "lng": 72.9191634,
-    "website": "https://www.loginextsolutions.com/",
-    "phone": "",
-    "careers_url": "https://www.loginextsolutions.com/join-us/culture",
-    "careers_provider": "trakstar_hire",
-    "careers_api_url": "https://www.loginextsolutions.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=1080&amp;q=75 2x",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-16T10:06:03+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10159682891"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mumbai",
-        "addr:country": "IN",
-        "addr:housenumber": "Gate No 2, Plant No. 6",
-        "addr:place": "Godrej & Boyce",
-        "addr:postcode": "400079",
-        "addr:state": "Maharashtra",
-        "addr:street": "Lal Bahadur Shashtri Road",
-        "addr:suburb": "Vikhroli West",
-        "name": "LogiNext Solutions",
-        "office": "company",
-        "website": "https://www.loginextsolutions.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.loginextsolutions.com/join-us/culture",
-        "provider": "trakstar_hire",
-        "api_url": "https://www.loginextsolutions.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcareer-company-culture.82ea06cb.webp&amp;w=1080&amp;q=75 2x",
-        "confidence": "high",
-        "checked_at": "2026-06-16T10:06:03+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
-    "name": "Suntech Business Solutions",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "",
-    "lat": 19.1153572,
-    "lng": 72.8555855,
-    "website": "https://www.suntech-global.com/",
-    "phone": "+91 22 4972 4686;+91 74004 36581;+91 74004 36585",
-    "careers_url": "https://www.suntech-global.com/opportunities-and-challenges-dealing-with-the-vibrant-saudi-arabian-jewellery-market/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.suntech-global.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T10:06:06+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=computer"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8065431802"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: solutions, computer",
-    "raw": {
-      "osm_tags": {
-        "contact:email": "info@suntech-global.com",
-        "contact:phone": "+91 22 4972 4686;+91 74004 36581;+91 74004 36585",
-        "contact:website": "https://www.suntech-global.com/",
-        "name": "Suntech Business Solutions",
-        "opening_hours": "Fr 15:00-19:00;Mo-Th,Sa-Su 10:00-19:00",
-        "operator": "Suntech Business Solutions",
-        "shop": "computer"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.suntech-global.com/opportunities-and-challenges-dealing-with-the-vibrant-saudi-arabian-jewellery-market/",
-        "provider": "company_website",
-        "api_url": "https://www.suntech-global.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T10:06:06+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Yashuss Unlimited Business Solutions",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -54296,9 +54296,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T11:56:52+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.infosys.com/jobs: HTTPError; https://www.infosys.com/jobs/: HTTPError; https://www.infosys.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -54324,7 +54324,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T11:56:52+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.infosys.com/jobs: HTTPError; https://www.infosys.com/jobs/: HTTPError; https://www.infosys.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -54340,9 +54348,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T11:56:53+00:00",
+    "careers_notes": "https://www.dnatechindia.com/jobs: HTTPError; https://www.dnatechindia.com/jobs/: HTTPError; https://www.dnatechindia.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -54363,6 +54371,14 @@
         "email": "dnatechindia@gmail.com",
         "name": "DNA Technology",
         "website": "https://www.dnatechindia.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T11:56:53+00:00",
+        "notes": "https://www.dnatechindia.com/jobs: HTTPError; https://www.dnatechindia.com/jobs/: HTTPError; https://www.dnatechindia.com/career: HTTPError; no careers page detected"
       }
     }
   },
