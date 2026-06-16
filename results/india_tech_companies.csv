@@ -1183,8 +1183,8 @@ Livares Technologies Pvt Ltd,32.0,low,Thiruvananthapuram,Kerala,India,,8.5468714
 Technopark Phase III Campus, Trivandrum
 Kerala, India-695581",openstreetmap,"{""openstreetmap"": ""node:11924887245""}",matched: technologies
 Science & Technology Museum,32.0,low,Thiruvananthapuram,Kerala,India,,8.5099454,76.9468645,https://kstmuseum.com/,,,,,,,,building=government,openstreetmap,"{""openstreetmap"": ""way:382859789""}",matched: technology
-Blue Global Technology,32.0,low,Vadodara,Gujarat,India,,22.2654928,73.2225441,https://blueglobtech.com/,,,,,,,,,openstreetmap,"{""openstreetmap"": ""node:13422321430""}",matched: technology
-Skenix Infotech,32.0,low,Vadodara,Gujarat,India,,22.2922786,73.2377034,https://www.skenix.com,,,,,,,,,openstreetmap,"{""openstreetmap"": ""node:6377552438""}",matched: infotech
+Blue Global Technology,32.0,low,Vadodara,Gujarat,India,,22.2654928,73.2225441,https://blueglobtech.com/,,,,,none,2026-06-16T20:08:24+00:00,homepage fetch failed: SSLError; https://blueglobtech.com/jobs: SSLError; https://blueglobtech.com/jobs/: SSLError; https://blueglobtech.com/career: SSLError; no careers page detected,,openstreetmap,"{""openstreetmap"": ""node:13422321430""}",matched: technology
+Skenix Infotech,32.0,low,Vadodara,Gujarat,India,,22.2922786,73.2377034,https://www.skenix.com,,https://www.skenix.com/career/,company_website,https://www.skenix.com/career/,medium,2026-06-16T20:08:29+00:00,careers page found on company website,,openstreetmap,"{""openstreetmap"": ""node:6377552438""}",matched: infotech
 Electro Cloud,31.0,low,Bengaluru,Karnataka,India,,12.9106109,77.6520674,,,,,,,,,shop=computer,openstreetmap,"{""openstreetmap"": ""node:11411649458""}","matched: cloud, computer"
 Saas Babu,31.0,low,Guwahati,Assam,India,,26.1810638,91.7402051,,,,,,,,,shop=yes,openstreetmap,"{""openstreetmap"": ""node:12976879927""}",matched: saas
 Saas Bahu Ladies Tailor,31.0,low,Jaipur,Rajasthan,India,Vikas Path,26.8991013,75.7847228,,,,,,,,,shop=tailor,openstreetmap,"{""openstreetmap"": ""node:8120433446""}",matched: saas
