@@ -48162,6 +48162,62 @@
     }
   },
   {
+    "name": "Odisha University Of Technology And Research",
+    "city": "Bhubaneswar",
+    "region": "Odisha",
+    "country": "India",
+    "address": "Ghatikia, Bhubaneshwar, 751003",
+    "lat": 20.2771485,
+    "lng": 85.7766474,
+    "website": "https://www.cet.edu.in/",
+    "phone": "",
+    "careers_url": "https://outr.ac.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-16T01:33:44+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "amenity=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:230784857"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bhubaneshwar",
+        "addr:housename": "Techno Campus",
+        "addr:postcode": "751003",
+        "addr:street": "Ghatikia",
+        "alt_name": "CET",
+        "amenity": "university",
+        "name": "Odisha University Of Technology And Research",
+        "website": "https://www.cet.edu.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://outr.ac.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-16T01:33:44+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -53099,62 +53155,6 @@
     }
   },
   {
-    "name": "Odisha University Of Technology And Research",
-    "city": "Bhubaneswar",
-    "region": "Odisha",
-    "country": "India",
-    "address": "Ghatikia, Bhubaneshwar, 751003",
-    "lat": 20.2771485,
-    "lng": 85.7766474,
-    "website": "https://www.cet.edu.in/",
-    "phone": "",
-    "careers_url": "https://outr.ac.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-16T01:33:44+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "amenity=university"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:230784857"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bhubaneshwar",
-        "addr:housename": "Techno Campus",
-        "addr:postcode": "751003",
-        "addr:street": "Ghatikia",
-        "alt_name": "CET",
-        "amenity": "university",
-        "name": "Odisha University Of Technology And Research",
-        "website": "https://www.cet.edu.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://outr.ac.in/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-16T01:33:44+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "National Institite of Fashion Technology Panchkula",
     "city": "Chandigarh-Mohali",
     "region": "Chandigarh/Punjab",
@@ -53263,9 +53263,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T02:33:45+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.k2schoolmanagementsoftware.com/jobs: ConnectionError; https://www.k2schoolmanagementsoftware.com/jobs/: ConnectionError; https://www.k2schoolmanagementsoftware.com/career: ConnectionError; no careers page detected",
     "categories": [
       "building=yes"
     ],
@@ -53294,7 +53294,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T02:33:45+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.k2schoolmanagementsoftware.com/jobs: ConnectionError; https://www.k2schoolmanagementsoftware.com/jobs/: ConnectionError; https://www.k2schoolmanagementsoftware.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -53310,9 +53318,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T02:33:46+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.metaforumtechnologies.com/jobs: HTTPError; https://www.metaforumtechnologies.com/jobs/: HTTPError; https://www.metaforumtechnologies.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -53343,7 +53351,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T02:33:46+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.metaforumtechnologies.com/jobs: HTTPError; https://www.metaforumtechnologies.com/jobs/: HTTPError; https://www.metaforumtechnologies.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
