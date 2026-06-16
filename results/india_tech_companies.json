@@ -53465,9 +53465,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T04:01:55+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://iasst.gov.in/jobs: HTTPError; https://iasst.gov.in/jobs/: HTTPError; https://iasst.gov.in/career: HTTPError; no careers page detected",
     "categories": [
       "amenity=university"
     ],
@@ -53498,7 +53498,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T04:01:55+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://iasst.gov.in/jobs: HTTPError; https://iasst.gov.in/jobs/: HTTPError; https://iasst.gov.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -53511,12 +53519,12 @@
     "lng": 78.349991,
     "website": "https://cqst.iiit.ac.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://cqst.iiit.ac.in/openings/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cqst.iiit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcqst.iiit.ac.in%2Fopenings%2F",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T04:01:59+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=research"
     ],
@@ -53547,7 +53555,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://cqst.iiit.ac.in/openings/",
+        "provider": "company_website",
+        "api_url": "https://cqst.iiit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcqst.iiit.ac.in%2Fopenings%2F",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T04:01:59+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
