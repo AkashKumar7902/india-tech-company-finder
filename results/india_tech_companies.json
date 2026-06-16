@@ -48813,6 +48813,54 @@
     }
   },
   {
+    "name": "Skenix Infotech",
+    "city": "Vadodara",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "",
+    "lat": 22.2922786,
+    "lng": 73.2377034,
+    "website": "https://www.skenix.com",
+    "phone": "",
+    "careers_url": "https://www.skenix.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.skenix.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T20:08:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6377552438"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "Skenix Infotech",
+        "url": "https://www.skenix.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.skenix.com/career/",
+        "provider": "company_website",
+        "api_url": "https://www.skenix.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T20:08:29+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sieve Software-Nearyouu.com",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -55347,54 +55395,6 @@
     }
   },
   {
-    "name": "Skenix Infotech",
-    "city": "Vadodara",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "",
-    "lat": 22.2922786,
-    "lng": 73.2377034,
-    "website": "https://www.skenix.com",
-    "phone": "",
-    "careers_url": "https://www.skenix.com/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.skenix.com/career/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T20:08:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6377552438"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: infotech",
-    "raw": {
-      "osm_tags": {
-        "name": "Skenix Infotech",
-        "url": "https://www.skenix.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.skenix.com/career/",
-        "provider": "company_website",
-        "api_url": "https://www.skenix.com/career/",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T20:08:29+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Electro Cloud",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -55807,12 +55807,12 @@
     "lng": 77.5789851,
     "website": "https://www.microlabsltd.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.microlabsltd.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.microlabsltd.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T21:16:56+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -55844,7 +55844,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.microlabsltd.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.microlabsltd.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T21:16:56+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -55857,12 +55865,12 @@
     "lng": 77.5323882,
     "website": "https://www.safepro.tech/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.safepro.tech/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-16T21:17:00+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -55891,7 +55899,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.safepro.tech/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-16T21:17:00+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
