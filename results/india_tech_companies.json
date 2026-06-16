@@ -48056,6 +48056,64 @@
     }
   },
   {
+    "name": "Saartha Labs Private Labs",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "#12, 2nd floor, Banaswadi Main Road, Bangalore, 560043",
+    "lat": 13.0101203,
+    "lng": 77.6449673,
+    "website": "https://www.saartha.com/",
+    "phone": "+91 9900743078",
+    "careers_url": "https://www.saartha.com/plan",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://panorama.wixapps.net/api/v1/bulklog",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T00:14:35+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3368028795"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: labs, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "#12, 2nd floor",
+        "addr:postcode": "560043",
+        "addr:street": "Banaswadi Main Road",
+        "name": "Saartha Labs Private Labs",
+        "office": "company",
+        "phone": "+91 9900743078",
+        "smoking": "no",
+        "source": "http://www.saartha.com/",
+        "website": "https://www.saartha.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.saartha.com/plan",
+        "provider": "company_website",
+        "api_url": "https://panorama.wixapps.net/api/v1/bulklog",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T00:14:35+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "TMEIC Industrial Systems india Pvt. Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -52891,64 +52949,6 @@
     }
   },
   {
-    "name": "Saartha Labs Private Labs",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "#12, 2nd floor, Banaswadi Main Road, Bangalore, 560043",
-    "lat": 13.0101203,
-    "lng": 77.6449673,
-    "website": "https://www.saartha.com/",
-    "phone": "+91 9900743078",
-    "careers_url": "https://www.saartha.com/plan",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://panorama.wixapps.net/api/v1/bulklog",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T00:14:35+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3368028795"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: labs, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "#12, 2nd floor",
-        "addr:postcode": "560043",
-        "addr:street": "Banaswadi Main Road",
-        "name": "Saartha Labs Private Labs",
-        "office": "company",
-        "phone": "+91 9900743078",
-        "smoking": "no",
-        "source": "http://www.saartha.com/",
-        "website": "https://www.saartha.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.saartha.com/plan",
-        "provider": "company_website",
-        "api_url": "https://panorama.wixapps.net/api/v1/bulklog",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T00:14:35+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "SABIC India Technology Center",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -53060,9 +53060,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T01:33:42+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://g.co/jobs: HTTPError; https://g.co/jobs/: HTTPError; https://g.co/career: HTTPError; no careers page detected",
     "categories": [
       "description=We offer comprehensive Digital Marketing Course in Patel Nagar, Bhopal"
     ],
@@ -53087,7 +53087,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T01:33:42+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://g.co/jobs: HTTPError; https://g.co/jobs/: HTTPError; https://g.co/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -53100,12 +53108,12 @@
     "lng": 85.7766474,
     "website": "https://www.cet.edu.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://outr.ac.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-16T01:33:44+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "amenity=university"
     ],
@@ -53135,7 +53143,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://outr.ac.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-16T01:33:44+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
