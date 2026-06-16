@@ -48541,6 +48541,61 @@
     }
   },
   {
+    "name": "Neuweg Technologies",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "B-6, 3rd Floor,, Sector-64,, Noida , Uttar Pradesh, 201301",
+    "lat": 28.6126734,
+    "lng": 77.3774002,
+    "website": "https://neuweg.co.in/",
+    "phone": "",
+    "careers_url": "https://neuweg.co.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://neuweg.co.in/_next/static/chunks/app/careers/page-b1174a459dcb1405.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T13:57:27+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2908703579"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida , Uttar Pradesh",
+        "addr:housenumber": "B-6, 3rd Floor,",
+        "addr:postcode": "201301",
+        "addr:street": "Sector-64,",
+        "building": "commercial",
+        "name": "Neuweg Technologies",
+        "website": "https://neuweg.co.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://neuweg.co.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://neuweg.co.in/_next/static/chunks/app/careers/page-b1174a459dcb1405.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T13:57:27+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Agni Solar Systems Pvt Ltd",
     "city": "Pune",
     "region": "Maharashtra",
@@ -54542,61 +54597,6 @@
     }
   },
   {
-    "name": "Neuweg Technologies",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "B-6, 3rd Floor,, Sector-64,, Noida , Uttar Pradesh, 201301",
-    "lat": 28.6126734,
-    "lng": 77.3774002,
-    "website": "https://neuweg.co.in/",
-    "phone": "",
-    "careers_url": "https://neuweg.co.in/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://neuweg.co.in/_next/static/chunks/app/careers/page-b1174a459dcb1405.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-16T13:57:27+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2908703579"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida , Uttar Pradesh",
-        "addr:housenumber": "B-6, 3rd Floor,",
-        "addr:postcode": "201301",
-        "addr:street": "Sector-64,",
-        "building": "commercial",
-        "name": "Neuweg Technologies",
-        "website": "https://neuweg.co.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://neuweg.co.in/careers/",
-        "provider": "company_website",
-        "api_url": "https://neuweg.co.in/_next/static/chunks/app/careers/page-b1174a459dcb1405.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-16T13:57:27+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Department Of Science, Technology & Waste Management",
     "city": "Panaji/Goa",
     "region": "Goa",
@@ -54697,9 +54697,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-16T15:45:46+00:00",
+    "careers_notes": "https://www.iazicifi.ch/jobs: HTTPError; https://www.iazicifi.ch/jobs/: HTTPError; https://www.iazicifi.ch/career: HTTPError; no careers page detected",
     "categories": [
       "building=commercial"
     ],
@@ -54728,7 +54728,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-16T15:45:46+00:00",
+        "notes": "https://www.iazicifi.ch/jobs: HTTPError; https://www.iazicifi.ch/jobs/: HTTPError; https://www.iazicifi.ch/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -54741,12 +54749,12 @@
     "lng": 85.1037307,
     "website": "https://www.tcsion.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.tcsion.com/sitemap/job-openings/sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.tcsion.com/job-openings/diploma-it-jobs-in-pune",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-16T15:45:58+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -54777,7 +54785,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.tcsion.com/sitemap/job-openings/sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://www.tcsion.com/job-openings/diploma-it-jobs-in-pune",
+        "confidence": "medium",
+        "checked_at": "2026-06-16T15:45:58+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
