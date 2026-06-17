@@ -81759,9 +81759,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T23:54:06+00:00",
+    "careers_notes": "https://tophilldigitalmarketing.com/jobs: HTTPError; https://tophilldigitalmarketing.com/jobs/: HTTPError; https://tophilldigitalmarketing.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -81788,7 +81788,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T23:54:06+00:00",
+        "notes": "https://tophilldigitalmarketing.com/jobs: HTTPError; https://tophilldigitalmarketing.com/jobs/: HTTPError; https://tophilldigitalmarketing.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -81804,9 +81812,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T23:54:21+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; http://www.aarthiscan.com/jobs: SSLError; http://www.aarthiscan.com/jobs/: SSLError; http://www.aarthiscan.com/career: SSLError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -81836,7 +81844,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T23:54:21+00:00",
+        "notes": "homepage fetch failed: SSLError; http://www.aarthiscan.com/jobs: SSLError; http://www.aarthiscan.com/jobs/: SSLError; http://www.aarthiscan.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
