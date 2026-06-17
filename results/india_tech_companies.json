@@ -77430,12 +77430,12 @@
     "lng": 78.4894935,
     "website": "https://www.cms.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.cms.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.cms.com/careers.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T05:29:36+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=security"
     ],
@@ -77460,7 +77460,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cms.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.cms.com/careers.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T05:29:36+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -77476,9 +77484,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T05:29:43+00:00",
+    "careers_notes": "https://foinixdigital.in/jobs: HTTPError; https://foinixdigital.in/jobs/: HTTPError; https://foinixdigital.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency",
       "description=Digital Marketing Agency in Hyderabad - Foinix Digital Services"
@@ -77511,7 +77519,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T05:29:43+00:00",
+        "notes": "https://foinixdigital.in/jobs: HTTPError; https://foinixdigital.in/jobs/: HTTPError; https://foinixdigital.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
