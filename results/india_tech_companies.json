@@ -75151,6 +75151,126 @@
     }
   },
   {
+    "name": "Green Globe Solutions",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Ghaziabad, 201014",
+    "lat": 28.6465785,
+    "lng": 77.3611394,
+    "website": "https://www.facebook.com/globegreen024",
+    "phone": "095402 03999",
+    "careers_url": "https://www.facebook.com/globegreen024",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.facebook.com/wday/cxs/www/globegreen024/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-17T15:12:26+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "amenity=Electrical appliance wholesaler"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13512212601"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ghaziabad",
+        "addr:country": "IN",
+        "addr:postcode": "201014",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "Electrical appliance wholesaler",
+        "brand": "Green Globe Solutions",
+        "cuisine": "Repair service, Electrical installation service",
+        "name": "Green Globe Solutions",
+        "phone": "095402 03999",
+        "source": "google_business_profile",
+        "website": "https://www.facebook.com/globegreen024"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.facebook.com/globegreen024",
+        "provider": "workday",
+        "api_url": "https://www.facebook.com/wday/cxs/www/globegreen024/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-17T15:12:26+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
+    "name": "Inspirisys Solutions Limited",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "93",
+    "lat": 28.5484441,
+    "lng": 77.2527461,
+    "website": "https://www.inspirisys.com",
+    "phone": "+91 11 4004 4880",
+    "careers_url": "https://www.inspirisys.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.inspirisys.com/images/careers-img1.jpg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T15:12:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "craft=electronics_repair",
+      "description=Official service center for Seagate"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9938974274"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:housename": "Ashok Bhawan",
+        "addr:housenumber": "93",
+        "addr:place": "Nehru Place",
+        "addr:unit": "601;602;603;604",
+        "brand": "Seagate",
+        "contact:phone": "+91 11 4004 4880",
+        "contact:website": "https://www.inspirisys.com",
+        "craft": "electronics_repair",
+        "description": "Official service center for Seagate",
+        "level": "6",
+        "name": "Inspirisys Solutions Limited",
+        "opening_hours": "Mo-Sa 10:00-13:30, 14:00-18:00"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.inspirisys.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.inspirisys.com/images/careers-img1.jpg",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T15:12:29+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -78788,126 +78908,6 @@
     }
   },
   {
-    "name": "Green Globe Solutions",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "Ghaziabad, 201014",
-    "lat": 28.6465785,
-    "lng": 77.3611394,
-    "website": "https://www.facebook.com/globegreen024",
-    "phone": "095402 03999",
-    "careers_url": "https://www.facebook.com/globegreen024",
-    "careers_provider": "workday",
-    "careers_api_url": "https://www.facebook.com/wday/cxs/www/globegreen024/jobs",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-17T15:12:26+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "amenity=Electrical appliance wholesaler"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13512212601"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ghaziabad",
-        "addr:country": "IN",
-        "addr:postcode": "201014",
-        "addr:state": "Uttar Pradesh",
-        "amenity": "Electrical appliance wholesaler",
-        "brand": "Green Globe Solutions",
-        "cuisine": "Repair service, Electrical installation service",
-        "name": "Green Globe Solutions",
-        "phone": "095402 03999",
-        "source": "google_business_profile",
-        "website": "https://www.facebook.com/globegreen024"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.facebook.com/globegreen024",
-        "provider": "workday",
-        "api_url": "https://www.facebook.com/wday/cxs/www/globegreen024/jobs",
-        "confidence": "high",
-        "checked_at": "2026-06-17T15:12:26+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
-    "name": "Inspirisys Solutions Limited",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "93",
-    "lat": 28.5484441,
-    "lng": 77.2527461,
-    "website": "https://www.inspirisys.com",
-    "phone": "+91 11 4004 4880",
-    "careers_url": "https://www.inspirisys.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.inspirisys.com/images/careers-img1.jpg",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T15:12:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "craft=electronics_repair",
-      "description=Official service center for Seagate"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9938974274"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:housename": "Ashok Bhawan",
-        "addr:housenumber": "93",
-        "addr:place": "Nehru Place",
-        "addr:unit": "601;602;603;604",
-        "brand": "Seagate",
-        "contact:phone": "+91 11 4004 4880",
-        "contact:website": "https://www.inspirisys.com",
-        "craft": "electronics_repair",
-        "description": "Official service center for Seagate",
-        "level": "6",
-        "name": "Inspirisys Solutions Limited",
-        "opening_hours": "Mo-Sa 10:00-13:30, 14:00-18:00"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.inspirisys.com/career",
-        "provider": "company_website",
-        "api_url": "https://www.inspirisys.com/images/careers-img1.jpg",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T15:12:29+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "KENT RO SYSTEMS LTD",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -79019,12 +79019,12 @@
     "lng": 77.2823509,
     "website": "http://marketingspirits.com",
     "phone": "+91 9958080618",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.hugedomains.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T16:34:02+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -79051,7 +79051,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hugedomains.com/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T16:34:02+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -79067,9 +79075,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T16:34:04+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.prasad-solutions.com/jobs: HTTPError; https://www.prasad-solutions.com/jobs/: HTTPError; https://www.prasad-solutions.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -79094,7 +79102,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T16:34:04+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.prasad-solutions.com/jobs: HTTPError; https://www.prasad-solutions.com/jobs/: HTTPError; https://www.prasad-solutions.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
