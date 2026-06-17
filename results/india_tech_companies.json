@@ -71004,6 +71004,45 @@
     }
   },
   {
+    "name": "Touchstone Infotech",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "A19 1st floor sector 7, new delhi, 110075",
+    "lat": 28.5883121,
+    "lng": 77.0711755,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=Marketing Agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13946814180"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "new delhi",
+        "addr:country": "India",
+        "addr:postcode": "110075",
+        "addr:street": "A19 1st floor sector 7",
+        "description": "Marketing Agency",
+        "name": "Touchstone Infotech"
+      }
+    }
+  },
+  {
     "name": "Vetic",
     "city": "New Delhi",
     "region": "Delhi",
@@ -79453,12 +79492,12 @@
     "lng": 73.1519972,
     "website": "https://markdigital.in/",
     "phone": "+91 8866433766",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://markdigital.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T18:31:58+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=advertising_agency"
     ],
@@ -79490,7 +79529,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://markdigital.in/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T18:31:58+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -79503,12 +79550,12 @@
     "lng": 80.6110764,
     "website": "https://www.meeseva.in/",
     "phone": "7382512764",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.meeseva.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T18:32:01+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=government"
     ],
@@ -79538,7 +79585,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.meeseva.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T18:32:01+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
