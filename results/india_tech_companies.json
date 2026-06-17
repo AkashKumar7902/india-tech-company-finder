@@ -76993,6 +76993,58 @@
     }
   },
   {
+    "name": "Auxost | Digital Marketing Agency",
+    "city": "Bhopal",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 23.2143475,
+    "lng": 77.4380498,
+    "website": "https://auxost.com/",
+    "phone": "",
+    "careers_url": "https://auxost.com/uncategorized/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://auxost.com/uncategorized/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T20:21:34+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Auxost is a digital marketing agency in Bhopal, specializing in providing marketing services digitally through social media marketing, influencers, content strategies, website development, web design, SEO,, SEM, email marketing, meme marketing, ."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12655778661"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "description": "Auxost is a digital marketing agency in Bhopal, specializing in providing marketing services digitally through social media marketing, influencers, content strategies, website development, web design, SEO,, SEM, email marketing, meme marketing, .",
+        "name": "Auxost | Digital Marketing Agency",
+        "source": "local knowledge",
+        "website": "https://auxost.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://auxost.com/uncategorized/jobs/",
+        "provider": "company_website",
+        "api_url": "https://auxost.com/uncategorized/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T20:21:34+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sanrad Infotech",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -80736,58 +80788,6 @@
     }
   },
   {
-    "name": "Auxost | Digital Marketing Agency",
-    "city": "Bhopal",
-    "region": "Madhya Pradesh",
-    "country": "India",
-    "address": "",
-    "lat": 23.2143475,
-    "lng": 77.4380498,
-    "website": "https://auxost.com/",
-    "phone": "",
-    "careers_url": "https://auxost.com/uncategorized/jobs/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://auxost.com/uncategorized/jobs/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T20:21:34+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Auxost is a digital marketing agency in Bhopal, specializing in providing marketing services digitally through social media marketing, influencers, content strategies, website development, web design, SEO,, SEM, email marketing, meme marketing, ."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12655778661"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "description": "Auxost is a digital marketing agency in Bhopal, specializing in providing marketing services digitally through social media marketing, influencers, content strategies, website development, web design, SEO,, SEM, email marketing, meme marketing, .",
-        "name": "Auxost | Digital Marketing Agency",
-        "source": "local knowledge",
-        "website": "https://auxost.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://auxost.com/uncategorized/jobs/",
-        "provider": "company_website",
-        "api_url": "https://auxost.com/uncategorized/jobs/",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T20:21:34+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Aarthi Scans & Labs",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -80885,12 +80885,12 @@
     "lng": 80.2627243,
     "website": "https://gofix.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://gofix.co.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T21:15:43+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=yes",
       "description=GoFix Solutions India, a subsidiary of Congruence Holdings Pvt Ltd, specializes in repairing all types of\nmobile phones and laptops, with expertise in Apple products like iPhones, iPads, and Apple\nWatches. Using state-of-the-art equipment and machines, we"
@@ -80923,7 +80923,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://gofix.co.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T21:15:43+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -80939,9 +80947,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T21:15:46+00:00",
+    "careers_notes": "https://gurubaran.in/jobs: HTTPError; https://gurubaran.in/jobs/: HTTPError; https://gurubaran.in/career: HTTPError; no careers page detected",
     "categories": [
       "description=DIGITAL MARKETING SERVICES CHENNAI"
     ],
@@ -80976,7 +80984,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T21:15:46+00:00",
+        "notes": "https://gurubaran.in/jobs: HTTPError; https://gurubaran.in/jobs/: HTTPError; https://gurubaran.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
