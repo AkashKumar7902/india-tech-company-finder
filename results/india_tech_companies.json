@@ -74947,6 +74947,73 @@
     }
   },
   {
+    "name": "Growing Sphere",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Hari Om Nagar, Damoji Patil Wadi, Mulund East, Mumbai, 400081",
+    "lat": 19.1748156,
+    "lng": 72.9723548,
+    "website": "https://www.growingsphere.com/",
+    "phone": "917506212213",
+    "careers_url": "https://www.growingsphere.com/join-us.htm",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://recruiter.placementindia.com/catalog-scripts/resp-catalog-jobs-classified-products.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T11:01:40+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=travel_agency",
+      "description=We are Growing Sphere Private Limited, specializing in comprehensive hospitality and lifestyle management solutions. Our expert team crafts tailor-made vacation experiences, holiday tour packages, and seamless domestic and international tours."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13912515871"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai Suburban",
+        "addr:postcode": "400081",
+        "addr:street": "Hari Om Nagar, Damoji Patil Wadi, Mulund East",
+        "description": "We are Growing Sphere Private Limited, specializing in comprehensive hospitality and lifestyle management solutions. Our expert team crafts tailor-made vacation experiences, holiday tour packages, and seamless domestic and international tours.",
+        "mobile": "917506212213",
+        "name": "Growing Sphere",
+        "opening_hours": "Mo-Fr 10:30-18:30",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "917506212213",
+        "shop": "travel_agency",
+        "start_date": "2019-11-01",
+        "website": "https://www.growingsphere.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.growingsphere.com/join-us.htm",
+        "provider": "company_website",
+        "api_url": "https://recruiter.placementindia.com/catalog-scripts/resp-catalog-jobs-classified-products.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T11:01:40+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -78100,73 +78167,6 @@
     }
   },
   {
-    "name": "Growing Sphere",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Hari Om Nagar, Damoji Patil Wadi, Mulund East, Mumbai, 400081",
-    "lat": 19.1748156,
-    "lng": 72.9723548,
-    "website": "https://www.growingsphere.com/",
-    "phone": "917506212213",
-    "careers_url": "https://www.growingsphere.com/join-us.htm",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://recruiter.placementindia.com/catalog-scripts/resp-catalog-jobs-classified-products.php",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T11:01:40+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=travel_agency",
-      "description=We are Growing Sphere Private Limited, specializing in comprehensive hospitality and lifestyle management solutions. Our expert team crafts tailor-made vacation experiences, holiday tour packages, and seamless domestic and international tours."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13912515871"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mumbai",
-        "addr:district": "Mumbai Suburban",
-        "addr:postcode": "400081",
-        "addr:street": "Hari Om Nagar, Damoji Patil Wadi, Mulund East",
-        "description": "We are Growing Sphere Private Limited, specializing in comprehensive hospitality and lifestyle management solutions. Our expert team crafts tailor-made vacation experiences, holiday tour packages, and seamless domestic and international tours.",
-        "mobile": "917506212213",
-        "name": "Growing Sphere",
-        "opening_hours": "Mo-Fr 10:30-18:30",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:google_pay": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "phone": "917506212213",
-        "shop": "travel_agency",
-        "start_date": "2019-11-01",
-        "website": "https://www.growingsphere.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.growingsphere.com/join-us.htm",
-        "provider": "company_website",
-        "api_url": "https://recruiter.placementindia.com/catalog-scripts/resp-catalog-jobs-classified-products.php",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T11:01:40+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Mithila Chemist",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -78332,12 +78332,12 @@
     "lng": 73.0393628,
     "website": "https://www.sociomark.in/",
     "phone": "+919819988640",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.sociomark.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.sociomark.in/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T12:33:50+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=advertising_agency"
     ],
@@ -78373,7 +78373,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sociomark.in/careers",
+        "provider": "company_website",
+        "api_url": "https://www.sociomark.in/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T12:33:50+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -78389,9 +78397,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T12:34:10+00:00",
+    "careers_notes": "https://disayana.com/jobs: HTTPError; https://disayana.com/jobs/: HTTPError; https://disayana.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency",
       "description=Digital marketing and web designing provider in kalyan."
@@ -78429,7 +78437,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T12:34:10+00:00",
+        "notes": "https://disayana.com/jobs: HTTPError; https://disayana.com/jobs/: HTTPError; https://disayana.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
