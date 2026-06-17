@@ -74775,6 +74775,57 @@
     }
   },
   {
+    "name": "CMS Info Systems",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.4619077,
+    "lng": 78.4894935,
+    "website": "https://www.cms.com/",
+    "phone": "",
+    "careers_url": "https://www.cms.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.cms.com/careers.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T05:29:36+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=security"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8739653925"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: systems",
+    "raw": {
+      "osm_tags": {
+        "name": "CMS Info Systems",
+        "office": "security",
+        "website": "https://www.cms.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cms.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.cms.com/careers.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T05:29:36+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -77421,57 +77472,6 @@
     }
   },
   {
-    "name": "CMS Info Systems",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "",
-    "lat": 17.4619077,
-    "lng": 78.4894935,
-    "website": "https://www.cms.com/",
-    "phone": "",
-    "careers_url": "https://www.cms.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.cms.com/careers.php",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T05:29:36+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=security"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8739653925"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: systems",
-    "raw": {
-      "osm_tags": {
-        "name": "CMS Info Systems",
-        "office": "security",
-        "website": "https://www.cms.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.cms.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.cms.com/careers.php",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T05:29:36+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Foinix Digital Services",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -77651,9 +77651,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T07:22:06+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://sharkify.in/jobs: ConnectionError; https://sharkify.in/jobs/: ConnectionError; https://sharkify.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=insurance",
       "description=Sharkify Insurance, a broker for Care Insurance, delivers personalized insurance solutions, ensuring secure and affordable coverage for individuals and businesses with a customer-first approach."
@@ -77691,7 +77691,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T07:22:06+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://sharkify.in/jobs: ConnectionError; https://sharkify.in/jobs/: ConnectionError; https://sharkify.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -77704,12 +77712,12 @@
     "lng": 78.4188671,
     "website": "https://sundertravelscabservice.com/",
     "phone": "919989304150",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://sundertravelscabservice.com/Error/Index",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T07:22:07+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=travel_agency",
       "description=We are Sunder Travels, your trusted taxi service in Hyderabad for all travel needs Whether you need airport taxi service, city tours, or corporate travel solutions, our professional drivers ensure comfortable and timely journeys."
@@ -77746,7 +77754,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://sundertravelscabservice.com/Error/Index",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T07:22:07+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
