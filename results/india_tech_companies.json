@@ -74604,6 +74604,67 @@
     }
   },
   {
+    "name": "Reliance SMART Superstore",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1254/46/3/1, Vidyaranyapura Main Rd, near Indian Oil Petrol Pump, Doddabommasandra, 560097",
+    "lat": 13.0632212,
+    "lng": 77.5592227,
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-superstore-hypermarket-vidyaranyapura-bengaluru-280327/Home",
+    "phone": "18008910001",
+    "careers_url": "https://stores.reliancesmartbazaar.com/error.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T01:24:40+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=electronics"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11215176140"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "1254/46/3/1",
+        "addr:postcode": "560097",
+        "addr:street": "Vidyaranyapura Main Rd, near Indian Oil Petrol Pump, Doddabommasandra",
+        "brand": "Reliance Digital",
+        "brand:wikidata": "Q7311012",
+        "check_date": "2026-05-07",
+        "check_date:opening_hours": "2026-05-07",
+        "level": "0",
+        "name": "Reliance SMART Superstore",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "18008910001",
+        "shop": "electronics",
+        "website": "https://stores.reliancesmartbazaar.com/reliance-smart-superstore-hypermarket-vidyaranyapura-bengaluru-280327/Home"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://stores.reliancesmartbazaar.com/error.html",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T01:24:40+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -76761,67 +76822,6 @@
     }
   },
   {
-    "name": "Reliance SMART Superstore",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "1254/46/3/1, Vidyaranyapura Main Rd, near Indian Oil Petrol Pump, Doddabommasandra, 560097",
-    "lat": 13.0632212,
-    "lng": 77.5592227,
-    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-superstore-hypermarket-vidyaranyapura-bengaluru-280327/Home",
-    "phone": "18008910001",
-    "careers_url": "https://stores.reliancesmartbazaar.com/error.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-17T01:24:40+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=electronics"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11215176140"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "1254/46/3/1",
-        "addr:postcode": "560097",
-        "addr:street": "Vidyaranyapura Main Rd, near Indian Oil Petrol Pump, Doddabommasandra",
-        "brand": "Reliance Digital",
-        "brand:wikidata": "Q7311012",
-        "check_date": "2026-05-07",
-        "check_date:opening_hours": "2026-05-07",
-        "level": "0",
-        "name": "Reliance SMART Superstore",
-        "opening_hours": "Mo-Su 08:00-22:00",
-        "phone": "18008910001",
-        "shop": "electronics",
-        "website": "https://stores.reliancesmartbazaar.com/reliance-smart-superstore-hypermarket-vidyaranyapura-bengaluru-280327/Home"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://stores.reliancesmartbazaar.com/error.html",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-17T01:24:40+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Sign Boards Maker",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -76926,9 +76926,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T02:20:53+00:00",
+    "careers_notes": "https://www.uniletsolar.com/jobs: HTTPError; https://www.uniletsolar.com/jobs/: HTTPError; https://www.uniletsolar.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=electronics"
     ],
@@ -76962,7 +76962,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T02:20:53+00:00",
+        "notes": "https://www.uniletsolar.com/jobs: HTTPError; https://www.uniletsolar.com/jobs/: HTTPError; https://www.uniletsolar.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -76975,12 +76983,12 @@
     "lng": 76.6895937,
     "website": "https://bootesnull.com",
     "phone": "+91 90-4111-4448",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://bootesnull.in/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://bootesnull.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T02:21:11+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=employment_agency",
       "description=BootesNull, the best Web & Mobile Development Company that can fulfill every development need with the most suitable solutions and assist to achieve success."
@@ -77015,7 +77023,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://bootesnull.in/career/",
+        "provider": "company_website",
+        "api_url": "https://bootesnull.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T02:21:11+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
