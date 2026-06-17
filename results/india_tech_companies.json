@@ -75076,6 +75076,81 @@
     }
   },
   {
+    "name": "Abroad Solutions India",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Plot No.68, Okhla Industrial Area Phase 3, New Delhi, 110020",
+    "lat": 28.5495343,
+    "lng": 77.2675591,
+    "website": "https://www.abroadsolutions.com/",
+    "phone": "+91 7991 203 281",
+    "careers_url": "https://www.abroadsolutions.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T13:57:55+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=commercial",
+      "description=Overseas Career, Education, Migration and Tourism Organisation"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:291875439"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "New Delhi",
+        "addr:housenumber": "Plot No.68",
+        "addr:postcode": "110020",
+        "addr:street": "Okhla Industrial Area Phase 3",
+        "building": "commercial",
+        "building:levels": "0",
+        "description": "Overseas Career, Education, Migration and Tourism Organisation",
+        "email": "info@abroadsolutions.com",
+        "name": "Abroad Solutions India",
+        "payment:american_express": "yes",
+        "payment:amex": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+91 7991 203 281",
+        "smoking": "no",
+        "source": "local knowledge;gps;aerial imagery",
+        "website": "https://www.abroadsolutions.com/",
+        "wheelchair": "no"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.abroadsolutions.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T13:57:55+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -78599,81 +78674,6 @@
     }
   },
   {
-    "name": "Abroad Solutions India",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "Plot No.68, Okhla Industrial Area Phase 3, New Delhi, 110020",
-    "lat": 28.5495343,
-    "lng": 77.2675591,
-    "website": "https://www.abroadsolutions.com/",
-    "phone": "+91 7991 203 281",
-    "careers_url": "https://www.abroadsolutions.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-17T13:57:55+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=commercial",
-      "description=Overseas Career, Education, Migration and Tourism Organisation"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:291875439"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "New Delhi",
-        "addr:housenumber": "Plot No.68",
-        "addr:postcode": "110020",
-        "addr:street": "Okhla Industrial Area Phase 3",
-        "building": "commercial",
-        "building:levels": "0",
-        "description": "Overseas Career, Education, Migration and Tourism Organisation",
-        "email": "info@abroadsolutions.com",
-        "name": "Abroad Solutions India",
-        "payment:american_express": "yes",
-        "payment:amex": "yes",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:diners_club": "yes",
-        "payment:discover_card": "yes",
-        "payment:maestro": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "payment:visa_debit": "yes",
-        "payment:visa_electron": "yes",
-        "phone": "+91 7991 203 281",
-        "smoking": "no",
-        "source": "local knowledge;gps;aerial imagery",
-        "website": "https://www.abroadsolutions.com/",
-        "wheelchair": "no"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.abroadsolutions.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-17T13:57:55+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Digital Story Studio",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -78797,12 +78797,12 @@
     "lng": 77.3611394,
     "website": "https://www.facebook.com/globegreen024",
     "phone": "095402 03999",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.facebook.com/globegreen024",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.facebook.com/wday/cxs/www/globegreen024/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-17T15:12:26+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "amenity=Electrical appliance wholesaler"
     ],
@@ -78835,7 +78835,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.facebook.com/globegreen024",
+        "provider": "workday",
+        "api_url": "https://www.facebook.com/wday/cxs/www/globegreen024/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-17T15:12:26+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -78848,12 +78856,12 @@
     "lng": 77.2527461,
     "website": "https://www.inspirisys.com",
     "phone": "+91 11 4004 4880",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.inspirisys.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.inspirisys.com/images/careers-img1.jpg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T15:12:29+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "craft=electronics_repair",
       "description=Official service center for Seagate"
@@ -78888,7 +78896,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.inspirisys.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.inspirisys.com/images/careers-img1.jpg",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T15:12:29+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
