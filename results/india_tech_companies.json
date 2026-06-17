@@ -77045,6 +77045,65 @@
     }
   },
   {
+    "name": "GoFix Solutions - Head Office",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "No.18, 41, E VK Sampath Rd, Vepery, Periyamet, 600007",
+    "lat": 13.0836587,
+    "lng": 80.2627243,
+    "website": "https://gofix.co.in/",
+    "phone": "",
+    "careers_url": "https://gofix.co.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T21:15:43+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=yes",
+      "description=GoFix Solutions India, a subsidiary of Congruence Holdings Pvt Ltd, specializes in repairing all types of\nmobile phones and laptops, with expertise in Apple products like iPhones, iPads, and Apple\nWatches. Using state-of-the-art equipment and machines, we"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:354261545"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Vepery, Periyamet",
+        "addr:district": "Chennai, Tamil Nadu",
+        "addr:housenumber": "No.18, 41",
+        "addr:postcode": "600007",
+        "addr:street": "E VK Sampath Rd",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "GoFix Solutions India, a subsidiary of Congruence Holdings Pvt Ltd, specializes in repairing all types of\nmobile phones and laptops, with expertise in Apple products like iPhones, iPads, and Apple\nWatches. Using state-of-the-art equipment and machines, we",
+        "name": "GoFix Solutions - Head Office",
+        "website": "https://gofix.co.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://gofix.co.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T21:15:43+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sanrad Infotech",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -78510,6 +78569,50 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Metsand Techno Solutions Pvt Ltd.",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Door No. 525 B, VKC POST, Thevakkal, Kailas Colony Link Road, Kochi, 682021",
+    "lat": 10.0515621,
+    "lng": 76.3625154,
+    "website": "https://www.metsand.com/",
+    "phone": "+91-9895-544499",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=engineer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13945070692"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "Door No. 525 B, VKC POST, Thevakkal",
+        "addr:postcode": "682021",
+        "addr:street": "Kailas Colony Link Road",
+        "name": "Metsand Techno Solutions Pvt Ltd.",
+        "name:ml": "മേറ്റ്സാൻഡ് ടെക്നോ സൊല്യൂഷൻസ് പ്വറ്റ് എൽടിഡി.",
+        "office": "engineer",
+        "opening_hours": "Mo-Sa 09:30-17:30",
+        "phone": "+91-9895-544499",
+        "website": "https://www.metsand.com/"
+      }
     }
   },
   {
@@ -80876,65 +80979,6 @@
     }
   },
   {
-    "name": "GoFix Solutions - Head Office",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "No.18, 41, E VK Sampath Rd, Vepery, Periyamet, 600007",
-    "lat": 13.0836587,
-    "lng": 80.2627243,
-    "website": "https://gofix.co.in/",
-    "phone": "",
-    "careers_url": "https://gofix.co.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-17T21:15:43+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=yes",
-      "description=GoFix Solutions India, a subsidiary of Congruence Holdings Pvt Ltd, specializes in repairing all types of\nmobile phones and laptops, with expertise in Apple products like iPhones, iPads, and Apple\nWatches. Using state-of-the-art equipment and machines, we"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:354261545"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Vepery, Periyamet",
-        "addr:district": "Chennai, Tamil Nadu",
-        "addr:housenumber": "No.18, 41",
-        "addr:postcode": "600007",
-        "addr:street": "E VK Sampath Rd",
-        "building": "yes",
-        "building:levels": "2",
-        "description": "GoFix Solutions India, a subsidiary of Congruence Holdings Pvt Ltd, specializes in repairing all types of\nmobile phones and laptops, with expertise in Apple products like iPhones, iPads, and Apple\nWatches. Using state-of-the-art equipment and machines, we",
-        "name": "GoFix Solutions - Head Office",
-        "website": "https://gofix.co.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://gofix.co.in/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-17T21:15:43+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "GURUBARAN",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -81060,9 +81104,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T22:04:45+00:00",
+    "careers_notes": "https://scientrik.com/jobs: HTTPError; https://scientrik.com/jobs/: HTTPError; https://scientrik.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=yes"
     ],
@@ -81092,7 +81136,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T22:04:45+00:00",
+        "notes": "https://scientrik.com/jobs: HTTPError; https://scientrik.com/jobs/: HTTPError; https://scientrik.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -81108,9 +81160,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T22:04:49+00:00",
+    "careers_notes": "https://www.hawkworx.com/jobs: HTTPError; https://www.hawkworx.com/jobs/: HTTPError; https://www.hawkworx.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=HawkWorx Digital is a leading website designing & development company in Gurgaon, delivering modern, responsive, and SEO-friendly websites for startups, small businesses, and enterprises. We specialize in business website designing,"
     ],
@@ -81141,7 +81193,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T22:04:49+00:00",
+        "notes": "https://www.hawkworx.com/jobs: HTTPError; https://www.hawkworx.com/jobs/: HTTPError; https://www.hawkworx.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
