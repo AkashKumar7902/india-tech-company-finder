@@ -81548,9 +81548,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T23:18:38+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.smileindore.com/jobs: ConnectionError; https://www.smileindore.com/jobs/: ConnectionError; https://www.smileindore.com/career: ConnectionError; no careers page detected",
     "categories": [
       "amenity=dentist"
     ],
@@ -81580,7 +81580,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T23:18:38+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.smileindore.com/jobs: ConnectionError; https://www.smileindore.com/jobs/: ConnectionError; https://www.smileindore.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -81596,9 +81604,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T23:18:40+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://msmcoretech.com/jobs: ConnectTimeout; https://msmcoretech.com/jobs/: ConnectTimeout; https://msmcoretech.com/career: ConnectTimeout; no careers page detected",
     "categories": [
       "building=commercial",
       "description=MSM CoreTech Innovations is a team of thinkers, coders, graphic designers, and digital marketers who believe good tech should just work, cleanly, clearly, and without guesswork."
@@ -81632,7 +81640,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T23:18:40+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://msmcoretech.com/jobs: ConnectTimeout; https://msmcoretech.com/jobs/: ConnectTimeout; https://msmcoretech.com/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
