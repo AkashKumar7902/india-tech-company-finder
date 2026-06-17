@@ -75014,6 +75014,68 @@
     }
   },
   {
+    "name": "Sociomark - Digital Marketing Agency",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "225, NBC Complex, Sector 11, CBD Belapur, Sakal Bhavan Marg, Navi Mumbai, 400614",
+    "lat": 19.0166477,
+    "lng": 73.0393628,
+    "website": "https://www.sociomark.in/",
+    "phone": "+919819988640",
+    "careers_url": "https://www.sociomark.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.sociomark.in/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T12:33:50+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=advertising_agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6503502797"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Navi Mumbai",
+        "addr:housenumber": "225, NBC Complex, Sector 11, CBD Belapur",
+        "addr:postcode": "400614",
+        "addr:street": "Sakal Bhavan Marg",
+        "air_conditioning": "yes",
+        "ele": "3",
+        "email": "business@sociomark.in",
+        "internet_access": "wlan",
+        "level": "2",
+        "name": "Sociomark - Digital Marketing Agency",
+        "office": "advertising_agency",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "phone": "+919819988640",
+        "website": "https://www.sociomark.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sociomark.in/careers",
+        "provider": "company_website",
+        "api_url": "https://www.sociomark.in/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T12:33:50+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -78323,68 +78385,6 @@
     }
   },
   {
-    "name": "Sociomark - Digital Marketing Agency",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "225, NBC Complex, Sector 11, CBD Belapur, Sakal Bhavan Marg, Navi Mumbai, 400614",
-    "lat": 19.0166477,
-    "lng": 73.0393628,
-    "website": "https://www.sociomark.in/",
-    "phone": "+919819988640",
-    "careers_url": "https://www.sociomark.in/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.sociomark.in/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T12:33:50+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=advertising_agency"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6503502797"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Navi Mumbai",
-        "addr:housenumber": "225, NBC Complex, Sector 11, CBD Belapur",
-        "addr:postcode": "400614",
-        "addr:street": "Sakal Bhavan Marg",
-        "air_conditioning": "yes",
-        "ele": "3",
-        "email": "business@sociomark.in",
-        "internet_access": "wlan",
-        "level": "2",
-        "name": "Sociomark - Digital Marketing Agency",
-        "office": "advertising_agency",
-        "opening_hours": "Mo-Sa 10:00-20:00",
-        "phone": "+919819988640",
-        "website": "https://www.sociomark.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.sociomark.in/careers",
-        "provider": "company_website",
-        "api_url": "https://www.sociomark.in/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T12:33:50+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Disayana Digital LLP",
     "city": "Navi Mumbai",
     "region": "Maharashtra",
@@ -78553,9 +78553,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T13:57:52+00:00",
+    "careers_notes": "https://www.oddloopagency.com/jobs: HTTPError; https://www.oddloopagency.com/jobs/: HTTPError; https://www.oddloopagency.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency"
     ],
@@ -78587,7 +78587,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T13:57:52+00:00",
+        "notes": "https://www.oddloopagency.com/jobs: HTTPError; https://www.oddloopagency.com/jobs/: HTTPError; https://www.oddloopagency.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -78600,12 +78608,12 @@
     "lng": 77.2675591,
     "website": "https://www.abroadsolutions.com/",
     "phone": "+91 7991 203 281",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.abroadsolutions.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T13:57:55+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=commercial",
       "description=Overseas Career, Education, Migration and Tourism Organisation"
@@ -78654,7 +78662,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.abroadsolutions.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T13:57:55+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
