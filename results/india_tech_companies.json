@@ -76938,6 +76938,61 @@
     }
   },
   {
+    "name": "add-on Scans & Labs",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "#5, MGR Complex, Sarjapur Road, Bangalore, 560035",
+    "lat": 12.911704,
+    "lng": 77.6817197,
+    "website": "https://addonhealthcare.com/",
+    "phone": "080 4225 5500",
+    "careers_url": "https://addonhealthcare.com/awsm_job_openings-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://addonhealthcare.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T19:29:10+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4446926802"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "#5",
+        "addr:postcode": "560035",
+        "addr:street": "MGR Complex, Sarjapur Road",
+        "emergency": "yes",
+        "healthcare": "laboratory",
+        "name": "add-on Scans & Labs",
+        "phone": "080 4225 5500",
+        "website": "https://addonhealthcare.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://addonhealthcare.com/awsm_job_openings-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://addonhealthcare.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T19:29:10+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sanrad Infotech",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -80459,61 +80514,6 @@
     }
   },
   {
-    "name": "add-on Scans & Labs",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "#5, MGR Complex, Sarjapur Road, Bangalore, 560035",
-    "lat": 12.911704,
-    "lng": 77.6817197,
-    "website": "https://addonhealthcare.com/",
-    "phone": "080 4225 5500",
-    "careers_url": "https://addonhealthcare.com/awsm_job_openings-sitemap.xml",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://addonhealthcare.com/jobs/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T19:29:10+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4446926802"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: labs",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "#5",
-        "addr:postcode": "560035",
-        "addr:street": "MGR Complex, Sarjapur Road",
-        "emergency": "yes",
-        "healthcare": "laboratory",
-        "name": "add-on Scans & Labs",
-        "phone": "080 4225 5500",
-        "website": "https://addonhealthcare.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://addonhealthcare.com/awsm_job_openings-sitemap.xml",
-        "provider": "company_website",
-        "api_url": "https://addonhealthcare.com/jobs/",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T19:29:10+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Digital Jahid Media",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -80696,9 +80696,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T20:21:32+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.tworoads.co.in/jobs: ConnectionError; https://www.tworoads.co.in/jobs/: ConnectionError; https://www.tworoads.co.in/career: ConnectionError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -80724,7 +80724,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T20:21:32+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.tworoads.co.in/jobs: ConnectionError; https://www.tworoads.co.in/jobs/: ConnectionError; https://www.tworoads.co.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -80737,12 +80745,12 @@
     "lng": 77.4380498,
     "website": "https://auxost.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://auxost.com/uncategorized/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://auxost.com/uncategorized/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T20:21:34+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=Auxost is a digital marketing agency in Bhopal, specializing in providing marketing services digitally through social media marketing, influencers, content strategies, website development, web design, SEO,, SEM, email marketing, meme marketing, ."
     ],
@@ -80768,7 +80776,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://auxost.com/uncategorized/jobs/",
+        "provider": "company_website",
+        "api_url": "https://auxost.com/uncategorized/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T20:21:34+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
