@@ -75416,6 +75416,120 @@
     }
   },
   {
+    "name": "Mark Digital",
+    "city": "Vadodara",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "SF-6, F-6, Shivalaya Complex, 2nd, Vasna - Tandalja Rd, Ashwamegh Nagar, Vasna,, Vadodara, 390007",
+    "lat": 22.2945783,
+    "lng": 73.1519972,
+    "website": "https://markdigital.in/",
+    "phone": "+91 8866433766",
+    "careers_url": "https://markdigital.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T18:31:58+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=advertising_agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13852310971"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Vadodara",
+        "addr:district": "Vadodara",
+        "addr:housenumber": "SF-6",
+        "addr:postcode": "390007",
+        "addr:street": "F-6, Shivalaya Complex, 2nd, Vasna - Tandalja Rd, Ashwamegh Nagar, Vasna,",
+        "name": "Mark Digital",
+        "office": "advertising_agency",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "+91 8866433766",
+        "website": "https://markdigital.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://markdigital.in/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T18:31:58+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Digital Seva",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "4-13/6, Vaddeswaram Main Road, 522503",
+    "lat": 16.4488502,
+    "lng": 80.6110764,
+    "website": "https://www.meeseva.in/",
+    "phone": "7382512764",
+    "careers_url": "https://www.meeseva.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-17T18:32:01+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=government"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5641031622"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "4-13/6",
+        "addr:postcode": "522503",
+        "addr:street": "Vaddeswaram Main Road",
+        "name": "Digital Seva",
+        "office": "government",
+        "opening_hours": "Mo-Sa 09:00-18:30",
+        "phone": "7382512764",
+        "website": "https://www.meeseva.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.meeseva.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-17T18:32:01+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Cell fix Smart Solutions",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -79483,120 +79597,6 @@
     }
   },
   {
-    "name": "Mark Digital",
-    "city": "Vadodara",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "SF-6, F-6, Shivalaya Complex, 2nd, Vasna - Tandalja Rd, Ashwamegh Nagar, Vasna,, Vadodara, 390007",
-    "lat": 22.2945783,
-    "lng": 73.1519972,
-    "website": "https://markdigital.in/",
-    "phone": "+91 8866433766",
-    "careers_url": "https://markdigital.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T18:31:58+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=advertising_agency"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13852310971"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Vadodara",
-        "addr:district": "Vadodara",
-        "addr:housenumber": "SF-6",
-        "addr:postcode": "390007",
-        "addr:street": "F-6, Shivalaya Complex, 2nd, Vasna - Tandalja Rd, Ashwamegh Nagar, Vasna,",
-        "name": "Mark Digital",
-        "office": "advertising_agency",
-        "opening_hours": "Mo-Sa 10:00-18:00",
-        "phone": "+91 8866433766",
-        "website": "https://markdigital.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://markdigital.in/jobs",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T18:31:58+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Digital Seva",
-    "city": "Vijayawada",
-    "region": "Andhra Pradesh",
-    "country": "India",
-    "address": "4-13/6, Vaddeswaram Main Road, 522503",
-    "lat": 16.4488502,
-    "lng": 80.6110764,
-    "website": "https://www.meeseva.in/",
-    "phone": "7382512764",
-    "careers_url": "https://www.meeseva.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-17T18:32:01+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=government"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5641031622"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "4-13/6",
-        "addr:postcode": "522503",
-        "addr:street": "Vaddeswaram Main Road",
-        "name": "Digital Seva",
-        "office": "government",
-        "opening_hours": "Mo-Sa 09:00-18:30",
-        "phone": "7382512764",
-        "website": "https://www.meeseva.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.meeseva.in/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-17T18:32:01+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Paisa Pulse",
     "city": "Vijayawada",
     "region": "Andhra Pradesh",
@@ -80468,12 +80468,12 @@
     "lng": 77.6817197,
     "website": "https://addonhealthcare.com/",
     "phone": "080 4225 5500",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://addonhealthcare.com/awsm_job_openings-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://addonhealthcare.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T19:29:10+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -80502,7 +80502,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://addonhealthcare.com/awsm_job_openings-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://addonhealthcare.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T19:29:10+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -80518,9 +80526,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T19:29:36+00:00",
+    "careers_notes": "https://digitaljahidmedia.com/jobs: HTTPError; https://digitaljahidmedia.com/jobs/: HTTPError; https://digitaljahidmedia.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=yes"
     ],
@@ -80545,7 +80553,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T19:29:36+00:00",
+        "notes": "https://digitaljahidmedia.com/jobs: HTTPError; https://digitaljahidmedia.com/jobs/: HTTPError; https://digitaljahidmedia.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
