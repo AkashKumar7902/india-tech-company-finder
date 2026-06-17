@@ -2372,7 +2372,14 @@
         "opening_hours": "Mo-Su 09:30-20:00",
         "phone": "+91 9826117457",
         "website": "www.feyntch.com"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -2568,7 +2575,14 @@
         "opening_hours": "10am-8:30pm sunday(closed)",
         "phone": "+91 9303128798",
         "website": "https://www.manpushpsoftware.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -2610,7 +2624,14 @@
         "opening_hours": "Mo-Sa 10:00-20:00; Su off",
         "phone": "+91 7489162331",
         "website": "https://www.xxatsolution.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -12556,7 +12577,14 @@
         "opening_hours": "7:00- 19:30 every day",
         "phone": "+91 7898484348",
         "website": "https://www.heptarise.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -15180,7 +15208,14 @@
         "opening_hours": "Mo-Fr 09:00-20:00",
         "phone": "+91 7714069175",
         "website": "www.tcsnextstep.in"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -18772,7 +18807,14 @@
         "name": "aviva software pvt.ltd",
         "office": "it",
         "phone": "+919303389000"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -50959,7 +51001,14 @@
         "phone": "+91 7714072023",
         "shop": "hardware",
         "website": "https://www.rxinfotech.in/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -74665,6 +74714,67 @@
     }
   },
   {
+    "name": "Bootesnull",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "IT PARK, Teneil IT Tower, PLOT NO F-549, Industrial Area, Sector 75, Sahibzada Ajit Singh Nagar, Punjab 160055, Mohali, 160055",
+    "lat": 30.6972618,
+    "lng": 76.6895937,
+    "website": "https://bootesnull.com",
+    "phone": "+91 90-4111-4448",
+    "careers_url": "https://bootesnull.in/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://bootesnull.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T02:21:11+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=employment_agency",
+      "description=BootesNull, the best Web & Mobile Development Company that can fulfill every development need with the most suitable solutions and assist to achieve success."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13639962258"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mohali",
+        "addr:country": "India",
+        "addr:district": "SAS Nagar",
+        "addr:postcode": "160055",
+        "addr:street": "IT PARK, Teneil IT Tower, PLOT NO F-549, Industrial Area, Sector 75, Sahibzada Ajit Singh Nagar, Punjab 160055",
+        "description": "BootesNull, the best Web & Mobile Development Company that can fulfill every development need with the most suitable solutions and assist to achieve success.",
+        "name": "Bootesnull",
+        "office": "employment_agency",
+        "official_name": "BootesNull",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91 90-4111-4448",
+        "website": "https://bootesnull.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://bootesnull.in/career/",
+        "provider": "company_website",
+        "api_url": "https://bootesnull.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T02:21:11+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -76974,67 +77084,6 @@
     }
   },
   {
-    "name": "Bootesnull",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "IT PARK, Teneil IT Tower, PLOT NO F-549, Industrial Area, Sector 75, Sahibzada Ajit Singh Nagar, Punjab 160055, Mohali, 160055",
-    "lat": 30.6972618,
-    "lng": 76.6895937,
-    "website": "https://bootesnull.com",
-    "phone": "+91 90-4111-4448",
-    "careers_url": "https://bootesnull.in/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://bootesnull.com/career/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T02:21:11+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=employment_agency",
-      "description=BootesNull, the best Web & Mobile Development Company that can fulfill every development need with the most suitable solutions and assist to achieve success."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13639962258"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mohali",
-        "addr:country": "India",
-        "addr:district": "SAS Nagar",
-        "addr:postcode": "160055",
-        "addr:street": "IT PARK, Teneil IT Tower, PLOT NO F-549, Industrial Area, Sector 75, Sahibzada Ajit Singh Nagar, Punjab 160055",
-        "description": "BootesNull, the best Web & Mobile Development Company that can fulfill every development need with the most suitable solutions and assist to achieve success.",
-        "name": "Bootesnull",
-        "office": "employment_agency",
-        "official_name": "BootesNull",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91 90-4111-4448",
-        "website": "https://bootesnull.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://bootesnull.in/career/",
-        "provider": "company_website",
-        "api_url": "https://bootesnull.com/career/",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T02:21:11+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Epilogue : Digital Marketing & Advertising Agency",
     "city": "Chandigarh-Mohali",
     "region": "Chandigarh/Punjab",
@@ -77147,9 +77196,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T03:47:05+00:00",
+    "careers_notes": "https://travelwindo.com/jobs: HTTPError; https://travelwindo.com/jobs/: HTTPError; https://travelwindo.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=travel_agency",
       "description=Travel Windo is a globally connected travel solutions provider specializing in crafting seamless travel experiences for individuals and groups. We offer end-to-end travel services, including customized travel packages, air ticket bookings etc."
@@ -77203,7 +77252,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T03:47:05+00:00",
+        "notes": "https://travelwindo.com/jobs: HTTPError; https://travelwindo.com/jobs/: HTTPError; https://travelwindo.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -77219,9 +77276,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T03:47:18+00:00",
+    "careers_notes": "https://www.lookindigital.com/jobs: HTTPError; https://www.lookindigital.com/jobs/: HTTPError; https://www.lookindigital.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency"
     ],
@@ -77253,7 +77310,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T03:47:18+00:00",
+        "notes": "https://www.lookindigital.com/jobs: HTTPError; https://www.lookindigital.com/jobs/: HTTPError; https://www.lookindigital.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
