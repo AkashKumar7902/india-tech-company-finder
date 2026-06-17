@@ -75271,6 +75271,59 @@
     }
   },
   {
+    "name": "Marketing Spirits - The Future of Digital Excellence",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "F-39/B, Vikas Marg, New Delhi, 110092",
+    "lat": 28.6364987,
+    "lng": 77.2823509,
+    "website": "http://marketingspirits.com",
+    "phone": "+91 9958080618",
+    "careers_url": "https://www.hugedomains.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T16:34:02+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3837227050"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "New Delhi",
+        "addr:housenumber": "F-39/B",
+        "addr:postcode": "110092",
+        "addr:street": "Vikas Marg",
+        "name": "Marketing Spirits - The Future of Digital Excellence",
+        "phone": "+91 9958080618",
+        "website": "http://marketingspirits.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hugedomains.com/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T16:34:02+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -79010,59 +79063,6 @@
     }
   },
   {
-    "name": "Marketing Spirits - The Future of Digital Excellence",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "F-39/B, Vikas Marg, New Delhi, 110092",
-    "lat": 28.6364987,
-    "lng": 77.2823509,
-    "website": "http://marketingspirits.com",
-    "phone": "+91 9958080618",
-    "careers_url": "https://www.hugedomains.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T16:34:02+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3837227050"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "New Delhi",
-        "addr:housenumber": "F-39/B",
-        "addr:postcode": "110092",
-        "addr:street": "Vikas Marg",
-        "name": "Marketing Spirits - The Future of Digital Excellence",
-        "phone": "+91 9958080618",
-        "website": "http://marketingspirits.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.hugedomains.com/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T16:34:02+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Prasad Solutions Private Limited",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -79223,9 +79223,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T17:39:26+00:00",
+    "careers_notes": "https://naikhomoeopathy.com/jobs: HTTPError; https://naikhomoeopathy.com/jobs/: HTTPError; https://naikhomoeopathy.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=Naik Homeopathy brings over 40 years of trusted homeopathic healing across Asia. Led by renowned doctors, we specialize in thyroid treatment, weight loss solutions, and obesity therapy using natural homeopathic medicine."
     ],
@@ -79262,7 +79262,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T17:39:26+00:00",
+        "notes": "https://naikhomoeopathy.com/jobs: HTTPError; https://naikhomoeopathy.com/jobs/: HTTPError; https://naikhomoeopathy.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -79278,9 +79286,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T17:39:35+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; http://www.reliancedigital.in/jobs: HTTPError; http://www.reliancedigital.in/jobs/: HTTPError; http://www.reliancedigital.in/career: HTTPError; no careers page detected",
     "categories": [
       "shop=electronics"
     ],
@@ -79317,7 +79325,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T17:39:35+00:00",
+        "notes": "homepage fetch failed: HTTPError; http://www.reliancedigital.in/jobs: HTTPError; http://www.reliancedigital.in/jobs/: HTTPError; http://www.reliancedigital.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
