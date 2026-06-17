@@ -74889,6 +74889,64 @@
     }
   },
   {
+    "name": "Bajaj Capital",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "272/273, 5, First Floor, Suriya Towers, Goods Shed Street, Madurai Main, Madurai, Tamil Nadu",
+    "lat": 9.9234541,
+    "lng": 78.1139029,
+    "website": "https://www.bajajcapital.com/",
+    "phone": "0452 234 5885",
+    "careers_url": "https://www.bajajcapital.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T09:11:13+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=financial",
+      "description=Here at BajajCapital Limited, we offer personalized investment solutions to individual investors, Non-Resident Indians (NRIs), and High Networth clients, among others."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12858458758"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "272/273",
+        "addr:street": "5, First Floor, Suriya Towers, Goods Shed Street, Madurai Main, Madurai, Tamil Nadu",
+        "description": "Here at BajajCapital Limited, we offer personalized investment solutions to individual investors, Non-Resident Indians (NRIs), and High Networth clients, among others.",
+        "name": "Bajaj Capital",
+        "name:ta": "பஜாஜ் மூலதனம்",
+        "office": "financial",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "phone": "0452 234 5885",
+        "website": "https://www.bajajcapital.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.bajajcapital.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T09:11:13+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CLOUDEAN : TRUE CLOUD",
     "city": "Pune",
     "region": "Maharashtra",
@@ -77868,64 +77926,6 @@
     }
   },
   {
-    "name": "Bajaj Capital",
-    "city": "Madurai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "272/273, 5, First Floor, Suriya Towers, Goods Shed Street, Madurai Main, Madurai, Tamil Nadu",
-    "lat": 9.9234541,
-    "lng": 78.1139029,
-    "website": "https://www.bajajcapital.com/",
-    "phone": "0452 234 5885",
-    "careers_url": "https://www.bajajcapital.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-17T09:11:13+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=financial",
-      "description=Here at BajajCapital Limited, we offer personalized investment solutions to individual investors, Non-Resident Indians (NRIs), and High Networth clients, among others."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12858458758"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "272/273",
-        "addr:street": "5, First Floor, Suriya Towers, Goods Shed Street, Madurai Main, Madurai, Tamil Nadu",
-        "description": "Here at BajajCapital Limited, we offer personalized investment solutions to individual investors, Non-Resident Indians (NRIs), and High Networth clients, among others.",
-        "name": "Bajaj Capital",
-        "name:ta": "பஜாஜ் மூலதனம்",
-        "office": "financial",
-        "opening_hours": "Mo-Sa 10:00-20:00",
-        "phone": "0452 234 5885",
-        "website": "https://www.bajajcapital.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.bajajcapital.com/jobs",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-17T09:11:13+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Appectual IT Solutions",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -78109,12 +78109,12 @@
     "lng": 72.9723548,
     "website": "https://www.growingsphere.com/",
     "phone": "917506212213",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.growingsphere.com/join-us.htm",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://recruiter.placementindia.com/catalog-scripts/resp-catalog-jobs-classified-products.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-17T11:01:40+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=travel_agency",
       "description=We are Growing Sphere Private Limited, specializing in comprehensive hospitality and lifestyle management solutions. Our expert team crafts tailor-made vacation experiences, holiday tour packages, and seamless domestic and international tours."
@@ -78155,7 +78155,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.growingsphere.com/join-us.htm",
+        "provider": "company_website",
+        "api_url": "https://recruiter.placementindia.com/catalog-scripts/resp-catalog-jobs-classified-products.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-17T11:01:40+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -78171,9 +78179,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-17T11:01:50+00:00",
+    "careers_notes": "https://mithila-chemist-east.grexa.site/jobs: HTTPError; https://mithila-chemist-east.grexa.site/jobs/: HTTPError; https://mithila-chemist-east.grexa.site/career: HTTPError; no careers page detected",
     "categories": [
       "amenity=pharmacy",
       "description=Mithila Chemist And General Store is your trusted medical store in Diva, offering healthcare solutions under one roof. We provide quality medicines, life-saving injections, and a wide range of surgical & healthcare products to meet all your health needs."
@@ -78210,7 +78218,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-17T11:01:50+00:00",
+        "notes": "https://mithila-chemist-east.grexa.site/jobs: HTTPError; https://mithila-chemist-east.grexa.site/jobs/: HTTPError; https://mithila-chemist-east.grexa.site/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
