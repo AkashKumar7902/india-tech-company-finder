@@ -3065,6 +3065,130 @@
     }
   },
   {
+    "name": "Nesh Technologies",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Type II/8, Dr.VSI Estate, SH 49A, Thiruvanmiyur, chennai, 600041",
+    "lat": 12.9829772,
+    "lng": 80.2517272,
+    "website": "https://nesh.live",
+    "phone": "9790706090",
+    "careers_url": "https://nesh.live/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cdn-ilclddf.nitrocdn.com/WuKeUqkjrAwkTlqtImliCZTAITaZiGAt/assets/static/source/rev-eee0438/nesh.live/wp-content/plugins/wp-job-openings/assets/fonts/23118989665c13f78e54be0c89d0d9dd.awsm-jobs-icomoon.eot",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T14:50:54+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:354740888"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "chennai",
+        "addr:housenumber": "Type II/8",
+        "addr:postcode": "600041",
+        "addr:street": "Dr.VSI Estate, SH 49A, Thiruvanmiyur",
+        "name": "Nesh Technologies",
+        "office": "it",
+        "phone": "+91 9790706090",
+        "website": "https://nesh.live",
+        "building": "commercial",
+        "building:levels": "3"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://nesh.live/career/",
+        "provider": "company_website",
+        "api_url": "https://cdn-ilclddf.nitrocdn.com/WuKeUqkjrAwkTlqtImliCZTAITaZiGAt/assets/static/source/rev-eee0438/nesh.live/wp-content/plugins/wp-job-openings/assets/fonts/23118989665c13f78e54be0c89d0d9dd.awsm-jobs-icomoon.eot",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T14:50:54+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "ByVal Technologies India Private Limited",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "No 13/42A, Harisudhan Buildings, Tex Park Road, Coimbatore, 641014",
+    "lat": 11.0451877,
+    "lng": 77.0352632,
+    "website": "https://byval.in",
+    "phone": "+91 82484 74232",
+    "careers_url": "https://byval.in/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://byval.in/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T14:51:01+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10576951708"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Coimbatore",
+        "addr:housenumber": "No 13/42A, Harisudhan Buildings",
+        "addr:postcode": "641014",
+        "addr:street": "Tex Park Road",
+        "air_conditioning": "yes",
+        "email": "info@byval.in",
+        "level": "0",
+        "name": "ByVal Technologies India Private Limited",
+        "name:hi": "ब्यवल टेक्नोलॉजीज",
+        "name:ml": "ബൈവൽ ടെക്നോളജീസ്",
+        "name:ta": "பைவல் டெக்னாலஜிஸ் இந்தியா பிரைவேட் லிமிடெட்",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91 82484 74232",
+        "smoking": "no",
+        "website": "https://byval.in",
+        "wheelchair": "no"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://byval.in/career",
+        "provider": "company_website",
+        "api_url": "https://byval.in/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T14:51:01+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Nagarro Software Pvt Ltd",
     "city": "Gurugram",
     "region": "Haryana",
@@ -3782,130 +3906,6 @@
     }
   },
   {
-    "name": "Nesh Technologies",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Type II/8, Dr.VSI Estate, SH 49A, Thiruvanmiyur, chennai, 600041",
-    "lat": 12.9829772,
-    "lng": 80.2517272,
-    "website": "https://nesh.live",
-    "phone": "9790706090",
-    "careers_url": "https://nesh.live/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://cdn-ilclddf.nitrocdn.com/WuKeUqkjrAwkTlqtImliCZTAITaZiGAt/assets/static/source/rev-eee0438/nesh.live/wp-content/plugins/wp-job-openings/assets/fonts/23118989665c13f78e54be0c89d0d9dd.awsm-jobs-icomoon.eot",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T14:50:54+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:354740888"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "chennai",
-        "addr:housenumber": "Type II/8",
-        "addr:postcode": "600041",
-        "addr:street": "Dr.VSI Estate, SH 49A, Thiruvanmiyur",
-        "name": "Nesh Technologies",
-        "office": "it",
-        "phone": "+91 9790706090",
-        "website": "https://nesh.live",
-        "building": "commercial",
-        "building:levels": "3"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://nesh.live/career/",
-        "provider": "company_website",
-        "api_url": "https://cdn-ilclddf.nitrocdn.com/WuKeUqkjrAwkTlqtImliCZTAITaZiGAt/assets/static/source/rev-eee0438/nesh.live/wp-content/plugins/wp-job-openings/assets/fonts/23118989665c13f78e54be0c89d0d9dd.awsm-jobs-icomoon.eot",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T14:50:54+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "ByVal Technologies India Private Limited",
-    "city": "Coimbatore",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "No 13/42A, Harisudhan Buildings, Tex Park Road, Coimbatore, 641014",
-    "lat": 11.0451877,
-    "lng": 77.0352632,
-    "website": "https://byval.in",
-    "phone": "+91 82484 74232",
-    "careers_url": "https://byval.in/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://byval.in/career",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T14:51:01+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10576951708"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Coimbatore",
-        "addr:housenumber": "No 13/42A, Harisudhan Buildings",
-        "addr:postcode": "641014",
-        "addr:street": "Tex Park Road",
-        "air_conditioning": "yes",
-        "email": "info@byval.in",
-        "level": "0",
-        "name": "ByVal Technologies India Private Limited",
-        "name:hi": "ब्यवल टेक्नोलॉजीज",
-        "name:ml": "ബൈവൽ ടെക്നോളജീസ്",
-        "name:ta": "பைவல் டெக்னாலஜிஸ் இந்தியா பிரைவேட் லிமிடெட்",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91 82484 74232",
-        "smoking": "no",
-        "website": "https://byval.in",
-        "wheelchair": "no"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://byval.in/career",
-        "provider": "company_website",
-        "api_url": "https://byval.in/career",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T14:51:01+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Impiger Technologies",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -4212,12 +4212,12 @@
     "lng": 75.835389,
     "website": "https://www.rasukoo.com/",
     "phone": "+917820919773",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.rasukoo.com/notfound",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-18T16:11:29+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4254,7 +4254,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.rasukoo.com/notfound",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-18T16:11:29+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -4267,12 +4275,12 @@
     "lng": 76.3519924,
     "website": "https://caspardigital.com/",
     "phone": "+91-4842-989024",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://caspardigital.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://caspardigital.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T16:11:32+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4304,7 +4312,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://caspardigital.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://caspardigital.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T16:11:32+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
