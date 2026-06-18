@@ -82805,9 +82805,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T06:05:34+00:00",
+    "careers_notes": "https://indicarchive.org/jobs: HTTPError; https://indicarchive.org/jobs/: HTTPError; https://indicarchive.org/career: HTTPError; no careers page detected",
     "categories": [
       "office=ngo",
       "description=Indic Digital Archive Foundation is a non-profit organisation that works on digital archival and preservation of Indic language cultural artefacts such as books, publications, and documents, making them available for open access."
@@ -82842,7 +82842,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T06:05:34+00:00",
+        "notes": "https://indicarchive.org/jobs: HTTPError; https://indicarchive.org/jobs/: HTTPError; https://indicarchive.org/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -82858,9 +82866,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T06:05:42+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://mamotechnolabs.com/careers: HTTPError; https://mamotechnolabs.com/jobs: HTTPError; https://mamotechnolabs.com/jobs/: HTTPError; no careers page detected",
     "categories": [
       "description=MaMo Technolabs LLP – Web & Digital Marketing Company\nOffice No 27 to 29, RAAMA EMPERRO, 4th Floor,\t\t Besides Shell Petrol Pump, Jagdish Farshan Outlet,\t\t Manjalpur, Vadodara, Gujarat – 390011, India"
     ],
@@ -82887,7 +82895,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T06:05:42+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://mamotechnolabs.com/careers: HTTPError; https://mamotechnolabs.com/jobs: HTTPError; https://mamotechnolabs.com/jobs/: HTTPError; no careers page detected"
+      }
     }
   },
   {
