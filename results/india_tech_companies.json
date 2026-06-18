@@ -3649,6 +3649,61 @@
     }
   },
   {
+    "name": "Optratec Technologies Pvt. Ltd.",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "Sector 3, Near Satkar Shopping Complex, Malviya Nagar, JMC-2, Jaipur, 302014",
+    "lat": 26.8502252,
+    "lng": 75.8176572,
+    "website": "https://www.optratec.com",
+    "phone": "",
+    "careers_url": "https://www.hugedomains.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T20:04:31+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3334071027"
+    },
+    "tech_score": 71.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "Sector 3, Near Satkar Shopping Complex, Malviya Nagar",
+        "addr:postcode": "302014",
+        "addr:street": "JMC-2",
+        "name": "Optratec Technologies Pvt. Ltd.",
+        "office": "it",
+        "website": "https://www.optratec.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hugedomains.com/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T20:04:31+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Here Technologies",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -6688,61 +6743,6 @@
         "confidence": "none",
         "checked_at": "2026-06-18T20:04:25+00:00",
         "notes": "homepage fetch failed: SSLError; https://www.pramati.com/jobs: SSLError; https://www.pramati.com/jobs/: SSLError; https://www.pramati.com/career: SSLError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Optratec Technologies Pvt. Ltd.",
-    "city": "Jaipur",
-    "region": "Rajasthan",
-    "country": "India",
-    "address": "Sector 3, Near Satkar Shopping Complex, Malviya Nagar, JMC-2, Jaipur, 302014",
-    "lat": 26.8502252,
-    "lng": 75.8176572,
-    "website": "https://www.optratec.com",
-    "phone": "",
-    "careers_url": "https://www.hugedomains.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T20:04:31+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3334071027"
-    },
-    "tech_score": 67.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Jaipur",
-        "addr:housenumber": "Sector 3, Near Satkar Shopping Complex, Malviya Nagar",
-        "addr:postcode": "302014",
-        "addr:street": "JMC-2",
-        "name": "Optratec Technologies Pvt. Ltd.",
-        "office": "it",
-        "website": "https://www.optratec.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.hugedomains.com/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T20:04:31+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -10286,12 +10286,12 @@
     "lng": 73.92451,
     "website": "https://www.famictech.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.famictech.com/en/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.famictech.com/en/Registration?returnurl=https%3a%2f%2fwww.famictech.com%2fen%2fcareers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T21:02:01+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=Software company"
     ],
@@ -10321,7 +10321,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.famictech.com/en/careers",
+        "provider": "company_website",
+        "api_url": "https://www.famictech.com/en/Registration?returnurl=https%3a%2f%2fwww.famictech.com%2fen%2fcareers",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T21:02:01+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -10685,9 +10693,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T21:02:05+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://itmission.kerala.gov.in/jobs: ConnectTimeout; https://itmission.kerala.gov.in/jobs/: ConnectTimeout; https://itmission.kerala.gov.in/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=government",
       "building=yes"
@@ -10729,7 +10737,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T21:02:05+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://itmission.kerala.gov.in/jobs: ConnectTimeout; https://itmission.kerala.gov.in/jobs/: ConnectTimeout; https://itmission.kerala.gov.in/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
