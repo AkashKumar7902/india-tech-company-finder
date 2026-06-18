@@ -2358,6 +2358,56 @@
     }
   },
   {
+    "name": "ESDS Software Solution Pvt Ltd",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Plot No. B- 24 & 25,, NICE Industrial Area, Nashik, 422007",
+    "lat": 19.9960502,
+    "lng": 73.7473064,
+    "website": "https://www.esds.co.in/",
+    "phone": "",
+    "careers_url": "https://www.esds.co.in/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://www.esds.co.in/careers.php",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-18T12:30:40+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2839142996"
+    },
+    "tech_score": 77.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nashik",
+        "addr:housenumber": "Plot No. B- 24 & 25,",
+        "addr:postcode": "422007",
+        "addr:street": "NICE Industrial Area",
+        "ele": "-1",
+        "name": "ESDS Software Solution Pvt Ltd",
+        "office": "it",
+        "opening_hours": "24/7",
+        "website": "https://www.esds.co.in/"
+      },
+      "careers": {
+        "url": "https://www.esds.co.in/",
+        "provider": "darwinbox",
+        "api_url": "https://www.esds.co.in/careers.php",
+        "confidence": "high",
+        "checked_at": "2026-06-18T12:30:40+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Raysoft Infotech Private Limited",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -3071,56 +3121,6 @@
     }
   },
   {
-    "name": "ESDS Software Solution Pvt Ltd",
-    "city": "Nashik",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Plot No. B- 24 & 25,, NICE Industrial Area, Nashik, 422007",
-    "lat": 19.9960502,
-    "lng": 73.7473064,
-    "website": "https://www.esds.co.in/",
-    "phone": "",
-    "careers_url": "https://www.esds.co.in/",
-    "careers_provider": "darwinbox",
-    "careers_api_url": "https://www.esds.co.in/careers.php",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-18T12:30:40+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2839142996"
-    },
-    "tech_score": 73.0,
-    "confidence": "high",
-    "notes": "matched: software, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Nashik",
-        "addr:housenumber": "Plot No. B- 24 & 25,",
-        "addr:postcode": "422007",
-        "addr:street": "NICE Industrial Area",
-        "ele": "-1",
-        "name": "ESDS Software Solution Pvt Ltd",
-        "office": "it",
-        "opening_hours": "24/7",
-        "website": "https://www.esds.co.in/"
-      },
-      "careers": {
-        "url": "https://www.esds.co.in/",
-        "provider": "darwinbox",
-        "api_url": "https://www.esds.co.in/careers.php",
-        "confidence": "high",
-        "checked_at": "2026-06-18T12:30:40+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "VMware Software India Pvt. Ltd.",
     "city": "Pune",
     "region": "Maharashtra",
@@ -3486,9 +3486,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T13:47:01+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://www.mimsystech.com/jobs: ConnectTimeout; https://www.mimsystech.com/jobs/: ConnectTimeout; https://www.mimsystech.com/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=it",
       "description=IT office in BTM Layout, Bangalore"
@@ -3520,7 +3520,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T13:47:01+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://www.mimsystech.com/jobs: ConnectTimeout; https://www.mimsystech.com/jobs/: ConnectTimeout; https://www.mimsystech.com/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -3533,12 +3541,12 @@
     "lng": 77.6909742,
     "website": "https://www.ascendum.com/",
     "phone": "+9180 6750 0800",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.ascendum.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.ascendum.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T13:48:33+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -3567,7 +3575,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ascendum.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.ascendum.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T13:48:33+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
