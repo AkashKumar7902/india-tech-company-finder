@@ -77376,6 +77376,60 @@
     }
   },
   {
+    "name": "PS Law Firm",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "",
+    "lat": 28.6294655,
+    "lng": 77.2321852,
+    "website": "https://pslaw.co.in/",
+    "phone": "",
+    "careers_url": "https://pslaw.co.in/preeti-singh-and-associates",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T01:42:30+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=\"PS Law Firm, based in New Delhi, is a renowned legal practice offering expert services in corporate law, litigation, intellectual property, and more. With a team of experienced professionals, the firm is dedicated to providing tailored legal solutions"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3424259565"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "description": "\"PS Law Firm, based in New Delhi, is a renowned legal practice offering expert services in corporate law, litigation, intellectual property, and more. With a team of experienced professionals, the firm is dedicated to providing tailored legal solutions",
+        "image": "https://api.asm.skype.com/v1/objects/0-jhb-d3-58343ba4de283007e0871bec890c1852/views/imgpsh_fullsize_anim",
+        "name": "PS Law Firm",
+        "name:en": "PS Law Firm",
+        "place": "Bengali Market, New Delhi",
+        "website": "https://pslaw.co.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://pslaw.co.in/preeti-singh-and-associates",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T01:42:30+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Library, Computer & CPMU Labs",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -82160,60 +82214,6 @@
     }
   },
   {
-    "name": "PS Law Firm",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "",
-    "lat": 28.6294655,
-    "lng": 77.2321852,
-    "website": "https://pslaw.co.in/",
-    "phone": "",
-    "careers_url": "https://pslaw.co.in/preeti-singh-and-associates",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T01:42:30+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=\"PS Law Firm, based in New Delhi, is a renowned legal practice offering expert services in corporate law, litigation, intellectual property, and more. With a team of experienced professionals, the firm is dedicated to providing tailored legal solutions"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3424259565"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "description": "\"PS Law Firm, based in New Delhi, is a renowned legal practice offering expert services in corporate law, litigation, intellectual property, and more. With a team of experienced professionals, the firm is dedicated to providing tailored legal solutions",
-        "image": "https://api.asm.skype.com/v1/objects/0-jhb-d3-58343ba4de283007e0871bec890c1852/views/imgpsh_fullsize_anim",
-        "name": "PS Law Firm",
-        "name:en": "PS Law Firm",
-        "place": "Bengali Market, New Delhi",
-        "website": "https://pslaw.co.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://pslaw.co.in/preeti-singh-and-associates",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T01:42:30+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Rank Tech Digital",
     "city": "New Delhi",
     "region": "Delhi",
@@ -82377,12 +82377,12 @@
     "lng": 77.3169546,
     "website": "https://www.figmanetsolutions.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.figmanetsolutions.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://figmanet.gumlet.io/store/image/image_api/catalog/Frame237.png?w=16&h=16&mode=crop",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T02:48:01+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=yes"
     ],
@@ -82411,7 +82411,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.figmanetsolutions.com/career",
+        "provider": "company_website",
+        "api_url": "https://figmanet.gumlet.io/store/image/image_api/catalog/Frame237.png?w=16&h=16&mode=crop",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T02:48:01+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -82427,9 +82435,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T02:48:08+00:00",
+    "careers_notes": "https://mifysolutions.com/jobs: HTTPError; https://mifysolutions.com/jobs/: HTTPError; https://mifysolutions.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency"
     ],
@@ -82461,7 +82469,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T02:48:08+00:00",
+        "notes": "https://mifysolutions.com/jobs: HTTPError; https://mifysolutions.com/jobs/: HTTPError; https://mifysolutions.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
