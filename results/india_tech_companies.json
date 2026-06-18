@@ -2582,9 +2582,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T11:14:55+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.manpushpsoftware.com/jobs: ConnectionError; https://www.manpushpsoftware.com/jobs/: ConnectionError; https://www.manpushpsoftware.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -2614,7 +2614,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T11:14:55+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.manpushpsoftware.com/jobs: ConnectionError; https://www.manpushpsoftware.com/jobs/: ConnectionError; https://www.manpushpsoftware.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -2627,12 +2635,12 @@
     "lng": 81.6223527,
     "website": "https://www.xxatsolution.com/",
     "phone": "+91 7489162331",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.xxatsolution.com/Career.htm",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto+Condensed",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T11:16:26+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -2663,7 +2671,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.xxatsolution.com/Career.htm",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto+Condensed",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T11:16:26+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
