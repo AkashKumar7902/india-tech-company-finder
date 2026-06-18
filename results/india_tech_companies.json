@@ -81969,12 +81969,12 @@
     "lng": 73.0024064,
     "website": "https://zootwebagency.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T00:47:43+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=ZOOT DIGITAL PRIVATE LTD. – Your Partner for Digital Growth in Navi Mumbai\n\nIn today’s fast-paced online marketplace, having a strong digital presence is no longer optional—it’s essential. At ZOOT DIGITAL PRIVATE LTD., we specialize in delivering customiz"
     ],
@@ -82007,7 +82007,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+        "provider": "company_website",
+        "api_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T00:47:43+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -82020,12 +82028,12 @@
     "lng": 79.0487717,
     "website": "https://ascent-group.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.ascenthealthcare.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.ascenthealthcare.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T00:47:56+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=office"
     ],
@@ -82051,7 +82059,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ascenthealthcare.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.ascenthealthcare.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T00:47:56+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
