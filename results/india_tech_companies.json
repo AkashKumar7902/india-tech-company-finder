@@ -3239,6 +3239,127 @@
     }
   },
   {
+    "name": "RasuKoo Digital Solutions",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "D-20/21, Saket Colony, Adarsh Nagar, Jaipur, 302004",
+    "lat": 26.902074,
+    "lng": 75.835389,
+    "website": "https://www.rasukoo.com/",
+    "phone": "+917820919773",
+    "careers_url": "https://www.rasukoo.com/notfound",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-18T16:11:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11752620034"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: solutions, digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:housenumber": "D-20/21",
+        "addr:postcode": "302004",
+        "addr:street": "Saket Colony, Adarsh Nagar",
+        "contact:email": "rasukoo.jpr@gmail.com",
+        "contact:phone": "+917820919773",
+        "name": "RasuKoo Digital Solutions",
+        "office": "it",
+        "opening_hours": "24/7",
+        "operator": "Radheshyam Yogi",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+917820919773",
+        "website": "https://www.rasukoo.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.rasukoo.com/notfound",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-18T16:11:29+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Caspar Technologies",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "7A, Chakolas heights, Seaport Airport Road, Chittethukara",
+    "lat": 9.9946529,
+    "lng": 76.3519924,
+    "website": "https://caspardigital.com/",
+    "phone": "+91-4842-989024",
+    "careers_url": "https://caspardigital.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://caspardigital.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T16:11:32+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11346674209"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chittethukara",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "7A, Chakolas heights",
+        "addr:street": "Seaport Airport Road",
+        "air_conditioning": "yes",
+        "name": "Caspar Technologies",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "phone": "+91-4842-989024",
+        "website": "https://caspardigital.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://caspardigital.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://caspardigital.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T16:11:32+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "BluWebMedia IT Services Pvt. Ltd.",
     "city": "Kolkata",
     "region": "West Bengal",
@@ -4203,127 +4324,6 @@
     }
   },
   {
-    "name": "RasuKoo Digital Solutions",
-    "city": "Jaipur",
-    "region": "Rajasthan",
-    "country": "India",
-    "address": "D-20/21, Saket Colony, Adarsh Nagar, Jaipur, 302004",
-    "lat": 26.902074,
-    "lng": 75.835389,
-    "website": "https://www.rasukoo.com/",
-    "phone": "+917820919773",
-    "careers_url": "https://www.rasukoo.com/notfound",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-18T16:11:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11752620034"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: solutions, digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Jaipur",
-        "addr:housenumber": "D-20/21",
-        "addr:postcode": "302004",
-        "addr:street": "Saket Colony, Adarsh Nagar",
-        "contact:email": "rasukoo.jpr@gmail.com",
-        "contact:phone": "+917820919773",
-        "name": "RasuKoo Digital Solutions",
-        "office": "it",
-        "opening_hours": "24/7",
-        "operator": "Radheshyam Yogi",
-        "payment:cards": "yes",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "phone": "+917820919773",
-        "website": "https://www.rasukoo.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.rasukoo.com/notfound",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-18T16:11:29+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Caspar Technologies",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "7A, Chakolas heights, Seaport Airport Road, Chittethukara",
-    "lat": 9.9946529,
-    "lng": 76.3519924,
-    "website": "https://caspardigital.com/",
-    "phone": "+91-4842-989024",
-    "careers_url": "https://caspardigital.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://caspardigital.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T16:11:32+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11346674209"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chittethukara",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "7A, Chakolas heights",
-        "addr:street": "Seaport Airport Road",
-        "air_conditioning": "yes",
-        "name": "Caspar Technologies",
-        "office": "it",
-        "opening_hours": "Mo-Sa 09:00-19:00",
-        "phone": "+91-4842-989024",
-        "website": "https://caspardigital.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://caspardigital.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://caspardigital.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T16:11:32+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "inTEUtion Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -4535,12 +4535,12 @@
     "lng": 88.359248,
     "website": "https://www.virtubox.io/",
     "phone": "09007114888",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.virtubox.io/in",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-18T17:26:03+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4571,7 +4571,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.virtubox.io/in",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-18T17:26:03+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -4584,12 +4592,12 @@
     "lng": 77.1260903,
     "website": "https://www.nebulainfotech.com/",
     "phone": "+91- 9818089933",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.nebulainfotech.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://in.indeed.com/cmp/Nebula-Infotech/jobs",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T17:26:20+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4622,7 +4630,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.nebulainfotech.com/career",
+        "provider": "company_website",
+        "api_url": "https://in.indeed.com/cmp/Nebula-Infotech/jobs",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T17:26:20+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
