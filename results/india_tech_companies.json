@@ -7288,6 +7288,62 @@
     }
   },
   {
+    "name": "Famic Technologies Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No. 301,Pentagon Tower - 1, Magarpatta City, Pune, 411013",
+    "lat": 18.512855,
+    "lng": 73.92451,
+    "website": "https://www.famictech.com/",
+    "phone": "",
+    "careers_url": "https://www.famictech.com/en/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.famictech.com/en/Registration?returnurl=https%3a%2f%2fwww.famictech.com%2fen%2fcareers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T21:02:01+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Software company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:256431155"
+    },
+    "tech_score": 66.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "Office No. 301,Pentagon Tower - 1",
+        "addr:postcode": "411013",
+        "addr:street": "Magarpatta City",
+        "description": "Software company",
+        "landuse": "commercial",
+        "name": "Famic Technologies Pvt Ltd",
+        "website": "https://www.famictech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.famictech.com/en/careers",
+        "provider": "company_website",
+        "api_url": "https://www.famictech.com/en/Registration?returnurl=https%3a%2f%2fwww.famictech.com%2fen%2fcareers",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T21:02:01+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "University Center For Computer Science And Information Technology",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -10277,62 +10333,6 @@
     }
   },
   {
-    "name": "Famic Technologies Pvt Ltd",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Office No. 301,Pentagon Tower - 1, Magarpatta City, Pune, 411013",
-    "lat": 18.512855,
-    "lng": 73.92451,
-    "website": "https://www.famictech.com/",
-    "phone": "",
-    "careers_url": "https://www.famictech.com/en/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.famictech.com/en/Registration?returnurl=https%3a%2f%2fwww.famictech.com%2fen%2fcareers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T21:02:01+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Software company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:256431155"
-    },
-    "tech_score": 62.0,
-    "confidence": "high",
-    "notes": "matched: software, technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:housenumber": "Office No. 301,Pentagon Tower - 1",
-        "addr:postcode": "411013",
-        "addr:street": "Magarpatta City",
-        "description": "Software company",
-        "landuse": "commercial",
-        "name": "Famic Technologies Pvt Ltd",
-        "website": "https://www.famictech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.famictech.com/en/careers",
-        "provider": "company_website",
-        "api_url": "https://www.famictech.com/en/Registration?returnurl=https%3a%2f%2fwww.famictech.com%2fen%2fcareers",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T21:02:01+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Futurism Technologies",
     "city": "Pune",
     "region": "Maharashtra",
@@ -11991,9 +11991,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T21:52:06+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://sproutup.co.in/jobs: ConnectionError; https://sproutup.co.in/jobs/: ConnectionError; https://sproutup.co.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it",
       "description=SproutUp provides co-working space under brand SproutUp Space and technical mentorship program under  brand SproutUp Tech"
@@ -12027,7 +12027,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T21:52:06+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://sproutup.co.in/jobs: ConnectionError; https://sproutup.co.in/jobs/: ConnectionError; https://sproutup.co.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -12204,9 +12212,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T21:52:08+00:00",
+    "careers_notes": "https://guidewellit.com/jobs: HTTPError; https://guidewellit.com/jobs/: HTTPError; https://guidewellit.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "description=Digital Marketing"
@@ -12243,7 +12251,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T21:52:08+00:00",
+        "notes": "https://guidewellit.com/jobs: HTTPError; https://guidewellit.com/jobs/: HTTPError; https://guidewellit.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
