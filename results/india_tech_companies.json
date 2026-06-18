@@ -13164,9 +13164,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T22:39:39+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.syscraftonline.com/jobs: HTTPError; https://www.syscraftonline.com/jobs/: HTTPError; https://www.syscraftonline.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -13193,7 +13193,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T22:39:39+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.syscraftonline.com/jobs: HTTPError; https://www.syscraftonline.com/jobs/: HTTPError; https://www.syscraftonline.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -13209,9 +13217,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T22:39:41+00:00",
+    "careers_notes": "https://soln.tech/jobs: HTTPError; https://soln.tech/jobs/: HTTPError; https://soln.tech/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -13242,7 +13250,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T22:39:41+00:00",
+        "notes": "https://soln.tech/jobs: HTTPError; https://soln.tech/jobs/: HTTPError; https://soln.tech/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
