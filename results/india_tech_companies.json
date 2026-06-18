@@ -14026,12 +14026,12 @@
     "lng": 73.7642047,
     "website": "https://umstechlabs.com/",
     "phone": "022 30770139",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://umstechlabs.com/current-openings/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://umstechlabs.com/current-openings/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T23:20:30+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -14063,7 +14063,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://umstechlabs.com/current-openings/",
+        "provider": "company_website",
+        "api_url": "https://umstechlabs.com/current-openings/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T23:20:30+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -14404,9 +14412,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T23:20:34+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.w3care.com/jobs: HTTPError; https://www.w3care.com/jobs/: HTTPError; https://www.w3care.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=commercial",
       "description=W3Care Technologies is IT Company based in India and found in 2010. W3Care has been providing best website development, extension and maintenance services to its clients. We have expertise in Web development and provide development services."
@@ -14438,7 +14446,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T23:20:34+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.w3care.com/jobs: HTTPError; https://www.w3care.com/jobs/: HTTPError; https://www.w3care.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
