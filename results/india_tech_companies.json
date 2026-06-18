@@ -758,6 +758,60 @@
     }
   },
   {
+    "name": "Cron24 Technologies",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Technology Business Incubator, TCE Campus, Thiruparankundram, Madurai - 625015",
+    "lat": 9.885968,
+    "lng": 78.0762394,
+    "website": "https://cron24.com",
+    "phone": "+91 93602 39309",
+    "careers_url": "https://cron24.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cron24.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T08:02:43+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7981200683"
+    },
+    "tech_score": 97.0,
+    "confidence": "high",
+    "notes": "matched: technology, technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:full": "Technology Business Incubator, TCE Campus, Thiruparankundram, Madurai - 625015",
+        "email": "sales@cron24.com",
+        "name": "Cron24 Technologies",
+        "office": "it",
+        "phone": "+91 93602 39309",
+        "website": "https://cron24.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://cron24.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://cron24.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T08:02:43+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "SpatioWorld Technologies",
     "city": "Pune",
     "region": "Maharashtra",
@@ -814,60 +868,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Cron24 Technologies",
-    "city": "Madurai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Technology Business Incubator, TCE Campus, Thiruparankundram, Madurai - 625015",
-    "lat": 9.885968,
-    "lng": 78.0762394,
-    "website": "https://cron24.com",
-    "phone": "+91 93602 39309",
-    "careers_url": "https://cron24.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://cron24.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T08:02:43+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7981200683"
-    },
-    "tech_score": 93.0,
-    "confidence": "high",
-    "notes": "matched: technology, technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:full": "Technology Business Incubator, TCE Campus, Thiruparankundram, Madurai - 625015",
-        "email": "sales@cron24.com",
-        "name": "Cron24 Technologies",
-        "office": "it",
-        "phone": "+91 93602 39309",
-        "website": "https://cron24.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://cron24.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://cron24.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T08:02:43+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -2210,9 +2210,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T09:43:19+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://aoplweb.in/jobs: ConnectTimeout; https://aoplweb.in/jobs/: ConnectTimeout; https://aoplweb.in/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=it",
       "description=Absolute Online Web is an innovative web Hosting, web designing and web development company based out of Hyderabad. Absolute Online Web is providing an array of services like web designing services, digital marketing services, search engine optimization."
@@ -2247,7 +2247,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T09:43:19+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://aoplweb.in/jobs: ConnectTimeout; https://aoplweb.in/jobs/: ConnectTimeout; https://aoplweb.in/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -2305,9 +2313,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T09:44:51+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://raysoftinfotech.com/jobs: HTTPError; https://raysoftinfotech.com/jobs/: HTTPError; https://raysoftinfotech.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=office",
       "description=At Raysoft, our commitment is to offer focused data-driven online marketing services including Website Development, SEO, SMM, SEM, RPA and Software Development.",
@@ -2347,7 +2355,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T09:44:51+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://raysoftinfotech.com/jobs: HTTPError; https://raysoftinfotech.com/jobs/: HTTPError; https://raysoftinfotech.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
