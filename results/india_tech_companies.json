@@ -77265,6 +77265,117 @@
     }
   },
   {
+    "name": "ZOOT DIGITAL PRIVATE LTD.",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "203, First Floor, Haware Fantasia Business Park Corporate wing, F-188, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705, Navi Mumbai, 400705",
+    "lat": 19.0655514,
+    "lng": 73.0024064,
+    "website": "https://zootwebagency.com/",
+    "phone": "",
+    "careers_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T00:47:43+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=ZOOT DIGITAL PRIVATE LTD. – Your Partner for Digital Growth in Navi Mumbai\n\nIn today’s fast-paced online marketplace, having a strong digital presence is no longer optional—it’s essential. At ZOOT DIGITAL PRIVATE LTD., we specialize in delivering customiz"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:353772720"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Navi Mumbai",
+        "addr:district": "Navi mumbai",
+        "addr:housenumber": "203",
+        "addr:postcode": "400705",
+        "addr:street": "First Floor, Haware Fantasia Business Park Corporate wing, F-188, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705",
+        "building:levels": "First Floor, Haware Fantasia Business Park Corporate wing, F-188, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705",
+        "description": "ZOOT DIGITAL PRIVATE LTD. – Your Partner for Digital Growth in Navi Mumbai\n\nIn today’s fast-paced online marketplace, having a strong digital presence is no longer optional—it’s essential. At ZOOT DIGITAL PRIVATE LTD., we specialize in delivering customiz",
+        "landuse": "commercial",
+        "mobile": "9082729185",
+        "name": "ZOOT DIGITAL PRIVATE LTD.",
+        "website": "https://zootwebagency.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+        "provider": "company_website",
+        "api_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T00:47:43+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Ascent Business Solutions",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Nagpur",
+    "lat": 21.1198608,
+    "lng": 79.0487717,
+    "website": "https://ascent-group.com/",
+    "phone": "",
+    "careers_url": "https://www.ascenthealthcare.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.ascenthealthcare.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T00:47:56+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:477500070"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "building": "office",
+        "name": "Ascent Business Solutions",
+        "website": "https://ascent-group.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ascenthealthcare.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.ascenthealthcare.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T00:47:56+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Library, Computer & CPMU Labs",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -81960,117 +82071,6 @@
     }
   },
   {
-    "name": "ZOOT DIGITAL PRIVATE LTD.",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "203, First Floor, Haware Fantasia Business Park Corporate wing, F-188, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705, Navi Mumbai, 400705",
-    "lat": 19.0655514,
-    "lng": 73.0024064,
-    "website": "https://zootwebagency.com/",
-    "phone": "",
-    "careers_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T00:47:43+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=ZOOT DIGITAL PRIVATE LTD. – Your Partner for Digital Growth in Navi Mumbai\n\nIn today’s fast-paced online marketplace, having a strong digital presence is no longer optional—it’s essential. At ZOOT DIGITAL PRIVATE LTD., we specialize in delivering customiz"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:353772720"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Navi Mumbai",
-        "addr:district": "Navi mumbai",
-        "addr:housenumber": "203",
-        "addr:postcode": "400705",
-        "addr:street": "First Floor, Haware Fantasia Business Park Corporate wing, F-188, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705",
-        "building:levels": "First Floor, Haware Fantasia Business Park Corporate wing, F-188, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705",
-        "description": "ZOOT DIGITAL PRIVATE LTD. – Your Partner for Digital Growth in Navi Mumbai\n\nIn today’s fast-paced online marketplace, having a strong digital presence is no longer optional—it’s essential. At ZOOT DIGITAL PRIVATE LTD., we specialize in delivering customiz",
-        "landuse": "commercial",
-        "mobile": "9082729185",
-        "name": "ZOOT DIGITAL PRIVATE LTD.",
-        "website": "https://zootwebagency.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
-        "provider": "company_website",
-        "api_url": "https://zootwebagency.com/career-at-digital-marketing-agency/",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T00:47:43+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Ascent Business Solutions",
-    "city": "Nagpur",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Nagpur",
-    "lat": 21.1198608,
-    "lng": 79.0487717,
-    "website": "https://ascent-group.com/",
-    "phone": "",
-    "careers_url": "https://www.ascenthealthcare.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.ascenthealthcare.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T00:47:56+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=office"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:477500070"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Nagpur",
-        "building": "office",
-        "name": "Ascent Business Solutions",
-        "website": "https://ascent-group.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.ascenthealthcare.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.ascenthealthcare.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T00:47:56+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Technokrafts Labs Pvt. Ltd.",
     "city": "Nashik",
     "region": "Maharashtra",
@@ -82169,12 +82169,12 @@
     "lng": 77.2321852,
     "website": "https://pslaw.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://pslaw.co.in/preeti-singh-and-associates",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T01:42:30+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=\"PS Law Firm, based in New Delhi, is a renowned legal practice offering expert services in corporate law, litigation, intellectual property, and more. With a team of experienced professionals, the firm is dedicated to providing tailored legal solutions"
     ],
@@ -82202,7 +82202,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://pslaw.co.in/preeti-singh-and-associates",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T01:42:30+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -82218,9 +82226,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T01:42:37+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://ranktechdigital.com/jobs: ConnectionError; https://ranktechdigital.com/jobs/: ConnectionError; https://ranktechdigital.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=advertising_agency",
       "description=Rank Tech Digital is a Digital Marketing company specializes in Search Engine Optimization, Social Media Management, Graphic Designing, etc."
@@ -82248,7 +82256,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T01:42:37+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://ranktechdigital.com/jobs: ConnectionError; https://ranktechdigital.com/jobs/: ConnectionError; https://ranktechdigital.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
