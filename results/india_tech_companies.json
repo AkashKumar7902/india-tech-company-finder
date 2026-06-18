@@ -3010,6 +3010,61 @@
     }
   },
   {
+    "name": "Sourcebits (Ascendum Digital)",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "2nd Floor, A Block, Salarpuria Aura,, Marathahalli-Sarjapur Outer Ring Road, Bengaluru, Karnataka 560103",
+    "lat": 12.936467,
+    "lng": 77.6909742,
+    "website": "https://www.ascendum.com/",
+    "phone": "+9180 6750 0800",
+    "careers_url": "https://www.ascendum.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.ascendum.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T13:48:33+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8402628125"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: solutions, digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "2nd Floor, A Block, Salarpuria Aura,",
+        "addr:street": "170-172, EPIP Zone Whitefield Rd, Phase 2, Brookefield, Bangalore 560066",
+        "name": "Ascendum Solutions",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "phone": "+918049310000",
+        "website": "https://www.ascendum.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ascendum.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.ascendum.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T13:48:33+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Nagarro Software Pvt Ltd",
     "city": "Gurugram",
     "region": "Haryana",
@@ -3532,61 +3587,6 @@
     }
   },
   {
-    "name": "Sourcebits (Ascendum Digital)",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "2nd Floor, A Block, Salarpuria Aura,, Marathahalli-Sarjapur Outer Ring Road, Bengaluru, Karnataka 560103",
-    "lat": 12.936467,
-    "lng": 77.6909742,
-    "website": "https://www.ascendum.com/",
-    "phone": "+9180 6750 0800",
-    "careers_url": "https://www.ascendum.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.ascendum.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T13:48:33+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8402628125"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: solutions, digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "2nd Floor, A Block, Salarpuria Aura,",
-        "addr:street": "170-172, EPIP Zone Whitefield Rd, Phase 2, Brookefield, Bangalore 560066",
-        "name": "Ascendum Solutions",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-19:00",
-        "phone": "+918049310000",
-        "website": "https://www.ascendum.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.ascendum.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.ascendum.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T13:48:33+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Sunsoft Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -3791,12 +3791,12 @@
     "lng": 80.2517272,
     "website": "https://nesh.live",
     "phone": "9790706090",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://nesh.live/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cdn-ilclddf.nitrocdn.com/WuKeUqkjrAwkTlqtImliCZTAITaZiGAt/assets/static/source/rev-eee0438/nesh.live/wp-content/plugins/wp-job-openings/assets/fonts/23118989665c13f78e54be0c89d0d9dd.awsm-jobs-icomoon.eot",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T14:50:54+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=commercial"
@@ -3829,7 +3829,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://nesh.live/career/",
+        "provider": "company_website",
+        "api_url": "https://cdn-ilclddf.nitrocdn.com/WuKeUqkjrAwkTlqtImliCZTAITaZiGAt/assets/static/source/rev-eee0438/nesh.live/wp-content/plugins/wp-job-openings/assets/fonts/23118989665c13f78e54be0c89d0d9dd.awsm-jobs-icomoon.eot",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T14:50:54+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -3842,12 +3850,12 @@
     "lng": 77.0352632,
     "website": "https://byval.in",
     "phone": "+91 82484 74232",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://byval.in/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://byval.in/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T14:51:01+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -3886,7 +3894,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://byval.in/career",
+        "provider": "company_website",
+        "api_url": "https://byval.in/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T14:51:01+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
