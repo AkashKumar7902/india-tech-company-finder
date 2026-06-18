@@ -2259,6 +2259,63 @@
     }
   },
   {
+    "name": "Xxat software",
+    "city": "Raipur",
+    "region": "Chhattisgarh",
+    "country": "India",
+    "address": "330, samata colony main road,samata colony, raipur, 492001",
+    "lat": 21.2462632,
+    "lng": 81.6223527,
+    "website": "https://www.xxatsolution.com/",
+    "phone": "+91 7489162331",
+    "careers_url": "https://www.xxatsolution.com/Career.htm",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto+Condensed",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T11:16:26+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4445372675"
+    },
+    "tech_score": 79.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "raipur",
+        "addr:housenumber": "330",
+        "addr:postcode": "492001",
+        "addr:street": "samata colony main road,samata colony",
+        "name": "Xxat software",
+        "office": "it",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su off",
+        "phone": "+91 7489162331",
+        "website": "https://www.xxatsolution.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.xxatsolution.com/Career.htm",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto+Condensed",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T11:16:26+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sine90 Software Labs Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -2626,63 +2683,6 @@
     }
   },
   {
-    "name": "Xxat software",
-    "city": "Raipur",
-    "region": "Chhattisgarh",
-    "country": "India",
-    "address": "330, samata colony main road,samata colony, raipur, 492001",
-    "lat": 21.2462632,
-    "lng": 81.6223527,
-    "website": "https://www.xxatsolution.com/",
-    "phone": "+91 7489162331",
-    "careers_url": "https://www.xxatsolution.com/Career.htm",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto+Condensed",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T11:16:26+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4445372675"
-    },
-    "tech_score": 75.0,
-    "confidence": "high",
-    "notes": "matched: software, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "raipur",
-        "addr:housenumber": "330",
-        "addr:postcode": "492001",
-        "addr:street": "samata colony main road,samata colony",
-        "name": "Xxat software",
-        "office": "it",
-        "opening_hours": "Mo-Sa 10:00-20:00; Su off",
-        "phone": "+91 7489162331",
-        "website": "https://www.xxatsolution.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.xxatsolution.com/Career.htm",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Roboto+Condensed",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T11:16:26+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "CodeRythm Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -3022,9 +3022,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T12:30:33+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.bluwebmedia.co.in/jobs: ConnectionError; https://www.bluwebmedia.co.in/jobs/: ConnectionError; https://www.bluwebmedia.co.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -3059,7 +3059,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T12:30:33+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.bluwebmedia.co.in/jobs: ConnectionError; https://www.bluwebmedia.co.in/jobs/: ConnectionError; https://www.bluwebmedia.co.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -3072,12 +3080,12 @@
     "lng": 73.7473064,
     "website": "https://www.esds.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.esds.co.in/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://www.esds.co.in/careers.php",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-18T12:30:40+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=it"
     ],
@@ -3101,6 +3109,14 @@
         "office": "it",
         "opening_hours": "24/7",
         "website": "https://www.esds.co.in/"
+      },
+      "careers": {
+        "url": "https://www.esds.co.in/",
+        "provider": "darwinbox",
+        "api_url": "https://www.esds.co.in/careers.php",
+        "confidence": "high",
+        "checked_at": "2026-06-18T12:30:40+00:00",
+        "notes": "detected ATS/provider"
       }
     }
   },
