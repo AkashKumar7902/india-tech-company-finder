@@ -77430,6 +77430,61 @@
     }
   },
   {
+    "name": "Figmanet Solutions Pvt Ltd",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "4, 2nd Floor, B41, B Block, Sector 2, Noida, Uttar Pradesh 201301, Noida, 201301",
+    "lat": 28.5872929,
+    "lng": 77.3169546,
+    "website": "https://www.figmanetsolutions.com/",
+    "phone": "",
+    "careers_url": "https://www.figmanetsolutions.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://figmanet.gumlet.io/store/image/image_api/catalog/Frame237.png?w=16&h=16&mode=crop",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T02:48:01+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:348479308"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:postcode": "201301",
+        "addr:street": "4, 2nd Floor, B41, B Block, Sector 2, Noida, Uttar Pradesh 201301",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Figmanet Solutions Pvt Ltd",
+        "website": "https://www.figmanetsolutions.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.figmanetsolutions.com/career",
+        "provider": "company_website",
+        "api_url": "https://figmanet.gumlet.io/store/image/image_api/catalog/Frame237.png?w=16&h=16&mode=crop",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T02:48:01+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Library, Computer & CPMU Labs",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -82368,61 +82423,6 @@
     }
   },
   {
-    "name": "Figmanet Solutions Pvt Ltd",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "4, 2nd Floor, B41, B Block, Sector 2, Noida, Uttar Pradesh 201301, Noida, 201301",
-    "lat": 28.5872929,
-    "lng": 77.3169546,
-    "website": "https://www.figmanetsolutions.com/",
-    "phone": "",
-    "careers_url": "https://www.figmanetsolutions.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://figmanet.gumlet.io/store/image/image_api/catalog/Frame237.png?w=16&h=16&mode=crop",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T02:48:01+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:348479308"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida",
-        "addr:postcode": "201301",
-        "addr:street": "4, 2nd Floor, B41, B Block, Sector 2, Noida, Uttar Pradesh 201301",
-        "building": "yes",
-        "building:levels": "2",
-        "name": "Figmanet Solutions Pvt Ltd",
-        "website": "https://www.figmanetsolutions.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.figmanetsolutions.com/career",
-        "provider": "company_website",
-        "api_url": "https://figmanet.gumlet.io/store/image/image_api/catalog/Frame237.png?w=16&h=16&mode=crop",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T02:48:01+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Mify Solutions Pvt. Ltd.",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -82587,9 +82587,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T04:19:59+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://eternalsolutionssystem.com/jobs: HTTPError; https://eternalsolutionssystem.com/jobs/: HTTPError; https://eternalsolutionssystem.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=apartments"
     ],
@@ -82620,7 +82620,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T04:19:59+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://eternalsolutionssystem.com/jobs: HTTPError; https://eternalsolutionssystem.com/jobs/: HTTPError; https://eternalsolutionssystem.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -82636,9 +82644,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T04:20:01+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://osumare.com/jobs: HTTPError; https://osumare.com/jobs/: HTTPError; https://osumare.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=industrial",
       "description=We tailor strategies to your unique goals, from SEO to social media, ensuring the perfect fit for your business. When you choose Osumare, you choose a digital marketing partner dedicated to your success. Join us and watch your business thrive online!"
@@ -82672,7 +82680,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T04:20:01+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://osumare.com/jobs: HTTPError; https://osumare.com/jobs/: HTTPError; https://osumare.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
