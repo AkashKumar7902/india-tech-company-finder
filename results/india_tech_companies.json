@@ -164,9 +164,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T08:01:12+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://proponenttechnologies.com/jobs: ConnectionError; https://proponenttechnologies.com/jobs/: ConnectionError; https://proponenttechnologies.com/career: ConnectionError; no careers page detected",
     "categories": [
       "description=Proponent Technologies Pvt. Ltd. is an offshore software and web development company. We specialize in creating smart user interfaces and offer website and mobile app development, digital marketing, and IT consulting."
     ],
@@ -192,7 +192,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T08:01:12+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://proponenttechnologies.com/jobs: ConnectionError; https://proponenttechnologies.com/jobs/: ConnectionError; https://proponenttechnologies.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -818,12 +826,12 @@
     "lng": 78.0762394,
     "website": "https://cron24.com",
     "phone": "+91 93602 39309",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://cron24.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://cron24.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T08:02:43+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -851,7 +859,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://cron24.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://cron24.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T08:02:43+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
