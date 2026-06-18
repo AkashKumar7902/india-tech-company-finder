@@ -3591,6 +3591,64 @@
     }
   },
   {
+    "name": "ITKX Technologies",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "19, Bishop Main Road, Tiruchirappalli, 620017",
+    "lat": 10.8155971,
+    "lng": 78.6782841,
+    "website": "https://itkx.tech",
+    "phone": "+919442260944",
+    "careers_url": "https://itkx.tech/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://itkx.tech/index.php/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T18:20:03+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12566963690"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Tiruchirappalli",
+        "addr:district": "Tiruchirappalli",
+        "addr:housenumber": "19",
+        "addr:postcode": "620017",
+        "addr:street": "Bishop Main Road",
+        "name": "ITKX Technologies",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:30-17:30",
+        "phone": "+919442260944",
+        "website": "https://itkx.tech"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://itkx.tech/careers",
+        "provider": "company_website",
+        "api_url": "https://itkx.tech/index.php/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T18:20:03+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Here Technologies",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -4913,64 +4971,6 @@
     }
   },
   {
-    "name": "ITKX Technologies",
-    "city": "Tiruchirappalli",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "19, Bishop Main Road, Tiruchirappalli, 620017",
-    "lat": 10.8155971,
-    "lng": 78.6782841,
-    "website": "https://itkx.tech",
-    "phone": "+919442260944",
-    "careers_url": "https://itkx.tech/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://itkx.tech/index.php/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T18:20:03+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12566963690"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Tiruchirappalli",
-        "addr:district": "Tiruchirappalli",
-        "addr:housenumber": "19",
-        "addr:postcode": "620017",
-        "addr:street": "Bishop Main Road",
-        "name": "ITKX Technologies",
-        "office": "it",
-        "opening_hours": "Mo-Sa 09:30-17:30",
-        "phone": "+919442260944",
-        "website": "https://itkx.tech"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://itkx.tech/careers",
-        "provider": "company_website",
-        "api_url": "https://itkx.tech/index.php/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T18:20:03+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Amber Road Software Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -6282,9 +6282,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T19:13:19+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://canvasjs.com/jobs: HTTPError; https://canvasjs.com/jobs/: HTTPError; https://canvasjs.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "building=yes"
@@ -6317,7 +6317,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T19:13:19+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://canvasjs.com/jobs: HTTPError; https://canvasjs.com/jobs/: HTTPError; https://canvasjs.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -6333,9 +6341,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-18T19:13:21+00:00",
+    "careers_notes": "https://www.hentechnologies.com/jobs: HTTPError; https://www.hentechnologies.com/jobs/: HTTPError; https://www.hentechnologies.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -6366,7 +6374,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-18T19:13:21+00:00",
+        "notes": "https://www.hentechnologies.com/jobs: HTTPError; https://www.hentechnologies.com/jobs/: HTTPError; https://www.hentechnologies.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
