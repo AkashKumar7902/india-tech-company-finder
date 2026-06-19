@@ -40487,6 +40487,60 @@
     }
   },
   {
+    "name": "Kosmik Technologies Pvt Ltd.",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.4957743,
+    "lng": 78.3955659,
+    "website": "https://www.kosmiktechnologies.com/",
+    "phone": "(+91) 8712186898",
+    "careers_url": "https://www.kosmiktechnologies.com/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.kosmiktechnologies.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T21:02:53+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7246482629"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2024-03-16",
+        "email": "info@kosmiktechnologies.com",
+        "name": "Kosmik Technologies Pvt Ltd.",
+        "office": "educational_institution",
+        "phone": "(+91) 8712186898",
+        "website": "https://www.kosmiktechnologies.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.kosmiktechnologies.com/jobs/",
+        "provider": "company_website",
+        "api_url": "https://www.kosmiktechnologies.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T21:02:53+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Laxmi Infobahn",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -50807,60 +50861,6 @@
     }
   },
   {
-    "name": "Kosmik Technologies Pvt Ltd.",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "",
-    "lat": 17.4957743,
-    "lng": 78.3955659,
-    "website": "https://www.kosmiktechnologies.com/",
-    "phone": "(+91) 8712186898",
-    "careers_url": "https://www.kosmiktechnologies.com/jobs/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.kosmiktechnologies.com/jobs/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T21:02:53+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=educational_institution"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7246482629"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "check_date": "2024-03-16",
-        "email": "info@kosmiktechnologies.com",
-        "name": "Kosmik Technologies Pvt Ltd.",
-        "office": "educational_institution",
-        "phone": "(+91) 8712186898",
-        "website": "https://www.kosmiktechnologies.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.kosmiktechnologies.com/jobs/",
-        "provider": "company_website",
-        "api_url": "https://www.kosmiktechnologies.com/jobs/",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T21:02:53+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Qkoncept Learning",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -51189,9 +51189,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T21:37:13+00:00",
+    "careers_notes": "https://www.makersasylum.com/jobs: HTTPError; https://www.makersasylum.com/jobs/: HTTPError; https://www.makersasylum.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=yes",
       "description=Maker’s Asylum is a community MakerSpace based in Mumbai and Delhi, that allows collaborative ideation. It brings together interdisciplinary activities covering Science, Technology, Engineering, Art and Math (STEAM) to foster a culture of innovation, expl"
@@ -51225,7 +51225,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T21:37:13+00:00",
+        "notes": "https://www.makersasylum.com/jobs: HTTPError; https://www.makersasylum.com/jobs/: HTTPError; https://www.makersasylum.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -51238,12 +51246,12 @@
     "lng": 72.913481,
     "website": "http://princetechsolutions.com/",
     "phone": "+91 992 013 1348",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://situsmacau4d.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Lato",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T21:37:16+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -51275,7 +51283,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://situsmacau4d.com/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Lato",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T21:37:16+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
