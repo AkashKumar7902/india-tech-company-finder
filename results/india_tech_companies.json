@@ -28031,6 +28031,60 @@
     }
   },
   {
+    "name": "BETA CAE Systems India Pvt. Ltd.",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Dr. Rajkumar Road, 560010",
+    "lat": 13.0076641,
+    "lng": 77.5546523,
+    "website": "https://www.beta-cae.com/",
+    "phone": "+918066493400",
+    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "careers_provider": "workday",
+    "careers_api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-19T19:09:44+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5804054862"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "560010",
+        "addr:street": "Dr. Rajkumar Road",
+        "name": "BETA CAE Systems India Pvt. Ltd.",
+        "office": "company",
+        "phone": "+918066493400",
+        "website": "https://www.beta-cae.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+        "provider": "workday",
+        "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-19T19:09:44+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Cadence Design Systems (India) Private Limited",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -28245,6 +28299,62 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "TMEIC Industrial Systems india Pvt. Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1&2, Karuna Amman Koil, bangalore, 560008",
+    "lat": 12.9827061,
+    "lng": 77.6251679,
+    "website": "https://tmeic.com/",
+    "phone": "080675 15599",
+    "careers_url": "https://tmeic.com/careers/",
+    "careers_provider": "workable",
+    "careers_api_url": "https://tmeic.com/careers/",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-19T19:09:49+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4488717802"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "bangalore",
+        "addr:housenumber": "1&2",
+        "addr:postcode": "560008",
+        "addr:street": "Karuna Amman Koil",
+        "name": "TMEIC Industrial Systems india Pvt. Ltd",
+        "office": "company",
+        "phone": "080675 15599",
+        "website": "https://tmeic.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://tmeic.com/careers/",
+        "provider": "workable",
+        "api_url": "https://tmeic.com/careers/",
+        "confidence": "high",
+        "checked_at": "2026-06-19T19:09:49+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -48562,60 +48672,6 @@
     }
   },
   {
-    "name": "BETA CAE Systems India Pvt. Ltd.",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Dr. Rajkumar Road, 560010",
-    "lat": 13.0076641,
-    "lng": 77.5546523,
-    "website": "https://www.beta-cae.com/",
-    "phone": "+918066493400",
-    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "careers_provider": "workday",
-    "careers_api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-19T19:09:44+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5804054862"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "560010",
-        "addr:street": "Dr. Rajkumar Road",
-        "name": "BETA CAE Systems India Pvt. Ltd.",
-        "office": "company",
-        "phone": "+918066493400",
-        "website": "https://www.beta-cae.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-        "provider": "workday",
-        "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-        "confidence": "high",
-        "checked_at": "2026-06-19T19:09:44+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Saartha Labs Private Labs",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -48670,62 +48726,6 @@
         "confidence": "medium",
         "checked_at": "2026-06-16T00:14:35+00:00",
         "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "TMEIC Industrial Systems india Pvt. Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "1&2, Karuna Amman Koil, bangalore, 560008",
-    "lat": 12.9827061,
-    "lng": 77.6251679,
-    "website": "https://tmeic.com/",
-    "phone": "080675 15599",
-    "careers_url": "https://tmeic.com/careers/",
-    "careers_provider": "workable",
-    "careers_api_url": "https://tmeic.com/careers/",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-19T19:09:49+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4488717802"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "bangalore",
-        "addr:housenumber": "1&2",
-        "addr:postcode": "560008",
-        "addr:street": "Karuna Amman Koil",
-        "name": "TMEIC Industrial Systems india Pvt. Ltd",
-        "office": "company",
-        "phone": "080675 15599",
-        "website": "https://tmeic.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://tmeic.com/careers/",
-        "provider": "workable",
-        "api_url": "https://tmeic.com/careers/",
-        "confidence": "high",
-        "checked_at": "2026-06-19T19:09:49+00:00",
-        "notes": "detected ATS/provider"
       }
     }
   },
@@ -49859,12 +49859,12 @@
     "lng": 77.6009549,
     "website": "https://www.flatworldsolutions.com/",
     "phone": "+918042692727",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.flatworldsolutions.com/careers/",
+    "careers_provider": "zoho_recruit",
+    "careers_api_url": "https://www.flatworldsolutions.com/careers/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-19T19:52:46+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -49895,7 +49895,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.flatworldsolutions.com/careers/",
+        "provider": "zoho_recruit",
+        "api_url": "https://www.flatworldsolutions.com/careers/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
+        "confidence": "high",
+        "checked_at": "2026-06-19T19:52:46+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -49911,9 +49919,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T19:52:48+00:00",
+    "careers_notes": "https://hybridshifting.com/jobs: HTTPError; https://hybridshifting.com/jobs/: HTTPError; https://hybridshifting.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -49946,7 +49954,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T19:52:48+00:00",
+        "notes": "https://hybridshifting.com/jobs: HTTPError; https://hybridshifting.com/jobs/: HTTPError; https://hybridshifting.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -71621,7 +71637,14 @@
         "addr:street": "A19 1st floor sector 7",
         "description": "Marketing Agency",
         "name": "Touchstone Infotech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
