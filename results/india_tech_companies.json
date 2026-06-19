@@ -37666,6 +37666,60 @@
     }
   },
   {
+    "name": "Vora Infotech",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "181, 6th Main Road,Begur Road, Hongasandra, Bangalore, 560068",
+    "lat": 12.8969441,
+    "lng": 77.6263543,
+    "website": "https://www.vorainfotech.com/",
+    "phone": "9904416444",
+    "careers_url": "https://www.vorainfotech.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-19T20:32:26+00:00",
+    "careers_notes": "careers page found on company website; homepage fetch failed: ReadTimeout",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4754030683"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "181",
+        "addr:postcode": "560068",
+        "addr:street": "6th Main Road,Begur Road, Hongasandra",
+        "email": "vorainfotech@gmail.com",
+        "name": "Vora Infotech",
+        "phone": "9904416444",
+        "website": "https://www.vorainfotech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.vorainfotech.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-19T20:32:26+00:00",
+        "notes": "careers page found on company website; homepage fetch failed: ReadTimeout"
+      }
+    }
+  },
+  {
     "name": "Whatfix",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -50434,60 +50488,6 @@
     }
   },
   {
-    "name": "Vora Infotech",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "181, 6th Main Road,Begur Road, Hongasandra, Bangalore, 560068",
-    "lat": 12.8969441,
-    "lng": 77.6263543,
-    "website": "https://www.vorainfotech.com/",
-    "phone": "9904416444",
-    "careers_url": "https://www.vorainfotech.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-19T20:32:26+00:00",
-    "careers_notes": "careers page found on company website; homepage fetch failed: ReadTimeout",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4754030683"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: infotech",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "181",
-        "addr:postcode": "560068",
-        "addr:street": "6th Main Road,Begur Road, Hongasandra",
-        "email": "vorainfotech@gmail.com",
-        "name": "Vora Infotech",
-        "phone": "9904416444",
-        "website": "https://www.vorainfotech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.vorainfotech.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-19T20:32:26+00:00",
-        "notes": "careers page found on company website; homepage fetch failed: ReadTimeout"
-      }
-    }
-  },
-  {
     "name": "Blink N Boost- Digital Marketing Company in Mohali",
     "city": "Chandigarh-Mohali",
     "region": "Chandigarh/Punjab",
@@ -50816,12 +50816,12 @@
     "lng": 78.3955659,
     "website": "https://www.kosmiktechnologies.com/",
     "phone": "(+91) 8712186898",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.kosmiktechnologies.com/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.kosmiktechnologies.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T21:02:53+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=educational_institution"
     ],
@@ -50849,7 +50849,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.kosmiktechnologies.com/jobs/",
+        "provider": "company_website",
+        "api_url": "https://www.kosmiktechnologies.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T21:02:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -50865,9 +50873,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T21:02:58+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://qkonceptlearning.com/jobs: ConnectionError; http://qkonceptlearning.com/jobs/: ConnectionError; http://qkonceptlearning.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=educational_institution",
       "description=To introduce technology into the classes with an aim of innovation as the outcome."
@@ -50901,7 +50909,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T21:02:58+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://qkonceptlearning.com/jobs: ConnectionError; http://qkonceptlearning.com/jobs/: ConnectionError; http://qkonceptlearning.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
