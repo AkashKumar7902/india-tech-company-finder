@@ -14340,6 +14340,65 @@
     }
   },
   {
+    "name": "F5 Buddy",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "114, Mahatma Gandhi Marg, Indore, 452001",
+    "lat": 22.7236271,
+    "lng": 75.8817239,
+    "website": "https://www.f5buddy.com/",
+    "phone": "095221 48006",
+    "careers_url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T00:03:52+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=F5 Buddy is a leading Organization offering Web & IT services along with complete SEO & Digital Marketing Services.\n"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5199867570"
+    },
+    "tech_score": 54.0,
+    "confidence": "medium",
+    "notes": "matched: it services, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "114",
+        "addr:postcode": "452001",
+        "addr:street": "Mahatma Gandhi Marg",
+        "addr:unit": "Bansi Trade Centre",
+        "description": "F5 Buddy is a leading Organization offering Web & IT services along with complete SEO & Digital Marketing Services.\n",
+        "email": "contact@f5buddy.com",
+        "name": "F5 Buddy",
+        "name:ur": "ایف5 بڈی",
+        "phone": "095221 48006",
+        "website": "https://www.f5buddy.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
+        "provider": "company_website",
+        "api_url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T00:03:52+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ESage IT Services Pvt Ltd",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -16699,65 +16758,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "F5 Buddy",
-    "city": "Indore",
-    "region": "Madhya Pradesh",
-    "country": "India",
-    "address": "114, Mahatma Gandhi Marg, Indore, 452001",
-    "lat": 22.7236271,
-    "lng": 75.8817239,
-    "website": "https://www.f5buddy.com/",
-    "phone": "095221 48006",
-    "careers_url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T00:03:52+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=F5 Buddy is a leading Organization offering Web & IT services along with complete SEO & Digital Marketing Services.\n"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5199867570"
-    },
-    "tech_score": 50.0,
-    "confidence": "medium",
-    "notes": "matched: it services, digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Indore",
-        "addr:housenumber": "114",
-        "addr:postcode": "452001",
-        "addr:street": "Mahatma Gandhi Marg",
-        "addr:unit": "Bansi Trade Centre",
-        "description": "F5 Buddy is a leading Organization offering Web & IT services along with complete SEO & Digital Marketing Services.\n",
-        "email": "contact@f5buddy.com",
-        "name": "F5 Buddy",
-        "name:ur": "ایف5 بڈی",
-        "phone": "095221 48006",
-        "website": "https://www.f5buddy.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
-        "provider": "company_website",
-        "api_url": "https://www.f5buddy.com/join-f5-buddy-and-make-rapid-strides-in-your-career/",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T00:03:52+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -19881,12 +19881,12 @@
     "lng": 77.6303621,
     "website": "https://www.emids.com/",
     "phone": "+918040980000",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.emids.com/careers/",
+    "careers_provider": "oracle_recruiting",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,800,900%7CJetBrains+Mono:400,500,700,800%7CMaterial+Symbols+Outlined&amp;display=swap",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-19T01:30:42+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company",
       "description=IT Service Company"
@@ -19917,7 +19917,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.emids.com/careers/",
+        "provider": "oracle_recruiting",
+        "api_url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,800,900%7CJetBrains+Mono:400,500,700,800%7CMaterial+Symbols+Outlined&amp;display=swap",
+        "confidence": "high",
+        "checked_at": "2026-06-19T01:30:42+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -20047,9 +20055,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T01:30:45+00:00",
+    "careers_notes": "homepage fetch failed: ReadTimeout; https://www.impetus.com/jobs: HTTPError; https://www.impetus.com/jobs/: HTTPError; https://www.impetus.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -20080,7 +20088,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T01:30:45+00:00",
+        "notes": "homepage fetch failed: ReadTimeout; https://www.impetus.com/jobs: HTTPError; https://www.impetus.com/jobs/: HTTPError; https://www.impetus.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
