@@ -12321,6 +12321,50 @@
     }
   },
   {
+    "name": "Adviciya Solutions Pvt Ltd",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Seaport Airport Road, Kochi, 682037",
+    "lat": 9.9956685,
+    "lng": 76.3517588,
+    "website": "https://www.adviciya.com/",
+    "phone": "+91-7736-677715",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13950004574"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682037",
+        "addr:street": "Seaport Airport Road",
+        "air_conditioning": "yes",
+        "level": "2",
+        "name": "Adviciya Solutions Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91-7736-677715",
+        "website": "https://www.adviciya.com/"
+      }
+    }
+  },
+  {
     "name": "Conceptia Software Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -44025,6 +44069,64 @@
     }
   },
   {
+    "name": "Prince Tech Solutions",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "D 208, Kailash Esplanade, LBS marg, Ghatkopar West, Mumbai, 400086",
+    "lat": 19.0934988,
+    "lng": 72.913481,
+    "website": "http://princetechsolutions.com/",
+    "phone": "+91 992 013 1348",
+    "careers_url": "https://situsmacau4d.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Lato",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T21:37:16+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3072887400"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ghatkopar West, Mumbai",
+        "addr:housenumber": "D 208",
+        "addr:postcode": "400086",
+        "addr:street": "Kailash Esplanade, LBS marg",
+        "currency:XBT": "yes",
+        "name": "Prince Tech Solutions",
+        "office": "company",
+        "phone": "+91 992 013 1348",
+        "survey:date": "2023-07-01",
+        "website": "http://princetechsolutions.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://situsmacau4d.com/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Lato",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T21:37:16+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Rediff.com",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -51237,64 +51339,6 @@
     }
   },
   {
-    "name": "Prince Tech Solutions",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "D 208, Kailash Esplanade, LBS marg, Ghatkopar West, Mumbai, 400086",
-    "lat": 19.0934988,
-    "lng": 72.913481,
-    "website": "http://princetechsolutions.com/",
-    "phone": "+91 992 013 1348",
-    "careers_url": "https://situsmacau4d.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Lato",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T21:37:16+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3072887400"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ghatkopar West, Mumbai",
-        "addr:housenumber": "D 208",
-        "addr:postcode": "400086",
-        "addr:street": "Kailash Esplanade, LBS marg",
-        "currency:XBT": "yes",
-        "name": "Prince Tech Solutions",
-        "office": "company",
-        "phone": "+91 992 013 1348",
-        "survey:date": "2023-07-01",
-        "website": "http://princetechsolutions.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://situsmacau4d.com/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Lato",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T21:37:16+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Vu Technologies",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -51513,9 +51557,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T22:04:05+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://www.mechittechnologies.com/jobs: SSLError; https://www.mechittechnologies.com/jobs/: SSLError; https://www.mechittechnologies.com/career: SSLError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -51543,7 +51587,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T22:04:05+00:00",
+        "notes": "homepage fetch failed: SSLError; https://www.mechittechnologies.com/jobs: SSLError; https://www.mechittechnologies.com/jobs/: SSLError; https://www.mechittechnologies.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -51559,9 +51611,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T22:04:08+00:00",
+    "careers_notes": "https://www.rxinfotech.in/jobs: HTTPError; https://www.rxinfotech.in/jobs/: HTTPError; https://www.rxinfotech.in/career: HTTPError; no careers page detected",
     "categories": [
       "shop=hardware"
     ],
@@ -51591,7 +51643,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T22:04:08+00:00",
+        "notes": "https://www.rxinfotech.in/jobs: HTTPError; https://www.rxinfotech.in/jobs/: HTTPError; https://www.rxinfotech.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -79492,7 +79552,14 @@
         "opening_hours": "Mo-Sa 09:30-17:30",
         "phone": "+91-9895-544499",
         "website": "https://www.metsand.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
