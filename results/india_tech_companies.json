@@ -20175,6 +20175,64 @@
     }
   },
   {
+    "name": "Businzo Internet Services",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "87 2nd floor, C-5 sector 5 Rohini, Delhi, 110085",
+    "lat": 28.7159211,
+    "lng": 77.1072679,
+    "website": "https://www.businzo.com",
+    "phone": "",
+    "careers_url": "https://businzo.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://businzo.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T17:06:12+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "description=IT Company, providing information services."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9843317114"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Delhi",
+        "addr:housenumber": "87 2nd floor",
+        "addr:postcode": "110085",
+        "addr:street": "C-5 sector 5 Rohini",
+        "description": "IT Company, providing information services.",
+        "name": "Businzo Internet Services",
+        "office": "it",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "website": "https://www.businzo.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://businzo.com/careers",
+        "provider": "company_website",
+        "api_url": "https://businzo.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T17:06:12+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Stannik - Best SAP Implementation Partner in Noida & AWS Services Provider",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -27096,64 +27154,6 @@
     }
   },
   {
-    "name": "Businzo Internet Services",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "87 2nd floor, C-5 sector 5 Rohini, Delhi, 110085",
-    "lat": 28.7159211,
-    "lng": 77.1072679,
-    "website": "https://www.businzo.com",
-    "phone": "",
-    "careers_url": "https://businzo.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://businzo.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T17:06:12+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "description=IT Company, providing information services."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9843317114"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Delhi",
-        "addr:housenumber": "87 2nd floor",
-        "addr:postcode": "110085",
-        "addr:street": "C-5 sector 5 Rohini",
-        "description": "IT Company, providing information services.",
-        "name": "Businzo Internet Services",
-        "office": "it",
-        "opening_hours": "Mo-Sa 11:00-20:00",
-        "website": "https://www.businzo.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://businzo.com/careers",
-        "provider": "company_website",
-        "api_url": "https://businzo.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T17:06:12+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Codekul.com-Java|Android|Angular|iOS MEAN/Full Stack UI Web Game Python Data Science Classes & Jobs Pune",
     "city": "Pune",
     "region": "Maharashtra",
@@ -28215,7 +28215,7 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:13937892501"
+      "openstreetmap": "way:1530042363"
     },
     "tech_score": 40.0,
     "confidence": "medium",
@@ -28228,8 +28228,17 @@
         "name": "Fintech City",
         "office": "company",
         "phone": "+91 9876543210",
-        "website": "https://tidco.com/fintech.php"
-      }
+        "website": "https://tidco.com/fintech.php",
+        "construction": "commercial",
+        "landuse": "construction"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -28293,9 +28302,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T17:49:00+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://www.desmoslab.com/jobs: SSLError; https://www.desmoslab.com/jobs/: SSLError; https://www.desmoslab.com/career: SSLError; no careers page detected",
     "categories": [
       "description=Desmos Lab is a software development and consulting company located in Coimbatore, India."
     ],
@@ -28326,7 +28335,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T17:49:00+00:00",
+        "notes": "homepage fetch failed: SSLError; https://www.desmoslab.com/jobs: SSLError; https://www.desmoslab.com/jobs/: SSLError; https://www.desmoslab.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -28521,9 +28538,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T17:49:09+00:00",
+    "careers_notes": "https://www.mutualfundsoftware.in/jobs: HTTPError; https://www.mutualfundsoftware.in/jobs/: HTTPError; https://www.mutualfundsoftware.in/career: HTTPError; no careers page detected",
     "categories": [
       "building=commercial",
       "description=Mutual fund software is Fully Automatic platform for IFA, RIA and Mutual Fund Distributors (MFD) to run mutual fund advisory or distribution business in India."
@@ -28558,7 +28575,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T17:49:09+00:00",
+        "notes": "https://www.mutualfundsoftware.in/jobs: HTTPError; https://www.mutualfundsoftware.in/jobs/: HTTPError; https://www.mutualfundsoftware.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
