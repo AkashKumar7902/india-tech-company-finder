@@ -27630,6 +27630,61 @@
     }
   },
   {
+    "name": "Arya College of Engineering and Information Technology",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "SP-40, RIICO Industrial Area, Kukas, Delhi Road, Jaipur Rajasthan - 302028",
+    "lat": 27.0293391,
+    "lng": 75.8934479,
+    "website": "https://www.aryacollege.org/",
+    "phone": "",
+    "careers_url": "https://www.aryacollege.org/resources/phd-after-mtech/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://aryacollege.org/resources/what-jobs-can-i-get-with-an-mtech/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T18:26:05+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "amenity=college"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:237962349"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: information technology, technology; negative hints: college",
+    "raw": {
+      "osm_tags": {
+        "addr:full": "SP-40, RIICO Industrial Area, Kukas, Delhi Road, Jaipur Rajasthan - 302028",
+        "amenity": "college",
+        "name": "Arya College of Engineering and Information Technology",
+        "website": "https://www.aryacollege.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q48732496",
+        "wikipedia": "en:Arya Group Of Colleges"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.aryacollege.org/resources/phd-after-mtech/",
+        "provider": "company_website",
+        "api_url": "https://aryacollege.org/resources/what-jobs-can-i-get-with-an-mtech/",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T18:26:05+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Accel IT Services",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -41354,61 +41409,6 @@
     }
   },
   {
-    "name": "Arya College of Engineering and Information Technology",
-    "city": "Jaipur",
-    "region": "Rajasthan",
-    "country": "India",
-    "address": "SP-40, RIICO Industrial Area, Kukas, Delhi Road, Jaipur Rajasthan - 302028",
-    "lat": 27.0293391,
-    "lng": 75.8934479,
-    "website": "https://www.aryacollege.org/",
-    "phone": "",
-    "careers_url": "https://www.aryacollege.org/resources/phd-after-mtech/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://aryacollege.org/resources/what-jobs-can-i-get-with-an-mtech/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T18:26:05+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "amenity=college"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:237962349"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: information technology, technology; negative hints: college",
-    "raw": {
-      "osm_tags": {
-        "addr:full": "SP-40, RIICO Industrial Area, Kukas, Delhi Road, Jaipur Rajasthan - 302028",
-        "amenity": "college",
-        "name": "Arya College of Engineering and Information Technology",
-        "website": "https://www.aryacollege.org/",
-        "wheelchair": "yes",
-        "wikidata": "Q48732496",
-        "wikipedia": "en:Arya Group Of Colleges"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.aryacollege.org/resources/phd-after-mtech/",
-        "provider": "company_website",
-        "api_url": "https://aryacollege.org/resources/what-jobs-can-i-get-with-an-mtech/",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T18:26:05+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "eSageIT",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -48571,12 +48571,12 @@
     "lng": 77.5546523,
     "website": "https://www.beta-cae.com/",
     "phone": "+918066493400",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "careers_provider": "workday",
+    "careers_api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-19T19:09:44+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -48604,7 +48604,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+        "provider": "workday",
+        "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-19T19:09:44+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -48675,12 +48683,12 @@
     "lng": 77.6251679,
     "website": "https://tmeic.com/",
     "phone": "080675 15599",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://tmeic.com/careers/",
+    "careers_provider": "workable",
+    "careers_api_url": "https://tmeic.com/careers/",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-19T19:09:49+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -48710,7 +48718,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://tmeic.com/careers/",
+        "provider": "workable",
+        "api_url": "https://tmeic.com/careers/",
+        "confidence": "high",
+        "checked_at": "2026-06-19T19:09:49+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
