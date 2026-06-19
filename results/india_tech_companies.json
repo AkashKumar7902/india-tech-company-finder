@@ -15956,6 +15956,63 @@
     }
   },
   {
+    "name": "emids Technologies Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Survey Number 1/1, Hosur Main Road, Bommanahalli, Champak Pragati Tower",
+    "lat": 12.905312,
+    "lng": 77.6303621,
+    "website": "https://www.emids.com/",
+    "phone": "+918040980000",
+    "careers_url": "https://www.emids.com/careers/",
+    "careers_provider": "oracle_recruiting",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,800,900%7CJetBrains+Mono:400,500,700,800%7CMaterial+Symbols+Outlined&amp;display=swap",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-19T01:30:42+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company",
+      "description=IT Service Company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9159687317"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "Golden Tower",
+        "addr:street": "Rupena Agrahara, Hosur Road",
+        "description": "IT Service Company",
+        "name": "emids Technologies Pvt Ltd",
+        "office": "company",
+        "phone": "+918040980000",
+        "website": "https://www.emids.com/",
+        "check_date": "2026-02-24"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.emids.com/careers/",
+        "provider": "oracle_recruiting",
+        "api_url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,800,900%7CJetBrains+Mono:400,500,700,800%7CMaterial+Symbols+Outlined&amp;display=swap",
+        "confidence": "high",
+        "checked_at": "2026-06-19T01:30:42+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Feria IT Solutions",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -19872,63 +19929,6 @@
     }
   },
   {
-    "name": "emids Technologies Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Survey Number 1/1, Hosur Main Road, Bommanahalli, Champak Pragati Tower",
-    "lat": 12.905312,
-    "lng": 77.6303621,
-    "website": "https://www.emids.com/",
-    "phone": "+918040980000",
-    "careers_url": "https://www.emids.com/careers/",
-    "careers_provider": "oracle_recruiting",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,800,900%7CJetBrains+Mono:400,500,700,800%7CMaterial+Symbols+Outlined&amp;display=swap",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-19T01:30:42+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company",
-      "description=IT Service Company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9159687317"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "Golden Tower",
-        "addr:street": "Rupena Agrahara, Hosur Road",
-        "description": "IT Service Company",
-        "name": "emids Technologies Pvt Ltd",
-        "office": "company",
-        "phone": "+918040980000",
-        "website": "https://www.emids.com/",
-        "check_date": "2026-02-24"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.emids.com/careers/",
-        "provider": "oracle_recruiting",
-        "api_url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700,800,900%7CJetBrains+Mono:400,500,700,800%7CMaterial+Symbols+Outlined&amp;display=swap",
-        "confidence": "high",
-        "checked_at": "2026-06-19T01:30:42+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "EnerMAN Technologies Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -20442,12 +20442,12 @@
     "lng": 76.7364979,
     "website": "https://richestsoft.com/",
     "phone": "+91 8427741155",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://richestsoft.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://richestsoft.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T02:34:43+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -20476,7 +20476,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://richestsoft.com/career",
+        "provider": "company_website",
+        "api_url": "https://richestsoft.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T02:34:43+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -20549,9 +20557,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T02:34:46+00:00",
+    "careers_notes": "https://tecex.com/jobs: HTTPError; https://tecex.com/jobs/: HTTPError; https://tecex.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=supermarket",
       "description=TecEx is a leading provider of import/export and compliance solutions for the IT industry. Our team of professionals is committed to providing seamless and secure transportation of IT hardware and technology equipment worldwide."
@@ -20585,7 +20593,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T02:34:46+00:00",
+        "notes": "https://tecex.com/jobs: HTTPError; https://tecex.com/jobs/: HTTPError; https://tecex.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
