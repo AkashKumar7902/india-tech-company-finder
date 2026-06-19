@@ -27056,9 +27056,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T17:06:06+00:00",
+    "careers_notes": "https://betacomp.com/jobs: HTTPError; https://betacomp.com/jobs/: HTTPError; https://betacomp.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -27084,7 +27084,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T17:06:06+00:00",
+        "notes": "https://betacomp.com/jobs: HTTPError; https://betacomp.com/jobs/: HTTPError; https://betacomp.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -27097,12 +27105,12 @@
     "lng": 77.1072679,
     "website": "https://www.businzo.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://businzo.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://businzo.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T17:06:12+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "description=IT Company, providing information services."
@@ -27134,7 +27142,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://businzo.com/careers",
+        "provider": "company_website",
+        "api_url": "https://businzo.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T17:06:12+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
