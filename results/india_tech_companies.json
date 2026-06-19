@@ -18706,6 +18706,68 @@
     }
   },
   {
+    "name": "John F. Welch Technology Centre",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9733539,
+    "lng": 77.7241918,
+    "website": "https://www.ge.com/research/research-engine/rd-facilities/bengaluru",
+    "phone": "",
+    "careers_url": "https://www.geaerospace.com/careers-apac",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.geaerospace.com/careers-apac",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T12:40:17+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:180969776"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "alt_name": "GE Global Research",
+        "barrier": "wall",
+        "landuse": "commercial",
+        "loc_name": "GE Bangalore Research Center",
+        "name": "John F. Welch Technology Centre",
+        "office": "company",
+        "official_name": "John F. Welch Technology Centre",
+        "official_name:etymology:wikidata": "Q355314",
+        "operator": "General Electric",
+        "short_name": "JFWTC",
+        "start_date": "2000",
+        "website": "https://www.ge.com/research/research-engine/rd-facilities/bengaluru",
+        "wikidata": "Q6232582",
+        "wikipedia": "en:John F. Welch Technology Centre"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.geaerospace.com/careers-apac",
+        "provider": "company_website",
+        "api_url": "https://www.geaerospace.com/careers-apac",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T12:40:17+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Keystride Labs Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -25077,68 +25139,6 @@
     }
   },
   {
-    "name": "John F. Welch Technology Centre",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "",
-    "lat": 12.9733539,
-    "lng": 77.7241918,
-    "website": "https://www.ge.com/research/research-engine/rd-facilities/bengaluru",
-    "phone": "",
-    "careers_url": "https://www.geaerospace.com/careers-apac",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.geaerospace.com/careers-apac",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T12:40:17+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:180969776"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, office=company",
-    "raw": {
-      "osm_tags": {
-        "alt_name": "GE Global Research",
-        "barrier": "wall",
-        "landuse": "commercial",
-        "loc_name": "GE Bangalore Research Center",
-        "name": "John F. Welch Technology Centre",
-        "office": "company",
-        "official_name": "John F. Welch Technology Centre",
-        "official_name:etymology:wikidata": "Q355314",
-        "operator": "General Electric",
-        "short_name": "JFWTC",
-        "start_date": "2000",
-        "website": "https://www.ge.com/research/research-engine/rd-facilities/bengaluru",
-        "wikidata": "Q6232582",
-        "wikipedia": "en:John F. Welch Technology Centre"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.geaerospace.com/careers-apac",
-        "provider": "company_website",
-        "api_url": "https://www.geaerospace.com/careers-apac",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T12:40:17+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "ONZE Technologies (India) Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -25506,9 +25506,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T13:53:57+00:00",
+    "careers_notes": "http://www.elioenaitechnologies.com/jobs: HTTPError; http://www.elioenaitechnologies.com/jobs/: HTTPError; http://www.elioenaitechnologies.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -25535,7 +25535,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T13:53:57+00:00",
+        "notes": "http://www.elioenaitechnologies.com/jobs: HTTPError; http://www.elioenaitechnologies.com/jobs/: HTTPError; http://www.elioenaitechnologies.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -25548,12 +25556,12 @@
     "lng": 76.3150601,
     "website": "https://www.nanobirdtech.com/",
     "phone": "+914844064747",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.nanobirdtech.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.nanobirdtech.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T13:54:01+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=computer"
     ],
@@ -25583,7 +25591,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.nanobirdtech.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.nanobirdtech.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T13:54:01+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
