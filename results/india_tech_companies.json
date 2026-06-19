@@ -19550,6 +19550,64 @@
     }
   },
   {
+    "name": "2586Labs",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "311, 100 Feet Road, Indiranagar, Bangalore, 560038",
+    "lat": 12.9812824,
+    "lng": 77.6404321,
+    "website": "https://2586labs.com/",
+    "phone": "",
+    "careers_url": "https://foldmoney.notion.site/Join-us-Fold-1d0981669e9449a191c0a2ed01280b6b",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://foldmoney.notion.site/api/v3/recordClientLoadAttempt",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T15:04:09+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11217110068"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "311",
+        "addr:postcode": "560038",
+        "addr:street": "100 Feet Road",
+        "addr:suburb": "Indiranagar",
+        "email": "hello@2586labs.com",
+        "level": "4",
+        "name": "2586Labs",
+        "office": "it",
+        "website": "https://2586labs.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://foldmoney.notion.site/Join-us-Fold-1d0981669e9449a191c0a2ed01280b6b",
+        "provider": "company_website",
+        "api_url": "https://foldmoney.notion.site/api/v3/recordClientLoadAttempt",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T15:04:09+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ClearTax",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -26142,64 +26200,6 @@
     }
   },
   {
-    "name": "2586Labs",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "311, 100 Feet Road, Indiranagar, Bangalore, 560038",
-    "lat": 12.9812824,
-    "lng": 77.6404321,
-    "website": "https://2586labs.com/",
-    "phone": "",
-    "careers_url": "https://foldmoney.notion.site/Join-us-Fold-1d0981669e9449a191c0a2ed01280b6b",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://foldmoney.notion.site/api/v3/recordClientLoadAttempt",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T15:04:09+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11217110068"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "311",
-        "addr:postcode": "560038",
-        "addr:street": "100 Feet Road",
-        "addr:suburb": "Indiranagar",
-        "email": "hello@2586labs.com",
-        "level": "4",
-        "name": "2586Labs",
-        "office": "it",
-        "website": "https://2586labs.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://foldmoney.notion.site/Join-us-Fold-1d0981669e9449a191c0a2ed01280b6b",
-        "provider": "company_website",
-        "api_url": "https://foldmoney.notion.site/api/v3/recordClientLoadAttempt",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T15:04:09+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Aptus Software Labs Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -26622,9 +26622,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T16:13:05+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://texiio.com/jobs: SSLError; https://texiio.com/jobs/: SSLError; https://texiio.com/career: SSLError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -26654,7 +26654,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T16:13:05+00:00",
+        "notes": "homepage fetch failed: SSLError; https://texiio.com/jobs: SSLError; https://texiio.com/jobs/: SSLError; https://texiio.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -26670,9 +26678,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T16:13:08+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://trip38.com/jobs: ConnectionError; http://trip38.com/jobs/: ConnectionError; http://trip38.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -26701,7 +26709,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T16:13:08+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://trip38.com/jobs: ConnectionError; http://trip38.com/jobs/: ConnectionError; http://trip38.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
