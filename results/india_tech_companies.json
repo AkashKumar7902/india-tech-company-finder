@@ -16347,6 +16347,61 @@
     }
   },
   {
+    "name": "Richest Technologies Pvt. Ltd.",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "SC21, Phase 10, Mohali, Punjab",
+    "lat": 30.6835885,
+    "lng": 76.7364979,
+    "website": "https://richestsoft.com/",
+    "phone": "+91 8427741155",
+    "careers_url": "https://richestsoft.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://richestsoft.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T02:34:43+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2680503713"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mohali, Punjab",
+        "addr:housenumber": "SC21",
+        "addr:street": "Phase 10",
+        "name": "Richest Technologies Pvt. Ltd.",
+        "office": "company",
+        "phone": "+91 8427741155",
+        "website": "https://richestsoft.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://richestsoft.com/career",
+        "provider": "company_website",
+        "api_url": "https://richestsoft.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T02:34:43+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "windowit technologies pvt ltd, first floor Sector 65",
     "city": "Chandigarh-Mohali",
     "region": "Chandigarh/Punjab",
@@ -20433,61 +20488,6 @@
     }
   },
   {
-    "name": "Richest Technologies Pvt. Ltd.",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "SC21, Phase 10, Mohali, Punjab",
-    "lat": 30.6835885,
-    "lng": 76.7364979,
-    "website": "https://richestsoft.com/",
-    "phone": "+91 8427741155",
-    "careers_url": "https://richestsoft.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://richestsoft.com/career",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T02:34:43+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2680503713"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mohali, Punjab",
-        "addr:housenumber": "SC21",
-        "addr:street": "Phase 10",
-        "name": "Richest Technologies Pvt. Ltd.",
-        "office": "company",
-        "phone": "+91 8427741155",
-        "website": "https://richestsoft.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://richestsoft.com/career",
-        "provider": "company_website",
-        "api_url": "https://richestsoft.com/career",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T02:34:43+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "AGS Cinemas, Vivira Mall",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -20983,9 +20983,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T04:01:54+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://experionglobal.com/jobs: HTTPError; https://experionglobal.com/jobs/: HTTPError; https://experionglobal.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -21014,7 +21014,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T04:01:54+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://experionglobal.com/jobs: HTTPError; https://experionglobal.com/jobs/: HTTPError; https://experionglobal.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -21090,9 +21098,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T04:01:58+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://comhard.co.in/jobs: ConnectTimeout; https://comhard.co.in/jobs/: ConnectTimeout; https://comhard.co.in/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -21125,7 +21133,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T04:01:58+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://comhard.co.in/jobs: ConnectTimeout; https://comhard.co.in/jobs/: ConnectTimeout; https://comhard.co.in/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
