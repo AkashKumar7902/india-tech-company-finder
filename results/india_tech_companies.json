@@ -19217,6 +19217,62 @@
     }
   },
   {
+    "name": "Nanobird Technologies Private Limited",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Swapna",
+    "lat": 10.0091344,
+    "lng": 76.3150601,
+    "website": "https://www.nanobirdtech.com/",
+    "phone": "+914844064747",
+    "careers_url": "https://www.nanobirdtech.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.nanobirdtech.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T13:54:01+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4564658289"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "Swapna",
+        "email": "mail@nanobirdtech.com",
+        "internet_access": "wlan",
+        "name": "Nanobird Technologies Private Limited",
+        "name:en": "Nanobird Technologies Private Limited",
+        "phone": "+914844064747",
+        "shop": "computer",
+        "website": "https://www.nanobirdtech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.nanobirdtech.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.nanobirdtech.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T13:54:01+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Xtend Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -25547,62 +25603,6 @@
     }
   },
   {
-    "name": "Nanobird Technologies Private Limited",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "Swapna",
-    "lat": 10.0091344,
-    "lng": 76.3150601,
-    "website": "https://www.nanobirdtech.com/",
-    "phone": "+914844064747",
-    "careers_url": "https://www.nanobirdtech.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.nanobirdtech.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T13:54:01+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=computer"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4564658289"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, computer",
-    "raw": {
-      "osm_tags": {
-        "addr:street": "Swapna",
-        "email": "mail@nanobirdtech.com",
-        "internet_access": "wlan",
-        "name": "Nanobird Technologies Private Limited",
-        "name:en": "Nanobird Technologies Private Limited",
-        "phone": "+914844064747",
-        "shop": "computer",
-        "website": "https://www.nanobirdtech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.nanobirdtech.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.nanobirdtech.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T13:54:01+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Nectar IT Technologies PVT LTD",
     "city": "Kochi",
     "region": "Kerala",
@@ -26035,9 +26035,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T15:04:03+00:00",
+    "careers_notes": "https://genilok.com/jobs: HTTPError; https://genilok.com/jobs/: HTTPError; https://genilok.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -26068,7 +26068,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T15:04:03+00:00",
+        "notes": "https://genilok.com/jobs: HTTPError; https://genilok.com/jobs/: HTTPError; https://genilok.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -26143,12 +26151,12 @@
     "lng": 77.6404321,
     "website": "https://2586labs.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://foldmoney.notion.site/Join-us-Fold-1d0981669e9449a191c0a2ed01280b6b",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://foldmoney.notion.site/api/v3/recordClientLoadAttempt",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T15:04:09+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -26180,7 +26188,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://foldmoney.notion.site/Join-us-Fold-1d0981669e9449a191c0a2ed01280b6b",
+        "provider": "company_website",
+        "api_url": "https://foldmoney.notion.site/api/v3/recordClientLoadAttempt",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T15:04:09+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
