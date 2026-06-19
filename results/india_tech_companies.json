@@ -40564,9 +40564,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-19T18:26:00+00:00",
+    "careers_notes": "https://serc.iiit.ac.in/jobs: HTTPError; https://serc.iiit.ac.in/jobs/: HTTPError; https://serc.iiit.ac.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=research"
     ],
@@ -40598,7 +40598,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-19T18:26:00+00:00",
+        "notes": "https://serc.iiit.ac.in/jobs: HTTPError; https://serc.iiit.ac.in/jobs/: HTTPError; https://serc.iiit.ac.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -41355,12 +41363,12 @@
     "lng": 75.8934479,
     "website": "https://www.aryacollege.org/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.aryacollege.org/resources/phd-after-mtech/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://aryacollege.org/resources/what-jobs-can-i-get-with-an-mtech/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T18:26:05+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "amenity=college"
     ],
@@ -41389,7 +41397,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.aryacollege.org/resources/phd-after-mtech/",
+        "provider": "company_website",
+        "api_url": "https://aryacollege.org/resources/what-jobs-can-i-get-with-an-mtech/",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T18:26:05+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
