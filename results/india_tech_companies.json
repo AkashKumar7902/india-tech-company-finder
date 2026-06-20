@@ -8770,7 +8770,9 @@
     "raw": {
       "osm_tags": {
         "name": "Thoughtworks\nTechnologies (India) Private Limited",
-        "office": "it"
+        "office": "it",
+        "level": "4",
+        "wheelchair": "designated"
       },
       "google_queries": [],
       "google_types": [],
@@ -49483,6 +49485,62 @@
     }
   },
   {
+    "name": "Aquevix Solutions Pvt Ltd.",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "A8, Bigjos Tower, Netaji Subhash Place, 110034",
+    "lat": 28.6920168,
+    "lng": 77.1519473,
+    "website": "https://www.aquevix.com",
+    "phone": "",
+    "careers_url": "https://hr.aquevix.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://hr.aquevix.com/jobs",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T00:02:47+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8855679917"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "A8, Bigjos Tower",
+        "addr:postcode": "110034",
+        "addr:street": "Netaji Subhash Place",
+        "email": "sales@aquevix.com",
+        "name": "Aquevix Solutions Pvt Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "website": "https://www.aquevix.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://hr.aquevix.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://hr.aquevix.com/jobs",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T00:02:47+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Neuweg Technologies",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -55514,62 +55572,6 @@
     }
   },
   {
-    "name": "Aquevix Solutions Pvt Ltd.",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "A8, Bigjos Tower, Netaji Subhash Place, 110034",
-    "lat": 28.6920168,
-    "lng": 77.1519473,
-    "website": "https://www.aquevix.com",
-    "phone": "",
-    "careers_url": "https://hr.aquevix.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://hr.aquevix.com/jobs",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T00:02:47+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8855679917"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "A8, Bigjos Tower",
-        "addr:postcode": "110034",
-        "addr:street": "Netaji Subhash Place",
-        "email": "sales@aquevix.com",
-        "name": "Aquevix Solutions Pvt Ltd.",
-        "office": "company",
-        "opening_hours": "Mo-Fr 10:00-18:00",
-        "website": "https://www.aquevix.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://hr.aquevix.com/jobs",
-        "provider": "company_website",
-        "api_url": "https://hr.aquevix.com/jobs",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T00:02:47+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Faculty of Technology",
     "city": "New Delhi",
     "region": "Delhi",
@@ -55879,12 +55881,12 @@
     "lng": 73.7600314,
     "website": "https://www.amuratech.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.amuratech.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.amuratech.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T01:20:05+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=yes",
       "description=Amura, a leading digital growth marketing agency in India provides a wide range of digital marketing services. Get customized digital marketing solutions for real estate, pharmaceutical, manufacturing, FMCG, and healthcare industries"
@@ -55919,7 +55921,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.amuratech.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.amuratech.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T01:20:05+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -55987,12 +55997,12 @@
     "lng": 73.8030373,
     "website": "https://synthesys.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://synthesys.co.in/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://synthesys.co.in/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T01:20:14+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "building=yes"
@@ -56019,7 +56029,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://synthesys.co.in/career/",
+        "provider": "company_website",
+        "api_url": "https://synthesys.co.in/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T01:20:14+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
