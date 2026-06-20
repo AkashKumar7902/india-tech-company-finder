@@ -28817,6 +28817,62 @@
     }
   },
   {
+    "name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "51, Rattha Tek Meadows Tower B, 3rd Floor, Rajiv Gandhi Salai (OMR), Sholinganallur, Chennai, 600119",
+    "lat": 12.9057608,
+    "lng": 80.2266263,
+    "website": "https://www.beta-cae.com/",
+    "phone": "+914430095400",
+    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "careers_provider": "workday",
+    "careers_api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-20T22:53:11+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5804109153"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chennai",
+        "addr:housenumber": "51",
+        "addr:postcode": "600119",
+        "addr:street": "Rattha Tek Meadows Tower B, 3rd Floor, Rajiv Gandhi Salai (OMR), Sholinganallur",
+        "name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
+        "office": "company",
+        "phone": "+914430095400",
+        "website": "https://www.beta-cae.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+        "provider": "workday",
+        "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-20T22:53:11+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Fintech City",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -29358,6 +29414,71 @@
         "api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
         "confidence": "medium",
         "checked_at": "2026-06-14T22:53:58+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Agni Solar Systems Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "702, North Main Road, Pune, 411001",
+    "lat": 18.5383826,
+    "lng": 73.9070871,
+    "website": "https://agnisolar.com/",
+    "phone": "+912066434111",
+    "careers_url": "https://agnisolar.com/contact/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.google.com/recaptcha/api.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T22:53:15+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "building=commercial",
+      "description=A Pioneer And Leading Solar Energy Company In Pune - India, Agni Solar Is Market Leader In Rooftop Solar, Solar Water Heating & Solar Electricity System."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:108093167"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "702",
+        "addr:postcode": "411001",
+        "addr:street": "North Main Road",
+        "addr:unit": "Koregaon Park",
+        "building": "commercial",
+        "check_date": "2026-03-10",
+        "description": "A Pioneer And Leading Solar Energy Company In Pune - India, Agni Solar Is Market Leader In Rooftop Solar, Solar Water Heating & Solar Electricity System.",
+        "ele": "7",
+        "email": "info@agnisolar.com",
+        "name": "Agni Solar Systems Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:30-18:00",
+        "phone": "+912066434111",
+        "website": "https://agnisolar.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://agnisolar.com/contact/",
+        "provider": "company_website",
+        "api_url": "https://www.google.com/recaptcha/api.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T22:53:15+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -49407,62 +49528,6 @@
     }
   },
   {
-    "name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "51, Rattha Tek Meadows Tower B, 3rd Floor, Rajiv Gandhi Salai (OMR), Sholinganallur, Chennai, 600119",
-    "lat": 12.9057608,
-    "lng": 80.2266263,
-    "website": "https://www.beta-cae.com/",
-    "phone": "+914430095400",
-    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "careers_provider": "workday",
-    "careers_api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-20T22:53:11+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5804109153"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chennai",
-        "addr:housenumber": "51",
-        "addr:postcode": "600119",
-        "addr:street": "Rattha Tek Meadows Tower B, 3rd Floor, Rajiv Gandhi Salai (OMR), Sholinganallur",
-        "name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
-        "office": "company",
-        "phone": "+914430095400",
-        "website": "https://www.beta-cae.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-        "provider": "workday",
-        "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-        "confidence": "high",
-        "checked_at": "2026-06-20T22:53:11+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Centre for Quantum Science & Technology",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -49953,71 +50018,6 @@
         "api_url": "https://www.tcsion.com/job-openings/diploma-it-jobs-in-pune",
         "confidence": "medium",
         "checked_at": "2026-06-16T15:45:58+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Agni Solar Systems Pvt Ltd",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "702, North Main Road, Pune, 411001",
-    "lat": 18.5383826,
-    "lng": 73.9070871,
-    "website": "https://agnisolar.com/",
-    "phone": "+912066434111",
-    "careers_url": "https://agnisolar.com/contact/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.google.com/recaptcha/api.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T22:53:15+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "building=commercial",
-      "description=A Pioneer And Leading Solar Energy Company In Pune - India, Agni Solar Is Market Leader In Rooftop Solar, Solar Water Heating & Solar Electricity System."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:108093167"
-    },
-    "tech_score": 36.0,
-    "confidence": "medium",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:housenumber": "702",
-        "addr:postcode": "411001",
-        "addr:street": "North Main Road",
-        "addr:unit": "Koregaon Park",
-        "building": "commercial",
-        "check_date": "2026-03-10",
-        "description": "A Pioneer And Leading Solar Energy Company In Pune - India, Agni Solar Is Market Leader In Rooftop Solar, Solar Water Heating & Solar Electricity System.",
-        "ele": "7",
-        "email": "info@agnisolar.com",
-        "name": "Agni Solar Systems Pvt Ltd",
-        "office": "company",
-        "opening_hours": "Mo-Sa 09:30-18:00",
-        "phone": "+912066434111",
-        "website": "https://agnisolar.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://agnisolar.com/contact/",
-        "provider": "company_website",
-        "api_url": "https://www.google.com/recaptcha/api.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T22:53:15+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -51361,9 +51361,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T23:27:57+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://www.lakshmitech.com/jobs: ConnectTimeout; https://www.lakshmitech.com/jobs/: ConnectTimeout; https://www.lakshmitech.com/career: ConnectTimeout; no careers page detected",
     "categories": [
       "building=yes",
       "description=e are manufactures of control valve, relief valve, flow control valve, piezoelectric sensor, PTO shaft, pressure sensors for Launch Vehicles and Aerospace Applications"
@@ -51398,7 +51398,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T23:27:57+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://www.lakshmitech.com/jobs: ConnectTimeout; https://www.lakshmitech.com/jobs/: ConnectTimeout; https://www.lakshmitech.com/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -51414,9 +51422,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T23:29:29+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.lmwatc.com/jobs: HTTPError; https://www.lmwatc.com/jobs/: HTTPError; https://www.lmwatc.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=Advanced Technology Centre, Lakshmi Machine Works"
     ],
@@ -51450,7 +51458,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T23:29:29+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.lmwatc.com/jobs: HTTPError; https://www.lmwatc.com/jobs/: HTTPError; https://www.lmwatc.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
