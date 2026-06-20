@@ -78253,6 +78253,63 @@
     }
   },
   {
+    "name": "OMR Digital",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "305-308, Commerce House, Janjeerwala square, Indore, 452001",
+    "lat": 22.7252527,
+    "lng": 75.8828086,
+    "website": "https://www.omrdigital.com",
+    "phone": "",
+    "careers_url": "https://omrdigital.com/advantages-of-hiring-social-media-marketing-agency-for-business/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://omrdigital.com/digital-marketing-for-therapists-and-mental-health-services/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T11:50:11+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=private"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6503321830"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housenumber": "305-308, Commerce House",
+        "addr:postcode": "452001",
+        "addr:street": "Janjeerwala square",
+        "email": "info@omrdigital.com",
+        "name": "OMR Digital",
+        "office": "private",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "website": "https://www.omrdigital.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://omrdigital.com/advantages-of-hiring-social-media-marketing-agency-for-business/",
+        "provider": "company_website",
+        "api_url": "https://omrdigital.com/digital-marketing-for-therapists-and-mental-health-services/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T11:50:11+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Askus Building Systems",
     "city": "Kochi",
     "region": "Kerala",
@@ -82709,63 +82766,6 @@
     }
   },
   {
-    "name": "OMR Digital",
-    "city": "Indore",
-    "region": "Madhya Pradesh",
-    "country": "India",
-    "address": "305-308, Commerce House, Janjeerwala square, Indore, 452001",
-    "lat": 22.7252527,
-    "lng": 75.8828086,
-    "website": "https://www.omrdigital.com",
-    "phone": "",
-    "careers_url": "https://omrdigital.com/advantages-of-hiring-social-media-marketing-agency-for-business/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://omrdigital.com/digital-marketing-for-therapists-and-mental-health-services/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T11:50:11+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=private"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6503321830"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Indore",
-        "addr:housenumber": "305-308, Commerce House",
-        "addr:postcode": "452001",
-        "addr:street": "Janjeerwala square",
-        "email": "info@omrdigital.com",
-        "name": "OMR Digital",
-        "office": "private",
-        "opening_hours": "Mo-Sa 09:00-19:00",
-        "website": "https://www.omrdigital.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://omrdigital.com/advantages-of-hiring-social-media-marketing-agency-for-business/",
-        "provider": "company_website",
-        "api_url": "https://omrdigital.com/digital-marketing-for-therapists-and-mental-health-services/",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T11:50:11+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Smile Indore Dental Solutions",
     "city": "Indore",
     "region": "Madhya Pradesh",
@@ -83199,12 +83199,12 @@
     "lng": 73.8014324,
     "website": "https://www.technokrafts.com/",
     "phone": "+91 253 2237780",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.technokrafts.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T12:24:37+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -83231,7 +83231,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.technokrafts.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T12:24:37+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -83244,12 +83252,12 @@
     "lng": 77.2429952,
     "website": "https://www.kraftshala.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.kraftshala.com/kraftshala-careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.kraftshala.com/kraftshala-careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T12:24:40+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=yes",
       "description=Kraftshala is a fast-growing ed-tech company in India, that provides pay-after-placement courses in digital marketing."
@@ -83282,7 +83290,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.kraftshala.com/kraftshala-careers/",
+        "provider": "company_website",
+        "api_url": "https://www.kraftshala.com/kraftshala-careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T12:24:40+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
