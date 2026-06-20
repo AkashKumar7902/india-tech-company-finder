@@ -5521,6 +5521,64 @@
     }
   },
   {
+    "name": "ObjectFrontier Software",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Taramani Road, Chennai, 600113",
+    "lat": 12.9855145,
+    "lng": 80.2458023,
+    "website": "https://www.objectfrontier.com/",
+    "phone": "(+91) 44-3061-2100",
+    "careers_url": "https://www.objectfrontier.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T17:17:59+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "description=OFS delivers digital value to businesses by building innovative software, web-based or mobile, that will engage their customers & employees. www.objectfrontier.com"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5250282011"
+    },
+    "tech_score": 68.0,
+    "confidence": "high",
+    "notes": "matched: software, digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chennai",
+        "addr:postcode": "600113",
+        "addr:street": "Taramani Road",
+        "addr:unit": "1",
+        "description": "OFS delivers digital value to businesses by building innovative software, web-based or mobile, that will engage their customers & employees. www.objectfrontier.com",
+        "name": "ObjectFrontier Software",
+        "office": "company",
+        "phone": "(+91) 44-3061-2100",
+        "website": "https://www.objectfrontier.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.objectfrontier.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T17:17:59+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Prince Info City I",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -7672,64 +7730,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "ObjectFrontier Software",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Taramani Road, Chennai, 600113",
-    "lat": 12.9855145,
-    "lng": 80.2458023,
-    "website": "https://www.objectfrontier.com/",
-    "phone": "(+91) 44-3061-2100",
-    "careers_url": "https://www.objectfrontier.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-20T17:17:59+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "description=OFS delivers digital value to businesses by building innovative software, web-based or mobile, that will engage their customers & employees. www.objectfrontier.com"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5250282011"
-    },
-    "tech_score": 64.0,
-    "confidence": "high",
-    "notes": "matched: software, digital, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chennai",
-        "addr:postcode": "600113",
-        "addr:street": "Taramani Road",
-        "addr:unit": "1",
-        "description": "OFS delivers digital value to businesses by building innovative software, web-based or mobile, that will engage their customers & employees. www.objectfrontier.com",
-        "name": "ObjectFrontier Software",
-        "office": "company",
-        "phone": "(+91) 44-3061-2100",
-        "website": "https://www.objectfrontier.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.objectfrontier.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-20T17:17:59+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -12723,12 +12723,12 @@
     "lng": 77.4397958,
     "website": "https://brey.in",
     "phone": "+919958654488",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://breydigital.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T17:51:51+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -12758,7 +12758,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://breydigital.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T17:51:51+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -12868,9 +12876,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T17:51:54+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.exaltechsolutions.com/jobs: HTTPError; https://www.exaltechsolutions.com/jobs/: HTTPError; https://www.exaltechsolutions.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -12902,7 +12910,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T17:51:54+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.exaltechsolutions.com/jobs: HTTPError; https://www.exaltechsolutions.com/jobs/: HTTPError; https://www.exaltechsolutions.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
