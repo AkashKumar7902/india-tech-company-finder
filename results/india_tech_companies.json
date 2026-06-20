@@ -20441,6 +20441,57 @@
     }
   },
   {
+    "name": "Ikeva Hyderabad",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.4141343,
+    "lng": 78.4489203,
+    "website": "https://www.ikeva.com/locations/hyderabad/banjarahills/",
+    "phone": "",
+    "careers_url": "https://www.ikeva.com/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-20T21:53:26+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3218374885"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Ikeva Hyderabad",
+        "office": "it",
+        "website": "https://www.ikeva.com/locations/hyderabad/banjarahills/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ikeva.com/",
+        "provider": "darwinbox",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap",
+        "confidence": "high",
+        "checked_at": "2026-06-20T21:53:26+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "innovative software solutions",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -27132,57 +27183,6 @@
     }
   },
   {
-    "name": "Ikeva Hyderabad",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "",
-    "lat": 17.4141343,
-    "lng": 78.4489203,
-    "website": "https://www.ikeva.com/locations/hyderabad/banjarahills/",
-    "phone": "",
-    "careers_url": "https://www.ikeva.com/",
-    "careers_provider": "darwinbox",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-20T21:53:26+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3218374885"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "name": "Ikeva Hyderabad",
-        "office": "it",
-        "website": "https://www.ikeva.com/locations/hyderabad/banjarahills/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.ikeva.com/",
-        "provider": "darwinbox",
-        "api_url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap",
-        "confidence": "high",
-        "checked_at": "2026-06-20T21:53:26+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Logic Planet IT Services Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -29240,12 +29240,12 @@
     "lng": 77.2424164,
     "website": "https://sflc.in",
     "phone": "+91-11-4358-7126",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://sflc.in/join-us/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T22:26:35+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=ngo"
     ],
@@ -29289,7 +29289,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://sflc.in/join-us/",
+        "provider": "company_website",
+        "api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T22:26:35+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -36368,12 +36376,12 @@
     "lng": 77.6632378,
     "website": "https://www.iiitb.ac.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.iiitb.ac.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.iiitb.ac.in%2Fcareers&t=Careers&quot,null,&quot;height=200,width=400,status=yes,toolbar=no,menubar=no,location=no&quot;);return",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T22:26:40+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=university",
       "amenity=university"
@@ -36409,7 +36417,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.iiitb.ac.in/careers",
+        "provider": "company_website",
+        "api_url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.iiitb.ac.in%2Fcareers&t=Careers&quot,null,&quot;height=200,width=400,status=yes,toolbar=no,menubar=no,location=no&quot;);return",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T22:26:40+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
