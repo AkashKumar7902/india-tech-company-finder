@@ -18443,6 +18443,67 @@
     }
   },
   {
+    "name": "VoyageX AI",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "140, Sector 43, Golf Course Road, Gurugram, 122002",
+    "lat": 28.4591094,
+    "lng": 77.0927298,
+    "website": "https://voyagex.ai/",
+    "phone": "+91 88264 85123",
+    "careers_url": "https://voyagex.ai/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T20:16:09+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1292844606"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gurugram",
+        "addr:district": "Gurugram",
+        "addr:housenumber": "140",
+        "addr:postcode": "122002",
+        "addr:street": "Sector 43, Golf Course Road",
+        "building": "yes",
+        "email": "contact@voyagex.ai",
+        "name": "VoyageX AI",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-19:00",
+        "phone": "+91 88264 85123",
+        "website": "https://voyagex.ai/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://voyagex.ai/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T20:16:09+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Dinoustech Private Limited",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -23620,67 +23681,6 @@
     }
   },
   {
-    "name": "VoyageX AI",
-    "city": "Gurugram",
-    "region": "Haryana",
-    "country": "India",
-    "address": "140, Sector 43, Golf Course Road, Gurugram, 122002",
-    "lat": 28.4591094,
-    "lng": 77.0927298,
-    "website": "https://voyagex.ai/",
-    "phone": "+91 88264 85123",
-    "careers_url": "https://voyagex.ai/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-20T20:16:09+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1292844606"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Gurugram",
-        "addr:district": "Gurugram",
-        "addr:housenumber": "140",
-        "addr:postcode": "122002",
-        "addr:street": "Sector 43, Golf Course Road",
-        "building": "yes",
-        "email": "contact@voyagex.ai",
-        "name": "VoyageX AI",
-        "office": "it",
-        "opening_hours": "Mo-Fr 10:00-19:00",
-        "phone": "+91 88264 85123",
-        "website": "https://voyagex.ai/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://voyagex.ai/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-20T20:16:09+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Lumenoid Studios",
     "city": "Guwahati",
     "region": "Assam",
@@ -25341,12 +25341,12 @@
     "lng": 77.6969668,
     "website": "https://www.bazaarvoice.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.bazaarvoice.com/blog/social-media-jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.bazaarvoice.com/blog/social-media-jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T20:48:35+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -25373,7 +25373,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.bazaarvoice.com/blog/social-media-jobs/",
+        "provider": "company_website",
+        "api_url": "https://www.bazaarvoice.com/blog/social-media-jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T20:48:35+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -25389,9 +25397,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T20:48:43+00:00",
+    "careers_notes": "https://enfireix.com/jobs: HTTPError; https://enfireix.com/jobs/: HTTPError; https://enfireix.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -25420,7 +25428,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T20:48:43+00:00",
+        "notes": "https://enfireix.com/jobs: HTTPError; https://enfireix.com/jobs/: HTTPError; https://enfireix.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
