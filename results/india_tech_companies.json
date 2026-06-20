@@ -82193,9 +82193,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T11:06:31+00:00",
+    "careers_notes": "https://wacto.in/jobs: HTTPError; https://wacto.in/jobs/: HTTPError; https://wacto.in/career: HTTPError; no careers page detected",
     "categories": [
       "description=Omnichannel Marketing Solutions Provider"
     ],
@@ -82229,7 +82229,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T11:06:31+00:00",
+        "notes": "https://wacto.in/jobs: HTTPError; https://wacto.in/jobs/: HTTPError; https://wacto.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -82358,9 +82366,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T11:06:38+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.m2mcybernetics.com/jobs: ConnectionError; http://www.m2mcybernetics.com/jobs/: ConnectionError; http://www.m2mcybernetics.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -82390,7 +82398,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T11:06:38+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.m2mcybernetics.com/jobs: ConnectionError; http://www.m2mcybernetics.com/jobs/: ConnectionError; http://www.m2mcybernetics.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
