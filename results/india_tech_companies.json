@@ -49213,6 +49213,58 @@
     }
   },
   {
+    "name": "Mindspace Technology Park",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.4402111,
+    "lng": 78.3822757,
+    "website": "https://www.mindspaceindia.com/",
+    "phone": "",
+    "careers_url": "https://www.mindspaceindia.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.mindspaceindia.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-19T23:33:33+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:292816639"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:place": "HITEC City",
+        "alt_name": "Mindspace",
+        "landuse": "commercial",
+        "name": "Mindspace Technology Park",
+        "operator": "K Raheja Corp",
+        "website": "https://www.mindspaceindia.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.mindspaceindia.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.mindspaceindia.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-19T23:33:33+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "VEM Technologies",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -54936,58 +54988,6 @@
     }
   },
   {
-    "name": "Mindspace Technology Park",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "",
-    "lat": 17.4402111,
-    "lng": 78.3822757,
-    "website": "https://www.mindspaceindia.com/",
-    "phone": "",
-    "careers_url": "https://www.mindspaceindia.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.mindspaceindia.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-19T23:33:33+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:292816639"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "addr:place": "HITEC City",
-        "alt_name": "Mindspace",
-        "landuse": "commercial",
-        "name": "Mindspace Technology Park",
-        "operator": "K Raheja Corp",
-        "website": "https://www.mindspaceindia.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.mindspaceindia.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.mindspaceindia.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-19T23:33:33+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Raja Ramanna Centre for Advanced Technology",
     "city": "Indore",
     "region": "Madhya Pradesh",
@@ -55363,9 +55363,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T00:02:46+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.zycus.com/jobs: HTTPError; https://www.zycus.com/jobs/: HTTPError; https://www.zycus.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=commercial"
     ],
@@ -55396,7 +55396,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T00:02:46+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.zycus.com/jobs: HTTPError; https://www.zycus.com/jobs/: HTTPError; https://www.zycus.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -55515,12 +55523,12 @@
     "lng": 77.1519473,
     "website": "https://www.aquevix.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://hr.aquevix.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://hr.aquevix.com/jobs",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T00:02:47+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -55550,7 +55558,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://hr.aquevix.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://hr.aquevix.com/jobs",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T00:02:47+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
