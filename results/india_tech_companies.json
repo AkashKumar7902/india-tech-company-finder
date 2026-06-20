@@ -78911,12 +78911,12 @@
     "lng": 77.5670946,
     "website": "innovationof2morrow.blogspot.com",
     "phone": "078296 73492",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://innovationof2morrow.blogspot.com/2011/03/steve-jobs-attends-white-house-dinner.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://innovationof2morrow.blogspot.com/2011/03/steve-jobs-attends-white-house-dinner.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T05:03:19+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -78942,7 +78942,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://innovationof2morrow.blogspot.com/2011/03/steve-jobs-attends-white-house-dinner.html",
+        "provider": "company_website",
+        "api_url": "http://innovationof2morrow.blogspot.com/2011/03/steve-jobs-attends-white-house-dinner.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T05:03:19+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -79015,12 +79023,12 @@
     "lng": 76.7700221,
     "website": "https://epilogue.co.in/",
     "phone": "0172 419 0760",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://epilogue.co.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T05:03:21+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=advertising_agency"
     ],
@@ -79052,7 +79060,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://epilogue.co.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T05:03:21+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
