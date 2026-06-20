@@ -2374,6 +2374,121 @@
     }
   },
   {
+    "name": "Nilenso Software",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "105, 10th Cross, Bengaluru, 560038",
+    "lat": 12.9816173,
+    "lng": 77.6385578,
+    "website": "https://nilenso.com/",
+    "phone": "",
+    "careers_url": "https://nilenso.com/jobs/",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T14:37:17+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4030163472"
+    },
+    "tech_score": 77.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:housenumber": "105",
+        "addr:place": "Indiranagar 1st Stage",
+        "addr:postcode": "560038",
+        "addr:street": "10th Cross",
+        "name": "Nilenso Software",
+        "office": "it",
+        "website": "https://nilenso.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://nilenso.com/jobs/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T14:37:17+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Nagarro Software Pvt Ltd",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "13, Sub.Major Laxmi Chand Rd, Gurgaon",
+    "lat": 28.491745,
+    "lng": 77.0742923,
+    "website": "https://www.nagarro.com",
+    "phone": "",
+    "careers_url": "https://www.nagarro.com/en/careers/us",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.nagarro.com/hubfs/hub_generated/template_assets/1/70763387279/1744362882148/template_CSS_NW_Careers_JobFilter.min.css",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T14:37:20+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:142938989"
+    },
+    "tech_score": 77.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gurgaon",
+        "addr:housenumber": "13",
+        "addr:street": "Sub.Major Laxmi Chand Rd",
+        "building": "yes",
+        "name": "Nagarro Software Pvt Ltd",
+        "office": "it",
+        "website": "https://www.nagarro.com",
+        "wikidata": "Q18128427",
+        "wikipedia": "de:Nagarro"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.nagarro.com/en/careers/us",
+        "provider": "company_website",
+        "api_url": "https://www.nagarro.com/hubfs/hub_generated/template_assets/1/70763387279/1744362882148/template_CSS_NW_Careers_JobFilter.min.css",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T14:37:20+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ESDS Software Solution Pvt Ltd",
     "city": "Nashik",
     "region": "Maharashtra",
@@ -2984,63 +3099,6 @@
     }
   },
   {
-    "name": "Nilenso Software",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "105, 10th Cross, Bengaluru, 560038",
-    "lat": 12.9816173,
-    "lng": 77.6385578,
-    "website": "https://nilenso.com/",
-    "phone": "",
-    "careers_url": "https://nilenso.com/jobs/",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-20T14:37:17+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4030163472"
-    },
-    "tech_score": 73.0,
-    "confidence": "high",
-    "notes": "matched: software, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:country": "IN",
-        "addr:housenumber": "105",
-        "addr:place": "Indiranagar 1st Stage",
-        "addr:postcode": "560038",
-        "addr:street": "10th Cross",
-        "name": "Nilenso Software",
-        "office": "it",
-        "website": "https://nilenso.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://nilenso.com/jobs/",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-20T14:37:17+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Sourcebits (Ascendum Digital)",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -3215,64 +3273,6 @@
         "api_url": "https://byval.in/career",
         "confidence": "medium",
         "checked_at": "2026-06-18T14:51:01+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Nagarro Software Pvt Ltd",
-    "city": "Gurugram",
-    "region": "Haryana",
-    "country": "India",
-    "address": "13, Sub.Major Laxmi Chand Rd, Gurgaon",
-    "lat": 28.491745,
-    "lng": 77.0742923,
-    "website": "https://www.nagarro.com",
-    "phone": "",
-    "careers_url": "https://www.nagarro.com/en/careers/us",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.nagarro.com/hubfs/hub_generated/template_assets/1/70763387279/1744362882148/template_CSS_NW_Careers_JobFilter.min.css",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T14:37:20+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:142938989"
-    },
-    "tech_score": 73.0,
-    "confidence": "high",
-    "notes": "matched: software, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Gurgaon",
-        "addr:housenumber": "13",
-        "addr:street": "Sub.Major Laxmi Chand Rd",
-        "building": "yes",
-        "name": "Nagarro Software Pvt Ltd",
-        "office": "it",
-        "website": "https://www.nagarro.com",
-        "wikidata": "Q18128427",
-        "wikipedia": "de:Nagarro"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.nagarro.com/en/careers/us",
-        "provider": "company_website",
-        "api_url": "https://www.nagarro.com/hubfs/hub_generated/template_assets/1/70763387279/1744362882148/template_CSS_NW_Careers_JobFilter.min.css",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T14:37:20+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -4209,9 +4209,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T15:20:49+00:00",
+    "careers_notes": "https://www.altruistindia.com/jobs: HTTPError; https://www.altruistindia.com/jobs/: HTTPError; https://www.altruistindia.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "building=yes"
@@ -4243,7 +4243,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T15:20:49+00:00",
+        "notes": "https://www.altruistindia.com/jobs: HTTPError; https://www.altruistindia.com/jobs/: HTTPError; https://www.altruistindia.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -4256,12 +4264,12 @@
     "lng": 80.2497868,
     "website": "https://www.blazedream.com/",
     "phone": "+914442047468",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.blazedream.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.blazedream.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T15:20:51+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4291,7 +4299,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.blazedream.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.blazedream.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T15:20:51+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
