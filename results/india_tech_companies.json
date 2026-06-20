@@ -75849,6 +75849,66 @@
     }
   },
   {
+    "name": "Heritage Projects & Consultant",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "204, Elements Mall, DCM, Ajmer road, Jaipur, 302021",
+    "lat": 26.8951343,
+    "lng": 75.7484941,
+    "website": "https://hpcjindia.in",
+    "phone": "+918058212586",
+    "careers_url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T06:40:27+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=architect",
+      "description=Heritage Project and Consultant (HPC) is a leading construction company in Jaipur, offering turnkey solutions, architecture, interiors, and project management with quality, timely delivery, and professionalism."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1431518979"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "204",
+        "addr:postcode": "302021",
+        "addr:street": "Elements Mall, DCM, Ajmer road",
+        "description": "Heritage Project and Consultant (HPC) is a leading construction company in Jaipur, offering turnkey solutions, architecture, interiors, and project management with quality, timely delivery, and professionalism.",
+        "name": "Heritage Projects & Consultant",
+        "office": "architect",
+        "opening_hours": "24/7",
+        "phone": "+918058212586",
+        "website": "https://hpcjindia.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
+        "provider": "company_website",
+        "api_url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T06:40:27+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Bajaj Capital",
     "city": "Madurai",
     "region": "Tamil Nadu",
@@ -79598,66 +79658,6 @@
     }
   },
   {
-    "name": "Heritage Projects & Consultant",
-    "city": "Jaipur",
-    "region": "Rajasthan",
-    "country": "India",
-    "address": "204, Elements Mall, DCM, Ajmer road, Jaipur, 302021",
-    "lat": 26.8951343,
-    "lng": 75.7484941,
-    "website": "https://hpcjindia.in",
-    "phone": "+918058212586",
-    "careers_url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T06:40:27+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=architect",
-      "description=Heritage Project and Consultant (HPC) is a leading construction company in Jaipur, offering turnkey solutions, architecture, interiors, and project management with quality, timely delivery, and professionalism."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1431518979"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Jaipur",
-        "addr:district": "Jaipur",
-        "addr:housenumber": "204",
-        "addr:postcode": "302021",
-        "addr:street": "Elements Mall, DCM, Ajmer road",
-        "description": "Heritage Project and Consultant (HPC) is a leading construction company in Jaipur, offering turnkey solutions, architecture, interiors, and project management with quality, timely delivery, and professionalism.",
-        "name": "Heritage Projects & Consultant",
-        "office": "architect",
-        "opening_hours": "24/7",
-        "phone": "+918058212586",
-        "website": "https://hpcjindia.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
-        "provider": "company_website",
-        "api_url": "https://www.hpcjindia.in/careers-construction-jobs-jaipur",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T06:40:27+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Metsand Techno Solutions Pvt Ltd.",
     "city": "Kochi",
     "region": "Kerala",
@@ -80008,9 +80008,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T07:59:14+00:00",
+    "careers_notes": "https://www.pbsworld.in/jobs: HTTPError; https://www.pbsworld.in/jobs/: HTTPError; https://www.pbsworld.in/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -80037,7 +80037,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T07:59:14+00:00",
+        "notes": "https://www.pbsworld.in/jobs: HTTPError; https://www.pbsworld.in/jobs/: HTTPError; https://www.pbsworld.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -80053,9 +80061,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T07:59:16+00:00",
+    "careers_notes": "https://pickmyurl.com/jobs: HTTPError; https://pickmyurl.com/jobs/: HTTPError; https://pickmyurl.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency"
     ],
@@ -80085,7 +80093,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T07:59:16+00:00",
+        "notes": "https://pickmyurl.com/jobs: HTTPError; https://pickmyurl.com/jobs/: HTTPError; https://pickmyurl.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
