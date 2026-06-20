@@ -76291,6 +76291,64 @@
     }
   },
   {
+    "name": "KENT RO SYSTEMS LTD",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "C-56/46, C Block, Phase 2,, Industrial Area, Sector 62,, Noida, 201309",
+    "lat": 28.6155146,
+    "lng": 77.3666034,
+    "website": "https://www.kent.co.in/?utm_source=Google-Local-Business&utm_medium=Local-Business&utm_term=Water-Purifier&utm_content=1&utm_campaign=Local-Business",
+    "phone": "",
+    "careers_url": "https://www.kent.co.in/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://kentro.haptikapi.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T09:15:21+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=private",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:351565594"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: systems",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:housenumber": "C-56/46, C Block, Phase 2,",
+        "addr:postcode": "201309",
+        "addr:street": "Industrial Area, Sector 62,",
+        "building": "commercial",
+        "name": "KENT RO SYSTEMS LTD",
+        "office": "private",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "website": "https://www.kent.co.in/?utm_source=Google-Local-Business&utm_medium=Local-Business&utm_term=Water-Purifier&utm_content=1&utm_campaign=Local-Business"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.kent.co.in/",
+        "provider": "company_website",
+        "api_url": "https://kentro.haptikapi.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T09:15:21+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Marketing Spirits - The Future of Digital Excellence",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -80433,64 +80491,6 @@
     }
   },
   {
-    "name": "KENT RO SYSTEMS LTD",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "C-56/46, C Block, Phase 2,, Industrial Area, Sector 62,, Noida, 201309",
-    "lat": 28.6155146,
-    "lng": 77.3666034,
-    "website": "https://www.kent.co.in/?utm_source=Google-Local-Business&utm_medium=Local-Business&utm_term=Water-Purifier&utm_content=1&utm_campaign=Local-Business",
-    "phone": "",
-    "careers_url": "https://www.kent.co.in/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://kentro.haptikapi.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T09:15:21+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=private",
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:351565594"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: systems",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida",
-        "addr:housenumber": "C-56/46, C Block, Phase 2,",
-        "addr:postcode": "201309",
-        "addr:street": "Industrial Area, Sector 62,",
-        "building": "commercial",
-        "name": "KENT RO SYSTEMS LTD",
-        "office": "private",
-        "opening_hours": "Mo-Sa 09:00-18:00",
-        "website": "https://www.kent.co.in/?utm_source=Google-Local-Business&utm_medium=Local-Business&utm_term=Water-Purifier&utm_content=1&utm_campaign=Local-Business"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.kent.co.in/",
-        "provider": "company_website",
-        "api_url": "https://kentro.haptikapi.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T09:15:21+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Khurana Digital Color Solution",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -80944,9 +80944,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T10:17:15+00:00",
+    "careers_notes": "https://www.paisapulse.com/jobs: HTTPError; https://www.paisapulse.com/jobs/: HTTPError; https://www.paisapulse.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=financial_advisor",
       "description=Paisa Pulse is your trusted financial partner specializing in home loans, education loans, business loans, and personal loan solutions. As experienced loan consultants and financial planners, we offer hassle-free lending with quick approvals and transpare"
@@ -80980,7 +80980,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T10:17:15+00:00",
+        "notes": "https://www.paisapulse.com/jobs: HTTPError; https://www.paisapulse.com/jobs/: HTTPError; https://www.paisapulse.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -81581,9 +81589,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T10:17:18+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://htttps:/jobs: ConnectionError; https://htttps:/jobs/: ConnectionError; https://htttps:/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -81612,7 +81620,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T10:17:18+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://htttps:/jobs: ConnectionError; https://htttps:/jobs/: ConnectionError; https://htttps:/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
