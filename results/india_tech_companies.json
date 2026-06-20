@@ -2993,12 +2993,12 @@
     "lng": 77.6385578,
     "website": "https://nilenso.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://nilenso.com/jobs/",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T14:37:17+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -3029,7 +3029,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://nilenso.com/jobs/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T14:37:17+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -3221,12 +3229,12 @@
     "lng": 77.0742923,
     "website": "https://www.nagarro.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.nagarro.com/en/careers/us",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.nagarro.com/hubfs/hub_generated/template_assets/1/70763387279/1744362882148/template_CSS_NW_Careers_JobFilter.min.css",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T14:37:20+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes"
@@ -3258,7 +3266,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.nagarro.com/en/careers/us",
+        "provider": "company_website",
+        "api_url": "https://www.nagarro.com/hubfs/hub_generated/template_assets/1/70763387279/1744362882148/template_CSS_NW_Careers_JobFilter.min.css",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T14:37:20+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
