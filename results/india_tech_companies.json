@@ -7276,9 +7276,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T17:17:53+00:00",
+    "careers_notes": "https://www.solarmantech.in/jobs: HTTPError; https://www.solarmantech.in/jobs/: HTTPError; https://www.solarmantech.in/career: HTTPError; no careers page detected",
     "categories": [
       "description=Solarman Technology Project Pvt Ltd is a leading IT outsourcing company in India, offering comprehensive web solutions such as website designing, web development, SEO, and SMO services."
     ],
@@ -7304,7 +7304,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T17:17:53+00:00",
+        "notes": "https://www.solarmantech.in/jobs: HTTPError; https://www.solarmantech.in/jobs/: HTTPError; https://www.solarmantech.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -7676,12 +7684,12 @@
     "lng": 80.2458023,
     "website": "https://www.objectfrontier.com/",
     "phone": "(+91) 44-3061-2100",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.objectfrontier.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T17:17:59+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "description=OFS delivers digital value to businesses by building innovative software, web-based or mobile, that will engage their customers & employees. www.objectfrontier.com"
@@ -7713,7 +7721,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.objectfrontier.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T17:17:59+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
