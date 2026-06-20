@@ -6118,9 +6118,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T16:41:46+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://www.thedreamsteps.com/jobs: SSLError; https://www.thedreamsteps.com/jobs/: SSLError; https://www.thedreamsteps.com/career: SSLError; no careers page detected",
     "categories": [
       "building=commercial",
       "description=We offer a myriad of services related to graphic design, website design, web development, mobile application development and SEO & Digital marketing at cost-effective prices."
@@ -6155,7 +6155,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T16:41:46+00:00",
+        "notes": "homepage fetch failed: SSLError; https://www.thedreamsteps.com/jobs: SSLError; https://www.thedreamsteps.com/jobs/: SSLError; https://www.thedreamsteps.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -6354,9 +6362,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T16:41:49+00:00",
+    "careers_notes": "https://ente.com/jobs: HTTPError; https://ente.com/jobs/: HTTPError; https://ente.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -6385,7 +6393,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T16:41:49+00:00",
+        "notes": "https://ente.com/jobs: HTTPError; https://ente.com/jobs/: HTTPError; https://ente.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
