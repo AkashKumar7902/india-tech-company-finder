@@ -78537,6 +78537,118 @@
     }
   },
   {
+    "name": "Technokrafts Labs Pvt. Ltd.",
+    "city": "Nashik",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "9, Sadgurukrupa Apartment, Aditya Nagar, Ashoka Marg, Nashik, 422011",
+    "lat": 19.9776441,
+    "lng": 73.8014324,
+    "website": "https://www.technokrafts.com/",
+    "phone": "+91 253 2237780",
+    "careers_url": "https://www.technokrafts.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T12:24:37+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3287267927"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nashik",
+        "addr:housenumber": "9, Sadgurukrupa Apartment",
+        "addr:postcode": "422011",
+        "addr:street": "Aditya Nagar, Ashoka Marg",
+        "name": "Technokrafts Labs Pvt. Ltd.",
+        "phone": "+91 253 2237780",
+        "website": "https://www.technokrafts.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.technokrafts.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T12:24:37+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Kraftshala",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "C-12, Feroze Gandhi Road, Delhi, 110024",
+    "lat": 28.5680646,
+    "lng": 77.2429952,
+    "website": "https://www.kraftshala.com/",
+    "phone": "",
+    "careers_url": "https://www.kraftshala.com/kraftshala-careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.kraftshala.com/kraftshala-careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T12:24:40+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=yes",
+      "description=Kraftshala is a fast-growing ed-tech company in India, that provides pay-after-placement courses in digital marketing."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1318613116"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Delhi",
+        "addr:housenumber": "C-12",
+        "addr:postcode": "110024",
+        "addr:street": "Feroze Gandhi Road",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Kraftshala is a fast-growing ed-tech company in India, that provides pay-after-placement courses in digital marketing.",
+        "name": "Kraftshala",
+        "start_date": "2019-11-01",
+        "website": "https://www.kraftshala.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.kraftshala.com/kraftshala-careers/",
+        "provider": "company_website",
+        "api_url": "https://www.kraftshala.com/kraftshala-careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T12:24:40+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "PS Law Firm",
     "city": "New Delhi",
     "region": "Delhi",
@@ -83190,118 +83302,6 @@
     }
   },
   {
-    "name": "Technokrafts Labs Pvt. Ltd.",
-    "city": "Nashik",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "9, Sadgurukrupa Apartment, Aditya Nagar, Ashoka Marg, Nashik, 422011",
-    "lat": 19.9776441,
-    "lng": 73.8014324,
-    "website": "https://www.technokrafts.com/",
-    "phone": "+91 253 2237780",
-    "careers_url": "https://www.technokrafts.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-20T12:24:37+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3287267927"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: labs",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Nashik",
-        "addr:housenumber": "9, Sadgurukrupa Apartment",
-        "addr:postcode": "422011",
-        "addr:street": "Aditya Nagar, Ashoka Marg",
-        "name": "Technokrafts Labs Pvt. Ltd.",
-        "phone": "+91 253 2237780",
-        "website": "https://www.technokrafts.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.technokrafts.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-20T12:24:37+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Kraftshala",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "C-12, Feroze Gandhi Road, Delhi, 110024",
-    "lat": 28.5680646,
-    "lng": 77.2429952,
-    "website": "https://www.kraftshala.com/",
-    "phone": "",
-    "careers_url": "https://www.kraftshala.com/kraftshala-careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.kraftshala.com/kraftshala-careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T12:24:40+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=yes",
-      "description=Kraftshala is a fast-growing ed-tech company in India, that provides pay-after-placement courses in digital marketing."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1318613116"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Delhi",
-        "addr:housenumber": "C-12",
-        "addr:postcode": "110024",
-        "addr:street": "Feroze Gandhi Road",
-        "building": "yes",
-        "building:levels": "2",
-        "description": "Kraftshala is a fast-growing ed-tech company in India, that provides pay-after-placement courses in digital marketing.",
-        "name": "Kraftshala",
-        "start_date": "2019-11-01",
-        "website": "https://www.kraftshala.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.kraftshala.com/kraftshala-careers/",
-        "provider": "company_website",
-        "api_url": "https://www.kraftshala.com/kraftshala-careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T12:24:40+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Rank Tech Digital",
     "city": "New Delhi",
     "region": "Delhi",
@@ -83734,12 +83734,12 @@
     "lng": 72.7906341,
     "website": "https://gsmchevli.com/",
     "phone": "+91 98257 83454",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://gsmchevli.com/",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T13:02:45+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=computer"
     ],
@@ -83776,7 +83776,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://gsmchevli.com/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T13:02:45+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -83789,12 +83797,12 @@
     "lng": 76.9612889,
     "website": "https://citizendigitalfoundation.org",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://citizendigitalfoundation.org/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://citizendigitalfoundation.org/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T13:02:49+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=ngo"
     ],
@@ -83822,7 +83830,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://citizendigitalfoundation.org/careers/",
+        "provider": "company_website",
+        "api_url": "https://citizendigitalfoundation.org/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T13:02:49+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
