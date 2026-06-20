@@ -80442,12 +80442,12 @@
     "lng": 77.3666034,
     "website": "https://www.kent.co.in/?utm_source=Google-Local-Business&utm_medium=Local-Business&utm_term=Water-Purifier&utm_content=1&utm_campaign=Local-Business",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.kent.co.in/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://kentro.haptikapi.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T09:15:21+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=private",
       "building=commercial"
@@ -80479,7 +80479,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.kent.co.in/",
+        "provider": "company_website",
+        "api_url": "https://kentro.haptikapi.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T09:15:21+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -80495,9 +80503,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T09:15:24+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://khuranadcs.com/jobs: ConnectionError; https://khuranadcs.com/jobs/: ConnectionError; https://khuranadcs.com/career: ConnectionError; no careers page detected",
     "categories": [
       "shop=copyshop"
     ],
@@ -80531,7 +80539,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T09:15:24+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://khuranadcs.com/jobs: ConnectionError; https://khuranadcs.com/jobs/: ConnectionError; https://khuranadcs.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
