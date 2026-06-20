@@ -26345,6 +26345,76 @@
     }
   },
   {
+    "name": "Software Freedom Law Center, India",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "9, Birbal Road, New Delhi, 110014",
+    "lat": 28.5849068,
+    "lng": 77.2424164,
+    "website": "https://sflc.in",
+    "phone": "+91-11-4358-7126",
+    "careers_url": "https://sflc.in/join-us/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T22:26:35+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=ngo"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11228824231"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:block": "K",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "9",
+        "addr:place": "Jangpura Extension",
+        "addr:postcode": "110014",
+        "addr:street": "Birbal Road",
+        "check_date": "2024-03-17",
+        "contact:email": "mail@sflc.in",
+        "contact:facebook": "sflcin",
+        "contact:instagram": "sflc_in",
+        "contact:phone": "+91-11-4358-7126",
+        "contact:twitter": "SFLCin",
+        "contact:website": "https://sflc.in",
+        "level": "2",
+        "name": "Software Freedom Law Center, India",
+        "name:hi": "सॉफ्टवेयर फ्रीडम लॉ सेंटर, इंडिया",
+        "office": "ngo",
+        "opening_hours": "Mo-Fr 10:00-19:00",
+        "short_name": "SFLC India",
+        "wheelchair": "no",
+        "wikidata": "Q1394821",
+        "wikimedia_commons": "Category:Software Freedom Law Center India"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://sflc.in/join-us/",
+        "provider": "company_website",
+        "api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T22:26:35+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Intact Web",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -27846,6 +27916,68 @@
     }
   },
   {
+    "name": "International Institute of Information Technology Bangalore",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "26/C Opposite Infosys Gate, 1st Cross Road, Bangalore, 560100",
+    "lat": 12.8447686,
+    "lng": 77.6632378,
+    "website": "https://www.iiitb.ac.in/",
+    "phone": "",
+    "careers_url": "https://www.iiitb.ac.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.iiitb.ac.in%2Fcareers&t=Careers&quot,null,&quot;height=200,width=400,status=yes,toolbar=no,menubar=no,location=no&quot;);return",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T22:26:40+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=university",
+      "amenity=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:231559501"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: information technology, technology; negative hints: institute",
+    "raw": {
+      "osm_tags": {
+        "building": "university",
+        "building:levels": "3",
+        "name": "International Institute of Information Technology Bangalore",
+        "website": "https://www.iiitb.ac.in",
+        "wikipedia": "en:International Institute of Information Technology, Bangalore",
+        "addr:city": "Bangalore",
+        "addr:housenumber": "26/C Opposite Infosys Gate",
+        "addr:postcode": "560100",
+        "addr:street": "1st Cross Road",
+        "alt_name": "IIIT",
+        "amenity": "university",
+        "check_date": "2025-08-07",
+        "internet_access": "wlan"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.iiitb.ac.in/careers",
+        "provider": "company_website",
+        "api_url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.iiitb.ac.in%2Fcareers&t=Careers&quot,null,&quot;height=200,width=400,status=yes,toolbar=no,menubar=no,location=no&quot;);return",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T22:26:40+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sonata Software Limites",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -29226,76 +29358,6 @@
         "api_url": "https://careers.persistent.com/images/site/persistent-careers-opportunities.jpg",
         "confidence": "medium",
         "checked_at": "2026-06-14T22:53:58+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Software Freedom Law Center, India",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "9, Birbal Road, New Delhi, 110014",
-    "lat": 28.5849068,
-    "lng": 77.2424164,
-    "website": "https://sflc.in",
-    "phone": "+91-11-4358-7126",
-    "careers_url": "https://sflc.in/join-us/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T22:26:35+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=ngo"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11228824231"
-    },
-    "tech_score": 40.0,
-    "confidence": "medium",
-    "notes": "matched: software",
-    "raw": {
-      "osm_tags": {
-        "addr:block": "K",
-        "addr:city": "New Delhi",
-        "addr:housenumber": "9",
-        "addr:place": "Jangpura Extension",
-        "addr:postcode": "110014",
-        "addr:street": "Birbal Road",
-        "check_date": "2024-03-17",
-        "contact:email": "mail@sflc.in",
-        "contact:facebook": "sflcin",
-        "contact:instagram": "sflc_in",
-        "contact:phone": "+91-11-4358-7126",
-        "contact:twitter": "SFLCin",
-        "contact:website": "https://sflc.in",
-        "level": "2",
-        "name": "Software Freedom Law Center, India",
-        "name:hi": "सॉफ्टवेयर फ्रीडम लॉ सेंटर, इंडिया",
-        "office": "ngo",
-        "opening_hours": "Mo-Fr 10:00-19:00",
-        "short_name": "SFLC India",
-        "wheelchair": "no",
-        "wikidata": "Q1394821",
-        "wikimedia_commons": "Category:Software Freedom Law Center India"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://sflc.in/join-us/",
-        "provider": "company_website",
-        "api_url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T22:26:35+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -36364,68 +36426,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "International Institute of Information Technology Bangalore",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "26/C Opposite Infosys Gate, 1st Cross Road, Bangalore, 560100",
-    "lat": 12.8447686,
-    "lng": 77.6632378,
-    "website": "https://www.iiitb.ac.in/",
-    "phone": "",
-    "careers_url": "https://www.iiitb.ac.in/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.iiitb.ac.in%2Fcareers&t=Careers&quot,null,&quot;height=200,width=400,status=yes,toolbar=no,menubar=no,location=no&quot;);return",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T22:26:40+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=university",
-      "amenity=university"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:231559501"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: information technology, technology; negative hints: institute",
-    "raw": {
-      "osm_tags": {
-        "building": "university",
-        "building:levels": "3",
-        "name": "International Institute of Information Technology Bangalore",
-        "website": "https://www.iiitb.ac.in",
-        "wikipedia": "en:International Institute of Information Technology, Bangalore",
-        "addr:city": "Bangalore",
-        "addr:housenumber": "26/C Opposite Infosys Gate",
-        "addr:postcode": "560100",
-        "addr:street": "1st Cross Road",
-        "alt_name": "IIIT",
-        "amenity": "university",
-        "check_date": "2025-08-07",
-        "internet_access": "wlan"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.iiitb.ac.in/careers",
-        "provider": "company_website",
-        "api_url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.iiitb.ac.in%2Fcareers&t=Careers&quot,null,&quot;height=200,width=400,status=yes,toolbar=no,menubar=no,location=no&quot;);return",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T22:26:40+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -49416,12 +49416,12 @@
     "lng": 80.2266263,
     "website": "https://www.beta-cae.com/",
     "phone": "+914430095400",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "careers_provider": "workday",
+    "careers_api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-20T22:53:11+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -49451,7 +49451,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+        "provider": "workday",
+        "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-20T22:53:11+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -49959,12 +49967,12 @@
     "lng": 73.9070871,
     "website": "https://agnisolar.com/",
     "phone": "+912066434111",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://agnisolar.com/contact/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.google.com/recaptcha/api.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T22:53:15+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "building=commercial",
@@ -50003,7 +50011,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://agnisolar.com/contact/",
+        "provider": "company_website",
+        "api_url": "https://www.google.com/recaptcha/api.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T22:53:15+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52408,7 +52424,14 @@
       "osm_tags": {
         "name": "Capital Cloud",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
