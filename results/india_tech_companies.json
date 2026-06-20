@@ -3154,6 +3154,62 @@
     }
   },
   {
+    "name": "Blaze Dream Technologies Pvt Ltd",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Pycrofts Garden Road, 600006",
+    "lat": 13.0637732,
+    "lng": 80.2497868,
+    "website": "https://www.blazedream.com/",
+    "phone": "+914442047468",
+    "careers_url": "https://www.blazedream.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.blazedream.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T15:20:51+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4221573010"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "600006",
+        "addr:street": "Pycrofts Garden Road",
+        "email": "reach@blazedream.com",
+        "name": "Blaze Dream Technologies Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 08:30-21:00",
+        "phone": "+914442047468",
+        "website": "https://www.blazedream.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.blazedream.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.blazedream.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T15:20:51+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Nesh Technologies",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -4255,62 +4311,6 @@
     }
   },
   {
-    "name": "Blaze Dream Technologies Pvt Ltd",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Pycrofts Garden Road, 600006",
-    "lat": 13.0637732,
-    "lng": 80.2497868,
-    "website": "https://www.blazedream.com/",
-    "phone": "+914442047468",
-    "careers_url": "https://www.blazedream.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.blazedream.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T15:20:51+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4221573010"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "600006",
-        "addr:street": "Pycrofts Garden Road",
-        "email": "reach@blazedream.com",
-        "name": "Blaze Dream Technologies Pvt Ltd",
-        "office": "it",
-        "opening_hours": "Mo-Fr 08:30-21:00",
-        "phone": "+914442047468",
-        "website": "https://www.blazedream.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.blazedream.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.blazedream.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T15:20:51+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Impiger Technologies",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -4722,9 +4722,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T16:00:23+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://sg.zeazonz.com/jobs: ConnectionError; https://sg.zeazonz.com/jobs/: ConnectionError; https://sg.zeazonz.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -4755,7 +4755,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T16:00:23+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://sg.zeazonz.com/jobs: ConnectionError; https://sg.zeazonz.com/jobs/: ConnectionError; https://sg.zeazonz.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -4771,9 +4779,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T16:00:24+00:00",
+    "careers_notes": "https://www.vibegeo.com/jobs: HTTPError; https://www.vibegeo.com/jobs/: HTTPError; https://www.vibegeo.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -4806,7 +4814,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T16:00:24+00:00",
+        "notes": "https://www.vibegeo.com/jobs: HTTPError; https://www.vibegeo.com/jobs/: HTTPError; https://www.vibegeo.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
