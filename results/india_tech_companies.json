@@ -20990,12 +20990,12 @@
     "lng": 77.5482141,
     "website": "http://www.prdcinfotech.com/",
     "phone": "+91 (0) 80 4245 5555",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://beta.prdcinfotech.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://beta.prdcinfotech.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T19:03:53+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -21026,7 +21026,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://beta.prdcinfotech.com/career/",
+        "provider": "company_website",
+        "api_url": "https://beta.prdcinfotech.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T19:03:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -21039,12 +21047,12 @@
     "lng": 77.6914263,
     "website": "https://www.seagate.com/gb/en/",
     "phone": "080 4652 3000",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.seagate.com/jobs/meet-seagate/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.seagate.com/jobs/meet-seagate/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T19:04:10+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -21074,7 +21082,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.seagate.com/jobs/meet-seagate/",
+        "provider": "company_website",
+        "api_url": "https://www.seagate.com/jobs/meet-seagate/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T19:04:10+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
