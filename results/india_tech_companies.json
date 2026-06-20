@@ -52068,12 +52068,12 @@
     "lng": 77.249016,
     "website": "https://fat-net.org/",
     "phone": "+91-11-41004951",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "http://www.fat-net.org/jobs-old",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://www.fat-net.org/jobs-old",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T23:54:37+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=ngo"
     ],
@@ -52105,7 +52105,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "http://www.fat-net.org/jobs-old",
+        "provider": "company_website",
+        "api_url": "http://www.fat-net.org/jobs-old",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T23:54:37+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52118,12 +52126,12 @@
     "lng": 77.381494,
     "website": "https://www.brandconn.com/",
     "phone": "+91 120 4293692",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.brandconn.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.brandconn.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T23:54:39+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -52155,7 +52163,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.brandconn.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.brandconn.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T23:54:39+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
