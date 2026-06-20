@@ -11154,6 +11154,62 @@
     }
   },
   {
+    "name": "Brey Digital",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "G-1206, Antriksh Golf Link, Sector 1, Greater Noida West, Greater Noida, 201318",
+    "lat": 28.5580691,
+    "lng": 77.4397958,
+    "website": "https://brey.in",
+    "phone": "+919958654488",
+    "careers_url": "https://breydigital.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T17:51:51+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10701576155"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "G-1206, Antriksh Golf Link",
+        "addr:postcode": "201318",
+        "addr:street": "Sector 1, Greater Noida West",
+        "name": "Brey Digital",
+        "office": "it",
+        "phone": "+919958654488",
+        "website": "https://brey.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://breydigital.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T17:51:51+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Atlyx",
     "city": "Ahmedabad",
     "region": "Gujarat",
@@ -12711,62 +12767,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Brey Digital",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "G-1206, Antriksh Golf Link, Sector 1, Greater Noida West, Greater Noida, 201318",
-    "lat": 28.5580691,
-    "lng": 77.4397958,
-    "website": "https://brey.in",
-    "phone": "+919958654488",
-    "careers_url": "https://breydigital.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T17:51:51+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10701576155"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:housenumber": "G-1206, Antriksh Golf Link",
-        "addr:postcode": "201318",
-        "addr:street": "Sector 1, Greater Noida West",
-        "name": "Brey Digital",
-        "office": "it",
-        "phone": "+919958654488",
-        "website": "https://brey.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://breydigital.com/jobs",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T17:51:51+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -14894,9 +14894,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T18:30:48+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://mcafee.com/jobs: HTTPError; https://mcafee.com/jobs/: HTTPError; https://mcafee.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -14926,7 +14926,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T18:30:48+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://mcafee.com/jobs: HTTPError; https://mcafee.com/jobs/: HTTPError; https://mcafee.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -15654,9 +15662,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T18:30:50+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.tcsnextstep.in/jobs: ConnectionError; https://www.tcsnextstep.in/jobs/: ConnectionError; https://www.tcsnextstep.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -15686,7 +15694,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T18:30:50+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.tcsnextstep.in/jobs: ConnectionError; https://www.tcsnextstep.in/jobs/: ConnectionError; https://www.tcsnextstep.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
