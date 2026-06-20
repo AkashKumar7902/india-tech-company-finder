@@ -17698,6 +17698,63 @@
     }
   },
   {
+    "name": "Eruvaka Technologies Pvt Ltd",
+    "city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "Plot no 69, Road number 5, Kanaka Durga Gazetted Officers Colony, Vijayawada, 520008",
+    "lat": 16.504356,
+    "lng": 80.6659811,
+    "website": "https://eruvaka.com/",
+    "phone": "+919908963863",
+    "careers_url": "https://eruvaka.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Inter",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T19:46:56+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8982523555"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Vijayawada",
+        "addr:housenumber": "Plot no 69",
+        "addr:postcode": "520008",
+        "addr:street": "Road number 5, Kanaka Durga Gazetted Officers Colony",
+        "name": "Eruvaka Technologies Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "phone": "+919908963863",
+        "website": "https://eruvaka.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://eruvaka.com/careers",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Inter",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T19:46:56+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Aeries Soft Tech Solutions",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
@@ -21967,63 +22024,6 @@
     }
   },
   {
-    "name": "Eruvaka Technologies Pvt Ltd",
-    "city": "Vijayawada",
-    "region": "Andhra Pradesh",
-    "country": "India",
-    "address": "Plot no 69, Road number 5, Kanaka Durga Gazetted Officers Colony, Vijayawada, 520008",
-    "lat": 16.504356,
-    "lng": 80.6659811,
-    "website": "https://eruvaka.com/",
-    "phone": "+919908963863",
-    "careers_url": "https://eruvaka.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Inter",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T19:46:56+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8982523555"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Vijayawada",
-        "addr:housenumber": "Plot no 69",
-        "addr:postcode": "520008",
-        "addr:street": "Road number 5, Kanaka Durga Gazetted Officers Colony",
-        "name": "Eruvaka Technologies Pvt Ltd",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:30-18:30",
-        "phone": "+919908963863",
-        "website": "https://eruvaka.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://eruvaka.com/careers",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Inter",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T19:46:56+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "eth1 Network Solutions",
     "city": "Belagavi",
     "region": "Karnataka",
@@ -23629,12 +23629,12 @@
     "lng": 77.0927298,
     "website": "https://voyagex.ai/",
     "phone": "+91 88264 85123",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://voyagex.ai/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-20T20:16:09+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes"
@@ -23669,7 +23669,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://voyagex.ai/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-20T20:16:09+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -23685,9 +23693,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T20:16:12+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.lumenoidstudios.com/jobs: HTTPError; https://www.lumenoidstudios.com/jobs/: HTTPError; https://www.lumenoidstudios.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -23714,7 +23722,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T20:16:12+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.lumenoidstudios.com/jobs: HTTPError; https://www.lumenoidstudios.com/jobs/: HTTPError; https://www.lumenoidstudios.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
