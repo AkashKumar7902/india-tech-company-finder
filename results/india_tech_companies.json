@@ -19840,6 +19840,65 @@
     }
   },
   {
+    "name": "Remiges Technologies Private Limited",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "701-705, Technocity, X-5/3, TTC Industrial Area, MIDC, Mahape, Navi Mumbai - 400710",
+    "lat": 19.1145983,
+    "lng": 73.0166863,
+    "website": "https://remiges.tech",
+    "phone": "",
+    "careers_url": "https://remiges.tech/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFigtree%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.8.3",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T21:20:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12941959278"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:block": "X",
+        "addr:full": "701-705, Technocity, X-5/3, TTC Industrial Area, MIDC, Mahape, Navi Mumbai - 400710",
+        "addr:housename": "Technocity",
+        "addr:housenumber": "5/3",
+        "addr:suburb": "TTC Industrial Area",
+        "addr:unit": "701-705",
+        "contact:email": "info@remiges.tech",
+        "contact:website": "https://remiges.tech",
+        "level": "3;7",
+        "name": "Remiges Technologies Private Limited",
+        "office": "company"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://remiges.tech/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFigtree%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.8.3",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T21:20:29+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Technology Innovation and Collaboration Center (TICC)",
     "city": "Pune",
     "region": "Maharashtra",
@@ -26181,65 +26240,6 @@
     }
   },
   {
-    "name": "Remiges Technologies Private Limited",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "701-705, Technocity, X-5/3, TTC Industrial Area, MIDC, Mahape, Navi Mumbai - 400710",
-    "lat": 19.1145983,
-    "lng": 73.0166863,
-    "website": "https://remiges.tech",
-    "phone": "",
-    "careers_url": "https://remiges.tech/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFigtree%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.8.3",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T21:20:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12941959278"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:block": "X",
-        "addr:full": "701-705, Technocity, X-5/3, TTC Industrial Area, MIDC, Mahape, Navi Mumbai - 400710",
-        "addr:housename": "Technocity",
-        "addr:housenumber": "5/3",
-        "addr:suburb": "TTC Industrial Area",
-        "addr:unit": "701-705",
-        "contact:email": "info@remiges.tech",
-        "contact:website": "https://remiges.tech",
-        "level": "3;7",
-        "name": "Remiges Technologies Private Limited",
-        "office": "company"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://remiges.tech/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFigtree%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.8.3",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T21:20:29+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "ACS Technologies",
     "city": "New Delhi",
     "region": "Delhi",
@@ -27141,12 +27141,12 @@
     "lng": 78.4489203,
     "website": "https://www.ikeva.com/locations/hyderabad/banjarahills/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.ikeva.com/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-20T21:53:26+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=it"
     ],
@@ -27171,7 +27171,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ikeva.com/",
+        "provider": "darwinbox",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap",
+        "confidence": "high",
+        "checked_at": "2026-06-20T21:53:26+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -27229,9 +27237,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-20T21:53:33+00:00",
+    "careers_notes": "https://proventuresindia.com/jobs: HTTPError; https://proventuresindia.com/jobs/: HTTPError; https://proventuresindia.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -27258,7 +27266,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-20T21:53:33+00:00",
+        "notes": "https://proventuresindia.com/jobs: HTTPError; https://proventuresindia.com/jobs/: HTTPError; https://proventuresindia.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
