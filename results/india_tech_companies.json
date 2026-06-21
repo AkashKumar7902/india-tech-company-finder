@@ -25866,63 +25866,6 @@
     }
   },
   {
-    "name": "Kailash Path Labs",
-    "city": "Ghaziabad",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "Shop/Unit No. UGF 003, Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari, Greater Noida, 201306",
-    "lat": 28.5865642,
-    "lng": 77.439639,
-    "website": "https://www.kailashpathlabs.com/",
-    "phone": "+91-9911370370",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
-    "categories": [
-      "description=Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12627911775"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, labs",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:housenumber": "Shop/Unit No. UGF 003",
-        "addr:postcode": "201306",
-        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
-        "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
-        "email": "info@kailashpathlabs.com",
-        "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
-        "mobile": "+91-9911370370",
-        "name": "Kailash Path Labs",
-        "opening_hours": "Mo-Su 07:00-20:00",
-        "payment:cash": "yes",
-        "payment:contactless": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:google_pay": "yes",
-        "payment:maestro": "yes",
-        "payment:mastercard": "yes",
-        "payment:phonepe": "yes",
-        "payment:visa": "yes",
-        "phone": "+91-9911370370",
-        "source": "local knowledge;streetlevel imagery",
-        "website": "https://www.kailashpathlabs.com/"
-      }
-    }
-  },
-  {
     "name": "Keysight Technologies Inc",
     "city": "Gurugram",
     "region": "Haryana",
@@ -76427,6 +76370,70 @@
     }
   },
   {
+    "name": "Brightlist Global",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "6th floor, WeWork Lightbridge, Hiranandani Business Park, Saki Vihar Rd, Tunga Village, Chandivali, Powai, Mumbai, 400072",
+    "lat": 19.1162001,
+    "lng": 72.8892275,
+    "website": "https://brightlistglobal.com/",
+    "phone": "918097044024",
+    "careers_url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T06:14:07+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Brightlist Global HR Services is Powai's leading placement and recruitment agency, delivering comprehensive staffing solutions across all sectors in Mumbai and beyond."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13828018530"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400072",
+        "addr:street": "6th floor, WeWork Lightbridge, Hiranandani Business Park, Saki Vihar Rd, Tunga Village, Chandivali, Powai",
+        "description": "Brightlist Global HR Services is Powai's leading placement and recruitment agency, delivering comprehensive staffing solutions across all sectors in Mumbai and beyond.",
+        "healthcare": "counselling",
+        "healthcare:speciality": "recruitment;talent_agency;career_counselling",
+        "mobile": "918097044024",
+        "name": "Brightlist Global",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "payment:cash": "yes",
+        "payment:google_pay": "yes",
+        "phone": "918097044024",
+        "start_date": "2010-03-03",
+        "website": "https://brightlistglobal.com/",
+        "wheelchair": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
+        "provider": "company_website",
+        "api_url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T06:14:07+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Growing Sphere",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -80582,70 +80589,6 @@
     }
   },
   {
-    "name": "Brightlist Global",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "6th floor, WeWork Lightbridge, Hiranandani Business Park, Saki Vihar Rd, Tunga Village, Chandivali, Powai, Mumbai, 400072",
-    "lat": 19.1162001,
-    "lng": 72.8892275,
-    "website": "https://brightlistglobal.com/",
-    "phone": "918097044024",
-    "careers_url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T06:14:07+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Brightlist Global HR Services is Powai's leading placement and recruitment agency, delivering comprehensive staffing solutions across all sectors in Mumbai and beyond."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13828018530"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mumbai",
-        "addr:district": "Mumbai",
-        "addr:postcode": "400072",
-        "addr:street": "6th floor, WeWork Lightbridge, Hiranandani Business Park, Saki Vihar Rd, Tunga Village, Chandivali, Powai",
-        "description": "Brightlist Global HR Services is Powai's leading placement and recruitment agency, delivering comprehensive staffing solutions across all sectors in Mumbai and beyond.",
-        "healthcare": "counselling",
-        "healthcare:speciality": "recruitment;talent_agency;career_counselling",
-        "mobile": "918097044024",
-        "name": "Brightlist Global",
-        "opening_hours": "Mo-Sa 10:00-18:00",
-        "payment:cash": "yes",
-        "payment:google_pay": "yes",
-        "phone": "918097044024",
-        "start_date": "2010-03-03",
-        "website": "https://brightlistglobal.com/",
-        "wheelchair": "yes"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
-        "provider": "company_website",
-        "api_url": "https://brightlistglobal.com/how-to-choose-the-right-career-path-in-2026-mumbai-dubai-guide/",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T06:14:07+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Ebrahim Travels",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -82759,12 +82702,12 @@
     "lng": 80.2193076,
     "website": "https://aarthiscan.com/",
     "phone": "+917305079758",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://aarthiscan.com/careers-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://aarthiscan.com/default-sitemap.xsl?sitemap=careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T08:01:35+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -82791,7 +82734,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://aarthiscan.com/careers-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://aarthiscan.com/default-sitemap.xsl?sitemap=careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T08:01:35+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -82804,12 +82755,12 @@
     "lng": 80.1515005,
     "website": "https://ask2pro.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://ask2pro.com/guide-hiring-property-management-virtual-assistant-2025-2/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ask2pro.com/virtual-assistant-jobs-services/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T08:01:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=B2B Business Solutions"
     ],
@@ -82834,7 +82785,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://ask2pro.com/guide-hiring-property-management-virtual-assistant-2025-2/",
+        "provider": "company_website",
+        "api_url": "https://ask2pro.com/virtual-assistant-jobs-services/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T08:01:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
