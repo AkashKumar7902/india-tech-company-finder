@@ -37471,6 +37471,62 @@
     }
   },
   {
+    "name": "Perdix Business Solutions",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Devarabisanahalli, Bellandur, Bengaluru, 560103",
+    "lat": 12.9296474,
+    "lng": 77.6853394,
+    "website": "https://www.perdixglobal.com/",
+    "phone": "072592 89849",
+    "careers_url": "https://www.hugedomains.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T17:45:09+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4446161417"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:postcode": "560103",
+        "addr:street": "Devarabisanahalli, Bellandur",
+        "name": "Perdix Business Solutions",
+        "office": "company",
+        "phone": "072592 89849",
+        "smoking": "outside",
+        "website": "https://www.perdixglobal.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hugedomains.com/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T17:45:09+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "plumbkart.com",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -51462,62 +51518,6 @@
     }
   },
   {
-    "name": "Perdix Business Solutions",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Devarabisanahalli, Bellandur, Bengaluru, 560103",
-    "lat": 12.9296474,
-    "lng": 77.6853394,
-    "website": "https://www.perdixglobal.com/",
-    "phone": "072592 89849",
-    "careers_url": "https://www.hugedomains.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T17:45:09+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4446161417"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:postcode": "560103",
-        "addr:street": "Devarabisanahalli, Bellandur",
-        "name": "Perdix Business Solutions",
-        "office": "company",
-        "phone": "072592 89849",
-        "smoking": "outside",
-        "website": "https://www.perdixglobal.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.hugedomains.com/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T17:45:09+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Radiant Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -52728,12 +52728,12 @@
     "lng": 83.3914443,
     "website": "https://clovetech.com/",
     "phone": "8885730066",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://clovetech.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://clovetech.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T18:17:12+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=consulting"
     ],
@@ -52766,7 +52766,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://clovetech.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://clovetech.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T18:17:12+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -54789,12 +54797,12 @@
     "lng": 77.7225977,
     "website": "https://www.accenture.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.accenture.com/us-en/careers/jobsearch",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.accenture.com/wday/cxs/www/us-en/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-21T18:17:19+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company",
       "building=office"
@@ -54826,7 +54834,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.accenture.com/us-en/careers/jobsearch",
+        "provider": "workday",
+        "api_url": "https://www.accenture.com/wday/cxs/www/us-en/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-21T18:17:19+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
