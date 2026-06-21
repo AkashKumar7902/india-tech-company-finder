@@ -2275,6 +2275,63 @@
     }
   },
   {
+    "name": "BEO Software Pvt Ltd",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "PJAntony Road, Cochin, 682025",
+    "lat": 10.0066183,
+    "lng": 76.3058725,
+    "website": "https://beo-software.in",
+    "phone": "+91 484 234 1197",
+    "careers_url": "https://beo-software.in/life-at-beo.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://beo-software.in/discover-jobs",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T10:45:00+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:801726059"
+    },
+    "tech_score": 79.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Cochin",
+        "addr:postcode": "682025",
+        "addr:street": "PJAntony Road",
+        "building": "yes",
+        "name": "BEO Software Pvt Ltd",
+        "office": "it",
+        "phone": "+91 484 234 1197",
+        "website": "https://beo-software.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://beo-software.in/life-at-beo.html",
+        "provider": "company_website",
+        "api_url": "https://beo-software.in/discover-jobs",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T10:45:00+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Xxat software",
     "city": "Raipur",
     "region": "Chhattisgarh",
@@ -2709,63 +2766,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "BEO Software Pvt Ltd",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "PJAntony Road, Cochin, 682025",
-    "lat": 10.0066183,
-    "lng": 76.3058725,
-    "website": "https://beo-software.in",
-    "phone": "+91 484 234 1197",
-    "careers_url": "https://beo-software.in/life-at-beo.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://beo-software.in/discover-jobs",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T10:45:00+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:801726059"
-    },
-    "tech_score": 75.0,
-    "confidence": "high",
-    "notes": "matched: software, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Cochin",
-        "addr:postcode": "682025",
-        "addr:street": "PJAntony Road",
-        "building": "yes",
-        "name": "BEO Software Pvt Ltd",
-        "office": "it",
-        "phone": "+91 484 234 1197",
-        "website": "https://beo-software.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://beo-software.in/life-at-beo.html",
-        "provider": "company_website",
-        "api_url": "https://beo-software.in/discover-jobs",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T10:45:00+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -4336,12 +4336,12 @@
     "lng": 76.9859178,
     "website": "https://www.impigertech.com/",
     "phone": "+91 422 647 9994",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.impigertech.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.impigertech.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T11:46:06+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "description=Impiger is Specialised in Delivering Custom Mobile Apps for Businesses on iOS-iPhone & iPad, Android, Windows mobile at Competitive Costs."
@@ -4373,7 +4373,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.impigertech.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.impigertech.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T11:46:06+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -4386,12 +4394,12 @@
     "lng": 78.405784,
     "website": "https://www.globallogic.com/",
     "phone": "040-30419999",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.globallogic.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.globallogic.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T11:46:27+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes",
@@ -4430,7 +4438,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.globallogic.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.globallogic.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T11:46:27+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
