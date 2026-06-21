@@ -3350,6 +3350,129 @@
     }
   },
   {
+    "name": "Impiger Technologies",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Elysium Central, 3rd Floor, Puliyakulam Road, Sungam Junction, Coimbatore – 641 045",
+    "lat": 10.9997692,
+    "lng": 76.9859178,
+    "website": "https://www.impigertech.com/",
+    "phone": "+91 422 647 9994",
+    "careers_url": "https://www.impigertech.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.impigertech.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T11:46:06+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "description=Impiger is Specialised in Delivering Custom Mobile Apps for Businesses on iOS-iPhone & iPad, Android, Windows mobile at Competitive Costs."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:4576658600"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Coimbatore",
+        "addr:full": "Elysium Central, 3rd Floor, Puliyakulam Road, Sungam Junction, Coimbatore – 641 045",
+        "addr:postcode": "641045",
+        "description": "Impiger is Specialised in Delivering Custom Mobile Apps for Businesses on iOS-iPhone & iPad, Android, Windows mobile at Competitive Costs.",
+        "level": "3",
+        "name": "Impiger Technologies",
+        "office": "it",
+        "phone": "+91 422 647 9994",
+        "website": "https://www.impigertech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.impigertech.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.impigertech.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T11:46:06+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "GlobalLogic Technologies",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "Plot No 590A, Road no 31, Jubilee Hills, Hyderabad, 500033",
+    "lat": 17.4373998,
+    "lng": 78.405784,
+    "website": "https://www.globallogic.com/",
+    "phone": "040-30419999",
+    "careers_url": "https://www.globallogic.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.globallogic.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T11:46:27+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes",
+      "amenity=parking"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:595462424"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Hyderabad",
+        "addr:housenumber": "Plot No 590A",
+        "addr:postcode": "500033",
+        "addr:street": "Road no 31, Jubilee Hills",
+        "alt_name": "Globallogic",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "GlobalLogic Technologies",
+        "office": "it",
+        "phone": "040-30419999",
+        "website": "https://www.globallogic.com/",
+        "wheelchair": "limited",
+        "wikipedia": "en:GlobalLogic",
+        "amenity": "parking",
+        "operator": "Globallogic Technologies"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.globallogic.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.globallogic.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T11:46:27+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "RasuKoo Digital Solutions",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -4323,129 +4446,6 @@
         "confidence": "none",
         "checked_at": "2026-06-20T15:20:49+00:00",
         "notes": "https://www.altruistindia.com/jobs: HTTPError; https://www.altruistindia.com/jobs/: HTTPError; https://www.altruistindia.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Impiger Technologies",
-    "city": "Coimbatore",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Elysium Central, 3rd Floor, Puliyakulam Road, Sungam Junction, Coimbatore – 641 045",
-    "lat": 10.9997692,
-    "lng": 76.9859178,
-    "website": "https://www.impigertech.com/",
-    "phone": "+91 422 647 9994",
-    "careers_url": "https://www.impigertech.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.impigertech.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T11:46:06+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "description=Impiger is Specialised in Delivering Custom Mobile Apps for Businesses on iOS-iPhone & iPad, Android, Windows mobile at Competitive Costs."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:4576658600"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Coimbatore",
-        "addr:full": "Elysium Central, 3rd Floor, Puliyakulam Road, Sungam Junction, Coimbatore – 641 045",
-        "addr:postcode": "641045",
-        "description": "Impiger is Specialised in Delivering Custom Mobile Apps for Businesses on iOS-iPhone & iPad, Android, Windows mobile at Competitive Costs.",
-        "level": "3",
-        "name": "Impiger Technologies",
-        "office": "it",
-        "phone": "+91 422 647 9994",
-        "website": "https://www.impigertech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.impigertech.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.impigertech.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T11:46:06+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "GlobalLogic Technologies",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "Plot No 590A, Road no 31, Jubilee Hills, Hyderabad, 500033",
-    "lat": 17.4373998,
-    "lng": 78.405784,
-    "website": "https://www.globallogic.com/",
-    "phone": "040-30419999",
-    "careers_url": "https://www.globallogic.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.globallogic.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T11:46:27+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes",
-      "amenity=parking"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:595462424"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Hyderabad",
-        "addr:housenumber": "Plot No 590A",
-        "addr:postcode": "500033",
-        "addr:street": "Road no 31, Jubilee Hills",
-        "alt_name": "Globallogic",
-        "building": "yes",
-        "building:levels": "4",
-        "name": "GlobalLogic Technologies",
-        "office": "it",
-        "phone": "040-30419999",
-        "website": "https://www.globallogic.com/",
-        "wheelchair": "limited",
-        "wikipedia": "en:GlobalLogic",
-        "amenity": "parking",
-        "operator": "Globallogic Technologies"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.globallogic.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.globallogic.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T11:46:27+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -5715,12 +5715,12 @@
     "lng": 77.3020554,
     "website": "https://www.yatharthriti.com/moodle-lms.html",
     "phone": "0129-4086849",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.yatharthriti.com/careers.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.yatharthriti.com/careers.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T12:27:56+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=Yatharthriti IT Services Pvt Ltd is a growing organization and given best to all the clients. Our work process is mainly focused on providing the best deliverables to all the clients. We have already completed many projects ranging from website developmen"
     ],
@@ -5753,7 +5753,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.yatharthriti.com/careers.html",
+        "provider": "company_website",
+        "api_url": "https://www.yatharthriti.com/careers.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T12:27:56+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -5985,9 +5993,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T12:27:57+00:00",
+    "careers_notes": "https://debyez.com/jobs: HTTPError; https://debyez.com/jobs/: HTTPError; https://debyez.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -6017,7 +6025,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T12:27:57+00:00",
+        "notes": "https://debyez.com/jobs: HTTPError; https://debyez.com/jobs/: HTTPError; https://debyez.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -12547,7 +12563,14 @@
         "opening_hours": "Mo-Fr 09:00-18:00",
         "phone": "+91-7736-677715",
         "website": "https://www.adviciya.com/"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -82208,6 +82231,42 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Cloud Cakes",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "",
+    "lat": 10.0429261,
+    "lng": 76.3545304,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=pastry"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13953981703"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-06-20",
+        "name": "Cloud Cakes",
+        "shop": "pastry"
+      }
     }
   },
   {
