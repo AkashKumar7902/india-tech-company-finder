@@ -25985,6 +25985,63 @@
     }
   },
   {
+    "name": "Fintech City",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Mount - Poonamallee - Avadi Road, 600089",
+    "lat": 13.0155567,
+    "lng": 80.1892412,
+    "website": "https://tidco.com/fintech.php",
+    "phone": "+91 9876543210",
+    "careers_url": "https://careers.tidco.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T17:02:09+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1530042363"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: fintech, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "600089",
+        "addr:street": "Mount - Poonamallee - Avadi Road",
+        "check_date": "2026-06-14",
+        "name": "Fintech City",
+        "office": "company",
+        "phone": "+91 9876543210",
+        "website": "https://tidco.com/fintech.php",
+        "construction": "commercial",
+        "landuse": "construction"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.tidco.com/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T17:02:09+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Keysight Technologies Inc",
     "city": "Gurugram",
     "region": "Haryana",
@@ -28056,6 +28113,63 @@
     }
   },
   {
+    "name": "Free Software Foundation Tamil Nadu (FSFTN)",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 13.046479,
+    "lng": 80.2457607,
+    "website": "https://fsftn.org",
+    "phone": "",
+    "careers_url": "https://files.fsftn.org/apps/forms/taXcAYzKTt5PG26rN",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T17:02:16+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=foundation",
+      "description=A Part of Free Software Movement of India"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6315542831"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "description": "A Part of Free Software Movement of India",
+        "email": "ask@fsftn.org",
+        "name": "Free Software Foundation Tamil Nadu (FSFTN)",
+        "name:ta": "கட்டற்ற மென்பொருள் அறக்கட்டளை தமிழ்நாடு",
+        "office": "foundation",
+        "website": "https://fsftn.org",
+        "wikidata": "Q5367367",
+        "wikipedia": "en:Free Software Foundation Tamil Nadu"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://files.fsftn.org/apps/forms/taXcAYzKTt5PG26rN",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T17:02:16+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sonata Software Limites",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -28947,63 +29061,6 @@
         "confidence": "high",
         "checked_at": "2026-06-20T22:53:11+00:00",
         "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
-    "name": "Fintech City",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "Mount - Poonamallee - Avadi Road, 600089",
-    "lat": 13.0155567,
-    "lng": 80.1892412,
-    "website": "https://tidco.com/fintech.php",
-    "phone": "+91 9876543210",
-    "careers_url": "https://careers.tidco.com/",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-21T17:02:09+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1530042363"
-    },
-    "tech_score": 40.0,
-    "confidence": "medium",
-    "notes": "matched: fintech, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "600089",
-        "addr:street": "Mount - Poonamallee - Avadi Road",
-        "check_date": "2026-06-14",
-        "name": "Fintech City",
-        "office": "company",
-        "phone": "+91 9876543210",
-        "website": "https://tidco.com/fintech.php",
-        "construction": "commercial",
-        "landuse": "construction"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://careers.tidco.com/",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-21T17:02:09+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -38854,63 +38911,6 @@
         "api_url": "https://epropelled.com/pages/careers",
         "confidence": "medium",
         "checked_at": "2026-06-15T05:15:36+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Free Software Foundation Tamil Nadu (FSFTN)",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "",
-    "lat": 13.046479,
-    "lng": 80.2457607,
-    "website": "https://fsftn.org",
-    "phone": "",
-    "careers_url": "https://files.fsftn.org/apps/forms/taXcAYzKTt5PG26rN",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-21T17:02:16+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=foundation",
-      "description=A Part of Free Software Movement of India"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6315542831"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: software",
-    "raw": {
-      "osm_tags": {
-        "description": "A Part of Free Software Movement of India",
-        "email": "ask@fsftn.org",
-        "name": "Free Software Foundation Tamil Nadu (FSFTN)",
-        "name:ta": "கட்டற்ற மென்பொருள் அறக்கட்டளை தமிழ்நாடு",
-        "office": "foundation",
-        "website": "https://fsftn.org",
-        "wikidata": "Q5367367",
-        "wikipedia": "en:Free Software Foundation Tamil Nadu"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://files.fsftn.org/apps/forms/taXcAYzKTt5PG26rN",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-21T17:02:16+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -51471,12 +51471,12 @@
     "lng": 77.6853394,
     "website": "https://www.perdixglobal.com/",
     "phone": "072592 89849",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.hugedomains.com/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T17:45:09+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -51506,7 +51506,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.hugedomains.com/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T17:45:09+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -51689,9 +51697,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T17:45:12+00:00",
+    "careers_notes": "https://www.samanportable.com/jobs: HTTPError; https://www.samanportable.com/jobs/: HTTPError; https://www.samanportable.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company",
       "building=industrial"
@@ -51723,7 +51731,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T17:45:12+00:00",
+        "notes": "https://www.samanportable.com/jobs: HTTPError; https://www.samanportable.com/jobs/: HTTPError; https://www.samanportable.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
