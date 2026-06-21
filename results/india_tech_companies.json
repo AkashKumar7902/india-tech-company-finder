@@ -11040,6 +11040,67 @@
     }
   },
   {
+    "name": "Connectivity IT Solutions Private Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1877, 31st Cross Road, Banashankari 2nd stage,Bangalore, 560070",
+    "lat": 12.9196631,
+    "lng": 77.5682271,
+    "website": "https://www.cosol.in",
+    "phone": "08026716555",
+    "careers_url": "https://careers.cosol.in/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://careers.cosol.in/><!----><title>Careers at CoSol</title></head><body data-sveltekit-preload-data=",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T13:16:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1271217728"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Banashankari 2nd stage,Bangalore",
+        "addr:district": "Bengaluru",
+        "addr:housenumber": "1877",
+        "addr:postcode": "560070",
+        "addr:street": "31st Cross Road",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Connectivity IT Solutions Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "phone": "08026716555",
+        "website": "https://www.cosol.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.cosol.in/",
+        "provider": "company_website",
+        "api_url": "https://careers.cosol.in/><!----><title>Careers at CoSol</title></head><body data-sveltekit-preload-data=",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T13:16:46+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Novyukthi Solutions Private Limited",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -11199,6 +11260,69 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Novalnet e-Solutions Pvt. Ltd.",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "131, Erikkarai Street, Chennai, 600059",
+    "lat": 12.9325309,
+    "lng": 80.1298056,
+    "website": "https://www.novalnet-solutions.com/",
+    "phone": "+91 44 43574176",
+    "careers_url": "https://www.novalnet-solutions.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.novalnet-solutions.com/jobs/business-analyst-project-management/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T13:16:49+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes",
+      "description=Young and innovative company, offering fresh and creative business ideas to help brand grow."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:354989823"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chennai",
+        "addr:district": "Chengalpattu",
+        "addr:housenumber": "131",
+        "addr:postcode": "600059",
+        "addr:street": "Erikkarai Street",
+        "building": "yes",
+        "description": "Young and innovative company, offering fresh and creative business ideas to help brand grow.",
+        "email": "info@novalnet-solutions.com",
+        "name": "Novalnet e-Solutions Pvt. Ltd.",
+        "office": "it",
+        "phone": "+91 44 43574176",
+        "short_name": "Novalnet Solutions",
+        "website": "https://www.novalnet-solutions.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.novalnet-solutions.com/career/",
+        "provider": "company_website",
+        "api_url": "https://www.novalnet-solutions.com/jobs/business-analyst-project-management/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T13:16:49+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -11733,67 +11857,6 @@
     }
   },
   {
-    "name": "Connectivity IT Solutions Private Limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "1877, 31st Cross Road, Banashankari 2nd stage,Bangalore, 560070",
-    "lat": 12.9196631,
-    "lng": 77.5682271,
-    "website": "https://www.cosol.in",
-    "phone": "08026716555",
-    "careers_url": "https://careers.cosol.in/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://careers.cosol.in/><!----><title>Careers at CoSol</title></head><body data-sveltekit-preload-data=",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T13:16:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1271217728"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Banashankari 2nd stage,Bangalore",
-        "addr:district": "Bengaluru",
-        "addr:housenumber": "1877",
-        "addr:postcode": "560070",
-        "addr:street": "31st Cross Road",
-        "building": "yes",
-        "building:levels": "3",
-        "name": "Connectivity IT Solutions Private Limited",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:30-18:30",
-        "phone": "08026716555",
-        "website": "https://www.cosol.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://careers.cosol.in/",
-        "provider": "company_website",
-        "api_url": "https://careers.cosol.in/><!----><title>Careers at CoSol</title></head><body data-sveltekit-preload-data=",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T13:16:46+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "CourseCube Private Limited( BTM Layout)",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -12145,69 +12208,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Novalnet e-Solutions Pvt. Ltd.",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "131, Erikkarai Street, Chennai, 600059",
-    "lat": 12.9325309,
-    "lng": 80.1298056,
-    "website": "https://www.novalnet-solutions.com/",
-    "phone": "+91 44 43574176",
-    "careers_url": "https://www.novalnet-solutions.com/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.novalnet-solutions.com/jobs/business-analyst-project-management/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T13:16:49+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes",
-      "description=Young and innovative company, offering fresh and creative business ideas to help brand grow."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:354989823"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Chennai",
-        "addr:district": "Chengalpattu",
-        "addr:housenumber": "131",
-        "addr:postcode": "600059",
-        "addr:street": "Erikkarai Street",
-        "building": "yes",
-        "description": "Young and innovative company, offering fresh and creative business ideas to help brand grow.",
-        "email": "info@novalnet-solutions.com",
-        "name": "Novalnet e-Solutions Pvt. Ltd.",
-        "office": "it",
-        "phone": "+91 44 43574176",
-        "short_name": "Novalnet Solutions",
-        "website": "https://www.novalnet-solutions.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.novalnet-solutions.com/career/",
-        "provider": "company_website",
-        "api_url": "https://www.novalnet-solutions.com/jobs/business-analyst-project-management/",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T13:16:49+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -16827,12 +16827,12 @@
     "lng": 80.2463893,
     "website": "https://sterlingsoftware.global",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://sterlingsoftware.global/contact/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://sterlingsoftware.global/contact#careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T14:03:49+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -16860,7 +16860,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://sterlingsoftware.global/contact/",
+        "provider": "company_website",
+        "api_url": "https://sterlingsoftware.global/contact#careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T14:03:49+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -17728,12 +17736,12 @@
     "lng": 76.9048658,
     "website": "https://wiktait.com/",
     "phone": "+91-9447028012",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.wiktait.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.wiktait.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T14:04:24+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -17765,7 +17773,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.wiktait.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.wiktait.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T14:04:24+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
