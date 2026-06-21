@@ -49971,6 +49971,116 @@
     }
   },
   {
+    "name": "Geforce Consulting Solutions Pvt. Ltd.",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "country": "India",
+    "address": "7th Floor, K-1, Manibhandar Building, Module 7A, Ring Road, EP Block, Sector V, Salt Lake City, 700091",
+    "lat": 22.5696848,
+    "lng": 88.4365441,
+    "website": "https://gforces.in/",
+    "phone": "",
+    "careers_url": "https://gforces.in/category/recruiters",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T01:40:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9920814609"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "EP Block, Sector V, Salt Lake City",
+        "addr:housenumber": "7th Floor, K-1, Manibhandar Building, Module 7A",
+        "addr:postcode": "700091",
+        "addr:street": "Ring Road",
+        "name": "Geforce Consulting Solutions Pvt. Ltd.",
+        "office": "company",
+        "website": "https://gforces.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://gforces.in/category/recruiters",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T01:40:29+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Softcodelink Web Solutions",
+    "city": "Mangaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Balmatta Cross Road, Mangalre",
+    "lat": 12.8704731,
+    "lng": 74.8460444,
+    "website": "http://softcodelink.com/",
+    "phone": "08244253725",
+    "careers_url": "http://www.softcodelink.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.19",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T01:40:31+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2470277369"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mangalre",
+        "addr:housename": "Citi centre Building",
+        "addr:street": "Balmatta Cross Road",
+        "name": "Softcodelink Web Solutions",
+        "phone": "08244253725",
+        "shop": "computer",
+        "website": "http://softcodelink.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "http://www.softcodelink.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.19",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T01:40:31+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "LogiNext Solutions",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -55803,116 +55913,6 @@
     }
   },
   {
-    "name": "Geforce Consulting Solutions Pvt. Ltd.",
-    "city": "Kolkata",
-    "region": "West Bengal",
-    "country": "India",
-    "address": "7th Floor, K-1, Manibhandar Building, Module 7A, Ring Road, EP Block, Sector V, Salt Lake City, 700091",
-    "lat": 22.5696848,
-    "lng": 88.4365441,
-    "website": "https://gforces.in/",
-    "phone": "",
-    "careers_url": "https://gforces.in/category/recruiters",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T01:40:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9920814609"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "EP Block, Sector V, Salt Lake City",
-        "addr:housenumber": "7th Floor, K-1, Manibhandar Building, Module 7A",
-        "addr:postcode": "700091",
-        "addr:street": "Ring Road",
-        "name": "Geforce Consulting Solutions Pvt. Ltd.",
-        "office": "company",
-        "website": "https://gforces.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://gforces.in/category/recruiters",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T01:40:29+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Softcodelink Web Solutions",
-    "city": "Mangaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Balmatta Cross Road, Mangalre",
-    "lat": 12.8704731,
-    "lng": 74.8460444,
-    "website": "http://softcodelink.com/",
-    "phone": "08244253725",
-    "careers_url": "http://www.softcodelink.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.19",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T01:40:31+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=computer"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2470277369"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: solutions, computer",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mangalre",
-        "addr:housename": "Citi centre Building",
-        "addr:street": "Balmatta Cross Road",
-        "name": "Softcodelink Web Solutions",
-        "phone": "08244253725",
-        "shop": "computer",
-        "website": "http://softcodelink.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "http://www.softcodelink.com/jobs",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.19",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T01:40:31+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Yashuss Unlimited Business Solutions",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -56648,12 +56648,12 @@
     "lng": 76.8790522,
     "website": "https://livares.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://livares.com/career-openings",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://livares.com/career-openings",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T02:48:14+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=5th Floor, Yamuna Building\nTechnopark Phase III Campus, Trivandrum\nKerala, India-695581"
     ],
@@ -56678,7 +56678,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://livares.com/career-openings",
+        "provider": "company_website",
+        "api_url": "https://livares.com/career-openings",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T02:48:14+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -56694,9 +56702,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T02:48:18+00:00",
+    "careers_notes": "https://kstmuseum.com/jobs: HTTPError; https://kstmuseum.com/jobs/: HTTPError; https://kstmuseum.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=government"
     ],
@@ -56724,7 +56732,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T02:48:18+00:00",
+        "notes": "https://kstmuseum.com/jobs: HTTPError; https://kstmuseum.com/jobs/: HTTPError; https://kstmuseum.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
