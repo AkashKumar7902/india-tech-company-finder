@@ -28960,12 +28960,12 @@
     "lng": 80.1892412,
     "website": "https://tidco.com/fintech.php",
     "phone": "+91 9876543210",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://careers.tidco.com/",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T17:02:09+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -28996,7 +28996,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.tidco.com/",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T17:02:09+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -38860,12 +38868,12 @@
     "lng": 80.2457607,
     "website": "https://fsftn.org",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://files.fsftn.org/apps/forms/taXcAYzKTt5PG26rN",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T17:02:16+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=foundation",
       "description=A Part of Free Software Movement of India"
@@ -38896,7 +38904,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://files.fsftn.org/apps/forms/taXcAYzKTt5PG26rN",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T17:02:16+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
