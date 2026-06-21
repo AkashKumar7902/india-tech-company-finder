@@ -47483,6 +47483,65 @@
     }
   },
   {
+    "name": "Clove Technologies",
+    "city": "Visakhapatnam",
+    "region": "Andhra Pradesh",
+    "country": "India",
+    "address": "Plot 9, Hill 2, Pedda Rushikonda, Madhurawada, Visakhapatnam, 530045",
+    "lat": 17.8070742,
+    "lng": 83.3914443,
+    "website": "https://clovetech.com/",
+    "phone": "8885730066",
+    "careers_url": "https://clovetech.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://clovetech.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T18:17:12+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=consulting"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12558782038"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Madhurawada, Visakhapatnam",
+        "addr:district": "Visakhapatnam",
+        "addr:housenumber": "Plot 9",
+        "addr:postcode": "530045",
+        "addr:street": "Hill 2, Pedda Rushikonda",
+        "consulting": "aec;_geobim;_gis",
+        "name": "Clove Technologies",
+        "office": "consulting",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "8885730066",
+        "website": "https://clovetech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://clovetech.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://clovetech.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T18:17:12+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Infosys",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
@@ -49461,6 +49520,64 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Accenture Solutions Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Bangalore, 560037",
+    "lat": 12.968978,
+    "lng": 77.7225977,
+    "website": "https://www.accenture.com/",
+    "phone": "",
+    "careers_url": "https://www.accenture.com/us-en/careers/jobsearch",
+    "careers_provider": "workday",
+    "careers_api_url": "https://www.accenture.com/wday/cxs/www/us-en/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-21T18:17:19+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company",
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:181461601"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:postcode": "560037",
+        "building": "office",
+        "name": "Accenture Solutions Pvt Ltd",
+        "name:kn": "ಅಕ್ಸೆಂಚರ್",
+        "office": "company",
+        "opening_hours": "24/7",
+        "smoking": "isolated",
+        "website": "https://www.accenture.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.accenture.com/us-en/careers/jobsearch",
+        "provider": "workday",
+        "api_url": "https://www.accenture.com/wday/cxs/www/us-en/jobs",
+        "confidence": "high",
+        "checked_at": "2026-06-21T18:17:19+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -52719,65 +52836,6 @@
     }
   },
   {
-    "name": "Clove Technologies",
-    "city": "Visakhapatnam",
-    "region": "Andhra Pradesh",
-    "country": "India",
-    "address": "Plot 9, Hill 2, Pedda Rushikonda, Madhurawada, Visakhapatnam, 530045",
-    "lat": 17.8070742,
-    "lng": 83.3914443,
-    "website": "https://clovetech.com/",
-    "phone": "8885730066",
-    "careers_url": "https://clovetech.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://clovetech.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T18:17:12+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=consulting"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12558782038"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Madhurawada, Visakhapatnam",
-        "addr:district": "Visakhapatnam",
-        "addr:housenumber": "Plot 9",
-        "addr:postcode": "530045",
-        "addr:street": "Hill 2, Pedda Rushikonda",
-        "consulting": "aec;_geobim;_gis",
-        "name": "Clove Technologies",
-        "office": "consulting",
-        "opening_hours": "Mo-Sa 08:00-18:00",
-        "phone": "8885730066",
-        "website": "https://clovetech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://clovetech.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://clovetech.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T18:17:12+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Brigade Software Park",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -54788,64 +54846,6 @@
     }
   },
   {
-    "name": "Accenture Solutions Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Bangalore, 560037",
-    "lat": 12.968978,
-    "lng": 77.7225977,
-    "website": "https://www.accenture.com/",
-    "phone": "",
-    "careers_url": "https://www.accenture.com/us-en/careers/jobsearch",
-    "careers_provider": "workday",
-    "careers_api_url": "https://www.accenture.com/wday/cxs/www/us-en/jobs",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-21T18:17:19+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company",
-      "building=office"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:181461601"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:postcode": "560037",
-        "building": "office",
-        "name": "Accenture Solutions Pvt Ltd",
-        "name:kn": "ಅಕ್ಸೆಂಚರ್",
-        "office": "company",
-        "opening_hours": "24/7",
-        "smoking": "isolated",
-        "website": "https://www.accenture.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.accenture.com/us-en/careers/jobsearch",
-        "provider": "workday",
-        "api_url": "https://www.accenture.com/wday/cxs/www/us-en/jobs",
-        "confidence": "high",
-        "checked_at": "2026-06-21T18:17:19+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Accrete Global Technology",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -55990,9 +55990,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T18:54:45+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://microzon.in/jobs: ConnectionError; https://microzon.in/jobs/: ConnectionError; https://microzon.in/career: ConnectionError; no careers page detected",
     "categories": [
       "building=yes",
       "description=Microzon Infotech are the best training programs and development providing company giving international level dot net training in Jaipur."
@@ -56024,7 +56024,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T18:54:45+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://microzon.in/jobs: ConnectionError; https://microzon.in/jobs/: ConnectionError; https://microzon.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -56099,12 +56107,12 @@
     "lng": 72.8286156,
     "website": "https://www.yashussunlimited.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.yashussunlimited.com/careers-1",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.yashussunlimited.com/careers-1",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T18:54:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -56135,7 +56143,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.yashussunlimited.com/careers-1",
+        "provider": "company_website",
+        "api_url": "https://www.yashussunlimited.com/careers-1",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T18:54:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
