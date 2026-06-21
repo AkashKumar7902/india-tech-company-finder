@@ -17297,6 +17297,63 @@
     }
   },
   {
+    "name": "CRS Technologies India Pvt Ltd",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "3/270 B,, West Pullikillam Road, Chembumukku, Ernakulam, 682030",
+    "lat": 10.0086291,
+    "lng": 76.3225783,
+    "website": "https://webcrs.com/",
+    "phone": "+91-9633303463",
+    "careers_url": "http://webcrs.com/Career.php",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T14:59:39+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3500317918"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ernakulam",
+        "addr:housenumber": "3/270 B,",
+        "addr:postcode": "682030",
+        "addr:street": "West Pullikillam Road, Chembumukku",
+        "name": "CRS Technologies India Pvt Ltd",
+        "office": "company",
+        "opening_hours": "09:00-18:00",
+        "phone": "+91-9633303463",
+        "website": "https://webcrs.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "http://webcrs.com/Career.php",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T14:59:39+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Mithram Digital Hub",
     "city": "Kochi",
     "region": "Kerala",
@@ -21946,63 +22003,6 @@
     }
   },
   {
-    "name": "CRS Technologies India Pvt Ltd",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "3/270 B,, West Pullikillam Road, Chembumukku, Ernakulam, 682030",
-    "lat": 10.0086291,
-    "lng": 76.3225783,
-    "website": "https://webcrs.com/",
-    "phone": "+91-9633303463",
-    "careers_url": "http://webcrs.com/Career.php",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-21T14:59:39+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3500317918"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ernakulam",
-        "addr:housenumber": "3/270 B,",
-        "addr:postcode": "682030",
-        "addr:street": "West Pullikillam Road, Chembumukku",
-        "name": "CRS Technologies India Pvt Ltd",
-        "office": "company",
-        "opening_hours": "09:00-18:00",
-        "phone": "+91-9633303463",
-        "website": "https://webcrs.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "http://webcrs.com/Career.php",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-21T14:59:39+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Experion Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -24560,12 +24560,12 @@
     "lng": 76.3025316,
     "website": "https://www.mfluid.com/",
     "phone": "+91 484 404 2070",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.mfluid.com/wp-sitemap-posts-stm_careers-1.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.mfluid.com/jobs/devopsengineer/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T15:42:09+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -24600,7 +24600,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.mfluid.com/wp-sitemap-posts-stm_careers-1.xml",
+        "provider": "company_website",
+        "api_url": "https://www.mfluid.com/jobs/devopsengineer/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T15:42:09+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -24806,9 +24814,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T15:42:19+00:00",
+    "careers_notes": "https://edifycode.com/jobs: HTTPError; https://edifycode.com/jobs/: HTTPError; https://edifycode.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -24839,7 +24847,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T15:42:19+00:00",
+        "notes": "https://edifycode.com/jobs: HTTPError; https://edifycode.com/jobs/: HTTPError; https://edifycode.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
