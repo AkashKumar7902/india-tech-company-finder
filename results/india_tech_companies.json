@@ -3876,6 +3876,65 @@
     }
   },
   {
+    "name": "Yatharthriti IT Services Private Ltd | Learning Management System|LMS Platform | LMS Software|LMS Provider| Moodle LMS| Elearning Solution",
+    "city": "Faridabad",
+    "region": "Haryana",
+    "country": "India",
+    "address": "A22, Second Floor, Above Monte Carlo Showroom, Nehru Ground, NIT, Faridabad, 121001",
+    "lat": 28.3906154,
+    "lng": 77.3020554,
+    "website": "https://www.yatharthriti.com/moodle-lms.html",
+    "phone": "0129-4086849",
+    "careers_url": "https://www.yatharthriti.com/careers.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.yatharthriti.com/careers.html",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T12:27:56+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Yatharthriti IT Services Pvt Ltd is a growing organization and given best to all the clients. Our work process is mainly focused on providing the best deliverables to all the clients. We have already completed many projects ranging from website developmen"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:352287112"
+    },
+    "tech_score": 72.0,
+    "confidence": "high",
+    "notes": "matched: software, it services",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Faridabad",
+        "addr:housenumber": "A22",
+        "addr:postcode": "121001",
+        "addr:street": "Second Floor, Above Monte Carlo Showroom, Nehru Ground, NIT",
+        "description": "Yatharthriti IT Services Pvt Ltd is a growing organization and given best to all the clients. Our work process is mainly focused on providing the best deliverables to all the clients. We have already completed many projects ranging from website developmen",
+        "email": "sales@yatharthriti.com",
+        "image": "https://www.yatharthriti.com/assets/images/logo.webp",
+        "landuse": "industrial",
+        "name": "Yatharthriti IT Services Private Ltd | Learning Management System|LMS Platform | LMS Software|LMS Provider| Moodle LMS| Elearning Solution",
+        "phone": "0129-4086849",
+        "website": "https://www.yatharthriti.com/moodle-lms.html"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.yatharthriti.com/careers.html",
+        "provider": "company_website",
+        "api_url": "https://www.yatharthriti.com/careers.html",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T12:27:56+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Optratec Technologies Pvt. Ltd.",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -5703,65 +5762,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Yatharthriti IT Services Private Ltd | Learning Management System|LMS Platform | LMS Software|LMS Provider| Moodle LMS| Elearning Solution",
-    "city": "Faridabad",
-    "region": "Haryana",
-    "country": "India",
-    "address": "A22, Second Floor, Above Monte Carlo Showroom, Nehru Ground, NIT, Faridabad, 121001",
-    "lat": 28.3906154,
-    "lng": 77.3020554,
-    "website": "https://www.yatharthriti.com/moodle-lms.html",
-    "phone": "0129-4086849",
-    "careers_url": "https://www.yatharthriti.com/careers.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.yatharthriti.com/careers.html",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T12:27:56+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Yatharthriti IT Services Pvt Ltd is a growing organization and given best to all the clients. Our work process is mainly focused on providing the best deliverables to all the clients. We have already completed many projects ranging from website developmen"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:352287112"
-    },
-    "tech_score": 68.0,
-    "confidence": "high",
-    "notes": "matched: software, it services",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Faridabad",
-        "addr:housenumber": "A22",
-        "addr:postcode": "121001",
-        "addr:street": "Second Floor, Above Monte Carlo Showroom, Nehru Ground, NIT",
-        "description": "Yatharthriti IT Services Pvt Ltd is a growing organization and given best to all the clients. Our work process is mainly focused on providing the best deliverables to all the clients. We have already completed many projects ranging from website developmen",
-        "email": "sales@yatharthriti.com",
-        "image": "https://www.yatharthriti.com/assets/images/logo.webp",
-        "landuse": "industrial",
-        "name": "Yatharthriti IT Services Private Ltd | Learning Management System|LMS Platform | LMS Software|LMS Provider| Moodle LMS| Elearning Solution",
-        "phone": "0129-4086849",
-        "website": "https://www.yatharthriti.com/moodle-lms.html"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.yatharthriti.com/careers.html",
-        "provider": "company_website",
-        "api_url": "https://www.yatharthriti.com/careers.html",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T12:27:56+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -11742,12 +11742,12 @@
     "lng": 77.5682271,
     "website": "https://www.cosol.in",
     "phone": "08026716555",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://careers.cosol.in/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://careers.cosol.in/><!----><title>Careers at CoSol</title></head><body data-sveltekit-preload-data=",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T13:16:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes"
@@ -11782,7 +11782,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.cosol.in/",
+        "provider": "company_website",
+        "api_url": "https://careers.cosol.in/><!----><title>Careers at CoSol</title></head><body data-sveltekit-preload-data=",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T13:16:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -12149,12 +12157,12 @@
     "lng": 80.1298056,
     "website": "https://www.novalnet-solutions.com/",
     "phone": "+91 44 43574176",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.novalnet-solutions.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.novalnet-solutions.com/jobs/business-analyst-project-management/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T13:16:49+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes",
@@ -12191,7 +12199,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.novalnet-solutions.com/career/",
+        "provider": "company_website",
+        "api_url": "https://www.novalnet-solutions.com/jobs/business-analyst-project-management/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T13:16:49+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
