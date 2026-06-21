@@ -76770,6 +76770,63 @@
     }
   },
   {
+    "name": "Digital paradize",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "G36, Outer Circle, new delhi, 110001",
+    "lat": 28.6328607,
+    "lng": 77.2168736,
+    "website": "https://digitalparadize.in/blog/best-digital-marketing-courses-in-delhi/",
+    "phone": "+91- 9582634403",
+    "careers_url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr\\",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T20:14:51+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11736313335"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "new delhi",
+        "addr:housenumber": "G36",
+        "addr:postcode": "110001",
+        "addr:street": "Outer Circle",
+        "name": "Digital paradize",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+91- 9582634403",
+        "website": "https://digitalparadize.in/blog/best-digital-marketing-courses-in-delhi/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr",
+        "provider": "company_website",
+        "api_url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr\\",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T20:14:51+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Abroad Solutions India",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -81207,63 +81264,6 @@
     }
   },
   {
-    "name": "Digital paradize",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "G36, Outer Circle, new delhi, 110001",
-    "lat": 28.6328607,
-    "lng": 77.2168736,
-    "website": "https://digitalparadize.in/blog/best-digital-marketing-courses-in-delhi/",
-    "phone": "+91- 9582634403",
-    "careers_url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr\\",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T20:14:51+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=educational_institution"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11736313335"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "new delhi",
-        "addr:housenumber": "G36",
-        "addr:postcode": "110001",
-        "addr:street": "Outer Circle",
-        "name": "Digital paradize",
-        "office": "educational_institution",
-        "opening_hours": "Mo-Su 09:00-21:00",
-        "phone": "+91- 9582634403",
-        "website": "https://digitalparadize.in/blog/best-digital-marketing-courses-in-delhi/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr",
-        "provider": "company_website",
-        "api_url": "https://www.naukri.com/digital-marketing-jobs-in-delhi-ncr\\",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T20:14:51+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Hashbrown Systems Pvt Ltd",
     "city": "New Delhi",
     "region": "Delhi",
@@ -83363,12 +83363,12 @@
     "lng": 76.9896586,
     "website": "https://sheetmetalsolutions.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://sheetmetalsolutions.co.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T20:49:34+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "craft=metal_construction",
       "building=yes"
@@ -83410,7 +83410,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://sheetmetalsolutions.co.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T20:49:34+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -83724,9 +83732,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T20:49:37+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://threeidiotsmedia.com/jobs: ConnectionError; https://threeidiotsmedia.com/jobs/: ConnectionError; https://threeidiotsmedia.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=advertising_agency",
       "shop=frozen_food",
@@ -83760,7 +83768,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T20:49:37+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://threeidiotsmedia.com/jobs: ConnectionError; https://threeidiotsmedia.com/jobs/: ConnectionError; https://threeidiotsmedia.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
