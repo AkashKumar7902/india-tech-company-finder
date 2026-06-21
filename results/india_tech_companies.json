@@ -2721,12 +2721,12 @@
     "lng": 76.3058725,
     "website": "https://beo-software.in",
     "phone": "+91 484 234 1197",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://beo-software.in/life-at-beo.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://beo-software.in/discover-jobs",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T10:45:00+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes"
@@ -2757,7 +2757,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://beo-software.in/life-at-beo.html",
+        "provider": "company_website",
+        "api_url": "https://beo-software.in/discover-jobs",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T10:45:00+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -2773,9 +2781,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T10:45:04+00:00",
+    "careers_notes": "https://rspatna.com/jobs: HTTPError; https://rspatna.com/jobs/: HTTPError; https://rspatna.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "description=Barcode Related All Setup for Fuly Business Automation\nSoftware and Hardware , Anti-Theft Solution\nCall for any Need : 9334493507 ashok"
@@ -2811,7 +2819,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T10:45:04+00:00",
+        "notes": "https://rspatna.com/jobs: HTTPError; https://rspatna.com/jobs/: HTTPError; https://rspatna.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
