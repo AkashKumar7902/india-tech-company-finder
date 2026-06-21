@@ -78551,6 +78551,110 @@
     }
   },
   {
+    "name": "Aarthi Scans & Labs",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "3, 1st Main Road",
+    "lat": 12.9758423,
+    "lng": 80.2193076,
+    "website": "https://aarthiscan.com/",
+    "phone": "+917305079758",
+    "careers_url": "https://aarthiscan.com/careers-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://aarthiscan.com/default-sitemap.xsl?sitemap=careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T08:01:35+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8573649179"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "3",
+        "addr:street": "1st Main Road",
+        "healthcare": "laboratory",
+        "name": "Aarthi Scans & Labs",
+        "opening_hours": "24/7",
+        "phone": "+917305079758",
+        "website": "https://aarthiscan.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://aarthiscan.com/careers-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://aarthiscan.com/default-sitemap.xsl?sitemap=careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T08:01:35+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "ASK 2 PRO",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 13.1211019,
+    "lng": 80.1515005,
+    "website": "https://ask2pro.com/",
+    "phone": "",
+    "careers_url": "https://ask2pro.com/guide-hiring-property-management-virtual-assistant-2025-2/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ask2pro.com/virtual-assistant-jobs-services/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T08:01:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=B2B Business Solutions"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12618660301"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "description": "B2B Business Solutions",
+        "name": "ASK 2 PRO",
+        "website": "https://ask2pro.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://ask2pro.com/guide-hiring-property-management-virtual-assistant-2025-2/",
+        "provider": "company_website",
+        "api_url": "https://ask2pro.com/virtual-assistant-jobs-services/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T08:01:46+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "GoFix Solutions - Head Office",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -82693,110 +82797,6 @@
     }
   },
   {
-    "name": "Aarthi Scans & Labs",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "3, 1st Main Road",
-    "lat": 12.9758423,
-    "lng": 80.2193076,
-    "website": "https://aarthiscan.com/",
-    "phone": "+917305079758",
-    "careers_url": "https://aarthiscan.com/careers-sitemap.xml",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://aarthiscan.com/default-sitemap.xsl?sitemap=careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T08:01:35+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8573649179"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: labs",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "3",
-        "addr:street": "1st Main Road",
-        "healthcare": "laboratory",
-        "name": "Aarthi Scans & Labs",
-        "opening_hours": "24/7",
-        "phone": "+917305079758",
-        "website": "https://aarthiscan.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://aarthiscan.com/careers-sitemap.xml",
-        "provider": "company_website",
-        "api_url": "https://aarthiscan.com/default-sitemap.xsl?sitemap=careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T08:01:35+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "ASK 2 PRO",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "",
-    "lat": 13.1211019,
-    "lng": 80.1515005,
-    "website": "https://ask2pro.com/",
-    "phone": "",
-    "careers_url": "https://ask2pro.com/guide-hiring-property-management-virtual-assistant-2025-2/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://ask2pro.com/virtual-assistant-jobs-services/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T08:01:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=B2B Business Solutions"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12618660301"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "description": "B2B Business Solutions",
-        "name": "ASK 2 PRO",
-        "website": "https://ask2pro.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://ask2pro.com/guide-hiring-property-management-virtual-assistant-2025-2/",
-        "provider": "company_website",
-        "api_url": "https://ask2pro.com/virtual-assistant-jobs-services/",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T08:01:46+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "GURUBARAN",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -83867,9 +83867,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T09:28:25+00:00",
+    "careers_notes": "https://www.callyourdhobi.com/jobs: HTTPError; https://www.callyourdhobi.com/jobs/: HTTPError; https://www.callyourdhobi.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=Call your Dhobi is a new startup focused on meeting your day-to-day laundry needs. We understand that in this fast-moving world, you have to manage life in all its spheres."
     ],
@@ -83903,7 +83903,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T09:28:25+00:00",
+        "notes": "https://www.callyourdhobi.com/jobs: HTTPError; https://www.callyourdhobi.com/jobs/: HTTPError; https://www.callyourdhobi.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -83977,9 +83985,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T09:28:30+00:00",
+    "careers_notes": "https://digitalaka.com/jobs: HTTPError; https://digitalaka.com/jobs/: HTTPError; https://digitalaka.com/career: HTTPError; no careers page detected",
     "categories": [
       "building=yes",
       "description=DigitalAka is one of the top companies which offer latest Email marketing solutions worldwide. Also help you reach out to your targeted market in World"
@@ -84012,7 +84020,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T09:28:30+00:00",
+        "notes": "https://digitalaka.com/jobs: HTTPError; https://digitalaka.com/jobs/: HTTPError; https://digitalaka.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
