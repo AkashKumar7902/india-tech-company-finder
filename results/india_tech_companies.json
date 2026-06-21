@@ -44747,6 +44747,64 @@
     }
   },
   {
+    "name": "Feminist Approach to Technology",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "134, 2nd & 3rd floor, Lajpat Nagar 2, New Delhi, 110024",
+    "lat": 28.567495,
+    "lng": 77.249016,
+    "website": "https://fat-net.org/",
+    "phone": "+91-11-41004951",
+    "careers_url": "http://www.fat-net.org/jobs-old",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://www.fat-net.org/jobs-old",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T23:54:37+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=ngo"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8308429191"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "New Delhi",
+        "addr:housenumber": "134, 2nd & 3rd floor",
+        "addr:postcode": "110024",
+        "addr:street": "Lajpat Nagar 2",
+        "name": "Feminist Approach to Technology",
+        "office": "ngo",
+        "opening_hours": "Mo-Fr 09:30-17:30",
+        "opening_hours:covid19": "restricted",
+        "phone": "+91-11-41004951",
+        "website": "https://fat-net.org/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "http://www.fat-net.org/jobs-old",
+        "provider": "company_website",
+        "api_url": "http://www.fat-net.org/jobs-old",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T23:54:37+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Vodafone",
     "city": "New Delhi",
     "region": "Delhi",
@@ -44839,6 +44897,64 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Brandconn Digital",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "C-246, Sector 63, Noida, 201301",
+    "lat": 28.620768,
+    "lng": 77.381494,
+    "website": "https://www.brandconn.com/",
+    "phone": "+91 120 4293692",
+    "careers_url": "https://www.brandconn.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.brandconn.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-20T23:54:39+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10811810966"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:district": "Noida",
+        "addr:housenumber": "C-246",
+        "addr:postcode": "201301",
+        "addr:street": "Sector 63",
+        "is_in": "Noida",
+        "name": "Brandconn Digital",
+        "office": "company",
+        "phone": "+91 120 4293692",
+        "website": "https://www.brandconn.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.brandconn.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.brandconn.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-20T23:54:39+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52059,122 +52175,6 @@
     }
   },
   {
-    "name": "Feminist Approach to Technology",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "134, 2nd & 3rd floor, Lajpat Nagar 2, New Delhi, 110024",
-    "lat": 28.567495,
-    "lng": 77.249016,
-    "website": "https://fat-net.org/",
-    "phone": "+91-11-41004951",
-    "careers_url": "http://www.fat-net.org/jobs-old",
-    "careers_provider": "company_website",
-    "careers_api_url": "http://www.fat-net.org/jobs-old",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T23:54:37+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=ngo"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8308429191"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "New Delhi",
-        "addr:housenumber": "134, 2nd & 3rd floor",
-        "addr:postcode": "110024",
-        "addr:street": "Lajpat Nagar 2",
-        "name": "Feminist Approach to Technology",
-        "office": "ngo",
-        "opening_hours": "Mo-Fr 09:30-17:30",
-        "opening_hours:covid19": "restricted",
-        "phone": "+91-11-41004951",
-        "website": "https://fat-net.org/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "http://www.fat-net.org/jobs-old",
-        "provider": "company_website",
-        "api_url": "http://www.fat-net.org/jobs-old",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T23:54:37+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Brandconn Digital",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "C-246, Sector 63, Noida, 201301",
-    "lat": 28.620768,
-    "lng": 77.381494,
-    "website": "https://www.brandconn.com/",
-    "phone": "+91 120 4293692",
-    "careers_url": "https://www.brandconn.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.brandconn.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-20T23:54:39+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10811810966"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: digital, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida",
-        "addr:district": "Noida",
-        "addr:housenumber": "C-246",
-        "addr:postcode": "201301",
-        "addr:street": "Sector 63",
-        "is_in": "Noida",
-        "name": "Brandconn Digital",
-        "office": "company",
-        "phone": "+91 120 4293692",
-        "website": "https://www.brandconn.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.brandconn.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.brandconn.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-20T23:54:39+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Sygnus Technologies",
     "city": "Panaji/Goa",
     "region": "Goa",
@@ -54910,12 +54910,12 @@
     "lng": 77.6702697,
     "website": "http://khoslalabs.com",
     "phone": "+91 80 4212 4272",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "http://khoslalabs.com/careers.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T00:46:57+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -54947,7 +54947,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "http://khoslalabs.com/careers.html",
+        "provider": "company_website",
+        "api_url": "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T00:46:57+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -54960,12 +54968,12 @@
     "lng": 77.5963521,
     "website": "https://www.wearemiq.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.wearemiq.com/careers",
+    "careers_provider": "greenhouse",
+    "careers_api_url": "https://www.wearemiq.com/uk/careers",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-21T00:46:59+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=company"
     ],
@@ -54995,7 +55003,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.wearemiq.com/careers",
+        "provider": "greenhouse",
+        "api_url": "https://www.wearemiq.com/uk/careers",
+        "confidence": "high",
+        "checked_at": "2026-06-21T00:46:59+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
