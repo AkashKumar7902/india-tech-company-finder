@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_key": "6f4c0e7cd759cee6aaa9ca23c3978e3e449e3c1d70cd31732afc57b7aa7d68e7",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R51279",
+    "title": "Sr Application Engineer – SerDes Design IP",
+    "location": "SAN JOSE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Applications-Engineer---DDR-Design-IP_R51279",
+    "posted_at": "Posted Today",
+    "updated_at": "Posted Today",
+    "status": "open",
+    "content_hash": "3006d78133b133498a31cd2d83d7c89e33fb86537d214d97ef2a3ef5643964b7",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-21T06:14:41+00:00",
+    "last_seen_at": "2026-06-21T06:14:41+00:00"
+  }
+]
