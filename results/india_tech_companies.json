@@ -2681,9 +2681,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T21:21:36+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.feyntch.com/jobs: ConnectionError; https://www.feyntch.com/jobs/: ConnectionError; https://www.feyntch.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -2713,7 +2713,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T21:21:36+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.feyntch.com/jobs: ConnectionError; https://www.feyntch.com/jobs/: ConnectionError; https://www.feyntch.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -2729,9 +2737,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T21:21:38+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://www.techdecade.com/jobs: SSLError; https://www.techdecade.com/jobs/: SSLError; https://www.techdecade.com/career: SSLError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -2765,7 +2773,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T21:21:38+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://www.techdecade.com/jobs: SSLError; https://www.techdecade.com/jobs/: SSLError; https://www.techdecade.com/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -79039,6 +79055,74 @@
     }
   },
   {
+    "name": "Sheet Metal Solutions",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "Plot - 2, Basai Chowk, Basai Enclave, Vikas Nagar, Sector 9, Gurugram, Haryana 122001",
+    "lat": 28.4568253,
+    "lng": 76.9896586,
+    "website": "https://sheetmetalsolutions.co.in/",
+    "phone": "",
+    "careers_url": "https://sheetmetalsolutions.co.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T20:49:34+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "craft=metal_construction",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1510233714"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gurgaon",
+        "addr:district": "Gurgaon",
+        "addr:full": "Plot - 2, Basai Chowk, Basai Enclave, Vikas Nagar, Sector 9, Gurugram, Haryana 122001",
+        "addr:housenumber": "Plot No - 2",
+        "addr:place": "Basai Chowk",
+        "addr:postcode": "122001",
+        "addr:street": "Basai Chowk",
+        "air_conditioning": "no",
+        "building": "yes",
+        "building:levels": "1",
+        "craft": "metal_construction",
+        "email": "info@sheetmetalsolutions.co.in;sheetmetalsolution@gmail.com",
+        "internet_access": "no",
+        "mobile": "+918744862572;+919990356788;+918958717773",
+        "name": "Sheet Metal Solutions",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "start_date": "2016",
+        "website": "https://sheetmetalsolutions.co.in/",
+        "wheelchair": "limited"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://sheetmetalsolutions.co.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T20:49:34+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "OMR Digital",
     "city": "Indore",
     "region": "Madhya Pradesh",
@@ -83350,74 +83434,6 @@
         "confidence": "none",
         "checked_at": "2026-06-20T11:06:38+00:00",
         "notes": "homepage fetch failed: ConnectionError; http://www.m2mcybernetics.com/jobs: ConnectionError; http://www.m2mcybernetics.com/jobs/: ConnectionError; http://www.m2mcybernetics.com/career: ConnectionError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Sheet Metal Solutions",
-    "city": "Gurugram",
-    "region": "Haryana",
-    "country": "India",
-    "address": "Plot - 2, Basai Chowk, Basai Enclave, Vikas Nagar, Sector 9, Gurugram, Haryana 122001",
-    "lat": 28.4568253,
-    "lng": 76.9896586,
-    "website": "https://sheetmetalsolutions.co.in/",
-    "phone": "",
-    "careers_url": "https://sheetmetalsolutions.co.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-21T20:49:34+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "craft=metal_construction",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1510233714"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Gurgaon",
-        "addr:district": "Gurgaon",
-        "addr:full": "Plot - 2, Basai Chowk, Basai Enclave, Vikas Nagar, Sector 9, Gurugram, Haryana 122001",
-        "addr:housenumber": "Plot No - 2",
-        "addr:place": "Basai Chowk",
-        "addr:postcode": "122001",
-        "addr:street": "Basai Chowk",
-        "air_conditioning": "no",
-        "building": "yes",
-        "building:levels": "1",
-        "craft": "metal_construction",
-        "email": "info@sheetmetalsolutions.co.in;sheetmetalsolution@gmail.com",
-        "internet_access": "no",
-        "mobile": "+918744862572;+919990356788;+918958717773",
-        "name": "Sheet Metal Solutions",
-        "opening_hours": "Mo-Sa 10:00-18:00",
-        "start_date": "2016",
-        "website": "https://sheetmetalsolutions.co.in/",
-        "wheelchair": "limited"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://sheetmetalsolutions.co.in/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-21T20:49:34+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
