@@ -3842,6 +3842,123 @@
     }
   },
   {
+    "name": "KH Technologies Private Limited",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "101, Wisteria Commercial Complex, Keshavnagar, Mundhwa Road, Pune, 411036",
+    "lat": 18.5291334,
+    "lng": 73.9444213,
+    "website": "https://khtechnologies.in/",
+    "phone": "+919890295287",
+    "careers_url": "https://khtechnologies.in/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://khtechnologies.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhtechnologies.in%2Fcareer%2F",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T22:34:20+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11387884822"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "101, Wisteria Commercial Complex, Keshavnagar",
+        "addr:postcode": "411036",
+        "addr:street": "Mundhwa Road",
+        "name": "KH Technologies Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+919890295287",
+        "website": "https://khtechnologies.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://khtechnologies.in/career/",
+        "provider": "company_website",
+        "api_url": "https://khtechnologies.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhtechnologies.in%2Fcareer%2F",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T22:34:20+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Raykor Technologies Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "3rd Floor, Adams Court, Baner Rd, Pashan, Pune, 411045",
+    "lat": 18.55474,
+    "lng": 73.7989087,
+    "website": "https://raykor.com/",
+    "phone": "+91 98230 13435",
+    "careers_url": "https://raykor.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://raykor.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T22:34:28+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13130965760"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "email": "info@raykor.com",
+        "name": "Raykor Technologies Pvt. Ltd.",
+        "name:en": "Raykor",
+        "name:mr": "रेकोर",
+        "office": "it",
+        "phone": "+91 98230 13435",
+        "website": "https://raykor.com/",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "3rd Floor, Adams Court",
+        "addr:postcode": "411045",
+        "addr:street": "Baner Rd, Pashan"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://raykor.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://raykor.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T22:34:28+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ITKX Technologies",
     "city": "Tiruchirappalli",
     "region": "Tamil Nadu",
@@ -5050,123 +5167,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "KH Technologies Private Limited",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "101, Wisteria Commercial Complex, Keshavnagar, Mundhwa Road, Pune, 411036",
-    "lat": 18.5291334,
-    "lng": 73.9444213,
-    "website": "https://khtechnologies.in/",
-    "phone": "+919890295287",
-    "careers_url": "https://khtechnologies.in/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://khtechnologies.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhtechnologies.in%2Fcareer%2F",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T22:34:20+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11387884822"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:housenumber": "101, Wisteria Commercial Complex, Keshavnagar",
-        "addr:postcode": "411036",
-        "addr:street": "Mundhwa Road",
-        "name": "KH Technologies Private Limited",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-17:00",
-        "phone": "+919890295287",
-        "website": "https://khtechnologies.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://khtechnologies.in/career/",
-        "provider": "company_website",
-        "api_url": "https://khtechnologies.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhtechnologies.in%2Fcareer%2F",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T22:34:20+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Raykor Technologies Pvt. Ltd.",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "3rd Floor, Adams Court, Baner Rd, Pashan, Pune, 411045",
-    "lat": 18.55474,
-    "lng": 73.7989087,
-    "website": "https://raykor.com/",
-    "phone": "+91 98230 13435",
-    "careers_url": "https://raykor.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://raykor.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T22:34:28+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13130965760"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "email": "info@raykor.com",
-        "name": "Raykor Technologies Pvt. Ltd.",
-        "name:en": "Raykor",
-        "name:mr": "रेकोर",
-        "office": "it",
-        "phone": "+91 98230 13435",
-        "website": "https://raykor.com/",
-        "addr:city": "Pune",
-        "addr:district": "Pune",
-        "addr:housenumber": "3rd Floor, Adams Court",
-        "addr:postcode": "411045",
-        "addr:street": "Baner Rd, Pashan"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://raykor.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://raykor.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T22:34:28+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -13102,9 +13102,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T23:02:54+00:00",
+    "careers_notes": "https://www.heptarise.com/jobs: HTTPError; https://www.heptarise.com/jobs/: HTTPError; https://www.heptarise.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -13134,7 +13134,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T23:02:54+00:00",
+        "notes": "https://www.heptarise.com/jobs: HTTPError; https://www.heptarise.com/jobs/: HTTPError; https://www.heptarise.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -13858,12 +13866,12 @@
     "lng": 77.7101121,
     "website": "https://www.o9solutions.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://o9solutions.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://o9solutions.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T23:03:02+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -13895,7 +13903,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://o9solutions.com/careers",
+        "provider": "company_website",
+        "api_url": "https://o9solutions.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T23:03:02+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
