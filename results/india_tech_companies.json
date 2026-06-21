@@ -2603,6 +2603,61 @@
     }
   },
   {
+    "name": "VMware Software India Pvt. Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "5th - 8th floor, Tower B, Panchshil Business Park, Baner-Balewadi link road, Pune, 411045",
+    "lat": 18.5711146,
+    "lng": 73.7734771,
+    "website": "https://www.vmware.com/in.html",
+    "phone": "",
+    "careers_url": "https://www.vmware.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.vmware.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T21:58:18+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11052203032"
+    },
+    "tech_score": 77.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "5th - 8th floor, Tower B",
+        "addr:postcode": "411045",
+        "addr:street": "Panchshil Business Park, Baner-Balewadi link road",
+        "name": "VMware Software India Pvt. Ltd.",
+        "office": "it",
+        "website": "https://www.vmware.com/in.html"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.vmware.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.vmware.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T21:58:18+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Raysoft Infotech Private Limited",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -3782,61 +3837,6 @@
         "api_url": "https://in.indeed.com/cmp/Nebula-Infotech/jobs",
         "confidence": "medium",
         "checked_at": "2026-06-18T17:26:20+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "VMware Software India Pvt. Ltd.",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "5th - 8th floor, Tower B, Panchshil Business Park, Baner-Balewadi link road, Pune, 411045",
-    "lat": 18.5711146,
-    "lng": 73.7734771,
-    "website": "https://www.vmware.com/in.html",
-    "phone": "",
-    "careers_url": "https://www.vmware.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.vmware.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T21:58:18+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11052203032"
-    },
-    "tech_score": 73.0,
-    "confidence": "high",
-    "notes": "matched: software, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:housenumber": "5th - 8th floor, Tower B",
-        "addr:postcode": "411045",
-        "addr:street": "Panchshil Business Park, Baner-Balewadi link road",
-        "name": "VMware Software India Pvt. Ltd.",
-        "office": "it",
-        "website": "https://www.vmware.com/in.html"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.vmware.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.vmware.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T21:58:18+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -5062,12 +5062,12 @@
     "lng": 73.9444213,
     "website": "https://khtechnologies.in/",
     "phone": "+919890295287",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://khtechnologies.in/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://khtechnologies.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhtechnologies.in%2Fcareer%2F",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T22:34:20+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -5098,7 +5098,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://khtechnologies.in/career/",
+        "provider": "company_website",
+        "api_url": "https://khtechnologies.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhtechnologies.in%2Fcareer%2F",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T22:34:20+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -5111,12 +5119,12 @@
     "lng": 73.7989087,
     "website": "https://raykor.com/",
     "phone": "+91 98230 13435",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://raykor.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://raykor.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T22:34:28+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -5150,7 +5158,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://raykor.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://raykor.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T22:34:28+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
