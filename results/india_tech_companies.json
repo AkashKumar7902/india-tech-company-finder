@@ -14569,6 +14569,60 @@
     }
   },
   {
+    "name": "Sterling Software Pvt Ltd",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "CSIR road, 600113",
+    "lat": 12.9854153,
+    "lng": 80.2463893,
+    "website": "https://sterlingsoftware.global",
+    "phone": "",
+    "careers_url": "https://sterlingsoftware.global/contact/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://sterlingsoftware.global/contact#careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T14:03:49+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13439114501"
+    },
+    "tech_score": 54.0,
+    "confidence": "medium",
+    "notes": "matched: software, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "600113",
+        "addr:street": "CSIR road",
+        "level": "9",
+        "name": "Sterling Software Pvt Ltd",
+        "office": "company",
+        "website": "https://sterlingsoftware.global"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://sterlingsoftware.global/contact/",
+        "provider": "company_website",
+        "api_url": "https://sterlingsoftware.global/contact#careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T14:03:49+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "F5 Buddy",
     "city": "Indore",
     "region": "Madhya Pradesh",
@@ -14798,6 +14852,64 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Wikta IT Services Private Limited",
+    "city": "Thiruvananthapuram",
+    "region": "Kerala",
+    "country": "India",
+    "address": "GRA J1, Gandhipuram Road, Thiruvananthapuram, 695017",
+    "lat": 8.5615988,
+    "lng": 76.9048658,
+    "website": "https://wiktait.com/",
+    "phone": "+91-9447028012",
+    "careers_url": "https://www.wiktait.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.wiktait.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T14:04:24+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9226617702"
+    },
+    "tech_score": 54.0,
+    "confidence": "medium",
+    "notes": "matched: it services, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Thiruvananthapuram",
+        "addr:housenumber": "GRA J1",
+        "addr:postcode": "695017",
+        "addr:street": "Gandhipuram Road",
+        "email": "wikta@wiktait.com",
+        "name": "Wikta IT Services Private Limited",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+91-9447028012",
+        "website": "https://wiktait.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.wiktait.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.wiktait.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T14:04:24+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -16818,60 +16930,6 @@
     }
   },
   {
-    "name": "Sterling Software Pvt Ltd",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "CSIR road, 600113",
-    "lat": 12.9854153,
-    "lng": 80.2463893,
-    "website": "https://sterlingsoftware.global",
-    "phone": "",
-    "careers_url": "https://sterlingsoftware.global/contact/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://sterlingsoftware.global/contact#careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T14:03:49+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13439114501"
-    },
-    "tech_score": 50.0,
-    "confidence": "medium",
-    "notes": "matched: software, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "600113",
-        "addr:street": "CSIR road",
-        "level": "9",
-        "name": "Sterling Software Pvt Ltd",
-        "office": "company",
-        "website": "https://sterlingsoftware.global"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://sterlingsoftware.global/contact/",
-        "provider": "company_website",
-        "api_url": "https://sterlingsoftware.global/contact#careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T14:03:49+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "KT Telematic Solutions Pvt Ltd",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -17723,64 +17781,6 @@
         "confidence": "none",
         "checked_at": "2026-06-19T00:04:00+00:00",
         "notes": "homepage fetch failed: ConnectionError; https://pcland.co.in/jobs: ConnectionError; https://pcland.co.in/jobs/: ConnectionError; https://pcland.co.in/career: ConnectionError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Wikta IT Services Private Limited",
-    "city": "Thiruvananthapuram",
-    "region": "Kerala",
-    "country": "India",
-    "address": "GRA J1, Gandhipuram Road, Thiruvananthapuram, 695017",
-    "lat": 8.5615988,
-    "lng": 76.9048658,
-    "website": "https://wiktait.com/",
-    "phone": "+91-9447028012",
-    "careers_url": "https://www.wiktait.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.wiktait.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T14:04:24+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9226617702"
-    },
-    "tech_score": 50.0,
-    "confidence": "medium",
-    "notes": "matched: it services, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Thiruvananthapuram",
-        "addr:housenumber": "GRA J1",
-        "addr:postcode": "695017",
-        "addr:street": "Gandhipuram Road",
-        "email": "wikta@wiktait.com",
-        "name": "Wikta IT Services Private Limited",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-17:00",
-        "phone": "+91-9447028012",
-        "website": "https://wiktait.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.wiktait.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.wiktait.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T14:04:24+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -21955,12 +21955,12 @@
     "lng": 76.3225783,
     "website": "https://webcrs.com/",
     "phone": "+91-9633303463",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "http://webcrs.com/Career.php",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-21T14:59:39+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -21991,7 +21991,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "http://webcrs.com/Career.php",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-21T14:59:39+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -22181,9 +22189,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-21T14:59:50+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.spiderswatch.com/jobs: ConnectionError; http://www.spiderswatch.com/jobs/: ConnectionError; http://www.spiderswatch.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -22216,7 +22224,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-21T14:59:50+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.spiderswatch.com/jobs: ConnectionError; http://www.spiderswatch.com/jobs/: ConnectionError; http://www.spiderswatch.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
