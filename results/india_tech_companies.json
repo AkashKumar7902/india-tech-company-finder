@@ -49475,6 +49475,120 @@
     }
   },
   {
+    "name": "Khosla Labs",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "18/2A, Sarjapur Road, Bangalore, 560103",
+    "lat": 12.9188741,
+    "lng": 77.6702697,
+    "website": "http://khoslalabs.com",
+    "phone": "+91 80 4212 4272",
+    "careers_url": "http://khoslalabs.com/careers.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T00:46:57+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3357540334"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: labs, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "18/2A",
+        "addr:postcode": "560103",
+        "addr:street": "Sarjapur Road",
+        "level": "2",
+        "name": "Khosla Labs",
+        "office": "company",
+        "phone": "+91 80 4212 4272",
+        "smoking": "no",
+        "website": "http://khoslalabs.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "http://khoslalabs.com/careers.html",
+        "provider": "company_website",
+        "api_url": "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T00:46:57+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "MiQ Digital",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "5th & 6th Floor, Lavelle Road, Bangalore, 560001",
+    "lat": 12.9654503,
+    "lng": 77.5963521,
+    "website": "https://www.wearemiq.com/",
+    "phone": "",
+    "careers_url": "https://www.wearemiq.com/careers",
+    "careers_provider": "greenhouse",
+    "careers_api_url": "https://www.wearemiq.com/uk/careers",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-21T00:46:59+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10291144731"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "5th & 6th Floor",
+        "addr:postcode": "560001",
+        "addr:street": "Lavelle Road",
+        "check_date": "2022-12-28",
+        "name": "MiQ Digital",
+        "office": "company",
+        "website": "https://www.wearemiq.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.wearemiq.com/careers",
+        "provider": "greenhouse",
+        "api_url": "https://www.wearemiq.com/uk/careers",
+        "confidence": "high",
+        "checked_at": "2026-06-21T00:46:59+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Saartha Labs Private Labs",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -54901,120 +55015,6 @@
     }
   },
   {
-    "name": "Khosla Labs",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "18/2A, Sarjapur Road, Bangalore, 560103",
-    "lat": 12.9188741,
-    "lng": 77.6702697,
-    "website": "http://khoslalabs.com",
-    "phone": "+91 80 4212 4272",
-    "careers_url": "http://khoslalabs.com/careers.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-21T00:46:57+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3357540334"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: labs, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "18/2A",
-        "addr:postcode": "560103",
-        "addr:street": "Sarjapur Road",
-        "level": "2",
-        "name": "Khosla Labs",
-        "office": "company",
-        "phone": "+91 80 4212 4272",
-        "smoking": "no",
-        "website": "http://khoslalabs.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "http://khoslalabs.com/careers.html",
-        "provider": "company_website",
-        "api_url": "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700",
-        "confidence": "medium",
-        "checked_at": "2026-06-21T00:46:57+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "MiQ Digital",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "5th & 6th Floor, Lavelle Road, Bangalore, 560001",
-    "lat": 12.9654503,
-    "lng": 77.5963521,
-    "website": "https://www.wearemiq.com/",
-    "phone": "",
-    "careers_url": "https://www.wearemiq.com/careers",
-    "careers_provider": "greenhouse",
-    "careers_api_url": "https://www.wearemiq.com/uk/careers",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-21T00:46:59+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10291144731"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: digital, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "5th & 6th Floor",
-        "addr:postcode": "560001",
-        "addr:street": "Lavelle Road",
-        "check_date": "2022-12-28",
-        "name": "MiQ Digital",
-        "office": "company",
-        "website": "https://www.wearemiq.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.wearemiq.com/careers",
-        "provider": "greenhouse",
-        "api_url": "https://www.wearemiq.com/uk/careers",
-        "confidence": "high",
-        "checked_at": "2026-06-21T00:46:59+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Proche Solutions",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -55812,12 +55812,12 @@
     "lng": 88.4365441,
     "website": "https://gforces.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://gforces.in/category/recruiters",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T01:40:29+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -55846,7 +55846,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://gforces.in/category/recruiters",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T01:40:29+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -55859,12 +55867,12 @@
     "lng": 74.8460444,
     "website": "http://softcodelink.com/",
     "phone": "08244253725",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "http://www.softcodelink.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.19",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-21T01:40:31+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=computer"
     ],
@@ -55893,7 +55901,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "http://www.softcodelink.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.19",
+        "confidence": "medium",
+        "checked_at": "2026-06-21T01:40:31+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
