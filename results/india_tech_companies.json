@@ -21245,6 +21245,63 @@
     }
   },
   {
+    "name": "miniOrange",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Business Enclave, Baner, Pune, 411045",
+    "lat": 18.5541501,
+    "lng": 73.7707173,
+    "website": "https://www.miniorange.com/",
+    "phone": "",
+    "careers_url": "https://www.miniorange.com:443/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.miniorange.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T01:33:12+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12522693029"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:district": "Pune",
+        "addr:postcode": "411045",
+        "addr:state": "Maharashtra",
+        "addr:street": "Business Enclave, Baner",
+        "name": "miniOrange",
+        "office": "it",
+        "website": "https://www.miniorange.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.miniorange.com:443/career/",
+        "provider": "company_website",
+        "api_url": "https://www.miniorange.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T01:33:12+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Ascent HR Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -27888,63 +27945,6 @@
         "confidence": "none",
         "checked_at": "2026-06-14T17:53:36+00:00",
         "notes": "homepage fetch failed: ConnectionError; https://www.codekul.com/jobs: ConnectionError; https://www.codekul.com/jobs/: ConnectionError; https://www.codekul.com/career: ConnectionError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "miniOrange",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Business Enclave, Baner, Pune, 411045",
-    "lat": 18.5541501,
-    "lng": 73.7707173,
-    "website": "https://www.miniorange.com/",
-    "phone": "",
-    "careers_url": "https://www.miniorange.com:443/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.miniorange.com/career/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T01:33:12+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12522693029"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:country": "IN",
-        "addr:district": "Pune",
-        "addr:postcode": "411045",
-        "addr:state": "Maharashtra",
-        "addr:street": "Business Enclave, Baner",
-        "name": "miniOrange",
-        "office": "it",
-        "website": "https://www.miniorange.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.miniorange.com:443/career/",
-        "provider": "company_website",
-        "api_url": "https://www.miniorange.com/career/",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T01:33:12+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -52383,12 +52383,12 @@
     "lng": 78.4106279,
     "website": "https://www.bhavyatechnologies.com/",
     "phone": "+91 40 32577536",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.bhavyatechnologies.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-22T02:33:37+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -52412,7 +52412,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.bhavyatechnologies.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-22T02:33:37+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52425,12 +52433,12 @@
     "lng": 78.4623528,
     "website": "https://www.bizionictech.com",
     "phone": "9059360184",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.bizionictech.com/job-opportunities",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.bizionictech.com/job-opportunities",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T02:33:39+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=advertising_agency"
     ],
@@ -52466,7 +52474,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.bizionictech.com/job-opportunities",
+        "provider": "company_website",
+        "api_url": "https://www.bizionictech.com/job-opportunities",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T02:33:39+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
