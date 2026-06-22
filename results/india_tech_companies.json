@@ -4092,6 +4092,121 @@
     }
   },
   {
+    "name": "Juspay Technologies Private Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "444, 18th Main Road, Koramangala 6th Block, Bangalore, 560095",
+    "lat": 12.9400559,
+    "lng": 77.6229137,
+    "website": "https://www.juspay.in/",
+    "phone": "",
+    "careers_url": "https://juspay.io/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://juspay.io/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T22:05:31+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1168771886"
+    },
+    "tech_score": 71.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Koramangala 6th Block, Bangalore",
+        "addr:housenumber": "444",
+        "addr:postcode": "560095",
+        "addr:street": "18th Main Road",
+        "name": "Juspay Technologies Private Limited",
+        "office": "it",
+        "opening_hours": "24/7",
+        "building": "commercial",
+        "website": "https://www.juspay.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://juspay.io/careers",
+        "provider": "company_website",
+        "api_url": "https://juspay.io/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T22:05:31+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "TruEstate (IQOL Technologies)",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1579, 27th Main Rd, Sector 2, HSR Layout, Bengaluru, 560102",
+    "lat": 12.9050747,
+    "lng": 77.6509159,
+    "website": "https://truestate.in/",
+    "phone": "",
+    "careers_url": "https://truestate.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T22:05:42+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1037897709"
+    },
+    "tech_score": 71.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "1579",
+        "addr:postcode": "560102",
+        "addr:street": "27th Main Rd, Sector 2, HSR Layout",
+        "building": "yes",
+        "name": "TruEstate (IQOL Technologies)",
+        "office": "it",
+        "website": "https://truestate.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://truestate.in/careers",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T22:05:42+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Unmukti Technology Private Limited",
     "city": "Gurugram",
     "region": "Haryana",
@@ -6806,121 +6921,6 @@
         "confidence": "none",
         "checked_at": "2026-06-18T19:13:21+00:00",
         "notes": "https://www.hentechnologies.com/jobs: HTTPError; https://www.hentechnologies.com/jobs/: HTTPError; https://www.hentechnologies.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Juspay Technologies Private Limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "444, 18th Main Road, Koramangala 6th Block, Bangalore, 560095",
-    "lat": 12.9400559,
-    "lng": 77.6229137,
-    "website": "https://www.juspay.in/",
-    "phone": "",
-    "careers_url": "https://juspay.io/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://juspay.io/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T22:05:31+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1168771886"
-    },
-    "tech_score": 67.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Koramangala 6th Block, Bangalore",
-        "addr:housenumber": "444",
-        "addr:postcode": "560095",
-        "addr:street": "18th Main Road",
-        "name": "Juspay Technologies Private Limited",
-        "office": "it",
-        "opening_hours": "24/7",
-        "building": "commercial",
-        "website": "https://www.juspay.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://juspay.io/careers",
-        "provider": "company_website",
-        "api_url": "https://juspay.io/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T22:05:31+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "TruEstate (IQOL Technologies)",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "1579, 27th Main Rd, Sector 2, HSR Layout, Bengaluru, 560102",
-    "lat": 12.9050747,
-    "lng": 77.6509159,
-    "website": "https://truestate.in/",
-    "phone": "",
-    "careers_url": "https://truestate.in/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T22:05:42+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1037897709"
-    },
-    "tech_score": 67.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:housenumber": "1579",
-        "addr:postcode": "560102",
-        "addr:street": "27th Main Rd, Sector 2, HSR Layout",
-        "building": "yes",
-        "name": "TruEstate (IQOL Technologies)",
-        "office": "it",
-        "website": "https://truestate.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://truestate.in/careers",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T22:05:42+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -22826,12 +22826,12 @@
     "lng": 77.6283031,
     "website": "http://www.americanexpress.co.in/",
     "phone": "18005284800",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.americanexpress.com/en-us/careers/?inav=en_in_footer_company_information_careers",
+    "careers_provider": "eightfold",
+    "careers_api_url": "https://www.americanexpress.com/en-us/careers/",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-22T22:46:45+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=it"
     ],
@@ -22862,7 +22862,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.americanexpress.com/en-us/careers/?inav=en_in_footer_company_information_careers",
+        "provider": "eightfold",
+        "api_url": "https://www.americanexpress.com/en-us/careers/",
+        "confidence": "high",
+        "checked_at": "2026-06-22T22:46:45+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -23263,9 +23271,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T22:46:48+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.muniverset.com/jobs: ConnectionError; https://www.muniverset.com/jobs/: ConnectionError; https://www.muniverset.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -23296,7 +23304,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T22:46:48+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.muniverset.com/jobs: ConnectionError; https://www.muniverset.com/jobs/: ConnectionError; https://www.muniverset.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
