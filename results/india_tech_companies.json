@@ -19829,6 +19829,64 @@
     }
   },
   {
+    "name": "Seasia Infotech - Enterprise AI Solutions",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "Unit No, C-136, Phase-8, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160071, Mohali, 160071",
+    "lat": 30.7107797,
+    "lng": 76.7091193,
+    "website": "https://www.seasiainfotech.com/",
+    "phone": "",
+    "careers_url": "https://www.seasiainfotech.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.seasiainfotech.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T16:14:31+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=employment_agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13468852806"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mohali",
+        "addr:housenumber": "C-136",
+        "addr:postcode": "160071",
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyMrA3JaS-XN7qBMdZD4X-ryJ60O6VI-14GQ0JS9bX8Ca6YOnIzAKc-SEvB8BRfXMQ5Dz27pt-Jvz2CR4tTvUsR7P97oxIu9B4cmaQMcOm4bWbBK9Dk26n4brubOuozc8souRtW",
+        "name": "Seasia Infotech - Enterprise AI Solutions",
+        "addr:district": "Mohali",
+        "addr:street": "Phase-8, Industrial Area, Sector 73",
+        "office": "employment_agency",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "https://www.seasiainfotech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.seasiainfotech.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.seasiainfotech.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T16:14:31+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Trimble Information Technologies India Pvt Ltd",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -26132,64 +26190,6 @@
         "confidence": "none",
         "checked_at": "2026-06-22T00:15:46+00:00",
         "notes": "homepage fetch failed: ReadTimeout; https://orbizen.in/jobs: SSLError; https://orbizen.in/jobs/: ReadTimeout; https://orbizen.in/career: SSLError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Seasia Infotech - Enterprise AI Solutions",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "Unit No, C-136, Phase-8, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160071, Mohali, 160071",
-    "lat": 30.7107797,
-    "lng": 76.7091193,
-    "website": "https://www.seasiainfotech.com/",
-    "phone": "",
-    "careers_url": "https://www.seasiainfotech.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.seasiainfotech.com/career",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T16:14:31+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=employment_agency"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13468852806"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: infotech, solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mohali",
-        "addr:housenumber": "C-136",
-        "addr:postcode": "160071",
-        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyMrA3JaS-XN7qBMdZD4X-ryJ60O6VI-14GQ0JS9bX8Ca6YOnIzAKc-SEvB8BRfXMQ5Dz27pt-Jvz2CR4tTvUsR7P97oxIu9B4cmaQMcOm4bWbBK9Dk26n4brubOuozc8souRtW",
-        "name": "Seasia Infotech - Enterprise AI Solutions",
-        "addr:district": "Mohali",
-        "addr:street": "Phase-8, Industrial Area, Sector 73",
-        "office": "employment_agency",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "website": "https://www.seasiainfotech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.seasiainfotech.com/career",
-        "provider": "company_website",
-        "api_url": "https://www.seasiainfotech.com/career",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T16:14:31+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -47188,12 +47188,12 @@
     "lng": 76.8792772,
     "website": "https://www.iiitmk.ac.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://iiitmk.ac.in/?page_id=19",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://iiitmk.ac.in/wp-content/uploads/2025/04/Notification-New-Positions.pdf",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T17:53:10+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "amenity=university",
       "building=yes"
@@ -47227,7 +47227,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://iiitmk.ac.in/?page_id=19",
+        "provider": "company_website",
+        "api_url": "https://iiitmk.ac.in/wp-content/uploads/2025/04/Notification-New-Positions.pdf",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T17:53:10+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -49995,9 +50003,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T17:53:22+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.aindra.in/jobs: ConnectionError; https://www.aindra.in/jobs/: ConnectionError; https://www.aindra.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -50028,7 +50036,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T17:53:22+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.aindra.in/jobs: ConnectionError; https://www.aindra.in/jobs/: ConnectionError; https://www.aindra.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
