@@ -50306,6 +50306,58 @@
     }
   },
   {
+    "name": "Raptee.HV HQ",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 13.0179393,
+    "lng": 80.1737952,
+    "website": "https://www.raptee.com/",
+    "phone": "",
+    "careers_url": "https://www.rapteehv.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.rapteehv.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T04:01:56+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=Raptee.HV is an innovative electric motorcycle company that stands out for its cutting-edge technology and commitment to sustainable mobility."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12050789761"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "description": "Raptee.HV is an innovative electric motorcycle company that stands out for its cutting-edge technology and commitment to sustainable mobility.",
+        "name": "Raptee.HV HQ",
+        "source": "local knowledge;streetlevel imagery",
+        "website": "https://www.raptee.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.rapteehv.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.rapteehv.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T04:01:56+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Centre for Quantum Science & Technology",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -55910,58 +55962,6 @@
         "confidence": "none",
         "checked_at": "2026-06-16T02:33:46+00:00",
         "notes": "homepage fetch failed: HTTPError; https://www.metaforumtechnologies.com/jobs: HTTPError; https://www.metaforumtechnologies.com/jobs/: HTTPError; https://www.metaforumtechnologies.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Raptee.HV HQ",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "",
-    "lat": 13.0179393,
-    "lng": 80.1737952,
-    "website": "https://www.raptee.com/",
-    "phone": "",
-    "careers_url": "https://www.rapteehv.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.rapteehv.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T04:01:56+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=Raptee.HV is an innovative electric motorcycle company that stands out for its cutting-edge technology and commitment to sustainable mobility."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12050789761"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "description": "Raptee.HV is an innovative electric motorcycle company that stands out for its cutting-edge technology and commitment to sustainable mobility.",
-        "name": "Raptee.HV HQ",
-        "source": "local knowledge;streetlevel imagery",
-        "website": "https://www.raptee.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.rapteehv.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.rapteehv.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T04:01:56+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -80441,9 +80441,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T06:05:31+00:00",
+    "careers_notes": "https://www.signboardsmaker.com/jobs: HTTPError; https://www.signboardsmaker.com/jobs/: HTTPError; https://www.signboardsmaker.com/career: HTTPError; no careers page detected",
     "categories": [
       "craft=signmaker",
       "description=Professional signboard manufacturer offering glow sign boards, pylon signs, wayfinding signage, LED displays, ACP cladding, advertising hoarding structures, frosted glass installations, retail branding, and custom indoor/outdoor signage solutions."
@@ -80480,7 +80480,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T06:05:31+00:00",
+        "notes": "https://www.signboardsmaker.com/jobs: HTTPError; https://www.signboardsmaker.com/jobs/: HTTPError; https://www.signboardsmaker.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -80556,9 +80564,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T06:05:42+00:00",
+    "careers_notes": "https://www.prdigitalservices.com/jobs: HTTPError; https://www.prdigitalservices.com/jobs/: HTTPError; https://www.prdigitalservices.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency"
     ],
@@ -80590,7 +80598,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T06:05:42+00:00",
+        "notes": "https://www.prdigitalservices.com/jobs: HTTPError; https://www.prdigitalservices.com/jobs/: HTTPError; https://www.prdigitalservices.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
