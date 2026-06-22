@@ -2389,6 +2389,60 @@
     }
   },
   {
+    "name": "CodeRythm Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1st Cross Rd, Sundar Nagar, Mathikere, Bangalore, 560054",
+    "lat": 13.0399458,
+    "lng": 77.5577474,
+    "website": "https://coderythm.com/",
+    "phone": "+91 80 2345 0822",
+    "careers_url": "https://coderythm.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://coderythm.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T10:26:32+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2859824390"
+    },
+    "tech_score": 78.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies, startup",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "1st Cross Rd, Sundar Nagar",
+        "addr:postcode": "560054",
+        "addr:street": "Mathikere",
+        "name": "CodeRythm Technologies",
+        "note": "A Software startup based in Bangalore. We comprise of young minds ready to see the world through a brighter lens. We are new entrants into the IT industry - Fresh in ideas …Novel in thoughts…and Innovative at work. Creativity is at the heart of our work.",
+        "phone": "+91 80 2345 0822",
+        "website": "https://coderythm.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://coderythm.com/careers",
+        "provider": "company_website",
+        "api_url": "https://coderythm.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T10:26:32+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sine90 Software Labs Pvt Ltd",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -2954,60 +3008,6 @@
         "confidence": "none",
         "checked_at": "2026-06-18T11:14:55+00:00",
         "notes": "homepage fetch failed: ConnectionError; https://www.manpushpsoftware.com/jobs: ConnectionError; https://www.manpushpsoftware.com/jobs/: ConnectionError; https://www.manpushpsoftware.com/career: ConnectionError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "CodeRythm Technologies",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "1st Cross Rd, Sundar Nagar, Mathikere, Bangalore, 560054",
-    "lat": 13.0399458,
-    "lng": 77.5577474,
-    "website": "https://coderythm.com/",
-    "phone": "+91 80 2345 0822",
-    "careers_url": "https://coderythm.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://coderythm.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T10:26:32+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2859824390"
-    },
-    "tech_score": 74.0,
-    "confidence": "high",
-    "notes": "matched: software, technologies, startup",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "1st Cross Rd, Sundar Nagar",
-        "addr:postcode": "560054",
-        "addr:street": "Mathikere",
-        "name": "CodeRythm Technologies",
-        "note": "A Software startup based in Bangalore. We comprise of young minds ready to see the world through a brighter lens. We are new entrants into the IT industry - Fresh in ideas …Novel in thoughts…and Innovative at work. Creativity is at the heart of our work.",
-        "phone": "+91 80 2345 0822",
-        "website": "https://coderythm.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://coderythm.com/careers",
-        "provider": "company_website",
-        "api_url": "https://coderythm.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T10:26:32+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -6799,12 +6799,12 @@
     "lng": 77.0681415,
     "website": "https://unmukti.in",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://unmukti.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://unmukti.in/><!--]--><!--]--><!--]--><!--]--><!--]--> <!--[!--><!--]--> <!----><!----><title>Careers | Unmukti Technology</title></head><body data-sveltekit-preload-data=",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T12:33:20+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "description=Specializes in Network Appliances and Devices"
@@ -6845,7 +6845,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://unmukti.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://unmukti.in/><!--]--><!--]--><!--]--><!--]--><!--]--> <!--[!--><!--]--> <!----><!----><title>Careers | Unmukti Technology</title></head><body data-sveltekit-preload-data=",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T12:33:20+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -6907,12 +6915,12 @@
     "lng": 78.5171502,
     "website": "https://www.graylogictech.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.graylogictech.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://graylogictech.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T12:33:25+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -6938,7 +6946,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.graylogictech.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://graylogictech.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T12:33:25+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
