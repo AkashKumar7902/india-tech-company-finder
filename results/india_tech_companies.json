@@ -4092,6 +4092,125 @@
     }
   },
   {
+    "name": "Unmukti Technology Private Limited",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "311;312, Ocus Quantum, Sector 51, Gurugram, 122003",
+    "lat": 28.4247411,
+    "lng": 77.0681415,
+    "website": "https://unmukti.in",
+    "phone": "",
+    "careers_url": "https://unmukti.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://unmukti.in/><!--]--><!--]--><!--]--><!--]--><!--]--> <!--[!--><!--]--> <!----><!----><title>Careers | Unmukti Technology</title></head><body data-sveltekit-preload-data=",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T12:33:20+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "description=Specializes in Network Appliances and Devices"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11064365899"
+    },
+    "tech_score": 71.0,
+    "confidence": "high",
+    "notes": "matched: technology, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gurugram",
+        "addr:district": "Gurugram",
+        "addr:housenumber": "311;312",
+        "addr:postcode": "122003",
+        "addr:street": "Ocus Quantum",
+        "addr:suburb": "Sector 51",
+        "air_conditioning": "yes",
+        "alt_name": "Hopbox",
+        "check_date": "2024-11-23",
+        "description": "Specializes in Network Appliances and Devices",
+        "email": "info@unmukti.in",
+        "image": "https://unmukti.in/static/img/logo/unmukti.png",
+        "level": "3",
+        "mobile": "+91-813-033-0042",
+        "name": "Unmukti Technology Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "website": "https://unmukti.in"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://unmukti.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://unmukti.in/><!--]--><!--]--><!--]--><!--]--><!--]--> <!--[!--><!--]--> <!----><!----><title>Careers | Unmukti Technology</title></head><body data-sveltekit-preload-data=",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T12:33:20+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Graylogic Technologies (P) Ltd",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.4368217,
+    "lng": 78.5171502,
+    "website": "https://www.graylogictech.com/",
+    "phone": "",
+    "careers_url": "https://www.graylogictech.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://graylogictech.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T12:33:25+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:1341929876"
+    },
+    "tech_score": 71.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Graylogic Technologies (P) Ltd",
+        "note": "Website,ECommerce development",
+        "office": "it",
+        "website": "https://www.graylogictech.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.graylogictech.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://graylogictech.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T12:33:25+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Optratec Technologies Pvt. Ltd.",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -6790,73 +6909,6 @@
     }
   },
   {
-    "name": "Unmukti Technology Private Limited",
-    "city": "Gurugram",
-    "region": "Haryana",
-    "country": "India",
-    "address": "311;312, Ocus Quantum, Sector 51, Gurugram, 122003",
-    "lat": 28.4247411,
-    "lng": 77.0681415,
-    "website": "https://unmukti.in",
-    "phone": "",
-    "careers_url": "https://unmukti.in/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://unmukti.in/><!--]--><!--]--><!--]--><!--]--><!--]--> <!--[!--><!--]--> <!----><!----><title>Careers | Unmukti Technology</title></head><body data-sveltekit-preload-data=",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T12:33:20+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "description=Specializes in Network Appliances and Devices"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11064365899"
-    },
-    "tech_score": 67.0,
-    "confidence": "high",
-    "notes": "matched: technology, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Gurugram",
-        "addr:district": "Gurugram",
-        "addr:housenumber": "311;312",
-        "addr:postcode": "122003",
-        "addr:street": "Ocus Quantum",
-        "addr:suburb": "Sector 51",
-        "air_conditioning": "yes",
-        "alt_name": "Hopbox",
-        "check_date": "2024-11-23",
-        "description": "Specializes in Network Appliances and Devices",
-        "email": "info@unmukti.in",
-        "image": "https://unmukti.in/static/img/logo/unmukti.png",
-        "level": "3",
-        "mobile": "+91-813-033-0042",
-        "name": "Unmukti Technology Private Limited",
-        "office": "it",
-        "opening_hours": "Mo-Su 09:00-18:00",
-        "website": "https://unmukti.in"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://unmukti.in/careers/",
-        "provider": "company_website",
-        "api_url": "https://unmukti.in/><!--]--><!--]--><!--]--><!--]--><!--]--> <!--[!--><!--]--> <!----><!----><title>Careers | Unmukti Technology</title></head><body data-sveltekit-preload-data=",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T12:33:20+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "CA Technologies",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -6903,58 +6955,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Graylogic Technologies (P) Ltd",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "",
-    "lat": 17.4368217,
-    "lng": 78.5171502,
-    "website": "https://www.graylogictech.com/",
-    "phone": "",
-    "careers_url": "https://www.graylogictech.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://graylogictech.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T12:33:25+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:1341929876"
-    },
-    "tech_score": 67.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "name": "Graylogic Technologies (P) Ltd",
-        "note": "Website,ECommerce development",
-        "office": "it",
-        "website": "https://www.graylogictech.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.graylogictech.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://graylogictech.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T12:33:25+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -21454,9 +21454,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T14:33:01+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.cisco.com/jobs: HTTPError; https://www.cisco.com/jobs/: HTTPError; https://www.cisco.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -21485,7 +21485,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T14:33:01+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.cisco.com/jobs: HTTPError; https://www.cisco.com/jobs/: HTTPError; https://www.cisco.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -21672,9 +21680,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T14:33:03+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.intuit.in/jobs: HTTPError; https://www.intuit.in/jobs/: HTTPError; https://www.intuit.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -21704,7 +21712,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T14:33:03+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.intuit.in/jobs: HTTPError; https://www.intuit.in/jobs/: HTTPError; https://www.intuit.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
