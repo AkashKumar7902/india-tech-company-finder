@@ -21136,6 +21136,61 @@
     }
   },
   {
+    "name": "Litmus7",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "208, Infopark, Kakkanad, Kerala, 682042",
+    "lat": 10.011894,
+    "lng": 76.3664951,
+    "website": "https://www.litmus7.com",
+    "phone": "",
+    "careers_url": "https://www.litmus7.com/Career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.litmus7.com/_next/static/chunks/pages/Career-f8f51f0bfbcd0a8a.js",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T23:19:05+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13433684197"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Infopark, Kakkanad, Kerala",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "208",
+        "addr:postcode": "682042",
+        "name": "Litmus7",
+        "office": "it",
+        "website": "https://www.litmus7.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.litmus7.com/Career",
+        "provider": "company_website",
+        "api_url": "https://www.litmus7.com/_next/static/chunks/pages/Career-f8f51f0bfbcd0a8a.js",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T23:19:05+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "BEAS Consultancy & Services",
     "city": "Kolkata",
     "region": "West Bengal",
@@ -27897,61 +27952,6 @@
         "confidence": "none",
         "checked_at": "2026-06-22T23:18:28+00:00",
         "notes": "homepage fetch failed: ConnectionError; http://iteshabitatcentre.org/jobs: ConnectionError; http://iteshabitatcentre.org/jobs/: ConnectionError; http://iteshabitatcentre.org/career: ConnectionError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Litmus7",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "208, Infopark, Kakkanad, Kerala, 682042",
-    "lat": 10.011894,
-    "lng": 76.3664951,
-    "website": "https://www.litmus7.com",
-    "phone": "",
-    "careers_url": "https://www.litmus7.com/Career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.litmus7.com/_next/static/chunks/pages/Career-f8f51f0bfbcd0a8a.js",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T23:19:05+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13433684197"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Infopark, Kakkanad, Kerala",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "208",
-        "addr:postcode": "682042",
-        "name": "Litmus7",
-        "office": "it",
-        "website": "https://www.litmus7.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.litmus7.com/Career",
-        "provider": "company_website",
-        "api_url": "https://www.litmus7.com/_next/static/chunks/pages/Career-f8f51f0bfbcd0a8a.js",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T23:19:05+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -55380,9 +55380,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T23:50:26+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://www.bestkc.in/jobs: ConnectTimeout; https://www.bestkc.in/jobs/: ConnectTimeout; https://www.bestkc.in/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=ngo"
     ],
@@ -55408,7 +55408,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T23:50:26+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://www.bestkc.in/jobs: ConnectTimeout; https://www.bestkc.in/jobs/: ConnectTimeout; https://www.bestkc.in/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
@@ -55638,12 +55646,12 @@
     "lng": 77.6361978,
     "website": "http://www.dreamqi.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.dreamqi.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-22T23:51:59+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -55666,7 +55674,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.dreamqi.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-22T23:51:59+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
