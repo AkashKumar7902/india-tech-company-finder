@@ -19433,6 +19433,62 @@
     }
   },
   {
+    "name": "G7CR Technologies Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "10/4, Kasturba Road, 560001",
+    "lat": 12.976046,
+    "lng": 77.5987712,
+    "website": "https://g7cr.in/",
+    "phone": "",
+    "careers_url": "https://noventiqai.com/careers-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://noventiqai.com/default-sitemap.xsl?sitemap=careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T00:15:36+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8390496217"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "10/4",
+        "addr:postcode": "560001",
+        "addr:street": "Kasturba Road",
+        "email": "hr@g7cr.in",
+        "name": "G7CR Technologies Pvt Ltd",
+        "office": "company",
+        "opening_hours": "24/7",
+        "website": "https://g7cr.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://noventiqai.com/careers-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://noventiqai.com/default-sitemap.xsl?sitemap=careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T00:15:36+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Instamojo Technologies Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -25749,62 +25805,6 @@
     }
   },
   {
-    "name": "G7CR Technologies Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "10/4, Kasturba Road, 560001",
-    "lat": 12.976046,
-    "lng": 77.5987712,
-    "website": "https://g7cr.in/",
-    "phone": "",
-    "careers_url": "https://noventiqai.com/careers-sitemap.xml",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://noventiqai.com/default-sitemap.xsl?sitemap=careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T00:15:36+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8390496217"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "10/4",
-        "addr:postcode": "560001",
-        "addr:street": "Kasturba Road",
-        "email": "hr@g7cr.in",
-        "name": "G7CR Technologies Pvt Ltd",
-        "office": "company",
-        "opening_hours": "24/7",
-        "website": "https://g7cr.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://noventiqai.com/careers-sitemap.xml",
-        "provider": "company_website",
-        "api_url": "https://noventiqai.com/default-sitemap.xsl?sitemap=careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T00:15:36+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Inkoniq IT Solutions Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -27901,12 +27901,12 @@
     "lng": 73.7707173,
     "website": "https://www.miniorange.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.miniorange.com:443/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.miniorange.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T01:33:12+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -27937,7 +27937,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.miniorange.com:443/career/",
+        "provider": "company_website",
+        "api_url": "https://www.miniorange.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T01:33:12+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -27953,9 +27961,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T01:33:15+00:00",
+    "careers_notes": "http://www.techlead-india.com/jobs: HTTPError; http://www.techlead-india.com/jobs/: HTTPError; http://www.techlead-india.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -27981,7 +27989,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T01:33:15+00:00",
+        "notes": "http://www.techlead-india.com/jobs: HTTPError; http://www.techlead-india.com/jobs/: HTTPError; http://www.techlead-india.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
