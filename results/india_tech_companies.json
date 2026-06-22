@@ -76693,6 +76693,60 @@
     }
   },
   {
+    "name": "Kohli Center on Intelligent Systems(KCIS)",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.4450861,
+    "lng": 78.3495595,
+    "website": "https://kcis.iiit.ac.in/",
+    "phone": "",
+    "careers_url": "https://blogs.iiit.ac.in/girish-varma/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T20:14:43+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "relation:6203684"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: systems",
+    "raw": {
+      "osm_tags": {
+        "building": "university",
+        "building:levels": "5",
+        "name": "Kohli Center on Intelligent Systems(KCIS)",
+        "nohousenumber": "yes",
+        "type": "multipolygon",
+        "website": "https://kcis.iiit.ac.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://blogs.iiit.ac.in/girish-varma/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T20:14:43+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sunder Travels Taxi Service",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -81002,60 +81056,6 @@
     }
   },
   {
-    "name": "Kohli Center on Intelligent Systems(KCIS)",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "",
-    "lat": 17.4450861,
-    "lng": 78.3495595,
-    "website": "https://kcis.iiit.ac.in/",
-    "phone": "",
-    "careers_url": "https://blogs.iiit.ac.in/girish-varma/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T20:14:43+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=university"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "relation:6203684"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: systems",
-    "raw": {
-      "osm_tags": {
-        "building": "university",
-        "building:levels": "5",
-        "name": "Kohli Center on Intelligent Systems(KCIS)",
-        "nohousenumber": "yes",
-        "type": "multipolygon",
-        "website": "https://kcis.iiit.ac.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://blogs.iiit.ac.in/girish-varma/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T20:14:43+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Reliance Digital",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -84946,9 +84946,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T21:18:18+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://9052833777/jobs: ConnectionError; https://9052833777/jobs/: ConnectionError; https://9052833777/career: ConnectionError; no careers page detected",
     "categories": [
       "craft=photographer"
     ],
@@ -84979,7 +84979,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T21:18:18+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://9052833777/jobs: ConnectionError; https://9052833777/jobs/: ConnectionError; https://9052833777/career: ConnectionError; no careers page detected"
+      }
     }
   }
 ]
