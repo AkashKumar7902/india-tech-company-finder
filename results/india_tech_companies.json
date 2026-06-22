@@ -6819,12 +6819,12 @@
     "lng": 77.6229137,
     "website": "https://www.juspay.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://juspay.io/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://juspay.io/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T22:05:31+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=commercial"
@@ -6856,7 +6856,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://juspay.io/careers",
+        "provider": "company_website",
+        "api_url": "https://juspay.io/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T22:05:31+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -6869,12 +6877,12 @@
     "lng": 77.6509159,
     "website": "https://truestate.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://truestate.in/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T22:05:42+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes"
@@ -6905,7 +6913,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://truestate.in/careers",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T22:05:42+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
