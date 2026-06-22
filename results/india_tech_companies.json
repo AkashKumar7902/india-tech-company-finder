@@ -2967,12 +2967,12 @@
     "lng": 77.5577474,
     "website": "https://coderythm.com/",
     "phone": "+91 80 2345 0822",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://coderythm.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://coderythm.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T10:26:32+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -3000,7 +3000,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://coderythm.com/careers",
+        "provider": "company_website",
+        "api_url": "https://coderythm.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T10:26:32+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -3151,9 +3159,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T10:26:40+00:00",
+    "careers_notes": "https://infycons.com/jobs: HTTPError; https://infycons.com/jobs/: HTTPError; https://infycons.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -3182,7 +3190,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T10:26:40+00:00",
+        "notes": "https://infycons.com/jobs: HTTPError; https://infycons.com/jobs/: HTTPError; https://infycons.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
