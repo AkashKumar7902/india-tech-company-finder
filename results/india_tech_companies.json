@@ -50386,6 +50386,63 @@
     }
   },
   {
+    "name": "WebUtopian Technologies PVT. LTD",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "F- 539, Phase, 8B, Industrial Area, Tower, Sahibzada Ajit Singh Nagar, Punjab, Mohali, 160055",
+    "lat": 30.7093108,
+    "lng": 76.6953918,
+    "website": "https://webutopian.com/",
+    "phone": "",
+    "careers_url": "https://webutopian.com/looking-for-a-career-in-web-development/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T19:07:08+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=At Web Utopian Technologies We change the way you think – creating a new way inspired by the changed world and by a passion for making an impact for our clients across the globe. https://webutopian.com/"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:7097462740"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mohali",
+        "addr:housenumber": "F- 539",
+        "addr:postcode": "160055",
+        "addr:street": "Phase, 8B, Industrial Area, Tower, Sahibzada Ajit Singh Nagar, Punjab",
+        "air_conditioning": "yes",
+        "description": "At Web Utopian Technologies We change the way you think – creating a new way inspired by the changed world and by a passion for making an impact for our clients across the globe. https://webutopian.com/",
+        "name": "WebUtopian Technologies PVT. LTD",
+        "opening_hours": "24/7",
+        "website": "https://webutopian.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://webutopian.com/looking-for-a-career-in-web-development/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T19:07:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Raptee.HV HQ",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -55889,63 +55946,6 @@
         "confidence": "none",
         "checked_at": "2026-06-16T01:33:42+00:00",
         "notes": "homepage fetch failed: HTTPError; https://g.co/jobs: HTTPError; https://g.co/jobs/: HTTPError; https://g.co/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "WebUtopian Technologies PVT. LTD",
-    "city": "Chandigarh-Mohali",
-    "region": "Chandigarh/Punjab",
-    "country": "India",
-    "address": "F- 539, Phase, 8B, Industrial Area, Tower, Sahibzada Ajit Singh Nagar, Punjab, Mohali, 160055",
-    "lat": 30.7093108,
-    "lng": 76.6953918,
-    "website": "https://webutopian.com/",
-    "phone": "",
-    "careers_url": "https://webutopian.com/looking-for-a-career-in-web-development/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800&display=swap",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-22T19:07:08+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=At Web Utopian Technologies We change the way you think – creating a new way inspired by the changed world and by a passion for making an impact for our clients across the globe. https://webutopian.com/"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:7097462740"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Mohali",
-        "addr:housenumber": "F- 539",
-        "addr:postcode": "160055",
-        "addr:street": "Phase, 8B, Industrial Area, Tower, Sahibzada Ajit Singh Nagar, Punjab",
-        "air_conditioning": "yes",
-        "description": "At Web Utopian Technologies We change the way you think – creating a new way inspired by the changed world and by a passion for making an impact for our clients across the globe. https://webutopian.com/",
-        "name": "WebUtopian Technologies PVT. LTD",
-        "opening_hours": "24/7",
-        "website": "https://webutopian.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://webutopian.com/looking-for-a-career-in-web-development/",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800&display=swap",
-        "confidence": "medium",
-        "checked_at": "2026-06-22T19:07:08+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -81011,12 +81011,12 @@
     "lng": 78.3495595,
     "website": "https://kcis.iiit.ac.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://blogs.iiit.ac.in/girish-varma/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-22T20:14:43+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "building=university"
     ],
@@ -81044,7 +81044,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://blogs.iiit.ac.in/girish-varma/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700",
+        "confidence": "medium",
+        "checked_at": "2026-06-22T20:14:43+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -81194,9 +81202,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-22T20:14:52+00:00",
+    "careers_notes": "https://www.metsand.com/jobs: HTTPError; https://www.metsand.com/jobs/: HTTPError; https://www.metsand.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=engineer"
     ],
@@ -81229,7 +81237,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-22T20:14:52+00:00",
+        "notes": "https://www.metsand.com/jobs: HTTPError; https://www.metsand.com/jobs/: HTTPError; https://www.metsand.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
