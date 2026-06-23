@@ -22073,12 +22073,12 @@
     "lng": 85.8025167,
     "website": "https://www.mindsightweb.com",
     "phone": "+91 993 846 9393",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.mindsightweb.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T02:32:53+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -22110,7 +22110,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.mindsightweb.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T02:32:53+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -22240,12 +22248,12 @@
     "lng": 80.2533558,
     "website": "https://usam.in/",
     "phone": "+44 24336117",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://usam.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://usam.in/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T02:32:56+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -22270,7 +22278,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://usam.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://usam.in/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T02:32:56+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
