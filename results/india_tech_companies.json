@@ -26370,71 +26370,6 @@
     }
   },
   {
-    "name": "Kailash Path Labs",
-    "city": "Ghaziabad",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "Shop/Unit No. UGF 003, Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari, Greater Noida, 201306",
-    "lat": 28.5865642,
-    "lng": 77.439639,
-    "website": "https://www.kailashpathlabs.com/",
-    "phone": "+91-9911370370",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "none",
-    "careers_last_checked": "2026-06-22T16:14:33+00:00",
-    "careers_notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected",
-    "categories": [
-      "description=Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12627911775"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technology, labs",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:housenumber": "Shop/Unit No. UGF 003",
-        "addr:postcode": "201306",
-        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
-        "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
-        "email": "info@kailashpathlabs.com",
-        "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
-        "mobile": "+91-9911370370",
-        "name": "Kailash Path Labs",
-        "opening_hours": "Mo-Su 07:00-20:00",
-        "payment:cash": "yes",
-        "payment:contactless": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:google_pay": "yes",
-        "payment:maestro": "yes",
-        "payment:mastercard": "yes",
-        "payment:phonepe": "yes",
-        "payment:visa": "yes",
-        "phone": "+91-9911370370",
-        "source": "local knowledge;streetlevel imagery",
-        "website": "https://www.kailashpathlabs.com/"
-      },
-      "careers": {
-        "url": "",
-        "provider": "",
-        "api_url": "",
-        "confidence": "none",
-        "checked_at": "2026-06-22T16:14:33+00:00",
-        "notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
     "name": "Keysight Technologies Inc",
     "city": "Gurugram",
     "region": "Haryana",
@@ -28649,6 +28584,63 @@
     }
   },
   {
+    "name": "6Simplex",
+    "city": "Nagpur",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "30, Ambazhari Hilltop, Nagpur, 440033",
+    "lat": 21.1366314,
+    "lng": 79.0510026,
+    "website": "https://6simplex.co.in/",
+    "phone": "",
+    "careers_url": "https://6simplex.co.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T04:00:20+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "description=GIS Software Development, ArcObjects, ArcGIS Server, ArcGIS JavaScript API, GeoTools, GeoServer, OpenLayers, ArcGIS Android, Google Maps"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5045666758"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Nagpur",
+        "addr:country": "IN",
+        "addr:housenumber": "30",
+        "addr:postcode": "440033",
+        "addr:street": "Ambazhari Hilltop",
+        "description": "GIS Software Development, ArcObjects, ArcGIS Server, ArcGIS JavaScript API, GeoTools, GeoServer, OpenLayers, ArcGIS Android, Google Maps",
+        "email": "butler@6simplex.co.in",
+        "name": "6Simplex",
+        "website": "https://6simplex.co.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://6simplex.co.in/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T04:00:20+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Accel IT Services",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -28756,6 +28748,59 @@
         "api_url": "https://cyfuture.com/careers.html",
         "confidence": "medium",
         "checked_at": "2026-06-14T21:20:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Cybage Software Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Central Avenue, Pune, 411014",
+    "lat": 18.5458213,
+    "lng": 73.9120357,
+    "website": "https://www.cybage.com/",
+    "phone": "",
+    "careers_url": "https://www.cybage.com/careers/open-positions",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.cybage.com/careers/open-positions",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T04:00:24+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:438991867"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:postcode": "411014",
+        "addr:street": "Central Avenue",
+        "landuse": "commercial",
+        "name": "Cybage Software Pvt Ltd",
+        "website": "https://www.cybage.com/",
+        "wheelchair": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cybage.com/careers/open-positions",
+        "provider": "company_website",
+        "api_url": "https://www.cybage.com/careers/open-positions",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T04:00:24+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -45275,63 +45320,6 @@
     }
   },
   {
-    "name": "6Simplex",
-    "city": "Nagpur",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "30, Ambazhari Hilltop, Nagpur, 440033",
-    "lat": 21.1366314,
-    "lng": 79.0510026,
-    "website": "https://6simplex.co.in/",
-    "phone": "",
-    "careers_url": "https://6simplex.co.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T04:00:20+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "description=GIS Software Development, ArcObjects, ArcGIS Server, ArcGIS JavaScript API, GeoTools, GeoServer, OpenLayers, ArcGIS Android, Google Maps"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5045666758"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: software",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Nagpur",
-        "addr:country": "IN",
-        "addr:housenumber": "30",
-        "addr:postcode": "440033",
-        "addr:street": "Ambazhari Hilltop",
-        "description": "GIS Software Development, ArcObjects, ArcGIS Server, ArcGIS JavaScript API, GeoTools, GeoServer, OpenLayers, ArcGIS Android, Google Maps",
-        "email": "butler@6simplex.co.in",
-        "name": "6Simplex",
-        "website": "https://6simplex.co.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://6simplex.co.in/jobs",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T04:00:20+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "eLan Technology",
     "city": "Nagpur",
     "region": "Maharashtra",
@@ -46153,59 +46141,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Cybage Software Pvt Ltd",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Central Avenue, Pune, 411014",
-    "lat": 18.5458213,
-    "lng": 73.9120357,
-    "website": "https://www.cybage.com/",
-    "phone": "",
-    "careers_url": "https://www.cybage.com/careers/open-positions",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.cybage.com/careers/open-positions",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T04:00:24+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:438991867"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: software",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:postcode": "411014",
-        "addr:street": "Central Avenue",
-        "landuse": "commercial",
-        "name": "Cybage Software Pvt Ltd",
-        "website": "https://www.cybage.com/",
-        "wheelchair": "yes"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.cybage.com/careers/open-positions",
-        "provider": "company_website",
-        "api_url": "https://www.cybage.com/careers/open-positions",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T04:00:24+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -57670,9 +57605,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T05:32:26+00:00",
+    "careers_notes": "https://www.satleolabs.com/jobs: HTTPError; https://www.satleolabs.com/jobs/: HTTPError; https://www.satleolabs.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -57703,7 +57638,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T05:32:26+00:00",
+        "notes": "https://www.satleolabs.com/jobs: HTTPError; https://www.satleolabs.com/jobs/: HTTPError; https://www.satleolabs.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -57770,12 +57713,12 @@
     "lng": 77.0790894,
     "website": "https://www.thecompsolutions.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.thecompsolutions.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T05:32:32+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "shop=computer"
     ],
@@ -57804,7 +57747,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.thecompsolutions.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T05:32:32+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
