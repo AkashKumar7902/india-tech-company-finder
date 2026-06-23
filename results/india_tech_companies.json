@@ -19043,6 +19043,63 @@
     }
   },
   {
+    "name": "InfinityHub",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "No.1056, Ground Floor, Avinashi Rd, Near Anna Statue, Coimbatore, 641018",
+    "lat": 11.0079129,
+    "lng": 76.9758217,
+    "website": "https://www.theinfinityhub.com/",
+    "phone": "+919025049439",
+    "careers_url": "https://theinfinityhub.com/career.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T18:14:10+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13727215134"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Coimbatore",
+        "addr:district": "Tamil Nadu",
+        "addr:housenumber": "No.1056",
+        "addr:postcode": "641018",
+        "addr:street": "Ground Floor, Avinashi Rd, Near Anna Statue",
+        "name": "InfinityHub",
+        "office": "it",
+        "phone": "+919025049439",
+        "website": "https://www.theinfinityhub.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://theinfinityhub.com/career.html",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T18:14:10+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Campus On Click",
     "city": "Gandhinagar",
     "region": "Gujarat",
@@ -24390,63 +24447,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "InfinityHub",
-    "city": "Coimbatore",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "No.1056, Ground Floor, Avinashi Rd, Near Anna Statue, Coimbatore, 641018",
-    "lat": 11.0079129,
-    "lng": 76.9758217,
-    "website": "https://www.theinfinityhub.com/",
-    "phone": "+919025049439",
-    "careers_url": "https://theinfinityhub.com/career.html",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fonts.googleapis.com",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T18:14:10+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13727215134"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Coimbatore",
-        "addr:district": "Tamil Nadu",
-        "addr:housenumber": "No.1056",
-        "addr:postcode": "641018",
-        "addr:street": "Ground Floor, Avinashi Rd, Near Anna Statue",
-        "name": "InfinityHub",
-        "office": "it",
-        "phone": "+919025049439",
-        "website": "https://www.theinfinityhub.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://theinfinityhub.com/career.html",
-        "provider": "company_website",
-        "api_url": "https://fonts.googleapis.com",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T18:14:10+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -84551,9 +84551,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T19:03:10+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://vlabs.iitb.ac.in/jobs: ConnectionError; http://vlabs.iitb.ac.in/jobs/: ConnectionError; http://vlabs.iitb.ac.in/career: ConnectionError; no careers page detected",
     "categories": [
       "building=garage",
       "description=Office of Virtual Labs, IIT Bombay."
@@ -84588,7 +84588,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T19:03:10+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://vlabs.iitb.ac.in/jobs: ConnectionError; http://vlabs.iitb.ac.in/jobs/: ConnectionError; http://vlabs.iitb.ac.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -84604,9 +84612,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T19:03:13+00:00",
+    "careers_notes": "https://www.vgc.in/jobs: HTTPError; https://www.vgc.in/jobs/: HTTPError; https://www.vgc.in/career: HTTPError; no careers page detected",
     "categories": [
       "building=yes",
       "description=VGC was founded in 1997 with the vision to transform the marketplace through Strategic Integrated Design and Innovative Communication Solutions. We have worked with over 100 leading brands, over two decades and today we are one of India’s top creative age"
@@ -84639,7 +84647,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T19:03:13+00:00",
+        "notes": "https://www.vgc.in/jobs: HTTPError; https://www.vgc.in/jobs/: HTTPError; https://www.vgc.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
