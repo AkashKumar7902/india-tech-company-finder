@@ -3375,6 +3375,119 @@
     }
   },
   {
+    "name": "Sunsoft Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "14, 1 Main Road, bangalore, 560072",
+    "lat": 12.9221739,
+    "lng": 77.5762688,
+    "website": "http://sunsofttechnology.com",
+    "phone": "9844202861",
+    "careers_url": "https://www.sunsofttechnology.com/career-coaching",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://sunsofttechnology.com/career-coaching",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T21:52:36+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3208809160"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "bangalore",
+        "addr:housenumber": "14",
+        "addr:postcode": "560072",
+        "addr:street": "1 Main Road",
+        "name": "Sunsoft Technologies",
+        "office": "it",
+        "phone": "9844202861",
+        "website": "http://sunsofttechnology.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sunsofttechnology.com/career-coaching",
+        "provider": "company_website",
+        "api_url": "https://sunsofttechnology.com/career-coaching",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T21:52:36+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "VirtuBox Infotech Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "33, 5th Cross Rd, Jakasandra Block, Koramangala 3 Block, Koramangala, Bengaluru, 560034",
+    "lat": 12.9292846,
+    "lng": 77.6308206,
+    "website": "https://www.virtubox.io/",
+    "phone": "07022559390",
+    "careers_url": "https://www.virtubox.io/in",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T21:52:38+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11953294206"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: infotech, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:district": "Bengaluru",
+        "addr:postcode": "560034",
+        "addr:street": "33, 5th Cross Rd, Jakasandra Block, Koramangala 3 Block, Koramangala",
+        "name": "VirtuBox Infotech Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "07022559390",
+        "website": "https://www.virtubox.io/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.virtubox.io/in",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T21:52:38+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Blaze Dream Technologies Pvt Ltd",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -4885,119 +4998,6 @@
         "confidence": "none",
         "checked_at": "2026-06-18T13:47:01+00:00",
         "notes": "homepage fetch failed: ConnectTimeout; https://www.mimsystech.com/jobs: ConnectTimeout; https://www.mimsystech.com/jobs/: ConnectTimeout; https://www.mimsystech.com/career: ConnectTimeout; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Sunsoft Technologies",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "14, 1 Main Road, bangalore, 560072",
-    "lat": 12.9221739,
-    "lng": 77.5762688,
-    "website": "http://sunsofttechnology.com",
-    "phone": "9844202861",
-    "careers_url": "https://www.sunsofttechnology.com/career-coaching",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://sunsofttechnology.com/career-coaching",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T21:52:36+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3208809160"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "bangalore",
-        "addr:housenumber": "14",
-        "addr:postcode": "560072",
-        "addr:street": "1 Main Road",
-        "name": "Sunsoft Technologies",
-        "office": "it",
-        "phone": "9844202861",
-        "website": "http://sunsofttechnology.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.sunsofttechnology.com/career-coaching",
-        "provider": "company_website",
-        "api_url": "https://sunsofttechnology.com/career-coaching",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T21:52:36+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "VirtuBox Infotech Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "33, 5th Cross Rd, Jakasandra Block, Koramangala 3 Block, Koramangala, Bengaluru, 560034",
-    "lat": 12.9292846,
-    "lng": 77.6308206,
-    "website": "https://www.virtubox.io/",
-    "phone": "07022559390",
-    "careers_url": "https://www.virtubox.io/in",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-23T21:52:38+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11953294206"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: infotech, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:district": "Bengaluru",
-        "addr:postcode": "560034",
-        "addr:street": "33, 5th Cross Rd, Jakasandra Block, Koramangala 3 Block, Koramangala",
-        "name": "VirtuBox Infotech Pvt Ltd",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "07022559390",
-        "website": "https://www.virtubox.io/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.virtubox.io/in",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-23T21:52:38+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -7105,9 +7105,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T22:27:54+00:00",
+    "careers_notes": "http://ecom-developers.net/jobs: HTTPError; http://ecom-developers.net/jobs/: HTTPError; http://ecom-developers.net/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -7137,7 +7137,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T22:27:54+00:00",
+        "notes": "http://ecom-developers.net/jobs: HTTPError; http://ecom-developers.net/jobs/: HTTPError; http://ecom-developers.net/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -7210,12 +7218,12 @@
     "lng": 77.2644387,
     "website": "https://www.esuccess.ai/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://esuccess.ai/blog/unlocking-ais-transformative-power-a-strategicapproach-to-identifying-opportunities/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;display=fallback&#038;ver=6.7.5",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T22:27:57+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -7246,7 +7254,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://esuccess.ai/blog/unlocking-ais-transformative-power-a-strategicapproach-to-identifying-opportunities/",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;display=fallback&#038;ver=6.7.5",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T22:27:57+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -14025,22 +14041,22 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:12627911775"
+      "openstreetmap": "node:12627866655"
     },
     "tech_score": 56.0,
     "confidence": "high",
     "notes": "matched: technology, solutions, labs",
     "raw": {
       "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:housenumber": "Shop/Unit No. UGF 003",
-        "addr:postcode": "201306",
-        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "Shop No. GF 05",
+        "addr:postcode": "201014",
+        "addr:street": "Parsvanath Majestic Arcade, Vaibhav Khand, Indirapuram",
         "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
+        "description": "Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
         "email": "info@kailashpathlabs.com",
         "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOEWUABldwOSVjwBEcZJ2jJe2LF4s2vMO1Fv47x=s680-w680-h510",
         "mobile": "+91-9911370370",
         "name": "Kailash Path Labs",
         "opening_hours": "Mo-Su 07:00-20:00",
@@ -26510,6 +26526,63 @@
         "confidence": "low",
         "checked_at": "2026-06-21T17:02:09+00:00",
         "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Kailash Path Labs",
+    "city": "Ghaziabad",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Shop/Unit No. UGF 003, Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari, Greater Noida, 201306",
+    "lat": 28.5865642,
+    "lng": 77.439639,
+    "website": "https://www.kailashpathlabs.com/",
+    "phone": "+91-9911370370",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "description=Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12627911775"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technology, labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "Shop/Unit No. UGF 003",
+        "addr:postcode": "201306",
+        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
+        "brand": "Kailash Healthcare Ltd.",
+        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
+        "email": "info@kailashpathlabs.com",
+        "healthcare": "sample_collection",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
+        "mobile": "+91-9911370370",
+        "name": "Kailash Path Labs",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:phonepe": "yes",
+        "payment:visa": "yes",
+        "phone": "+91-9911370370",
+        "source": "local knowledge;streetlevel imagery",
+        "website": "https://www.kailashpathlabs.com/"
       }
     }
   },
