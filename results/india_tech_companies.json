@@ -4962,9 +4962,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T01:31:02+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.maptrax.in/jobs: ConnectionError; https://www.maptrax.in/jobs/: ConnectionError; https://www.maptrax.in/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -4995,7 +4995,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T01:31:02+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.maptrax.in/jobs: ConnectionError; https://www.maptrax.in/jobs/: ConnectionError; https://www.maptrax.in/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -5061,9 +5069,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T01:31:03+00:00",
+    "careers_notes": "https://electrontechnology.co.in/jobs: HTTPError; https://electrontechnology.co.in/jobs/: HTTPError; https://electrontechnology.co.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -5094,7 +5102,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T01:31:03+00:00",
+        "notes": "https://electrontechnology.co.in/jobs: HTTPError; https://electrontechnology.co.in/jobs/: HTTPError; https://electrontechnology.co.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -77317,6 +77333,77 @@
     }
   },
   {
+    "name": "Gaura Travel Solutions",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "1st Floor, FS Plaza, 105, Jagat Farm, Sector Gamma 1, Greater Noida, 201310",
+    "lat": 28.4821836,
+    "lng": 77.4989513,
+    "website": "https://www.gauratravelsolutions.com/",
+    "phone": "919711737879",
+    "careers_url": "https://www.gauratravelsolutions.com/Error/Index",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T00:42:28+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=travel_agency",
+      "description=Embark on your next adventure with Gaura Travel Solutions, your dedicated travel partner since 2015. Located in Greater Noida, this premier agency specialises in crafting seamless travel experiences."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13902440613"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Greater Noida",
+        "addr:district": "Gautam Buddha Nagar",
+        "addr:postcode": "201310",
+        "addr:street": "1st Floor, FS Plaza, 105, Jagat Farm, Sector Gamma 1",
+        "description": "Embark on your next adventure with Gaura Travel Solutions, your dedicated travel partner since 2015. Located in Greater Noida, this premier agency specialises in crafting seamless travel experiences.",
+        "mobile": "919711737879",
+        "name": "Gaura Travel Solutions",
+        "opening_hours": "Mo-Sa 10:00-19:30, Su 11:00-19:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:nfc_mobile_payments": "yes",
+        "payment:visa": "yes",
+        "phone": "919711737879",
+        "shop": "travel_agency",
+        "start_date": "2015-03-19",
+        "toilets": "yes",
+        "website": "https://www.gauratravelsolutions.com/",
+        "wheelchair": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.gauratravelsolutions.com/Error/Index",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T00:42:28+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Green Globe Solutions",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -81882,77 +81969,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Gaura Travel Solutions",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "1st Floor, FS Plaza, 105, Jagat Farm, Sector Gamma 1, Greater Noida, 201310",
-    "lat": 28.4821836,
-    "lng": 77.4989513,
-    "website": "https://www.gauratravelsolutions.com/",
-    "phone": "919711737879",
-    "careers_url": "https://www.gauratravelsolutions.com/Error/Index",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-23T00:42:28+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=travel_agency",
-      "description=Embark on your next adventure with Gaura Travel Solutions, your dedicated travel partner since 2015. Located in Greater Noida, this premier agency specialises in crafting seamless travel experiences."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13902440613"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Greater Noida",
-        "addr:district": "Gautam Buddha Nagar",
-        "addr:postcode": "201310",
-        "addr:street": "1st Floor, FS Plaza, 105, Jagat Farm, Sector Gamma 1",
-        "description": "Embark on your next adventure with Gaura Travel Solutions, your dedicated travel partner since 2015. Located in Greater Noida, this premier agency specialises in crafting seamless travel experiences.",
-        "mobile": "919711737879",
-        "name": "Gaura Travel Solutions",
-        "opening_hours": "Mo-Sa 10:00-19:30, Su 11:00-19:00",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:diners_club": "yes",
-        "payment:jcb": "yes",
-        "payment:mastercard": "yes",
-        "payment:nfc_mobile_payments": "yes",
-        "payment:visa": "yes",
-        "phone": "919711737879",
-        "shop": "travel_agency",
-        "start_date": "2015-03-19",
-        "toilets": "yes",
-        "website": "https://www.gauratravelsolutions.com/",
-        "wheelchair": "yes"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.gauratravelsolutions.com/Error/Index",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-23T00:42:28+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
