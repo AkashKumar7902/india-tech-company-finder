@@ -3976,6 +3976,126 @@
     }
   },
   {
+    "name": "Shilsha Technologies",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "H-15, Sector 63, Noida, 201301",
+    "lat": 28.6302852,
+    "lng": 77.3788993,
+    "website": "https://www.shilshatech.com",
+    "phone": "+911204120113",
+    "careers_url": "https://www.shilshatech.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T21:15:24+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11928073807"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:district": "Uttar Pradesh",
+        "addr:housenumber": "H-15",
+        "addr:postcode": "201301",
+        "addr:street": "Sector 63",
+        "name": "Shilsha Technologies",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-19:00",
+        "phone": "+911204120113",
+        "website": "https://www.shilshatech.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.shilshatech.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T21:15:24+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "VirtuBox Infotech Private Limited",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "C-67, Sector 57, Noida, 201301",
+    "lat": 28.6086692,
+    "lng": 77.3512408,
+    "website": "https://www.virtubox.io",
+    "phone": "+91 78387 23175",
+    "careers_url": "https://www.virtubox.io/in",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T21:15:32+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:351079187"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: infotech, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:district": "Noida",
+        "addr:housenumber": "C-67",
+        "addr:postcode": "201301",
+        "addr:street": "Sector 57",
+        "building": "yes",
+        "email": "hello@virtubox.io",
+        "name": "VirtuBox Infotech Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91 78387 23175",
+        "short_name": "VirtuBox",
+        "website": "https://www.virtubox.io"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.virtubox.io/in",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T21:15:32+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "KH Technologies Private Limited",
     "city": "Pune",
     "region": "Maharashtra",
@@ -4778,12 +4898,12 @@
     "lng": 77.5762688,
     "website": "http://sunsofttechnology.com",
     "phone": "9844202861",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.sunsofttechnology.com/career-coaching",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://sunsofttechnology.com/career-coaching",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T21:52:36+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4813,7 +4933,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.sunsofttechnology.com/career-coaching",
+        "provider": "company_website",
+        "api_url": "https://sunsofttechnology.com/career-coaching",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T21:52:36+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -4826,12 +4954,12 @@
     "lng": 77.6308206,
     "website": "https://www.virtubox.io/",
     "phone": "07022559390",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.virtubox.io/in",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T21:52:38+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4862,7 +4990,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.virtubox.io/in",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T21:52:38+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -5344,126 +5480,6 @@
         "confidence": "none",
         "checked_at": "2026-06-20T16:00:24+00:00",
         "notes": "https://www.vibegeo.com/jobs: HTTPError; https://www.vibegeo.com/jobs/: HTTPError; https://www.vibegeo.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Shilsha Technologies",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "H-15, Sector 63, Noida, 201301",
-    "lat": 28.6302852,
-    "lng": 77.3788993,
-    "website": "https://www.shilshatech.com",
-    "phone": "+911204120113",
-    "careers_url": "https://www.shilshatech.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-23T21:15:24+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11928073807"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida",
-        "addr:district": "Uttar Pradesh",
-        "addr:housenumber": "H-15",
-        "addr:postcode": "201301",
-        "addr:street": "Sector 63",
-        "name": "Shilsha Technologies",
-        "office": "it",
-        "opening_hours": "Mo-Fr 10:00-19:00",
-        "phone": "+911204120113",
-        "website": "https://www.shilshatech.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.shilshatech.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-23T21:15:24+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "VirtuBox Infotech Private Limited",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "C-67, Sector 57, Noida, 201301",
-    "lat": 28.6086692,
-    "lng": 77.3512408,
-    "website": "https://www.virtubox.io",
-    "phone": "+91 78387 23175",
-    "careers_url": "https://www.virtubox.io/in",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-23T21:15:32+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:351079187"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: infotech, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida",
-        "addr:district": "Noida",
-        "addr:housenumber": "C-67",
-        "addr:postcode": "201301",
-        "addr:street": "Sector 57",
-        "building": "yes",
-        "email": "hello@virtubox.io",
-        "name": "VirtuBox Infotech Private Limited",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91 78387 23175",
-        "short_name": "VirtuBox",
-        "website": "https://www.virtubox.io"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.virtubox.io/in",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-23T21:15:32+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
