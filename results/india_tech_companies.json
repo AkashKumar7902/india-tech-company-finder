@@ -5357,12 +5357,12 @@
     "lng": 77.3788993,
     "website": "https://www.shilshatech.com",
     "phone": "+911204120113",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.shilshatech.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T21:15:24+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -5394,7 +5394,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.shilshatech.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T21:15:24+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -5407,12 +5415,12 @@
     "lng": 77.3512408,
     "website": "https://www.virtubox.io",
     "phone": "+91 78387 23175",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.virtubox.io/in",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T21:15:32+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "building=yes"
@@ -5448,7 +5456,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.virtubox.io/in",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T21:15:32+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -16374,6 +16390,65 @@
     }
   },
   {
+    "name": "Ascent HR Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Survey No: 17/4C, 9C, 3rd Floor Maruthi Chambers, Hosur Rd, Roopena Agrahara, Bengaluru, 560068",
+    "lat": 12.9141666,
+    "lng": 77.6235872,
+    "website": "https://ascent-hr.com",
+    "phone": "080 4009 9500",
+    "careers_url": "https://ascent-hr.com/careers/job-openings/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ascent-hr.com/careers/job-openings/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T20:35:11+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:5915230904"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:district": "Bengaluru Urban",
+        "addr:housenumber": "Survey No: 17/4C, 9C",
+        "addr:postcode": "560068",
+        "addr:street": "3rd Floor Maruthi Chambers, Hosur Rd, Roopena Agrahara",
+        "name": "Ascent HR Technologies",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "080 4009 9500",
+        "website": "https://ascent-hr.com",
+        "website:2": "https://stohrm.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://ascent-hr.com/careers/job-openings/",
+        "provider": "company_website",
+        "api_url": "https://ascent-hr.com/careers/job-openings/",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T20:35:11+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Aum Infotech Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -21866,65 +21941,6 @@
         "api_url": "https://www.miniorange.com/career/",
         "confidence": "medium",
         "checked_at": "2026-06-22T01:33:12+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Ascent HR Technologies",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Survey No: 17/4C, 9C, 3rd Floor Maruthi Chambers, Hosur Rd, Roopena Agrahara, Bengaluru, 560068",
-    "lat": 12.9141666,
-    "lng": 77.6235872,
-    "website": "https://ascent-hr.com",
-    "phone": "080 4009 9500",
-    "careers_url": "https://ascent-hr.com/careers/job-openings/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://ascent-hr.com/careers/job-openings/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T20:35:11+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:5915230904"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bengaluru",
-        "addr:district": "Bengaluru Urban",
-        "addr:housenumber": "Survey No: 17/4C, 9C",
-        "addr:postcode": "560068",
-        "addr:street": "3rd Floor Maruthi Chambers, Hosur Rd, Roopena Agrahara",
-        "name": "Ascent HR Technologies",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "080 4009 9500",
-        "website": "https://ascent-hr.com",
-        "website:2": "https://stohrm.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://ascent-hr.com/careers/job-openings/",
-        "provider": "company_website",
-        "api_url": "https://ascent-hr.com/careers/job-openings/",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T20:35:11+00:00",
         "notes": "careers page found on company website"
       }
     }
