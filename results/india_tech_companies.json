@@ -14339,12 +14339,12 @@
     "lng": 78.4006673,
     "website": "https://unwiredlabs.com",
     "phone": "+91-4066-588335",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://locationiq.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://locationiq.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T16:43:40+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -14374,7 +14374,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://locationiq.com/careers",
+        "provider": "company_website",
+        "api_url": "https://locationiq.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T16:43:40+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -15127,12 +15135,12 @@
     "lng": 73.8547865,
     "website": "http://nityaalabs.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "http://nityaalabs.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T16:43:44+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -15159,7 +15167,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "http://nityaalabs.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T16:43:44+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -76517,6 +76533,59 @@
     }
   },
   {
+    "name": "CMS Info Systems",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 13.0001303,
+    "lng": 77.6204117,
+    "website": "https://www.cms.com/",
+    "phone": "",
+    "careers_url": "https://www.cms.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.cms.com/careers.php",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T15:49:30+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=yes",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:965191484"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: systems",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "CMS Info Systems",
+        "office": "yes",
+        "website": "https://www.cms.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cms.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.cms.com/careers.php",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T15:49:30+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Mathew Digital",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -80518,59 +80587,6 @@
         "confidence": "none",
         "checked_at": "2026-06-20T03:31:49+00:00",
         "notes": "https://www.cloudphysician.ai/jobs: HTTPError; https://www.cloudphysician.ai/jobs/: HTTPError; https://www.cloudphysician.ai/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "CMS Info Systems",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "",
-    "lat": 13.0001303,
-    "lng": 77.6204117,
-    "website": "https://www.cms.com/",
-    "phone": "",
-    "careers_url": "https://www.cms.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.cms.com/careers.php",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T15:49:30+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=yes",
-      "building=yes"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:965191484"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: systems",
-    "raw": {
-      "osm_tags": {
-        "building": "yes",
-        "name": "CMS Info Systems",
-        "office": "yes",
-        "website": "https://www.cms.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.cms.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.cms.com/careers.php",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T15:49:30+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
