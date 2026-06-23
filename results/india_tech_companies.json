@@ -4559,12 +4559,12 @@
     "lng": 77.319968,
     "website": "https://trackobit.com/",
     "phone": "9310402061",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://trackobit.com/wp-content/uploads/2024/04/Jobs-that-require-field-service-mobile-apps.webp",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T06:57:38+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "description=TrackoBit is the fastest growing Telematics software company based out in India. Our expertise lies in building real-time platforms backed by robust infrastructure that scales on the cloud. We manage millions of real-time connections, process data into me"
@@ -4598,7 +4598,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://trackobit.com/wp-content/uploads/2024/04/Jobs-that-require-field-service-mobile-apps.webp",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T06:57:38+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -4611,12 +4619,12 @@
     "lng": 72.6790066,
     "website": "https://zenkins.com/",
     "phone": "+91 7069018504",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://zenkins.com/insights/guide-to-hiring-the-perfect-it-service-desk-engineer/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://zenkins.com/addons/wp-job-openings/blocks/build/style-index.css?ver=1.0.1",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T06:57:46+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -4648,7 +4656,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://zenkins.com/insights/guide-to-hiring-the-perfect-it-service-desk-engineer/",
+        "provider": "company_website",
+        "api_url": "https://zenkins.com/addons/wp-job-openings/blocks/build/style-index.css?ver=1.0.1",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T06:57:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52755,6 +52771,61 @@
     }
   },
   {
+    "name": "The Comp Solutions",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "",
+    "lat": 28.4606332,
+    "lng": 77.0790894,
+    "website": "https://www.thecompsolutions.com",
+    "phone": "",
+    "careers_url": "https://www.thecompsolutions.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T05:32:32+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12091658519"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2024-08-04",
+        "internet_access": "no",
+        "name": "The Comp Solutions",
+        "name:en": "The Comp Solutions",
+        "shop": "computer",
+        "website": "https://www.thecompsolutions.com",
+        "wheelchair": "no"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.thecompsolutions.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T05:32:32+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Qkoncept Learning",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -57700,61 +57771,6 @@
         "confidence": "none",
         "checked_at": "2026-06-20T02:10:31+00:00",
         "notes": "homepage fetch failed: HTTPError; https://www.sap.com/jobs: HTTPError; https://www.sap.com/jobs/: HTTPError; https://www.sap.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "The Comp Solutions",
-    "city": "Gurugram",
-    "region": "Haryana",
-    "country": "India",
-    "address": "",
-    "lat": 28.4606332,
-    "lng": 77.0790894,
-    "website": "https://www.thecompsolutions.com",
-    "phone": "",
-    "careers_url": "https://www.thecompsolutions.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-23T05:32:32+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "shop=computer"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12091658519"
-    },
-    "tech_score": 30.0,
-    "confidence": "low",
-    "notes": "matched: solutions, computer",
-    "raw": {
-      "osm_tags": {
-        "check_date": "2024-08-04",
-        "internet_access": "no",
-        "name": "The Comp Solutions",
-        "name:en": "The Comp Solutions",
-        "shop": "computer",
-        "website": "https://www.thecompsolutions.com",
-        "wheelchair": "no"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.thecompsolutions.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-23T05:32:32+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
