@@ -24123,9 +24123,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T18:14:09+00:00",
+    "careers_notes": "https://www.ducenit.com/jobs: HTTPError; https://www.ducenit.com/jobs/: HTTPError; https://www.ducenit.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=it",
       "description=Ducen IT helps Business and IT users of Fortune 1000 companies with advanced analytics, business intelligence and data management through its unique end-to-end data science platform called Analance. "
@@ -24158,7 +24158,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T18:14:09+00:00",
+        "notes": "https://www.ducenit.com/jobs: HTTPError; https://www.ducenit.com/jobs/: HTTPError; https://www.ducenit.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -24394,12 +24402,12 @@
     "lng": 76.9758217,
     "website": "https://www.theinfinityhub.com/",
     "phone": "+919025049439",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://theinfinityhub.com/career.html",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T18:14:10+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -24430,7 +24438,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://theinfinityhub.com/career.html",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T18:14:10+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -51653,6 +51669,63 @@
     }
   },
   {
+    "name": "VayuZon Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "09, Anandnagar, Kothrud, 411038",
+    "lat": 18.5092259,
+    "lng": 73.8134823,
+    "website": "https://vayuzon.com/",
+    "phone": "",
+    "careers_url": "https://www.vayuzon.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.vayuzon.com/><title>Careers | VayuZon Technology</title><meta name=",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T17:28:26+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13540096536"
+    },
+    "tech_score": 36.0,
+    "confidence": "medium",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kothrud",
+        "addr:country": "IN",
+        "addr:district": "Pune",
+        "addr:housenumber": "09",
+        "addr:postcode": "411038",
+        "addr:street": "Anandnagar",
+        "email": "contact@vayuzon.com",
+        "mobile": "+91 7709730247",
+        "name": "VayuZon Technology",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "website": "https://vayuzon.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.vayuzon.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.vayuzon.com/><title>Careers | VayuZon Technology</title><meta name=",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T17:28:26+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Livares Technologies Pvt Ltd",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
@@ -57188,63 +57261,6 @@
         "confidence": "none",
         "checked_at": "2026-06-16T17:32:23+00:00",
         "notes": "homepage fetch failed: ReadTimeout; https://discreet.co.in/jobs: ReadTimeout; https://discreet.co.in/jobs/: ReadTimeout; https://discreet.co.in/career: ReadTimeout; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "VayuZon Technology",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "09, Anandnagar, Kothrud, 411038",
-    "lat": 18.5092259,
-    "lng": 73.8134823,
-    "website": "https://vayuzon.com/",
-    "phone": "",
-    "careers_url": "https://www.vayuzon.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.vayuzon.com/><title>Careers | VayuZon Technology</title><meta name=",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T17:28:26+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13540096536"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Kothrud",
-        "addr:country": "IN",
-        "addr:district": "Pune",
-        "addr:housenumber": "09",
-        "addr:postcode": "411038",
-        "addr:street": "Anandnagar",
-        "email": "contact@vayuzon.com",
-        "mobile": "+91 7709730247",
-        "name": "VayuZon Technology",
-        "opening_hours": "Mo-Fr 09:00-19:00",
-        "website": "https://vayuzon.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.vayuzon.com/career",
-        "provider": "company_website",
-        "api_url": "https://www.vayuzon.com/><title>Careers | VayuZon Technology</title><meta name=",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T17:28:26+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
