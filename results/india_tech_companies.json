@@ -20366,9 +20366,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T20:35:03+00:00",
+    "careers_notes": "https://gigates.com/jobs: HTTPError; https://gigates.com/jobs/: HTTPError; https://gigates.com/career: HTTPError; no careers page detected",
     "categories": [
       "description=Installs, upgrades, maintains, and repairs CCTV security systems"
     ],
@@ -20420,7 +20420,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T20:35:03+00:00",
+        "notes": "https://gigates.com/jobs: HTTPError; https://gigates.com/jobs/: HTTPError; https://gigates.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -21872,12 +21880,12 @@
     "lng": 77.6235872,
     "website": "https://ascent-hr.com",
     "phone": "080 4009 9500",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://ascent-hr.com/careers/job-openings/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://ascent-hr.com/careers/job-openings/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T20:35:11+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -21910,7 +21918,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://ascent-hr.com/careers/job-openings/",
+        "provider": "company_website",
+        "api_url": "https://ascent-hr.com/careers/job-openings/",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T20:35:11+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -36230,6 +36246,62 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "e-con Systems",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Mahatma Gandhi Road, 560001",
+    "lat": 12.9731569,
+    "lng": 77.6137794,
+    "website": "https://www.e-consystems.com",
+    "phone": "",
+    "careers_url": "https://www.e-consystems.com/careers.asp",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.e-consystems.com/careers.asp",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T19:48:33+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9891898737"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:country": "IN",
+        "addr:housename": "Raheja Towers",
+        "addr:postcode": "560001",
+        "addr:street": "Mahatma Gandhi Road",
+        "addr:unit": "902",
+        "name": "e-con Systems",
+        "office": "company",
+        "website": "https://www.e-consystems.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.e-consystems.com/careers.asp",
+        "provider": "company_website",
+        "api_url": "https://www.e-consystems.com/careers.asp",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T19:48:33+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52133,62 +52205,6 @@
         "confidence": "none",
         "checked_at": "2026-06-14T23:28:57+00:00",
         "notes": "https://brooksrunningindia.com/jobs: HTTPError; https://brooksrunningindia.com/jobs/: HTTPError; https://brooksrunningindia.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "e-con Systems",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "Mahatma Gandhi Road, 560001",
-    "lat": 12.9731569,
-    "lng": 77.6137794,
-    "website": "https://www.e-consystems.com",
-    "phone": "",
-    "careers_url": "https://www.e-consystems.com/careers.asp",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.e-consystems.com/careers.asp",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T19:48:33+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9891898737"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: systems, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:country": "IN",
-        "addr:housename": "Raheja Towers",
-        "addr:postcode": "560001",
-        "addr:street": "Mahatma Gandhi Road",
-        "addr:unit": "902",
-        "name": "e-con Systems",
-        "office": "company",
-        "website": "https://www.e-consystems.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.e-consystems.com/careers.asp",
-        "provider": "company_website",
-        "api_url": "https://www.e-consystems.com/careers.asp",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T19:48:33+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
