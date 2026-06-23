@@ -13750,22 +13750,22 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:12627866655"
+      "openstreetmap": "node:12627911775"
     },
     "tech_score": 56.0,
     "confidence": "high",
     "notes": "matched: technology, solutions, labs",
     "raw": {
       "osm_tags": {
-        "addr:city": "Ghaziabad",
-        "addr:housenumber": "Shop No. GF 05",
-        "addr:postcode": "201014",
-        "addr:street": "Parsvanath Majestic Arcade, Vaibhav Khand, Indirapuram",
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "Shop/Unit No. UGF 003",
+        "addr:postcode": "201306",
+        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
         "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
+        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
         "email": "info@kailashpathlabs.com",
         "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipOEWUABldwOSVjwBEcZJ2jJe2LF4s2vMO1Fv47x=s680-w680-h510",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
         "mobile": "+91-9911370370",
         "name": "Kailash Path Labs",
         "opening_hours": "Mo-Su 07:00-20:00",
@@ -16945,6 +16945,64 @@
     }
   },
   {
+    "name": "Mindsight Web Technology WFH Extn",
+    "city": "Bhubaneswar",
+    "region": "Odisha",
+    "country": "India",
+    "address": "4/05, C1 Block, Hi-Tech Plaza, Sundarapada-Jatani Road, Bhubaneswar, 751002",
+    "lat": 20.2066362,
+    "lng": 85.8025167,
+    "website": "https://www.mindsightweb.com",
+    "phone": "+91 993 846 9393",
+    "careers_url": "https://www.mindsightweb.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T02:32:53+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8864713453"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bhubaneswar",
+        "addr:country": "IN",
+        "addr:housenumber": "4/05, C1 Block, Hi-Tech Plaza",
+        "addr:postcode": "751002",
+        "addr:street": "Sundarapada-Jatani Road",
+        "name": "Mindsight Web Technology WFH Extn",
+        "office": "company",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "+91 993 846 9393",
+        "website": "https://www.mindsightweb.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.mindsightweb.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T02:32:53+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Richest Technologies Pvt. Ltd.",
     "city": "Chandigarh-Mohali",
     "region": "Chandigarh/Punjab",
@@ -17055,6 +17113,57 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "USAM Technology Solutions - CAD Services",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 13.0389627,
+    "lng": 80.2533558,
+    "website": "https://usam.in/",
+    "phone": "+44 24336117",
+    "careers_url": "https://usam.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://usam.in/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T02:32:56+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:3233726432"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technology, solutions",
+    "raw": {
+      "osm_tags": {
+        "highway": "services",
+        "name": "USAM Technology Solutions - CAD Services",
+        "note": "CAD Services, Plotting Services, A0 copying",
+        "phone": "+44 24336117",
+        "website": "https://usam.in/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://usam.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://usam.in/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T02:32:56+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -22064,64 +22173,6 @@
     }
   },
   {
-    "name": "Mindsight Web Technology WFH Extn",
-    "city": "Bhubaneswar",
-    "region": "Odisha",
-    "country": "India",
-    "address": "4/05, C1 Block, Hi-Tech Plaza, Sundarapada-Jatani Road, Bhubaneswar, 751002",
-    "lat": 20.2066362,
-    "lng": 85.8025167,
-    "website": "https://www.mindsightweb.com",
-    "phone": "+91 993 846 9393",
-    "careers_url": "https://www.mindsightweb.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-23T02:32:53+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8864713453"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technology, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bhubaneswar",
-        "addr:country": "IN",
-        "addr:housenumber": "4/05, C1 Block, Hi-Tech Plaza",
-        "addr:postcode": "751002",
-        "addr:street": "Sundarapada-Jatani Road",
-        "name": "Mindsight Web Technology WFH Extn",
-        "office": "company",
-        "opening_hours": "Mo-Su 10:00-18:00",
-        "phone": "+91 993 846 9393",
-        "website": "https://www.mindsightweb.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.mindsightweb.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-23T02:32:53+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "AGS Cinemas, Vivira Mall",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -22235,57 +22286,6 @@
         "confidence": "none",
         "checked_at": "2026-06-19T02:34:46+00:00",
         "notes": "https://tecex.com/jobs: HTTPError; https://tecex.com/jobs/: HTTPError; https://tecex.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "USAM Technology Solutions - CAD Services",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "",
-    "lat": 13.0389627,
-    "lng": 80.2533558,
-    "website": "https://usam.in/",
-    "phone": "+44 24336117",
-    "careers_url": "https://usam.in/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://usam.in/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T02:32:56+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:3233726432"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technology, solutions",
-    "raw": {
-      "osm_tags": {
-        "highway": "services",
-        "name": "USAM Technology Solutions - CAD Services",
-        "note": "CAD Services, Plotting Services, A0 copying",
-        "phone": "+44 24336117",
-        "website": "https://usam.in/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://usam.in/careers/",
-        "provider": "company_website",
-        "api_url": "https://usam.in/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T02:32:56+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -45284,12 +45284,12 @@
     "lng": 79.0510026,
     "website": "https://6simplex.co.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://6simplex.co.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T04:00:20+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=GIS Software Development, ArcObjects, ArcGIS Server, ArcGIS JavaScript API, GeoTools, GeoServer, OpenLayers, ArcGIS Android, Google Maps"
     ],
@@ -45320,7 +45320,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://6simplex.co.in/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T04:00:20+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -46157,12 +46165,12 @@
     "lng": 73.9120357,
     "website": "https://www.cybage.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.cybage.com/careers/open-positions",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.cybage.com/careers/open-positions",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T04:00:24+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -46189,7 +46197,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.cybage.com/careers/open-positions",
+        "provider": "company_website",
+        "api_url": "https://www.cybage.com/careers/open-positions",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T04:00:24+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
