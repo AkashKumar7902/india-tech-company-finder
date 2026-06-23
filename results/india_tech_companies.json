@@ -3103,6 +3103,66 @@
     }
   },
   {
+    "name": "TrackoBit",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "A-57, Sector 4, Noida, Noida, 201301",
+    "lat": 28.5822487,
+    "lng": 77.319968,
+    "website": "https://trackobit.com/",
+    "phone": "9310402061",
+    "careers_url": "https://trackobit.com/wp-content/uploads/2024/04/Jobs-that-require-field-service-mobile-apps.webp",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T06:57:38+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "description=TrackoBit is the fastest growing Telematics software company based out in India. Our expertise lies in building real-time platforms backed by robust infrastructure that scales on the cloud. We manage millions of real-time connections, process data into me"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9597000226"
+    },
+    "tech_score": 74.0,
+    "confidence": "high",
+    "notes": "matched: software, cloud, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:housenumber": "A-57",
+        "addr:postcode": "201301",
+        "addr:street": "Sector 4, Noida",
+        "description": "TrackoBit is the fastest growing Telematics software company based out in India. Our expertise lies in building real-time platforms backed by robust infrastructure that scales on the cloud. We manage millions of real-time connections, process data into me",
+        "email": "Sales@trackobit.com",
+        "name": "TrackoBit",
+        "office": "company",
+        "opening_hours": "Mo-Fr 10:00-19:00",
+        "phone": "9310402061",
+        "website": "https://trackobit.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://trackobit.com/wp-content/uploads/2024/04/Jobs-that-require-field-service-mobile-apps.webp",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T06:57:38+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Cognizant Technology Solutions",
     "city": "Pune",
     "region": "Maharashtra",
@@ -3144,6 +3204,64 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Zenkins Technologies Private Limited",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B 612, The Gateway, Gangotri, to, Sardar Patel Ring Rd, Nikol, Ahmedabad, 380049",
+    "lat": 23.0430456,
+    "lng": 72.6790066,
+    "website": "https://zenkins.com/",
+    "phone": "+91 7069018504",
+    "careers_url": "https://zenkins.com/insights/guide-to-hiring-the-perfect-it-service-desk-engineer/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://zenkins.com/addons/wp-job-openings/blocks/build/style-index.css?ver=1.0.1",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T06:57:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13576170081"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:district": "Gujarat",
+        "addr:housenumber": "B 612",
+        "addr:postcode": "380049",
+        "addr:street": "The Gateway, Gangotri, to, Sardar Patel Ring Rd, Nikol",
+        "name": "Zenkins Technologies Private Limited",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-19:00",
+        "phone": "+91 7069018504",
+        "website": "https://zenkins.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://zenkins.com/insights/guide-to-hiring-the-perfect-it-service-desk-engineer/",
+        "provider": "company_website",
+        "api_url": "https://zenkins.com/addons/wp-job-openings/blocks/build/style-index.css?ver=1.0.1",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T06:57:46+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -4547,124 +4665,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "TrackoBit",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "A-57, Sector 4, Noida, Noida, 201301",
-    "lat": 28.5822487,
-    "lng": 77.319968,
-    "website": "https://trackobit.com/",
-    "phone": "9310402061",
-    "careers_url": "https://trackobit.com/wp-content/uploads/2024/04/Jobs-that-require-field-service-mobile-apps.webp",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-23T06:57:38+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "description=TrackoBit is the fastest growing Telematics software company based out in India. Our expertise lies in building real-time platforms backed by robust infrastructure that scales on the cloud. We manage millions of real-time connections, process data into me"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9597000226"
-    },
-    "tech_score": 70.0,
-    "confidence": "high",
-    "notes": "matched: software, cloud, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Noida",
-        "addr:housenumber": "A-57",
-        "addr:postcode": "201301",
-        "addr:street": "Sector 4, Noida",
-        "description": "TrackoBit is the fastest growing Telematics software company based out in India. Our expertise lies in building real-time platforms backed by robust infrastructure that scales on the cloud. We manage millions of real-time connections, process data into me",
-        "email": "Sales@trackobit.com",
-        "name": "TrackoBit",
-        "office": "company",
-        "opening_hours": "Mo-Fr 10:00-19:00",
-        "phone": "9310402061",
-        "website": "https://trackobit.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://trackobit.com/wp-content/uploads/2024/04/Jobs-that-require-field-service-mobile-apps.webp",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-23T06:57:38+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Zenkins Technologies Private Limited",
-    "city": "Ahmedabad",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "B 612, The Gateway, Gangotri, to, Sardar Patel Ring Rd, Nikol, Ahmedabad, 380049",
-    "lat": 23.0430456,
-    "lng": 72.6790066,
-    "website": "https://zenkins.com/",
-    "phone": "+91 7069018504",
-    "careers_url": "https://zenkins.com/insights/guide-to-hiring-the-perfect-it-service-desk-engineer/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://zenkins.com/addons/wp-job-openings/blocks/build/style-index.css?ver=1.0.1",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T06:57:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13576170081"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ahmedabad",
-        "addr:district": "Gujarat",
-        "addr:housenumber": "B 612",
-        "addr:postcode": "380049",
-        "addr:street": "The Gateway, Gangotri, to, Sardar Patel Ring Rd, Nikol",
-        "name": "Zenkins Technologies Private Limited",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:30-19:00",
-        "phone": "+91 7069018504",
-        "website": "https://zenkins.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://zenkins.com/insights/guide-to-hiring-the-perfect-it-service-desk-engineer/",
-        "provider": "company_website",
-        "api_url": "https://zenkins.com/addons/wp-job-openings/blocks/build/style-index.css?ver=1.0.1",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T06:57:46+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -23878,12 +23878,12 @@
     "lng": 85.8309889,
     "website": "https://www.csm.tech/",
     "phone": "+91(0)-674-6635900",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.csm.tech/explore-openings",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.csm.tech/explore-openings",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T08:17:02+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -23914,7 +23914,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.csm.tech/explore-openings",
+        "provider": "company_website",
+        "api_url": "https://www.csm.tech/explore-openings",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T08:17:02+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -23927,12 +23935,12 @@
     "lng": 76.7919108,
     "website": "https://theavanya.com",
     "phone": "+919115549989",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://theavanya.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T08:17:08+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -23962,7 +23970,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://theavanya.com/jobs",
+        "provider": "company_website",
+        "api_url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T08:17:08+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
