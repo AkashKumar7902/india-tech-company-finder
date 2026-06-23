@@ -14004,12 +14004,12 @@
     "lng": 77.6486567,
     "website": "https://www.raincodelabs.com/",
     "phone": "+91 99450 47258",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.raincodelabs.com/careers/",
+    "careers_provider": "breezy",
+    "careers_api_url": "https://www.raincodelabs.com/careers/",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-23T11:50:24+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=it"
     ],
@@ -14039,7 +14039,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.raincodelabs.com/careers/",
+        "provider": "breezy",
+        "api_url": "https://www.raincodelabs.com/careers/",
+        "confidence": "high",
+        "checked_at": "2026-06-23T11:50:24+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -14167,12 +14175,12 @@
     "lng": 77.0139058,
     "website": "https://shriasys.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.shriasys.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.shriasys.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T11:50:29+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "description=Website Development, Website Hosting, SEO and Digital Marketing Services"
@@ -14208,7 +14216,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.shriasys.com/career/",
+        "provider": "company_website",
+        "api_url": "https://www.shriasys.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T11:50:29+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
