@@ -53440,12 +53440,12 @@
     "lng": 72.9601476,
     "website": "http://www.futuretecsol.com",
     "phone": "+91 8369390146",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://fts-pl.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fts-pl.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T23:48:22+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -53476,7 +53476,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://fts-pl.com/careers",
+        "provider": "company_website",
+        "api_url": "https://fts-pl.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T23:48:22+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -53609,9 +53617,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T23:48:26+00:00",
+    "careers_notes": "https://sygnustech.com/jobs: HTTPError; https://sygnustech.com/jobs/: HTTPError; https://sygnustech.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=hifi"
     ],
@@ -53642,7 +53650,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T23:48:26+00:00",
+        "notes": "https://sygnustech.com/jobs: HTTPError; https://sygnustech.com/jobs/: HTTPError; https://sygnustech.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
