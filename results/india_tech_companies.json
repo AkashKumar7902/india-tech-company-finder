@@ -11691,6 +11691,124 @@
     }
   },
   {
+    "name": "Raincode Labs India",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "1144, 22nd Cross Road, Bangalore, 560102",
+    "lat": 12.9086807,
+    "lng": 77.6486567,
+    "website": "https://www.raincodelabs.com/",
+    "phone": "+91 99450 47258",
+    "careers_url": "https://www.raincodelabs.com/careers/",
+    "careers_provider": "breezy",
+    "careers_api_url": "https://www.raincodelabs.com/careers/",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-23T11:50:24+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:9969767664"
+    },
+    "tech_score": 59.0,
+    "confidence": "high",
+    "notes": "matched: labs, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "1144",
+        "addr:postcode": "560102",
+        "addr:street": "22nd Cross Road",
+        "name": "Raincode Labs India",
+        "office": "it",
+        "phone": "+91 99450 47258",
+        "website": "https://www.raincodelabs.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.raincodelabs.com/careers/",
+        "provider": "breezy",
+        "api_url": "https://www.raincodelabs.com/careers/",
+        "confidence": "high",
+        "checked_at": "2026-06-23T11:50:24+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
+    "name": "Shriasys",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "304, G.V. Residency, Coimbatore, 641028",
+    "lat": 11.0091738,
+    "lng": 77.0139058,
+    "website": "https://shriasys.com",
+    "phone": "",
+    "careers_url": "https://www.shriasys.com/career/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.shriasys.com/career/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T11:50:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it",
+      "description=Website Development, Website Hosting, SEO and Digital Marketing Services"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12425496319"
+    },
+    "tech_score": 59.0,
+    "confidence": "high",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Coimbatore",
+        "addr:district": "Coimbatore",
+        "addr:housenumber": "304",
+        "addr:postcode": "641028",
+        "addr:street": "G.V. Residency",
+        "check_date": "2024-12-17",
+        "description": "Website Development, Website Hosting, SEO and Digital Marketing Services",
+        "internet_access": "yes",
+        "name": "Shriasys",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:00-13:00,14:00-18:00",
+        "website": "https://shriasys.com",
+        "wheelchair": "limited"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.shriasys.com/career/",
+        "provider": "company_website",
+        "api_url": "https://www.shriasys.com/career/",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T11:50:29+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "SBSOL Digital Pvt. Ltd.",
     "city": "Kochi",
     "region": "Kerala",
@@ -13995,62 +14113,6 @@
     }
   },
   {
-    "name": "Raincode Labs India",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "1144, 22nd Cross Road, Bangalore, 560102",
-    "lat": 12.9086807,
-    "lng": 77.6486567,
-    "website": "https://www.raincodelabs.com/",
-    "phone": "+91 99450 47258",
-    "careers_url": "https://www.raincodelabs.com/careers/",
-    "careers_provider": "breezy",
-    "careers_api_url": "https://www.raincodelabs.com/careers/",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-23T11:50:24+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:9969767664"
-    },
-    "tech_score": 55.0,
-    "confidence": "high",
-    "notes": "matched: labs, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housenumber": "1144",
-        "addr:postcode": "560102",
-        "addr:street": "22nd Cross Road",
-        "name": "Raincode Labs India",
-        "office": "it",
-        "phone": "+91 99450 47258",
-        "website": "https://www.raincodelabs.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.raincodelabs.com/careers/",
-        "provider": "breezy",
-        "api_url": "https://www.raincodelabs.com/careers/",
-        "confidence": "high",
-        "checked_at": "2026-06-23T11:50:24+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Beez Innovation Labs Pvt. Ltd.",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -14163,68 +14225,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Shriasys",
-    "city": "Coimbatore",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "304, G.V. Residency, Coimbatore, 641028",
-    "lat": 11.0091738,
-    "lng": 77.0139058,
-    "website": "https://shriasys.com",
-    "phone": "",
-    "careers_url": "https://www.shriasys.com/career/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.shriasys.com/career/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T11:50:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it",
-      "description=Website Development, Website Hosting, SEO and Digital Marketing Services"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12425496319"
-    },
-    "tech_score": 55.0,
-    "confidence": "high",
-    "notes": "matched: digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Coimbatore",
-        "addr:district": "Coimbatore",
-        "addr:housenumber": "304",
-        "addr:postcode": "641028",
-        "addr:street": "G.V. Residency",
-        "check_date": "2024-12-17",
-        "description": "Website Development, Website Hosting, SEO and Digital Marketing Services",
-        "internet_access": "yes",
-        "name": "Shriasys",
-        "office": "it",
-        "opening_hours": "Mo-Sa 09:00-13:00,14:00-18:00",
-        "website": "https://shriasys.com",
-        "wheelchair": "limited"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.shriasys.com/career/",
-        "provider": "company_website",
-        "api_url": "https://www.shriasys.com/career/",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T11:50:29+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -52371,12 +52371,12 @@
     "lng": 77.7215566,
     "website": "https://nuvira.digital",
     "phone": "+91 7204342727",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://nuvira.digital/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-23T12:47:13+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -52402,7 +52402,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://nuvira.digital/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-23T12:47:13+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52643,9 +52651,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T12:47:14+00:00",
+    "careers_notes": "homepage fetch failed: ConnectTimeout; https://www.sidvinglobal.com/jobs: ConnectTimeout; https://www.sidvinglobal.com/jobs/: ConnectTimeout; https://www.sidvinglobal.com/career: ConnectTimeout; no careers page detected",
     "categories": [
       "office=company",
       "description=Data Entry office"
@@ -52676,7 +52684,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T12:47:14+00:00",
+        "notes": "homepage fetch failed: ConnectTimeout; https://www.sidvinglobal.com/jobs: ConnectTimeout; https://www.sidvinglobal.com/jobs/: ConnectTimeout; https://www.sidvinglobal.com/career: ConnectTimeout; no careers page detected"
+      }
     }
   },
   {
