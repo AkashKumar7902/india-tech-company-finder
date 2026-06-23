@@ -43498,6 +43498,66 @@
     }
   },
   {
+    "name": "Illford Digital",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Illford Digital, BCG TOWER, Door No: 11E, Seaport Airport Road, Kakkanad, Kochi, 682037",
+    "lat": 10.0060021,
+    "lng": 76.3456668,
+    "website": "https://illforddigital.com/",
+    "phone": "+91 98478 61800",
+    "careers_url": "https://illforddigital.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://illforddigital.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T09:34:26+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11224354447"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "Illford Digital, BCG TOWER, Door No: 11E",
+        "addr:postcode": "682037",
+        "addr:street": "Seaport Airport Road, Kakkanad",
+        "email": "contact@illforddigital.com",
+        "image": "https://illforddigital.com/img/brand.png",
+        "name": "Illford Digital",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-17:30",
+        "phone": "+91 98478 61800",
+        "website": "https://illforddigital.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://illforddigital.com/careers",
+        "provider": "company_website",
+        "api_url": "https://illforddigital.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T09:34:26+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Infogein",
     "city": "Kochi",
     "region": "Kerala",
@@ -43918,6 +43978,62 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "ROGERSOFT Technologies Pvt Ltd",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "",
+    "lat": 10.0158084,
+    "lng": 76.3428749,
+    "website": "https://rogersoft.com/",
+    "phone": "+91-9995-638376",
+    "careers_url": "https://www.rogersoft.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.rogersoft.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T09:34:29+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13326122957"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "air_conditioning": "yes",
+        "branch": "Kakkanad",
+        "brand": "ROGERSOFT Technologies",
+        "name": "ROGERSOFT Technologies Pvt Ltd",
+        "office": "educational_institution",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "phone": "+91-9995-638376",
+        "website": "https://rogersoft.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.rogersoft.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.rogersoft.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T09:34:29+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -52958,122 +53074,6 @@
         "confidence": "none",
         "checked_at": "2026-06-15T11:26:13+00:00",
         "notes": "homepage fetch failed: ConnectTimeout; https://ramrajassociates.com/jobs: ConnectTimeout; https://ramrajassociates.com/jobs/: ConnectTimeout; https://ramrajassociates.com/career: ConnectTimeout; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Illford Digital",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "Illford Digital, BCG TOWER, Door No: 11E, Seaport Airport Road, Kakkanad, Kochi, 682037",
-    "lat": 10.0060021,
-    "lng": 76.3456668,
-    "website": "https://illforddigital.com/",
-    "phone": "+91 98478 61800",
-    "careers_url": "https://illforddigital.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://illforddigital.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T09:34:26+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11224354447"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: digital, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Kochi",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "Illford Digital, BCG TOWER, Door No: 11E",
-        "addr:postcode": "682037",
-        "addr:street": "Seaport Airport Road, Kakkanad",
-        "email": "contact@illforddigital.com",
-        "image": "https://illforddigital.com/img/brand.png",
-        "name": "Illford Digital",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-17:30",
-        "phone": "+91 98478 61800",
-        "website": "https://illforddigital.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://illforddigital.com/careers",
-        "provider": "company_website",
-        "api_url": "https://illforddigital.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T09:34:26+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "ROGERSOFT Technologies Pvt Ltd",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "",
-    "lat": 10.0158084,
-    "lng": 76.3428749,
-    "website": "https://rogersoft.com/",
-    "phone": "+91-9995-638376",
-    "careers_url": "https://www.rogersoft.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.rogersoft.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T09:34:29+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=educational_institution"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13326122957"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "air_conditioning": "yes",
-        "branch": "Kakkanad",
-        "brand": "ROGERSOFT Technologies",
-        "name": "ROGERSOFT Technologies Pvt Ltd",
-        "office": "educational_institution",
-        "opening_hours": "Mo-Sa 08:00-19:00",
-        "phone": "+91-9995-638376",
-        "website": "https://rogersoft.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.rogersoft.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.rogersoft.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T09:34:29+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -82974,7 +82974,14 @@
         "check_date": "2026-06-20",
         "name": "Cloud Cakes",
         "shop": "pastry"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -83492,9 +83499,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T10:46:28+00:00",
+    "careers_notes": "https://saviforex.com/jobs: HTTPError; https://saviforex.com/jobs/: HTTPError; https://saviforex.com/career: HTTPError; no careers page detected",
     "categories": [
       "amenity=bureau_de_change",
       "description=Savi Forex is your trusted partner for currency exchange in Bangalore, offering competitive rates, RBI-compliant secure transactions, and doorstep delivery. With a wide range of currencies and customized solutions for students, tourists, and business."
@@ -83548,7 +83555,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T10:46:28+00:00",
+        "notes": "https://saviforex.com/jobs: HTTPError; https://saviforex.com/jobs/: HTTPError; https://saviforex.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -84264,9 +84279,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-23T10:46:36+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://moldbreaker.studio/jobs: HTTPError; https://moldbreaker.studio/jobs/: HTTPError; https://moldbreaker.studio/career: HTTPError; no careers page detected",
     "categories": [
       "description=A design & digital marketing studio."
     ],
@@ -84291,7 +84306,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-23T10:46:36+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://moldbreaker.studio/jobs: HTTPError; https://moldbreaker.studio/jobs/: HTTPError; https://moldbreaker.studio/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
