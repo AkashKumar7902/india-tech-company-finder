@@ -20671,6 +20671,57 @@
     }
   },
   {
+    "name": "Ness Technologies",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.4447312,
+    "lng": 78.3804836,
+    "website": "https://www.ness.com/en-in/Company/Pages/Contact-Us.aspx",
+    "phone": "",
+    "careers_url": "https://www.ness.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T06:21:31+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2964578879"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Ness Technologies",
+        "office": "company",
+        "website": "https://www.ness.com/en-in/Company/Pages/Contact-Us.aspx"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ness.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T06:21:31+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Dotsquares Technologies",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -20945,6 +20996,63 @@
         "api_url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFigtree%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.8.3",
         "confidence": "medium",
         "checked_at": "2026-06-20T21:20:29+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "DelphianLogic Technologies Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "201, Manikchand Galleria, Kalu Tamanna Kusalkar Road, Wadarvadi, Model Colony, Shivajinagar, Pune, 411016",
+    "lat": 18.5292657,
+    "lng": 73.8333854,
+    "website": "https://www.delphianlogic.com",
+    "phone": "",
+    "careers_url": "https://delphianlogic.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://delphianlogic.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T06:21:33+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:10980956777"
+    },
+    "tech_score": 48.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:housenumber": "201",
+        "addr:postcode": "411016",
+        "addr:street": "Manikchand Galleria, Kalu Tamanna Kusalkar Road, Wadarvadi, Model Colony, Shivajinagar",
+        "company": "DelphianLogic Technologies Pvt Ltd",
+        "name": "DelphianLogic Technologies Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "website": "https://www.delphianlogic.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://delphianlogic.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://delphianlogic.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T06:21:33+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -26702,57 +26810,6 @@
     }
   },
   {
-    "name": "Ness Technologies",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "",
-    "lat": 17.4447312,
-    "lng": 78.3804836,
-    "website": "https://www.ness.com/en-in/Company/Pages/Contact-Us.aspx",
-    "phone": "",
-    "careers_url": "https://www.ness.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-24T06:21:31+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2964578879"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "name": "Ness Technologies",
-        "office": "company",
-        "website": "https://www.ness.com/en-in/Company/Pages/Contact-Us.aspx"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.ness.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-24T06:21:31+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Mad Maven Infotech",
     "city": "Indore",
     "region": "Madhya Pradesh",
@@ -27206,63 +27263,6 @@
         "confidence": "none",
         "checked_at": "2026-06-14T12:29:17+00:00",
         "notes": "https://intactweb.in/jobs: HTTPError; https://intactweb.in/jobs/: HTTPError; https://intactweb.in/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "DelphianLogic Technologies Pvt Ltd",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "201, Manikchand Galleria, Kalu Tamanna Kusalkar Road, Wadarvadi, Model Colony, Shivajinagar, Pune, 411016",
-    "lat": 18.5292657,
-    "lng": 73.8333854,
-    "website": "https://www.delphianlogic.com",
-    "phone": "",
-    "careers_url": "https://delphianlogic.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://delphianlogic.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T06:21:33+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:10980956777"
-    },
-    "tech_score": 44.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:housenumber": "201",
-        "addr:postcode": "411016",
-        "addr:street": "Manikchand Galleria, Kalu Tamanna Kusalkar Road, Wadarvadi, Model Colony, Shivajinagar",
-        "company": "DelphianLogic Technologies Pvt Ltd",
-        "name": "DelphianLogic Technologies Pvt Ltd",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-19:00",
-        "website": "https://www.delphianlogic.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://delphianlogic.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://delphianlogic.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T06:21:33+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -41822,12 +41822,12 @@
     "lng": 78.3482464,
     "website": "https://www.iiit.ac.in/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.iiit.ac.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.iiit.ac.in/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T07:45:51+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "amenity=university"
     ],
@@ -41861,7 +41861,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.iiit.ac.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.iiit.ac.in/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T07:45:51+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -53501,9 +53509,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T07:46:16+00:00",
+    "careers_notes": "http://www.datacompwebtech.com/jobs: HTTPError; http://www.datacompwebtech.com/jobs/: HTTPError; http://www.datacompwebtech.com/career: HTTPError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -53532,7 +53540,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T07:46:16+00:00",
+        "notes": "http://www.datacompwebtech.com/jobs: HTTPError; http://www.datacompwebtech.com/jobs/: HTTPError; http://www.datacompwebtech.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
