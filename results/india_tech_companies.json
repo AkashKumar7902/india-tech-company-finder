@@ -27751,9 +27751,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T13:54:07+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://datalifecyclecompany.com/jobs: ConnectionError; https://datalifecyclecompany.com/jobs/: ConnectionError; https://datalifecyclecompany.com/career: ConnectionError; no careers page detected",
     "categories": [
       "office=it"
     ],
@@ -27778,7 +27778,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T13:54:07+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://datalifecyclecompany.com/jobs: ConnectionError; https://datalifecyclecompany.com/jobs/: ConnectionError; https://datalifecyclecompany.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -27852,12 +27860,12 @@
     "lng": 77.6912033,
     "website": "https://www.grab.com/sg/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.oxfordeconomics.com/resource/the-economic-impact-in-singapore/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.oxfordeconomics.com/early-careers-programmes/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T13:54:08+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -27892,7 +27900,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.oxfordeconomics.com/resource/the-economic-impact-in-singapore/",
+        "provider": "company_website",
+        "api_url": "https://www.oxfordeconomics.com/early-careers-programmes/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T13:54:08+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -78313,6 +78329,70 @@
     }
   },
   {
+    "name": "Swapnsahyadri Pest Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "S No.154, Haveli, Shop No.16 H No. 4 Savitri Complex, DSK Vishwa Rd, near Bikaner Sweets, Dhayari, Pune, 411041",
+    "lat": 18.4471855,
+    "lng": 73.8098972,
+    "website": "https://connectitapp.in/swapnsahyadri-pest-solutions",
+    "phone": "918698359356",
+    "careers_url": "https://connectitapp.in/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T13:04:35+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "craft=cleaning",
+      "description=We are Swapnsahyadri Pest Solutions, providing expert pest control services in Dhayari, Pune. Our specialized treatments include bed bug treatment, termite treatment, cockroach pest control, and mosquito control with 24-hour availability."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13906473078"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411041",
+        "addr:street": "S No.154, Haveli, Shop No.16 H No. 4 Savitri Complex, DSK Vishwa Rd, near Bikaner Sweets, Dhayari",
+        "contact:facebook": "https://www.facebook.com/people/Swapnsahyadri-Pest-Solutions/61579860244922/#",
+        "craft": "cleaning",
+        "description": "We are Swapnsahyadri Pest Solutions, providing expert pest control services in Dhayari, Pune. Our specialized treatments include bed bug treatment, termite treatment, cockroach pest control, and mosquito control with 24-hour availability.",
+        "mobile": "918698359356",
+        "name": "Swapnsahyadri Pest Solutions",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:google_pay": "yes",
+        "phone": "918698359356",
+        "start_date": "2025-04-30",
+        "website": "https://connectitapp.in/swapnsahyadri-pest-solutions"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://connectitapp.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T13:04:35+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Mark Digital",
     "city": "Vadodara",
     "region": "Gujarat",
@@ -82814,70 +82894,6 @@
         "confidence": "none",
         "checked_at": "2026-06-17T17:39:35+00:00",
         "notes": "homepage fetch failed: HTTPError; http://www.reliancedigital.in/jobs: HTTPError; http://www.reliancedigital.in/jobs/: HTTPError; http://www.reliancedigital.in/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Swapnsahyadri Pest Solutions",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "S No.154, Haveli, Shop No.16 H No. 4 Savitri Complex, DSK Vishwa Rd, near Bikaner Sweets, Dhayari, Pune, 411041",
-    "lat": 18.4471855,
-    "lng": 73.8098972,
-    "website": "https://connectitapp.in/swapnsahyadri-pest-solutions",
-    "phone": "918698359356",
-    "careers_url": "https://connectitapp.in/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-24T13:04:35+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "craft=cleaning",
-      "description=We are Swapnsahyadri Pest Solutions, providing expert pest control services in Dhayari, Pune. Our specialized treatments include bed bug treatment, termite treatment, cockroach pest control, and mosquito control with 24-hour availability."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13906473078"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:district": "Pune",
-        "addr:postcode": "411041",
-        "addr:street": "S No.154, Haveli, Shop No.16 H No. 4 Savitri Complex, DSK Vishwa Rd, near Bikaner Sweets, Dhayari",
-        "contact:facebook": "https://www.facebook.com/people/Swapnsahyadri-Pest-Solutions/61579860244922/#",
-        "craft": "cleaning",
-        "description": "We are Swapnsahyadri Pest Solutions, providing expert pest control services in Dhayari, Pune. Our specialized treatments include bed bug treatment, termite treatment, cockroach pest control, and mosquito control with 24-hour availability.",
-        "mobile": "918698359356",
-        "name": "Swapnsahyadri Pest Solutions",
-        "opening_hours": "24/7",
-        "payment:cash": "yes",
-        "payment:google_pay": "yes",
-        "phone": "918698359356",
-        "start_date": "2025-04-30",
-        "website": "https://connectitapp.in/swapnsahyadri-pest-solutions"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://connectitapp.in/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-24T13:04:35+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
