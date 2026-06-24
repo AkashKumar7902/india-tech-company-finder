@@ -82827,12 +82827,12 @@
     "lng": 73.8098972,
     "website": "https://connectitapp.in/swapnsahyadri-pest-solutions",
     "phone": "918698359356",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://connectitapp.in/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T13:04:35+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "craft=cleaning",
       "description=We are Swapnsahyadri Pest Solutions, providing expert pest control services in Dhayari, Pune. Our specialized treatments include bed bug treatment, termite treatment, cockroach pest control, and mosquito control with 24-hour availability."
@@ -82870,7 +82870,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://connectitapp.in/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T13:04:35+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
