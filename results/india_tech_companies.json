@@ -57115,9 +57115,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T02:04:56+00:00",
+    "careers_notes": "https://fot.du.ac.in/jobs: HTTPError; https://fot.du.ac.in/jobs/: HTTPError; https://fot.du.ac.in/career: HTTPError; no careers page detected",
     "categories": [
       "building=university"
     ],
@@ -57148,7 +57148,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T02:04:56+00:00",
+        "notes": "https://fot.du.ac.in/jobs: HTTPError; https://fot.du.ac.in/jobs/: HTTPError; https://fot.du.ac.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -57226,9 +57234,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T02:04:59+00:00",
+    "careers_notes": "homepage fetch failed: SSLError; https://dstwm.goa.gov.in/jobs: SSLError; https://dstwm.goa.gov.in/jobs/: SSLError; https://dstwm.goa.gov.in/career: SSLError; no careers page detected",
     "categories": [
       "office=government"
     ],
@@ -57254,7 +57262,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T02:04:59+00:00",
+        "notes": "homepage fetch failed: SSLError; https://dstwm.goa.gov.in/jobs: SSLError; https://dstwm.goa.gov.in/jobs/: SSLError; https://dstwm.goa.gov.in/career: SSLError; no careers page detected"
+      }
     }
   },
   {
@@ -77119,6 +77135,63 @@
     }
   },
   {
+    "name": "Macronimous web solutions",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "1029,, Sreevatsa Center, Mettupalayam Road, Coimbatore, 641025",
+    "lat": 11.0622463,
+    "lng": 76.9436954,
+    "website": "https://www.macronimous.com/",
+    "phone": "+919944249039",
+    "careers_url": "https://www.macronimous.com/about-us/join-us/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.macronimous.com/wp-content/uploads/JOB.jpg",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T01:16:36+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2550159276"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Coimbatore",
+        "addr:housenumber": "1029,",
+        "addr:postcode": "641025",
+        "addr:street": "Sreevatsa Center, Mettupalayam Road",
+        "building": "commercial",
+        "name": "Macronimous web solutions",
+        "note": "Web and Mobile development company",
+        "phone": "+919944249039",
+        "website": "https://www.macronimous.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.macronimous.com/about-us/join-us/",
+        "provider": "company_website",
+        "api_url": "https://www.macronimous.com/wp-content/uploads/JOB.jpg",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T01:16:36+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "CMS Info Systems",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -81397,63 +81470,6 @@
         "confidence": "none",
         "checked_at": "2026-06-17T03:47:18+00:00",
         "notes": "https://www.lookindigital.com/jobs: HTTPError; https://www.lookindigital.com/jobs/: HTTPError; https://www.lookindigital.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Macronimous web solutions",
-    "city": "Coimbatore",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "1029,, Sreevatsa Center, Mettupalayam Road, Coimbatore, 641025",
-    "lat": 11.0622463,
-    "lng": 76.9436954,
-    "website": "https://www.macronimous.com/",
-    "phone": "+919944249039",
-    "careers_url": "https://www.macronimous.com/about-us/join-us/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.macronimous.com/wp-content/uploads/JOB.jpg",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T01:16:36+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2550159276"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: solutions",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Coimbatore",
-        "addr:housenumber": "1029,",
-        "addr:postcode": "641025",
-        "addr:street": "Sreevatsa Center, Mettupalayam Road",
-        "building": "commercial",
-        "name": "Macronimous web solutions",
-        "note": "Web and Mobile development company",
-        "phone": "+919944249039",
-        "website": "https://www.macronimous.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.macronimous.com/about-us/join-us/",
-        "provider": "company_website",
-        "api_url": "https://www.macronimous.com/wp-content/uploads/JOB.jpg",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T01:16:36+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
