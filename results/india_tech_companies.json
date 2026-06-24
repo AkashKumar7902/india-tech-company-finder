@@ -3928,6 +3928,124 @@
     }
   },
   {
+    "name": "inTEUtion Technologies",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "2nd Floor, Tower 1, TransAsia Corporate Park, Seaport Airport Road, Kochi, 682037",
+    "lat": 9.9957535,
+    "lng": 76.3517371,
+    "website": "https://inteution.com/",
+    "phone": "+91-8592-859274",
+    "careers_url": "https://inteution.com/jobs",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T03:22:13+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13326395522"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "2nd Floor, Tower 1, TransAsia Corporate Park",
+        "addr:postcode": "682037",
+        "addr:street": "Seaport Airport Road",
+        "air_conditioning": "yes",
+        "level": "2",
+        "name": "inTEUtion Technologies",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "phone": "+91-8592-859274",
+        "website": "https://inteution.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://inteution.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T03:22:13+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Toobler Technologies.",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "1st Floor,, Lulu Cyber Tower-1, Infopark, Kakkanad, Kerala, 682042",
+    "lat": 10.0101913,
+    "lng": 76.3657203,
+    "website": "https://www.toobler.com",
+    "phone": "+91 484 4034359, +1 415 202 5304",
+    "careers_url": "https://www.toobler.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.toobler.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T03:22:17+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:11255249316"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Infopark, Kakkanad, Kerala",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "1st Floor,",
+        "addr:postcode": "682042",
+        "addr:street": "Lulu Cyber Tower-1",
+        "name": "Toobler Technologies.",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "phone": "+91 484 4034359, +1 415 202 5304",
+        "website": "https://www.toobler.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.toobler.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.toobler.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T03:22:17+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "BluWebMedia IT Services Pvt. Ltd.",
     "city": "Kolkata",
     "region": "West Bengal",
@@ -5335,124 +5453,6 @@
         "confidence": "none",
         "checked_at": "2026-06-23T01:31:03+00:00",
         "notes": "https://electrontechnology.co.in/jobs: HTTPError; https://electrontechnology.co.in/jobs/: HTTPError; https://electrontechnology.co.in/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "inTEUtion Technologies",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "2nd Floor, Tower 1, TransAsia Corporate Park, Seaport Airport Road, Kochi, 682037",
-    "lat": 9.9957535,
-    "lng": 76.3517371,
-    "website": "https://inteution.com/",
-    "phone": "+91-8592-859274",
-    "careers_url": "https://inteution.com/jobs",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-24T03:22:13+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13326395522"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Kochi",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "2nd Floor, Tower 1, TransAsia Corporate Park",
-        "addr:postcode": "682037",
-        "addr:street": "Seaport Airport Road",
-        "air_conditioning": "yes",
-        "level": "2",
-        "name": "inTEUtion Technologies",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:30-18:30",
-        "phone": "+91-8592-859274",
-        "website": "https://inteution.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://inteution.com/jobs",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-24T03:22:13+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Toobler Technologies.",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "1st Floor,, Lulu Cyber Tower-1, Infopark, Kakkanad, Kerala, 682042",
-    "lat": 10.0101913,
-    "lng": 76.3657203,
-    "website": "https://www.toobler.com",
-    "phone": "+91 484 4034359, +1 415 202 5304",
-    "careers_url": "https://www.toobler.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.toobler.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T03:22:17+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:11255249316"
-    },
-    "tech_score": 69.0,
-    "confidence": "high",
-    "notes": "matched: technologies, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Infopark, Kakkanad, Kerala",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "1st Floor,",
-        "addr:postcode": "682042",
-        "addr:street": "Lulu Cyber Tower-1",
-        "name": "Toobler Technologies.",
-        "office": "it",
-        "opening_hours": "Mo-Fr 10:00-18:00",
-        "phone": "+91 484 4034359, +1 415 202 5304",
-        "website": "https://www.toobler.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.toobler.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.toobler.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T03:22:17+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -82322,12 +82322,12 @@
     "lng": 77.2744813,
     "website": "https://maps.app.goo.gl/bJV9hfy456Qotazj8",
     "phone": "8810696407",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://jobs.google.com/about/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.google.com/search?q=jobs+near+me",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T04:52:48+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "craft=photographer"
     ],
@@ -82360,7 +82360,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://jobs.google.com/about/",
+        "provider": "company_website",
+        "api_url": "https://www.google.com/search?q=jobs+near+me",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T04:52:48+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -82542,9 +82550,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T04:52:50+00:00",
+    "careers_notes": "https://www.geniebee.co/jobs: HTTPError; https://www.geniebee.co/jobs/: HTTPError; https://www.geniebee.co/career: HTTPError; no careers page detected",
     "categories": [
       "office=company"
     ],
@@ -82576,7 +82584,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T04:52:50+00:00",
+        "notes": "https://www.geniebee.co/jobs: HTTPError; https://www.geniebee.co/jobs/: HTTPError; https://www.geniebee.co/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
