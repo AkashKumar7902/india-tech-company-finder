@@ -26711,12 +26711,12 @@
     "lng": 78.3804836,
     "website": "https://www.ness.com/en-in/Company/Pages/Contact-Us.aspx",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.ness.com/jobs",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T06:21:31+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -26741,7 +26741,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ness.com/jobs",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T06:21:31+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -27211,12 +27219,12 @@
     "lng": 73.8333854,
     "website": "https://www.delphianlogic.com",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://delphianlogic.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://delphianlogic.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T06:21:33+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company"
     ],
@@ -27247,7 +27255,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://delphianlogic.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://delphianlogic.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T06:21:33+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -77819,6 +77835,65 @@
     }
   },
   {
+    "name": "Digital Story Studio",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "8/334, lalita park, Laxmi nagar, new delhi, 110092",
+    "lat": 28.6311589,
+    "lng": 77.2744813,
+    "website": "https://maps.app.goo.gl/bJV9hfy456Qotazj8",
+    "phone": "8810696407",
+    "careers_url": "https://jobs.google.com/about/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.google.com/search?q=jobs+near+me",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T04:52:48+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "craft=photographer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13661031751"
+    },
+    "tech_score": 26.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "new delhi",
+        "addr:district": "east delhi",
+        "addr:housenumber": "8/334",
+        "addr:postcode": "110092",
+        "addr:street": "lalita park, Laxmi nagar",
+        "craft": "photographer",
+        "name": "Digital Story Studio",
+        "opening_hours": "24/7",
+        "operator": "Digital Story Studio",
+        "phone": "8810696407",
+        "website": "https://maps.app.goo.gl/bJV9hfy456Qotazj8"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://jobs.google.com/about/",
+        "provider": "company_website",
+        "api_url": "https://www.google.com/search?q=jobs+near+me",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T04:52:48+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Gaura Travel Solutions",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -82309,65 +82384,6 @@
         "confidence": "none",
         "checked_at": "2026-06-17T13:57:52+00:00",
         "notes": "https://www.oddloopagency.com/jobs: HTTPError; https://www.oddloopagency.com/jobs/: HTTPError; https://www.oddloopagency.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Digital Story Studio",
-    "city": "Noida",
-    "region": "Uttar Pradesh",
-    "country": "India",
-    "address": "8/334, lalita park, Laxmi nagar, new delhi, 110092",
-    "lat": 28.6311589,
-    "lng": 77.2744813,
-    "website": "https://maps.app.goo.gl/bJV9hfy456Qotazj8",
-    "phone": "8810696407",
-    "careers_url": "https://jobs.google.com/about/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.google.com/search?q=jobs+near+me",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T04:52:48+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "craft=photographer"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13661031751"
-    },
-    "tech_score": 22.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "new delhi",
-        "addr:district": "east delhi",
-        "addr:housenumber": "8/334",
-        "addr:postcode": "110092",
-        "addr:street": "lalita park, Laxmi nagar",
-        "craft": "photographer",
-        "name": "Digital Story Studio",
-        "opening_hours": "24/7",
-        "operator": "Digital Story Studio",
-        "phone": "8810696407",
-        "website": "https://maps.app.goo.gl/bJV9hfy456Qotazj8"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://jobs.google.com/about/",
-        "provider": "company_website",
-        "api_url": "https://www.google.com/search?q=jobs+near+me",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T04:52:48+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
