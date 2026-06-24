@@ -21403,6 +21403,67 @@
     }
   },
   {
+    "name": "Grab Greco LLP",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9313454,
+    "lng": 77.6912033,
+    "website": "https://www.grab.com/sg/",
+    "phone": "",
+    "careers_url": "https://www.oxfordeconomics.com/resource/the-economic-impact-in-singapore/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.oxfordeconomics.com/early-careers-programmes/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T13:54:08+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:6360638296"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "alt_name": "Grab",
+        "alt_name:bn": "গ্র্যাব",
+        "alt_name:hi": "ग्रैब",
+        "level": "3",
+        "name": "Grab Greco LLP",
+        "name:bn": "গ্র্যাব গ্রেকো এলএলপি",
+        "name:hi": "ग्रैब ग्रेको एलएलपी",
+        "name:kn": "ಗ್ರಾಬ್",
+        "office": "it",
+        "website": "https://www.grab.com/sg/",
+        "wikidata": "Q20873932",
+        "wikimedia_commons": "Category:Grab (company)",
+        "wikipedia": "en:Grab (company)"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.oxfordeconomics.com/resource/the-economic-impact-in-singapore/",
+        "provider": "company_website",
+        "api_url": "https://www.oxfordeconomics.com/early-careers-programmes/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T13:54:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Hewlett Packard",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -27847,67 +27908,6 @@
         "confidence": "none",
         "checked_at": "2026-06-14T14:47:15+00:00",
         "notes": "homepage fetch failed: ConnectionError; https://erppeers.com/jobs: ConnectionError; https://erppeers.com/jobs/: ConnectionError; https://erppeers.com/career: ConnectionError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Grab Greco LLP",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "",
-    "lat": 12.9313454,
-    "lng": 77.6912033,
-    "website": "https://www.grab.com/sg/",
-    "phone": "",
-    "careers_url": "https://www.oxfordeconomics.com/resource/the-economic-impact-in-singapore/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.oxfordeconomics.com/early-careers-programmes/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T13:54:08+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:6360638296"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "alt_name": "Grab",
-        "alt_name:bn": "গ্র্যাব",
-        "alt_name:hi": "ग्रैब",
-        "level": "3",
-        "name": "Grab Greco LLP",
-        "name:bn": "গ্র্যাব গ্রেকো এলএলপি",
-        "name:hi": "ग्रैब ग्रेको एलएलपी",
-        "name:kn": "ಗ್ರಾಬ್",
-        "office": "it",
-        "website": "https://www.grab.com/sg/",
-        "wikidata": "Q20873932",
-        "wikimedia_commons": "Category:Grab (company)",
-        "wikipedia": "en:Grab (company)"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.oxfordeconomics.com/resource/the-economic-impact-in-singapore/",
-        "provider": "company_website",
-        "api_url": "https://www.oxfordeconomics.com/early-careers-programmes/",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T13:54:08+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
@@ -55922,9 +55922,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T14:57:41+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; http://www.accreteglobal.com/jobs: ConnectionError; http://www.accreteglobal.com/jobs/: ConnectionError; http://www.accreteglobal.com/career: ConnectionError; no careers page detected",
     "categories": [],
     "sources": [
       "openstreetmap"
@@ -55949,7 +55949,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T14:57:41+00:00",
+        "notes": "homepage fetch failed: ConnectionError; http://www.accreteglobal.com/jobs: ConnectionError; http://www.accreteglobal.com/jobs/: ConnectionError; http://www.accreteglobal.com/career: ConnectionError; no careers page detected"
+      }
     }
   },
   {
@@ -56785,9 +56793,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T14:57:42+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.digitalmojo.in/jobs: HTTPError; https://www.digitalmojo.in/jobs/: HTTPError; https://www.digitalmojo.in/career: HTTPError; no careers page detected",
     "categories": [
       "office=company",
       "description=Best Digital Marketing Agency in Hyderabad"
@@ -56820,7 +56828,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T14:57:42+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.digitalmojo.in/jobs: HTTPError; https://www.digitalmojo.in/jobs/: HTTPError; https://www.digitalmojo.in/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
