@@ -82426,6 +82426,53 @@
     }
   },
   {
+    "name": "Shree Krishna Digital Print",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Shree Krishna Digital Print, Alphs Hight Dr R P Road Mulund West, Opp 398/396 bus stop, Mumbai, 400080",
+    "lat": 19.1740684,
+    "lng": 72.9572282,
+    "website": "https://shree-krishna-digital-mulund-west-mumbai.grexa.site/",
+    "phone": "087795 34611",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T18:13:10+00:00",
+    "careers_notes": "https://shree-krishna-digital-mulund-west-mumbai.grexa.site/jobs: HTTPError; https://shree-krishna-digital-mulund-west-mumbai.grexa.site/jobs/: HTTPError; https://shree-krishna-digital-mulund-west-mumbai.grexa.site/career: HTTPError; no careers page detected",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13962557501"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai",
+        "addr:country": "IN",
+        "addr:postcode": "400080",
+        "addr:state": "Maharashtra",
+        "addr:street": "Shree Krishna Digital Print, Alphs Hight Dr R P Road Mulund West, Opp 398/396 bus stop",
+        "name": "Shree Krishna Digital Print",
+        "phone": "087795 34611",
+        "website": "https://shree-krishna-digital-mulund-west-mumbai.grexa.site/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T18:13:10+00:00",
+        "notes": "https://shree-krishna-digital-mulund-west-mumbai.grexa.site/jobs: HTTPError; https://shree-krishna-digital-mulund-west-mumbai.grexa.site/jobs/: HTTPError; https://shree-krishna-digital-mulund-west-mumbai.grexa.site/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Disayana Digital LLP",
     "city": "Navi Mumbai",
     "region": "Maharashtra",
