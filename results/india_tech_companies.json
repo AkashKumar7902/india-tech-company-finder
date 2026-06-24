@@ -75599,6 +75599,41 @@
     }
   },
   {
+    "name": "Zeal Infotech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.5186438,
+    "lng": 73.8497629,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=printer_ink"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13959215071"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "name": "Zeal Infotech",
+        "shop": "printer_ink"
+      }
+    }
+  },
+  {
     "name": "Zensar Technologies",
     "city": "Pune",
     "region": "Maharashtra",
