@@ -21403,6 +21403,63 @@
     }
   },
   {
+    "name": "Hewlett Packard",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "560100",
+    "lat": 12.8384928,
+    "lng": 77.6650059,
+    "website": "https://www.happiestminds.com/",
+    "phone": "",
+    "careers_url": "https://careers.happiestminds.com/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://careers.happiestminds.com/wp-content/uploads/2026/04/careers-banner.png",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-24T10:01:09+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:264102939"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "560100",
+        "building": "commercial",
+        "name": "Hewlett Packard",
+        "name:kn": "ಹ್ಯೂಲೆಟ್ ಪಕಾರ್ಡ್",
+        "office": "it",
+        "smoking": "outside",
+        "website": "https://www.happiestminds.com/",
+        "wheelchair": "yes"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.happiestminds.com/",
+        "provider": "darwinbox",
+        "api_url": "https://careers.happiestminds.com/wp-content/uploads/2026/04/careers-banner.png",
+        "confidence": "high",
+        "checked_at": "2026-06-24T10:01:09+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "RCS Tech LLP",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -22429,6 +22486,61 @@
         "confidence": "none",
         "checked_at": "2026-06-19T01:30:45+00:00",
         "notes": "homepage fetch failed: ReadTimeout; https://www.impetus.com/jobs: HTTPError; https://www.impetus.com/jobs/: HTTPError; https://www.impetus.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
+    "name": "Infinite Computer Solutions",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "157",
+    "lat": 12.9737992,
+    "lng": 77.7159075,
+    "website": "https://www.infinite.com/",
+    "phone": "",
+    "careers_url": "https://www.infinite.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.infinite.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T10:01:14+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:181695501"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, computer, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "157",
+        "building": "office",
+        "building:levels": "4",
+        "name": "Infinite Computer Solutions",
+        "office": "company",
+        "website": "https://www.infinite.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.infinite.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.infinite.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T10:01:14+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -27768,63 +27880,6 @@
     }
   },
   {
-    "name": "Hewlett Packard",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "560100",
-    "lat": 12.8384928,
-    "lng": 77.6650059,
-    "website": "https://www.happiestminds.com/",
-    "phone": "",
-    "careers_url": "https://careers.happiestminds.com/",
-    "careers_provider": "darwinbox",
-    "careers_api_url": "https://careers.happiestminds.com/wp-content/uploads/2026/04/careers-banner.png",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-06-24T10:01:09+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=it",
-      "building=commercial"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:264102939"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:postcode": "560100",
-        "building": "commercial",
-        "name": "Hewlett Packard",
-        "name:kn": "ಹ್ಯೂಲೆಟ್ ಪಕಾರ್ಡ್",
-        "office": "it",
-        "smoking": "outside",
-        "website": "https://www.happiestminds.com/",
-        "wheelchair": "yes"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://careers.happiestminds.com/",
-        "provider": "darwinbox",
-        "api_url": "https://careers.happiestminds.com/wp-content/uploads/2026/04/careers-banner.png",
-        "confidence": "high",
-        "checked_at": "2026-06-24T10:01:09+00:00",
-        "notes": "detected ATS/provider"
-      }
-    }
-  },
-  {
     "name": "Subconscious Compute Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -28568,61 +28623,6 @@
         "api_url": "https://fonts.googleapis.com/css?family=Ek+Mukta:200,300,400,500,600,700,800&amp;subset=devanagari,latin-ext",
         "confidence": "medium",
         "checked_at": "2026-06-14T19:45:24+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Infinite Computer Solutions",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "157",
-    "lat": 12.9737992,
-    "lng": 77.7159075,
-    "website": "https://www.infinite.com/",
-    "phone": "",
-    "careers_url": "https://www.infinite.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.infinite.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T10:01:14+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company",
-      "building=office"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:181695501"
-    },
-    "tech_score": 42.0,
-    "confidence": "medium",
-    "notes": "matched: solutions, computer, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "157",
-        "building": "office",
-        "building:levels": "4",
-        "name": "Infinite Computer Solutions",
-        "office": "company",
-        "website": "https://www.infinite.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.infinite.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.infinite.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T10:01:14+00:00",
         "notes": "careers page found on company website"
       }
     }
@@ -81625,9 +81625,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T11:13:26+00:00",
+    "careers_notes": "https://kraftingdigital.com/jobs: HTTPError; https://kraftingdigital.com/jobs/: HTTPError; https://kraftingdigital.com/career: HTTPError; no careers page detected",
     "categories": [
       "office=advertising_agency"
     ],
@@ -81659,7 +81659,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T11:13:26+00:00",
+        "notes": "https://kraftingdigital.com/jobs: HTTPError; https://kraftingdigital.com/jobs/: HTTPError; https://kraftingdigital.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -82040,9 +82048,9 @@
     "careers_url": "",
     "careers_provider": "",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T11:13:36+00:00",
+    "careers_notes": "https://ebrahimtravels.com/jobs: HTTPError; https://ebrahimtravels.com/jobs/: HTTPError; https://ebrahimtravels.com/career: HTTPError; no careers page detected",
     "categories": [
       "shop=travel_agency",
       "description=Ebrahim Travels in Powai, Mumbai offers complete travel solutions for all your vacation needs. We specialize in domestic and international tour packages, group tours, and holiday packages tailored to create unforgettable experiences."
@@ -82087,7 +82095,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T11:13:36+00:00",
+        "notes": "https://ebrahimtravels.com/jobs: HTTPError; https://ebrahimtravels.com/jobs/: HTTPError; https://ebrahimtravels.com/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
