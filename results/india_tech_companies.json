@@ -13004,12 +13004,12 @@
     "lng": 76.3517588,
     "website": "https://www.adviciya.com/",
     "phone": "+91-7736-677715",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.adviciya.com/join-our-team",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T08:49:19+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -13042,7 +13042,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.adviciya.com/join-our-team",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T08:49:19+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -13099,12 +13107,12 @@
     "lng": 76.3415764,
     "website": "https://datamateindia.com/",
     "phone": "+91-9048-762111",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://datamateindia.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://datamateindia.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T08:49:23+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it"
     ],
@@ -13136,7 +13144,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://datamateindia.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://datamateindia.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T08:49:23+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -28715,6 +28731,66 @@
     }
   },
   {
+    "name": "International Institute of Information Technology, Hyderabad",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "Prof. CR Rao Road, Gachibowli, Hyderabad, 500032",
+    "lat": 17.4454142,
+    "lng": 78.3482464,
+    "website": "https://www.iiit.ac.in/",
+    "phone": "",
+    "careers_url": "https://www.iiit.ac.in/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.iiit.ac.in/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T07:45:51+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "amenity=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:31355320"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: information technology, technology; negative hints: institute",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Hyderabad",
+        "addr:postcode": "500032",
+        "addr:street": "Prof. CR Rao Road, Gachibowli",
+        "alt_name": "IIIT Hyderabad;IIIT-H",
+        "amenity": "university",
+        "name": "International Institute of Information Technology, Hyderabad",
+        "name:hi": "अंतरराष्ट्रीय सूचना प्रौद्योगिकी संस्थान, हैदराबाद",
+        "name:te": "ఇంటర్నేషనల్ ఇన్స్టిట్యూట్ అఫ్ ఇన్ఫర్మేషన్ టెక్నాలజీ హైదరాబాద్",
+        "website": "https://www.iiit.ac.in/",
+        "wikidata": "Q1666653",
+        "wikimedia_commons": "Category:IIIT Hyderabad",
+        "wikipedia": "en:International Institute of Information Technology, Hyderabad"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.iiit.ac.in/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.iiit.ac.in/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T07:45:51+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sonata Software Limites",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -41810,66 +41886,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "International Institute of Information Technology, Hyderabad",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "Prof. CR Rao Road, Gachibowli, Hyderabad, 500032",
-    "lat": 17.4454142,
-    "lng": 78.3482464,
-    "website": "https://www.iiit.ac.in/",
-    "phone": "",
-    "careers_url": "https://www.iiit.ac.in/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.iiit.ac.in/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T07:45:51+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "amenity=university"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:31355320"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: information technology, technology; negative hints: institute",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Hyderabad",
-        "addr:postcode": "500032",
-        "addr:street": "Prof. CR Rao Road, Gachibowli",
-        "alt_name": "IIIT Hyderabad;IIIT-H",
-        "amenity": "university",
-        "name": "International Institute of Information Technology, Hyderabad",
-        "name:hi": "अंतरराष्ट्रीय सूचना प्रौद्योगिकी संस्थान, हैदराबाद",
-        "name:te": "ఇంటర్నేషనల్ ఇన్స్టిట్యూట్ అఫ్ ఇన్ఫర్మేషన్ టెక్నాలజీ హైదరాబాద్",
-        "website": "https://www.iiit.ac.in/",
-        "wikidata": "Q1666653",
-        "wikimedia_commons": "Category:IIIT Hyderabad",
-        "wikipedia": "en:International Institute of Information Technology, Hyderabad"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.iiit.ac.in/careers/",
-        "provider": "company_website",
-        "api_url": "https://www.iiit.ac.in/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T07:45:51+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
