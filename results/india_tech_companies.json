@@ -82469,7 +82469,14 @@
         "confidence": "none",
         "checked_at": "2026-06-24T18:13:10+00:00",
         "notes": "https://shree-krishna-digital-mulund-west-mumbai.grexa.site/jobs: HTTPError; https://shree-krishna-digital-mulund-west-mumbai.grexa.site/jobs/: HTTPError; https://shree-krishna-digital-mulund-west-mumbai.grexa.site/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
