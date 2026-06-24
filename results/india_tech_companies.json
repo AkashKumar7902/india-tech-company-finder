@@ -922,12 +922,12 @@
     "lng": 73.166643,
     "website": "https://www.atyantik.com",
     "phone": "+918347435435",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://atyantik.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://atyantik.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T00:12:15+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "description=Atyantik Technologies is an IT software services company based in Vadodara, Gujarat. Established in 2015, it services the needs of both large and mid-sized enterprises. The company is involved in data processing and is known for its proficiency in the IT"
     ],
@@ -960,7 +960,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://atyantik.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://atyantik.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T00:12:15+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -1667,12 +1675,12 @@
     "lng": 73.8206499,
     "website": "https://bee-logical.com/",
     "phone": "+91 96658 62273",
-    "careers_url": "",
-    "careers_provider": "",
+    "careers_url": "https://www.bee-logical.com/career",
+    "careers_provider": "company_website",
     "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T00:12:23+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=it",
       "description=Plot no. 12, Purvakarta Bungalow, Kshipra Society, Near Idea Showroom, Lane Number 1, Chintamani Society, Kshipra Sahaniwas, Karve Nagar, Kshipra Society, Karve Nagar, Pune, Maharashtra 411052"
@@ -1705,7 +1713,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.bee-logical.com/career",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T00:12:23+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -45406,6 +45422,63 @@
     }
   },
   {
+    "name": "F.T. Solutions Pvt. Ltd.",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "401, Meet Galaxy, Behind Tip Top Plaza,, Trimurti Lane, Thane (West), 400604",
+    "lat": 19.1853398,
+    "lng": 72.9601476,
+    "website": "http://www.futuretecsol.com",
+    "phone": "+91 8369390146",
+    "careers_url": "https://fts-pl.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://fts-pl.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-23T23:48:22+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8039469374"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Thane (West)",
+        "addr:housenumber": "401, Meet Galaxy, Behind Tip Top Plaza,",
+        "addr:postcode": "400604",
+        "addr:street": "Trimurti Lane",
+        "name": "F.T. Solutions Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91 8369390146",
+        "website": "http://www.futuretecsol.com"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://fts-pl.com/careers",
+        "provider": "company_website",
+        "api_url": "https://fts-pl.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-23T23:48:22+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Framestore",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -53428,63 +53501,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "F.T. Solutions Pvt. Ltd.",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "401, Meet Galaxy, Behind Tip Top Plaza,, Trimurti Lane, Thane (West), 400604",
-    "lat": 19.1853398,
-    "lng": 72.9601476,
-    "website": "http://www.futuretecsol.com",
-    "phone": "+91 8369390146",
-    "careers_url": "https://fts-pl.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://fts-pl.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-23T23:48:22+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8039469374"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Thane (West)",
-        "addr:housenumber": "401, Meet Galaxy, Behind Tip Top Plaza,",
-        "addr:postcode": "400604",
-        "addr:street": "Trimurti Lane",
-        "name": "F.T. Solutions Pvt. Ltd.",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91 8369390146",
-        "website": "http://www.futuretecsol.com"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://fts-pl.com/careers",
-        "provider": "company_website",
-        "api_url": "https://fts-pl.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-23T23:48:22+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
