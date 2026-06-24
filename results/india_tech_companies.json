@@ -11651,6 +11651,123 @@
     }
   },
   {
+    "name": "Adviciya Solutions Pvt Ltd",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Seaport Airport Road, Kochi, 682037",
+    "lat": 9.9956685,
+    "lng": 76.3517588,
+    "website": "https://www.adviciya.com/",
+    "phone": "+91-7736-677715",
+    "careers_url": "https://www.adviciya.com/join-our-team",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-06-24T08:49:19+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13950004574"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682037",
+        "addr:street": "Seaport Airport Road",
+        "air_conditioning": "yes",
+        "level": "2",
+        "name": "Adviciya Solutions Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+91-7736-677715",
+        "website": "https://www.adviciya.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.adviciya.com/join-our-team",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-06-24T08:49:19+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Datamate Info Solutions Limited",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "9/826/C, 11-12, 5TH Floor Meda, Kakkand, Seaport Airport Road, Kochi, 682030",
+    "lat": 10.0121007,
+    "lng": 76.3415764,
+    "website": "https://datamateindia.com/",
+    "phone": "+91-9048-762111",
+    "careers_url": "https://datamateindia.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://datamateindia.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T08:49:23+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13351835111"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: solutions, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "9/826/C, 11-12, 5TH Floor Meda, Kakkand",
+        "addr:postcode": "682030",
+        "addr:street": "Seaport Airport Road",
+        "name": "Datamate Info Solutions Limited",
+        "office": "it",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "+91-9048-762111",
+        "website": "https://datamateindia.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://datamateindia.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://datamateindia.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T08:49:23+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Brey Digital",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -12995,65 +13112,6 @@
     }
   },
   {
-    "name": "Adviciya Solutions Pvt Ltd",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "Seaport Airport Road, Kochi, 682037",
-    "lat": 9.9956685,
-    "lng": 76.3517588,
-    "website": "https://www.adviciya.com/",
-    "phone": "+91-7736-677715",
-    "careers_url": "https://www.adviciya.com/join-our-team",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-06-24T08:49:19+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13950004574"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Kochi",
-        "addr:district": "Ernakulam",
-        "addr:postcode": "682037",
-        "addr:street": "Seaport Airport Road",
-        "air_conditioning": "yes",
-        "level": "2",
-        "name": "Adviciya Solutions Pvt Ltd",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "phone": "+91-7736-677715",
-        "website": "https://www.adviciya.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.adviciya.com/join-our-team",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-06-24T08:49:19+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Conceptia Software Technologies",
     "city": "Kochi",
     "region": "Kerala",
@@ -13095,64 +13153,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Datamate Info Solutions Limited",
-    "city": "Kochi",
-    "region": "Kerala",
-    "country": "India",
-    "address": "9/826/C, 11-12, 5TH Floor Meda, Kakkand, Seaport Airport Road, Kochi, 682030",
-    "lat": 10.0121007,
-    "lng": 76.3415764,
-    "website": "https://datamateindia.com/",
-    "phone": "+91-9048-762111",
-    "careers_url": "https://datamateindia.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://datamateindia.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-24T08:49:23+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13351835111"
-    },
-    "tech_score": 57.0,
-    "confidence": "high",
-    "notes": "matched: solutions, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Kochi",
-        "addr:district": "Ernakulam",
-        "addr:housenumber": "9/826/C, 11-12, 5TH Floor Meda, Kakkand",
-        "addr:postcode": "682030",
-        "addr:street": "Seaport Airport Road",
-        "name": "Datamate Info Solutions Limited",
-        "office": "it",
-        "opening_hours": "Mo-Sa 09:00-18:00",
-        "phone": "+91-9048-762111",
-        "website": "https://datamateindia.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://datamateindia.com/careers/",
-        "provider": "company_website",
-        "api_url": "https://datamateindia.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-06-24T08:49:23+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -27777,12 +27777,12 @@
     "lng": 77.6650059,
     "website": "https://www.happiestminds.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://careers.happiestminds.com/",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://careers.happiestminds.com/wp-content/uploads/2026/04/careers-banner.png",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-06-24T10:01:09+00:00",
+    "careers_notes": "detected ATS/provider",
     "categories": [
       "office=it",
       "building=commercial"
@@ -27813,7 +27813,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://careers.happiestminds.com/",
+        "provider": "darwinbox",
+        "api_url": "https://careers.happiestminds.com/wp-content/uploads/2026/04/careers-banner.png",
+        "confidence": "high",
+        "checked_at": "2026-06-24T10:01:09+00:00",
+        "notes": "detected ATS/provider"
+      }
     }
   },
   {
@@ -28574,12 +28582,12 @@
     "lng": 77.7159075,
     "website": "https://www.infinite.com/",
     "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
+    "careers_url": "https://www.infinite.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.infinite.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-24T10:01:14+00:00",
+    "careers_notes": "careers page found on company website",
     "categories": [
       "office=company",
       "building=office"
@@ -28608,7 +28616,15 @@
       "google_places_new_queries": [],
       "google_places_new_types": [],
       "google_places_new_cells": [],
-      "search_queries": []
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.infinite.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.infinite.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-06-24T10:01:14+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
