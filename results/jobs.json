@@ -1,5 +1,32 @@
 [
   {
+    "job_key": "ca7e0687cbd1dfa629a40d33ec7c77d316b27f630d20e680fb9b25adbaedf20d",
+    "source_key": "6b15988a4f8b0d8348435cf7458d26a8f6f682d24dc6f01e7f05b9520e753734",
+    "company_name": "Auxost | Digital Marketing Agency",
+    "company_domain": "auxost.com",
+    "company_city": "Bhopal",
+    "source_provider": "company_website",
+    "career_url": "https://auxost.com/uncategorized/jobs/",
+    "api_url": "https://auxost.com/uncategorized/jobs/",
+    "external_id": "Digital Marketing Intern",
+    "title": "Digital Marketing Intern",
+    "location": "{\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"E-3/191, E-3, Arera Colony, \", \"addressLocality\": \"Bhopal,\", \"addressRegion\": \" Madhya Pradesh \", \"postalCode\": \"462016\", \"addressCountry\": \"India\"}}",
+    "department": "",
+    "employment_type": "INTERN",
+    "workplace_type": "",
+    "url": "https://auxost.com/uncategorized/jobs/",
+    "posted_at": "2024-07-22",
+    "updated_at": "2024-10-31",
+    "status": "open",
+    "content_hash": "ef8101aec7c27bf685afc1ea20afe155298aac866db36e1fdedcb7a2f66b195d",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:india"
+    ],
+    "first_seen_at": "2026-06-25T22:46:35+00:00",
+    "last_seen_at": "2026-06-25T22:46:35+00:00"
+  },
+  {
     "job_key": "f35ad05b4f8a504431503ede7add2f0f02d03481ab4e6b78f130623edf2e65eb",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
