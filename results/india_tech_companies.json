@@ -26952,7 +26952,14 @@
         "confidence": "none",
         "checked_at": "2026-06-25T15:00:15+00:00",
         "notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
