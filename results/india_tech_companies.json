@@ -51197,7 +51197,9 @@
         "name": "Centre for Quantum Science & Technology",
         "office": "research",
         "short_name": "CQST",
-        "website": "https://cqst.iiit.ac.in/"
+        "website": "https://cqst.iiit.ac.in/",
+        "check_date": "2026-06-30",
+        "internet_access": "wlan"
       },
       "google_queries": [],
       "google_types": [],
