@@ -80222,7 +80222,7 @@
     "city": "Chennai",
     "region": "Tamil Nadu",
     "country": "India",
-    "address": "Chennai - Tiruttani - Renigunta Road",
+    "address": "Chennai - Tiruttani - Renigunta Road, Chennai, 600053",
     "lat": 12.9758423,
     "lng": 80.2193076,
     "website": "https://aarthiscan.com/",
@@ -80247,11 +80247,14 @@
       "osm_tags": {
         "addr:housenumber": "3",
         "addr:street": "Chennai - Tiruttani - Renigunta Road",
-        "healthcare": "laboratory",
+        "healthcare": "sample_collection",
         "name": "Aarthi Scans and Labs",
         "opening_hours": "24/7",
         "phone": "+917305079758",
-        "website": "https://aarthiscan.com/"
+        "website": "https://aarthiscan.com/",
+        "addr:city": "Chennai",
+        "addr:district": "Chennai",
+        "addr:postcode": "600053"
       },
       "google_queries": [],
       "google_types": [],
