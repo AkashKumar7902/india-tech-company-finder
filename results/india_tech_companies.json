@@ -45467,6 +45467,42 @@
     }
   },
   {
+    "name": "eClerx",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 19.1615142,
+    "lng": 73.0008226,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13979017304"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "eClerx",
+        "name:en": "eClerx",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "F.T. Solutions Pvt. Ltd.",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -45766,6 +45802,42 @@
         "confidence": "medium",
         "checked_at": "2026-06-15T15:34:45+00:00",
         "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "LTI Mindtree",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 19.1631073,
+    "lng": 73.0021182,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13979016983"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "LTI Mindtree",
+        "name:en": "LTI Mindtree",
+        "office": "it"
       }
     }
   },
