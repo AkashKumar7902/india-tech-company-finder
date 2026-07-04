@@ -42,8 +42,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Account-Technical-Executive--PCB-MSA-Platform-_R55149",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "89a4f3b35c868bf309ad0f9bd459b44dbed8602b186b1090201ecdd321cbefbb",
     "matches_watch": true,
@@ -52,10 +52,10 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
-    "job_key": "4ddab991110c8566762c4b439e7dc63c0f3625066c42ca16a9972a3370de1932",
+    "job_key": "f35ad05b4f8a504431503ede7add2f0f02d03481ab4e6b78f130623edf2e65eb",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
     "company_domain": "beta-cae.com",
@@ -63,23 +63,78 @@
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R52818",
-    "title": "AE, RTL2GDS Architect",
+    "external_id": "R55083",
+    "title": "AE - System VIP, Perspec, Portable Stimulus DV",
     "location": "SAN JOSE",
     "department": "",
     "employment_type": "",
     "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer-Architect---Technical-Field-Operations_R52818",
-    "posted_at": "Posted 9 Days Ago",
-    "updated_at": "Posted 9 Days Ago",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/AE---System-VIP--Perspec--Portable-Stimulus-DV_R55083-1",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
     "status": "open",
-    "content_hash": "55c1f30a04dca207b8e9c7213ae9efc7f6b42cf6fef878ef9af917b0719bc670",
+    "content_hash": "9c2b46cee20e330d88ec62028feeef6175ac819b7525ac004e12017aaf3aee07",
     "matches_watch": false,
     "match_reasons": [
       "location:bengaluru"
     ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "first_seen_at": "2026-06-19T19:53:06+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "82020886cfd484bec118bf9ec83d48f874658dc480996ab9136ea420cba9de7a",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55190",
+    "title": "AE Group Director",
+    "location": "GYEONGGI-DO (Seoul)",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/AE-Group-Director_R55190",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
+    "status": "open",
+    "content_hash": "c2f352a2416dcd9c5d39f0a664ecdf07c26a3d5e8d611297b5a01462d80ce0be",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "9cc3bed401b001efbcdc5a597219f3ee4d03db52c6f664c1d61979762c4bc0e9",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54505",
+    "title": "Analog Design Engineer II",
+    "location": "Nanjing",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Analog-Design-Engineer-II_R54505",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "ea382528385fa25c6352a1cafdf1a210bf1c48c677faaf966581410694a13298",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "b641a7da60e755de45b923af974805bf65579145190e9563f875488dbd71239a",
@@ -97,8 +152,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer_R53122-2",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "4ccb5d687636b39fb74b304e1cbcc6f1f2c44bc60719e7e72bc05c865bdfadc4",
     "matches_watch": true,
@@ -107,7 +162,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "d4f6a775db0d4a981ea520e85581a9c2765e05dfc6014d0cab3a0eef270b755b",
@@ -125,8 +180,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA/Application-Engineer---Physical-Design--Back-End-_R54943",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "2b835242b3617fc9129de53b8eda90ba9244042c49db4d6ea664efafa3016e4d",
     "matches_watch": true,
@@ -135,7 +190,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "20341f0f56f08d1e3bf3ab4ff7df151c96dd00e11cb05e78d4f14a94b7f25ebb",
@@ -153,8 +208,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Application-Engineer-Architect---Technical-Field-Operations_R52816",
-    "posted_at": "Posted 9 Days Ago",
-    "updated_at": "Posted 9 Days Ago",
+    "posted_at": "Posted 13 Days Ago",
+    "updated_at": "Posted 13 Days Ago",
     "status": "open",
     "content_hash": "46fd87fc8a398b84e78cb98f85f693eeb2b7c1b27509013483ba20482e136090",
     "matches_watch": true,
@@ -163,7 +218,63 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "b034e92a5425a44abf50ae7a7847db9650cdd4c3e3116c8490e0b6a94c64c22c",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54681",
+    "title": "ATE Test Engineer Junior",
+    "location": "VALBONNE (Sophia)",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/VALBONNE-Sophia/Test-Engineer-II_R54681-1",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "7e35ed0a1327900f9009adb14c8664b8c8d127b4f67a0a57273a468ff349a90f",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "60ae67c0c5c102e69097e818a1e1643976c789bae44ea18f102cde31aaa2bf8d",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55270",
+    "title": "Bench Test Lead Engineer",
+    "location": "VALBONNE (Sophia)",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/VALBONNE-Sophia/Bench-Test-Lead-Engineer_R55270",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "0c088c8b1ee561aee5940819b86cd8d3d2ab815d58dddd670aecf09f64e59ada",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "4f29ee94138566e9dcf4ee50498aed431d54fe571fd69ed344509f67efc8cccc",
@@ -181,8 +292,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Benefits-Analyst_R54868-1",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "b74b8341f79f438a780e663ef218630b80b1dc6373ffccde3dfd4b3791112a2b",
     "matches_watch": false,
@@ -190,7 +301,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "e39a7cc2ac516dd96c5f2386f3fe89a1a1f8babc49d54bff2a3c23f7f37bc26a",
@@ -208,8 +319,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Business-Systems-Analyst--Salesforce--Vibe-Coding-_R54919",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "0c871fbd263842053faab14337851f0d87f3c83fd3e45dd24b0001634ae865b4",
     "matches_watch": false,
@@ -217,7 +328,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "49beb099a5fe64fe04d19548dc340b29db163f3cb0a796ac3fdff15e8cc5875f",
@@ -235,8 +346,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Corporate-Counsel---Employment_R54245",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "e6e87420cdcd7afed68f9c1e19e03214fdeafda38c7e260eb77b9c5156a7176e",
     "matches_watch": false,
@@ -244,7 +355,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "ac0fe90fcf7932a96001fb1e165a1f720bd65b4e45b518aa1e91c5738ff11c4c",
@@ -262,8 +373,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Account-Technical-Executive-for-HPC-accounts_R55081",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "b6db4698f6a36a1c1333797f092f0f69effb451ea841137dff68af462112076a",
     "matches_watch": false,
@@ -271,35 +382,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "7b001d383284f3a3674eb8d294e24097dd596dc32460f3b93ef07ec3d8be79e4",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R55186",
-    "title": "Customer Engagement Engineer II",
-    "location": "SHANGHAI",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Customer-Engagement-Engineer-II_R55186",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
-    "status": "open",
-    "content_hash": "7f042a356151e12d3486ae8f495144e966a297a7bf86daa66786822e6c986577",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "7e2542680aa2f9a2280a06a414eea75ecb1eb3ec7090d67f14c56843c7472de9",
@@ -317,8 +400,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Data-Center-Operations-Engineer_R51880",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "e63fc27fe2c097a0d78af518e707dc15d91be10a6127747d7f7b1e6be0fd94ec",
     "matches_watch": false,
@@ -326,7 +409,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "a5d5bc14f9233469b95c9759ba2189051f9a66fd11acc6470ae26f40d555abb7",
@@ -344,8 +427,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Design-Architect_R55335-1",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "64d4d0c2c6996ee04605dfe420928347fe4c338d5f4951bb38366577c5e91b0a",
     "matches_watch": false,
@@ -353,7 +436,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "64058d13f1c1de3acc7ea995bf84cdca54012ab5f6f84d44e3bc086ac0728adf",
@@ -371,8 +454,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Design-Engineer-I_R50382",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "0222fafc3541ccee8ad8f5a55e9377787be5b987d0fde4028d29488e44a6fc03",
     "matches_watch": true,
@@ -381,35 +464,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "17a48212d491337322b53b9b5c4230f075b1cd17c38f88ec4f809c6a8a953c25",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R54319",
-    "title": "Design Engineer II",
-    "location": "HYDERABAD",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Design-Engineer-II_R54319",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
-    "status": "open",
-    "content_hash": "c8a2244f67d4cbed6cc0b30355d59744831acd8d8371a89f0eae5bb3bc073b0e",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "71bd995789c7e0123861e6ccfaad2336b54b11c752c5b864f862f8a66e35afad",
@@ -427,8 +482,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/TORONTO-02/Design-Engineering-Architect_R55158",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "8d27dde83dcd0f6de7b87957debf934f133550b5783b00a35e071b9a12967c63",
     "matches_watch": true,
@@ -437,7 +492,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "2debd70541be2e2dd99fc9bee70600f1c908d59fb8a0ecd21855eafd10f3b7c2",
@@ -455,8 +510,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/DFT-Design-Engineer_R55131",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "cd75352862b987aaa1d92743c30614a26be5c2ceb9dc81d973d31a51488740a1",
     "matches_watch": true,
@@ -465,7 +520,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "1895cfa31324bc43736f16f48fc99b74940bea9ede17ee4275527493b51b2c8f",
@@ -483,8 +538,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Digital-IC--Account-Technology-Executive--ATX-_R53877",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "e01b383f90677eacc70cbd8c73497843640a4609331409c37593feb69b448937",
     "matches_watch": false,
@@ -492,34 +547,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "033f750d21da3690acf77dc8dcd032e8fc63d8b9ad79c573b2debb640d2204db",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R53836",
-    "title": "Digital Implementation AE Architect",
-    "location": "SAN JOSE",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer-Architect_R53836-1",
-    "posted_at": "Posted 9 Days Ago",
-    "updated_at": "Posted 9 Days Ago",
-    "status": "open",
-    "content_hash": "9c38f691cdb047a8741f976b7b7a842161c0c7f0b6df098f9fe4102898b162cf",
-    "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "0c46fef60add7e24938980e0544916c0e498bf3011cb8bc1f53359d688faeec4",
@@ -537,8 +565,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Application-Engineer_R51058",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "2cd85ae70d317e1b5a529dcadf3f86e9b171614e0a2da1dc30afbdd0bfbfa08f",
     "matches_watch": false,
@@ -546,7 +574,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "b6119e9db41fd07f532ef16ccab9018a676735df8c9807a34dda310e2585582d",
@@ -564,8 +592,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/DCIM-Colo-Data-Center-Account-Technical-Executive_R54403",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "fa167fd81609179097901a9d96b426ae1914222841e89b7fc99f3b884ab93800",
     "matches_watch": false,
@@ -573,7 +601,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "a83bd96f3bc1dd3caa9f7e94b783e11a996522e41c8cce9284fda8f73b02e55f",
@@ -591,8 +619,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Director---Sr-Corporate-Counsel---Compliance_R54749",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "caf05f892be73d961bdd2b757632d10c7e0a72753029569dc43da618b7a7c83a",
     "matches_watch": false,
@@ -600,7 +628,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "b49c67d6b8b6869122acfefbb30bbf0b6a0b72b51305ecdc36fd606f68249cd8",
@@ -618,8 +646,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Field-Marketing-Specialist-I_R55112",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "af770eeb4905e34ca436989b21573e94ea38e2863f5c715f4dbcab2cf55deb7f",
     "matches_watch": false,
@@ -627,7 +655,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "1efdb1993ed34fdc44e0d6bff8cc0cb4b164eedf239590269dfb3f92eb1e843c",
@@ -645,8 +673,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Firmware-Engineer-II_R55227-1",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "4c331a7fba50c7b8e02622810ed865641693bc78daffcc4372f4f8ae42defc82",
     "matches_watch": true,
@@ -655,7 +683,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "7cf92d2be2362b9dea07a001db629c516c725c830807d9a6a9489c1b2fcbb26f",
@@ -673,8 +701,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Firmware-Engineer-II_R55225",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "a3e2bf2d23621aa96f51aabc0eafd2ac0002fc07d8fd6eae3f0dd099cff7ceee",
     "matches_watch": true,
@@ -683,7 +711,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "0131f24618d0701eca045ef96d2583395c21f45ba0c0347cd08c9d2dea813bda",
@@ -701,8 +729,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R55011",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "16fdd0e6b4af95c9cbdc43a1456f2a17ecd2708a444e3c58a444be92b850b4c2",
     "matches_watch": true,
@@ -711,7 +739,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "759d5acc4f4a4e33ebf5715bb91434f9f5b65e531c0a38543a40b490ccee664a",
@@ -729,8 +757,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Group-Director---HR-M-A_R54905-1",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "e05a5b771826ec6dc0a12a21bddd4234b86904a6e05840af4949926a3f5a34f5",
     "matches_watch": false,
@@ -738,7 +766,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "9faa5fc732dc59e7340fc1237f8ed2df8496ad0dad02f2f7f66c7f9e7bcc2b28",
@@ -756,8 +784,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/HR-Business-Partner_R54564",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "11543ddea5c340a43e1b451465d2dd81903e5f809393907c96b40f6674ee746e",
     "matches_watch": false,
@@ -765,7 +793,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "12d9a9405ae505ce13d7a3112ecde4beacc61bbf12f38951a2147c35e2818b1b",
@@ -783,8 +811,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/IC-Power--IR-and-EM-Principal-Application-Engineer_R55303-1",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "1fd91a4155224f62f7681bb9a71305b0730dd5bb97e6b932b4f451ca9ed4980c",
     "matches_watch": false,
@@ -792,7 +820,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "921b8089d96940d5e9ddf886efc6a1cb5c118b36896d6f184837b28f90a3d4c2",
@@ -810,8 +838,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Account-Technology-Executive---Strategic-Accounts_R55256",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "70fd256424de366bbfbee2249e26ad22c172056c702d6cd7b0652817eaba61d7",
     "matches_watch": false,
@@ -819,7 +847,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "f012be02c2757bb096fe50da5fda9606ff875624ce80b817d53dcaaab0fe6e51",
@@ -837,8 +865,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Strategic-Account-Director_R55257",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "7faa8474d84524e2d83e08b183b1bf0fd9e27950b14a9419925770b78b7ccd24",
     "matches_watch": false,
@@ -846,34 +874,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "092dbe26ab67f8dea0ebe95c70333da0041e11e7caa47bdc35e9bd24f8151270",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R55295",
-    "title": "Intern",
-    "location": "HSINCHU",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Intern_R55295",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
-    "status": "open",
-    "content_hash": "5cfe890a1e812046f22f59362bc4af507efb17d33f1ed9c6e83eb56035894b16",
-    "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "dec4feb9c13d25913d9e1a919eaac24df4b8bc86d2c1c78dc4feae2f876af8d0",
@@ -891,8 +892,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/CESSON-SEVIGNE-01/iSE-neo-Software-Engineer_R54024",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "5de2fbd739c646d9e26617ccd9b0e1385cabec4d8c1d37d0b3f91e04c73938c1",
     "matches_watch": true,
@@ -901,7 +902,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "c12bce7e0a47739e9a5ac086af9ac20226220968ff9cdb0055351400812a70fa",
@@ -919,8 +920,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/IT-Staff-Storage-Engineer_R53945",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "d7849197f68808334038a90f7caa1e0e163a912103492735ea8f0fc0df0769b5",
     "matches_watch": true,
@@ -929,7 +930,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "bede08dcfbe0674e496c0038f75b0386d8e2c4791fc350b425707a628f6550fc",
@@ -947,8 +948,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/VELIZY-Paris/Junior-Application-Engineer--PCB-Design-and-SI-PI-Simulations-_R55154",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "809873da648fde8832e68b57286f06a863fd565ae1945f30225f828718467716",
     "matches_watch": true,
@@ -957,7 +958,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "caac5e480f8447253c52918fce7cbda3e4df55fbdb26dd748e565f812ff6cef4",
@@ -975,8 +976,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Application-Engineer_R55188",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "9c9847f47347b20774d305414b0d5fe01ae8629445725cdd217e2257a8d4649c",
     "matches_watch": true,
@@ -985,7 +986,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "93f1569c5c13e17e45a012179143bcbdf47d8d771857cd27ff26931e39e1b680",
@@ -1003,8 +1004,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/MILAN/Lead-Application-Engineer---Custom-IC-Front-End--Analog-Simulation---AI-Enabled-Flows-_R55153-1",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "456771989f186dc20777fd67754a152caebbf90dafb0a020817cd30766c29f9a",
     "matches_watch": true,
@@ -1013,7 +1014,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "ee422aaec4f56502802db3b8cb79f15d3c5a76d6d6c345b36ca89614280353e8",
@@ -1031,8 +1032,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/MEYLAN-01/Lead-Application-Engineer---Custom-IC-Front-End--Analog-Simulation---AI-Enabled-Flows-_R55152",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "5ba2a0f438fe7a53dc3d14360533fe6d6962b940d586b34f5184e21fe25ba332",
     "matches_watch": true,
@@ -1041,7 +1042,35 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "d5b08a1079beb49fe4a26c1923a679124f7c7be1b8b655aae316487a366ebbc2",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54170",
+    "title": "Lead Application Engineer – Sign-Off",
+    "location": "PENANG 02",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/PENANG-02/Lead-Application-Engineer---Sign-Off_R54170",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "eec640bc6e3ab8db91c5ed992a7c3a1396b2580ab8658eb28b39757ef3ef7290",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "1b65439b4541dd6ea11aa4c501bff125efb97601a35cbd315d9fc5fe3a8b43f7",
@@ -1059,8 +1088,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Lead-Custom-Layout-Design-Engineer_R54820",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "86a202abbaef950612592a7bf90db34acc366c1856d5150d7524de82fa4d37cb",
     "matches_watch": true,
@@ -1069,7 +1098,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "ba8420d32fb310ee1ea3025a00e16f137bdf8740dc3ba4b5e4b8921947fa9644",
@@ -1087,8 +1116,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SHENZHEN-04/Lead-Customer-Engagement-Engineer--Spectre_R54818",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "4eb97ba8ac45c87d55cf54a9936aac3c0c702836064a6a66d1c1e0e624798b86",
     "matches_watch": true,
@@ -1097,7 +1126,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "797e6024946e4ea97538e4a98154985662747c7b6292b3adbe8fc8b4d7d9fa61",
@@ -1115,8 +1144,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R54815-1",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 11 Days Ago",
+    "updated_at": "Posted 11 Days Ago",
     "status": "open",
     "content_hash": "59e4ad7114ed3303bd6dc7d561a14531cda95ed8172dfc4805428bf63e272f0f",
     "matches_watch": true,
@@ -1125,7 +1154,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "021fd89114df9a1107fb054027213f7b214a1845a44343f7a558a2356db6b205",
@@ -1143,8 +1172,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R49771",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "9730f9fe7fd00f63b3f34267b79ec14ceaa4a462badad403a02268653e558b9c",
     "matches_watch": true,
@@ -1153,7 +1182,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "b0e56c2a2bafea1e38bddf9ffde8f405492e2d4f0d718307951ec86e7906c7a5",
@@ -1171,8 +1200,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Design-Engineer_R53891",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "20a94b059182696dfe4f1dc5bb6a5d5dff6604089b113da16da6f11437105571",
     "matches_watch": true,
@@ -1181,35 +1210,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "841b6e3342344e2be6702ca3afd02b43c2047070fcac497e22c39d95850500c8",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R54793",
-    "title": "Lead Design Engineer - Layout",
-    "location": "SHANGHAI",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Design-Engineer---Layout_R54793-1",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
-    "status": "open",
-    "content_hash": "59a21bbea13a79053faedf9dddf8baa183bcf8e6975c8a6a69150c902a730a00",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "6c3797193cd789016f88a8a19c9dca71e0562020adafd5e921153fee0937547b",
@@ -1227,8 +1228,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/MOUNT-ROYAL-Montreal/Lead-Digital-Verification-Engineer_R55221",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 11 Days Ago",
+    "updated_at": "Posted 11 Days Ago",
     "status": "open",
     "content_hash": "165551fd096024dd909a7d9c6890d7ad4b2b9bdfd7686bb8643d509f572da0d2",
     "matches_watch": true,
@@ -1237,35 +1238,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "d79df7e8048f2482afca7a4d7637049fba3fb9a62ba3c6bd8eeaa64305b7f213",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R55159",
-    "title": "Lead Field Service Engineer",
-    "location": "HOME GA",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-GA/Lead-Field-Service-Engineer_R55159",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
-    "status": "open",
-    "content_hash": "ac6bfc4ff517e31862ab71dbe25185285e4bb53935747bb10756c7f69ae3ded7",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "3b3c0da36e616f81eaf70aba31850540ba1a6ee71571074965f18be1325029ed",
@@ -1283,8 +1256,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Firmware-Engineer_R55231",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 11 Days Ago",
+    "updated_at": "Posted 11 Days Ago",
     "status": "open",
     "content_hash": "ebd29be6265dfabb6744043a2759ab962a5f8c944d3e4da67a4ad116a759b29d",
     "matches_watch": true,
@@ -1293,7 +1266,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "242c2efa4880757fc472dd2a513a42ed180ff3eed5065d24ad0bf980adeaf250",
@@ -1311,8 +1284,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-IC-Package-Design-Engineer_R53381",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "7ef3ba0b052294d9bd8612920c771583ba5ff6ae10cca77d13139570366cd3f6",
     "matches_watch": true,
@@ -1321,7 +1294,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "c859d0772b455cc5e698b87488758991d73355e4d189eb58af5b35a9512af1e4",
@@ -1339,8 +1312,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Network-Engineer_R51237",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "5c55a8c36c9099c457b56d173c4874c2ef50d102786418a1f94edea4e32f457d",
     "matches_watch": true,
@@ -1349,7 +1322,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "757a7193e8d78f3c64878706208eda3a71b31d79730b3a6833ff85cad7fc481a",
@@ -1367,8 +1340,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Product-Engineer_R55275",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "fffade1103ab96779ed7c378ab190e21558492b120eb3fa7ac7a665fb827c9cf",
     "matches_watch": true,
@@ -1377,7 +1350,35 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "aa6536b911fb280532e59e48e5c5ad350a813450358cd0c13882b0185e1fb631",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R53765",
+    "title": "Lead Product Engineer: System Verification and Emulation",
+    "location": "BELO HORIZONTE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Lead-Product-Engineer--System-Verification-and-Emulation_R53765",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
+    "status": "open",
+    "content_hash": "7db7a20b4848231b76a3da5b2e889374f88bf1f74b30ef880897cf820b8981bb",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "42f823b16db580eb75abae5317b1c2a4bc2ab2bbb8b146c7aed753f5866d7959",
@@ -1395,8 +1396,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Lead-Software-Engineer_R55245",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "9acb4d9ef4e7a4f137fb7da2fcb993a44cac286f28b0dd6fe7133285619a0868",
     "matches_watch": true,
@@ -1405,7 +1406,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "034b636f610bdc5da843070d9ede84ab802ee9d8a6561f944ca6681585212695",
@@ -1423,8 +1424,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R51818-1",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "22ef471fc62049c4bf1e674c58b67a2836fe2386b209c44547ca88f68cd50865",
     "matches_watch": true,
@@ -1433,7 +1434,35 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "715d4ec1f865f51af5c26ff77a7540bf97dcb596ba92d403b93e34aabd172c92",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54367",
+    "title": "Lead Software Engineer",
+    "location": "HSINCHU",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Software-Engineer_R54367",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "39cb2fba75647ed42f174b035306fce5a509bef36137c34ccfe48543836f839b",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:software,engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "0ab7550e65608cc6f95ad4a53e0c7fe8b7af30cffb6dc0e25088e06e18082fb2",
@@ -1451,8 +1480,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Software-Engineer--ML_R55318-1",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "809a690aaa2ce444ee1321d55f38c090187fae09546bcc6dc53f265fe76df55e",
     "matches_watch": true,
@@ -1461,7 +1490,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "8cca05965a444dd584d323db7a5d6591aba695adcf4b127ddee7ba0e1666c14f",
@@ -1479,8 +1508,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Solutions-Engineer---Runset-Enablement--Physical-Verification-_R52311",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "ee277b8dd4ae1cf360b14fbc5d9e23aa51d960780c0a9bce4911683a7c443061",
     "matches_watch": true,
@@ -1489,7 +1518,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-20T23:55:49+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "b1eed88367f97224a8bcef26d618a77d7a81da2d785ffce5bc2cf7ad8c9e5c4c",
@@ -1507,8 +1536,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-OR/Principal-AI-Forward-Deployment-Engineer_R54994",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "7dc13a81fc4fb5af3f95eb3588aa94ee17ce4845f100fa6aed2be0efbe646325",
     "matches_watch": true,
@@ -1517,7 +1546,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "0867883a5c1b4a540d220018d5ae016eada1eaa58bd92425a0864d45dfec6e61",
@@ -1535,8 +1564,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Analog-Application-Engineer-for-Custom---Electromagnetic-flows_R55249",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "af1d5175d654ae08cfd9dbec60b112a06838fd260ffa08e0723c7fc88cfeedb2",
     "matches_watch": true,
@@ -1545,7 +1574,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "775c3def9278c57185f24ffea1a5f37099abc638a4517fe710c3c41007073415",
@@ -1563,8 +1592,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Application-Engineer_R52626",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "a8fd540744d75c41130cf75f37e11587fd0582f13a5b0fb5f7b77530b60c4450",
     "matches_watch": true,
@@ -1573,35 +1602,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "08cf6ecbc6a6cafa97df3ba5c142887602ef6ae5ee5b1e626da4eb5658f6cff8",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R54475",
-    "title": "Principal Customer Service Engineer",
-    "location": "2 Locations",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/LIVONIA-01/Principal-Customer-Service-Engineer_R54475",
-    "posted_at": "Posted 9 Days Ago",
-    "updated_at": "Posted 9 Days Ago",
-    "status": "open",
-    "content_hash": "01cfc60dbd45c22a309d09b5b32e8a2bc04e48771fdaeb57c30551abeb550694",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "9916d7e2601e69a7678321fd52695856f5a6103740460bd4676903eb03355c67",
@@ -1619,8 +1620,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R54817-1",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 11 Days Ago",
+    "updated_at": "Posted 11 Days Ago",
     "status": "open",
     "content_hash": "4a4a000f2f0b5c5498ead8aa286904865c1f79b237385d80f41685f455e6eb65",
     "matches_watch": true,
@@ -1629,7 +1630,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "1569460d70b52a19ea950b99e0495f840921e7a13d1ca79a91c10f377ad28a09",
@@ -1647,8 +1648,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-04/Principal-Design-Engineer_R55236-1",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 11 Days Ago",
+    "updated_at": "Posted 11 Days Ago",
     "status": "open",
     "content_hash": "d89f0539475499d1a6f2bf8c9cb661c9d4fe5d5f41130542b86ecaccc0aa885c",
     "matches_watch": true,
@@ -1657,35 +1658,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "39c54414d3c1a073071324565739f6b24a2823232699f451be7aac525116e145",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R49991",
-    "title": "Principal Design Engineer",
-    "location": "HYDERABAD 04",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD-04/Principal-Design-Engineer_R49991",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
-    "status": "open",
-    "content_hash": "696ffb12e9bbe71bae15cb01381b7cb81fe0f6ac79c6e0e7d7ca0e03afbf39d7",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "1f444599572660757239385c04d8aaa7de05a1b87ac8341326f15fd97b24a1b8",
@@ -1703,8 +1676,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Design-Engineer_R54892",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "508e05d578641625d1b03d1c93bea49e8e664c70f35ba140fa3a0f7be276d8ff",
     "matches_watch": true,
@@ -1713,7 +1686,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "cb1fe3381d3b066d6908cef0e6f554792f56e6ec05c57fd8163776cb55fa4acc",
@@ -1731,8 +1704,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R55263",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "5b47eaffa12b305091b7657c4ee24912e21e203e50a5fc719cf44f89bf0a9d17",
     "matches_watch": true,
@@ -1741,7 +1714,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "ed581f00d7dd517a0a7ea0124b56d9dfcb4f7fbb780f3d591e3cd783da2b2a82",
@@ -1759,8 +1732,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Design-Engineer---Physical-Design_R55332",
-    "posted_at": "Posted 3 Days Ago",
-    "updated_at": "Posted 3 Days Ago",
+    "posted_at": "Posted 7 Days Ago",
+    "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "f2c81541867776062046b4726eebebbd0ee3409111ab4f4b1b8339c252698e1f",
     "matches_watch": true,
@@ -1769,34 +1742,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "2a076dbea2775372cc432b166a04cc915956ea31e4624104cef0d372e74c9785",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R53834",
-    "title": "Principal IC Digital Implementation AE",
-    "location": "SAN JOSE",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Application-Engineer_R53834",
-    "posted_at": "Posted 9 Days Ago",
-    "updated_at": "Posted 9 Days Ago",
-    "status": "open",
-    "content_hash": "760a4a078a29c61a62ea578d4d6688648b8b5398e77694244e2b606e632c79fc",
-    "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "9cb30cd4b128c9310217e670e1e7954df9207bcdb1ac338ff8af0b7cd0627ff7",
@@ -1814,8 +1760,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Product-Engineer--Analog-Design-Automation-_R53463",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "bace63dfd9721d58afae3d46de5f28ca6edab3357c346a67e9568c04761800ff",
     "matches_watch": true,
@@ -1824,7 +1770,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "6712e1a5b91b7051302bb9aa3ad773bb277692ed42960e81915cbe652fbc8e97",
@@ -1842,8 +1788,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Product-Engineer--Analog-Design-Automation-_R53464",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "3dbcdbc12f2a5ca4efd6bfff15c8692fff8a0c3fdd7d5e4d6975ebd56a13373d",
     "matches_watch": true,
@@ -1852,7 +1798,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "59c92b3dbbd7616d0592dd8bb5ce902668cfaad2a38f419ed6b6e8b5c9872803",
@@ -1870,8 +1816,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Product-Engineer_R52413",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "ac02645ff1d9c4cf3c07b36cc8b5bcba3561b11f17b8826f1327eab2887d847a",
     "matches_watch": true,
@@ -1880,7 +1826,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "c8de61f732887b7831955594c0e5dfddec3d84b3f6e2da717e8c64f4471c9065",
@@ -1898,8 +1844,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Principal-Software-Engineer_R55114",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "e5d7c02f7bc4b48384ada40e4198c06026d5fefb3ebdc6f9c999f9186459b20a",
     "matches_watch": true,
@@ -1908,7 +1854,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "c6e71bbdad0a30f2a25dc0c0334d3550ccb8565bf7cd3d19d5aa5909f7284e87",
@@ -1926,8 +1872,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Software-Engineer_R55272",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "f7077661238e51e354b0ddf6d026cfc3b8f1df237e2862c23281f65901dcd64b",
     "matches_watch": true,
@@ -1936,7 +1882,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "45b4f6b5ef34dcb0c6d7ef0d4723a7ee4db41c135e9c7baf49f60862d46aca4f",
@@ -1954,8 +1900,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R52373",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "68d2c8bba0d1064821903f2d6ff6d2236943af295b6ec7c83b382577791b5195",
     "matches_watch": true,
@@ -1964,7 +1910,7 @@
       "location:bengaluru,bangalore"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "a1569cd1d1516c5e46377d44363183d6008499607855ab7cba68f5dd311a9ea7",
@@ -1982,8 +1928,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Product-Engineer-II_R55313",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "f521e8021306dde54cd91d6d3eb069d451932211808b30d6df07b84a51e12bbb",
     "matches_watch": true,
@@ -1992,35 +1938,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
-    "job_key": "d48b5012aa7b48bfee7889de61754bbf54d4421eaecd36b5f763ce1625797b1b",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R52020",
-    "title": "Product Engineer II",
-    "location": "ZHUBEI 01",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Product-Engineer-II_R52020-1",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
-    "status": "open",
-    "content_hash": "fc3f254b2c2c7ce54974cb9418581b422561c5ccaf78cc7ca053a45d440f51c8",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "f29808a184104a79741de6b75aa143ecba97c5ff06c96398136ca606c060860b",
@@ -2032,22 +1950,22 @@
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
     "external_id": "R55203",
-    "title": "Quantronics Solutions Architect",
+    "title": "Quantronics Superconducting Solutions Architect",
     "location": "4 Locations",
     "department": "",
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-IL/Quantronics-Solutions-Architect_R55203",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
     "status": "open",
-    "content_hash": "e99419bff97170f5866c6c75854b5af0b14a15bd9aecb4ba467f1feef15114b1",
+    "content_hash": "e1d5fbc4ef562a2048c9ae703ff85590330001c318d1c7eb240802b258f3d6fd",
     "matches_watch": false,
     "match_reasons": [
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "8f5c65771d2f2e13f5ffec84aa40c37a3c5356528a56a58557a807a7506187b9",
@@ -2065,8 +1983,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Senior-Principal-Design-Engineer_R54727",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "3ea5b0a44b13963bfabd21be430873a06e6a05fca9e7253057d15a94f5a99703",
     "matches_watch": true,
@@ -2075,7 +1993,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "4c5545ea0aa8d92fcd5a431b55f5dc95efb99d314b46f2c16c8df5a907e15eff",
@@ -2093,8 +2011,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Product-Engineer_R54516",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "8c8779965e77a27da70e7c663f1b046f97beb4258747fac82436db393b1c8828",
     "matches_watch": true,
@@ -2103,7 +2021,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "63f90f6f4e9050766d8f5023591d521853a130170c4ef4066a8e50920c07ff9b",
@@ -2121,8 +2039,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/VELIZY-Paris/Sales-Application-Engineer---Hardware-Emulation---Prototyping--Palladium-_R55155",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "4e22f6c9c42bf77d72d37107d12382359b25a9cd7ab8465910a98b258688e571",
     "matches_watch": true,
@@ -2131,7 +2049,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "2fdf72981623e5db4b09b60673219ab8b6c24fd4d5f427dbcdfb091d4e26694d",
@@ -2149,8 +2067,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/DUBLIN-02/Sales-Finance-Specialist_R54325-1",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 11 Days Ago",
+    "updated_at": "Posted 11 Days Ago",
     "status": "open",
     "content_hash": "760670db1d55c0704c69d3ae45dee9f0fb87276c12b7d4772006155e7652e709",
     "matches_watch": false,
@@ -2158,7 +2076,34 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "4836d2caf75502feccab6ba19b548cc5adacf131218673897e79ed62cd16e5ed",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55373",
+    "title": "Senior Emulation Design Verification AE",
+    "location": "HOME CA",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-CA/Senior-Emulation-Design-Verification-AE_R55373",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
+    "status": "open",
+    "content_hash": "93c11bf5c3cbcf35fb6f8b2a58098a8311ce224f597dee76a16e2b1e98764827",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "85a315f9a7e44fc801ff48a556dc3247d98c5ad2fabe979351bf50a7091ca9e2",
@@ -2176,8 +2121,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Application-Engineer_R54073",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "2f7e067dce3b1b2830c38d6238a9842b7ba2d398c822b6e053f60c80b1e26ba1",
     "matches_watch": false,
@@ -2185,7 +2130,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "a92289f80ea8074d369c42df89c1da757dbeb7c15cd802698f4e057dcb9a0c9b",
@@ -2203,8 +2148,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Principal-IC-Design-Verification-Application-Engineer_R54114",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "f2fbea093f8a4813059846d25eccefa44be1a92ac35d06251fff601b16cacf0d",
     "matches_watch": true,
@@ -2213,7 +2158,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "ff8f1f2c7360c4984c612e49f452296cd52316f950bb78b205b6626b76f8046b",
@@ -2231,8 +2176,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Senior-Internal-Auditor_R55279",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "aeb45e18b4fc2fc3a14767e3e0a5453a1e98215e3a1ee4965ecf51dc998f81af",
     "matches_watch": false,
@@ -2240,7 +2185,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "1a0d21498a2f9b05055b5c0d3251b28173d11de092ba458c6dd2a0c79d35f0c1",
@@ -2258,8 +2203,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BOSTON-01/Jasper-Formal-Verification---Sr-Principal-Application-Engineer_R54482",
-    "posted_at": "Posted 9 Days Ago",
-    "updated_at": "Posted 9 Days Ago",
+    "posted_at": "Posted 13 Days Ago",
+    "updated_at": "Posted 13 Days Ago",
     "status": "open",
     "content_hash": "7db79e15e706ec41ba95d2eecfb49ba5cd865be8f75c050092e6b8e54204c1ac",
     "matches_watch": false,
@@ -2267,7 +2212,34 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "b436d0d2e31461d09a7501ce1f53805b4c7c1dfe0b6667ecceff15f76242f1da",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R51338",
+    "title": "Senior Procurement Systems Analyst",
+    "location": "SAN JOSE 05",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE-05/Sr-Procurement-Systems-Analyst_R51338",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
+    "status": "open",
+    "content_hash": "b21590aa576f8920aa9dc0ebf942fe0e4980dd8557b4c3a99236018cb2735717",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "c535d2572e35efed561900d713b7cc4bd85bfd38df2aea8084b33b05cadd847f",
@@ -2285,8 +2257,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Software-Engineer_R53571",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "d9a561bb6d1319a895e91f86c3214d4a31f9856286caf6d3ea6cd0f537472dc8",
     "matches_watch": true,
@@ -2295,7 +2267,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "05415860b9a54545fb4967b99fa6b9e65f841fe6adb545d2f85eae042df619aa",
@@ -2313,8 +2285,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Design-Engineering-Architect_R52908-1",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "896662d4d595954bae521c6d061455257149f2f67fa4ed2a0ae5732e608dce88",
     "matches_watch": true,
@@ -2323,7 +2295,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "43c78568ab08e78e8bce4a1efae7084393f5980fe0563fe7221ab21bdeeb3178",
@@ -2341,8 +2313,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/No-Seat-Req-United-States/SI-PI-for-3DIC-Sr-Principle-Solutions-Engineer_R53590",
-    "posted_at": "Posted 9 Days Ago",
-    "updated_at": "Posted 9 Days Ago",
+    "posted_at": "Posted 13 Days Ago",
+    "updated_at": "Posted 13 Days Ago",
     "status": "open",
     "content_hash": "0f7ab479162f02fc60156c1d3652ea2000a349e5ce63595f337bb6b9df91c575",
     "matches_watch": true,
@@ -2351,7 +2323,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "4e50700649ebd31d45de4cd166fb2456b5dd4552c0ddcf884e25052b1c514d08",
@@ -2369,8 +2341,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/VELIZY-Paris/Signal-and-Power-Integrity-Lead-Application-Engineer_R55220",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "fa232729459b10cf330abbf65a711b5bcd9dcf17c3620cacd10520b35aee13d8",
     "matches_watch": true,
@@ -2379,7 +2351,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "1e650861d07c929e724b2dd6e2789e5abdacc8ce0bb8606047f6f4c6ffac1f0c",
@@ -2397,8 +2369,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Strategic-Business-Development-Director_R53141-1",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "0e22b189c5e307299f902708ed0d729dbf3fbb0f49f7e4642c343eb4259e556c",
     "matches_watch": false,
@@ -2406,7 +2378,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "072f59e2dc4dfeb5c31212fd110ff9626f23b4559905f6d864001c1286621809",
@@ -2424,8 +2396,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/PORT-MOODY-01-VANCOUVER/Software-Engineer--Circuit-Analysis--EDA-frameworks--AI-agents-_R53165-1",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "5a0aa4abbd96826eccdac1bde8ec90e753cdbf17c230d6145f06e2441b02e69d",
     "matches_watch": true,
@@ -2434,7 +2406,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "358b03888495656f8645eda6ffb507491cfa3ca9e86e78d863b0bd746eca2d5f",
@@ -2452,8 +2424,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Software-Engineer-II_R55237-1",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "6fbbd64094769548b6f7d54cc9102d3d060c8e8945a10d7f927dc394d5462b5e",
     "matches_watch": true,
@@ -2462,7 +2434,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "2b22997e2397371ffde3cd65f5f01690ec316249ea849d3b3bd6a2434699248a",
@@ -2480,8 +2452,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Software-Engineer_R52773",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "d13fc91a3a58ece661e74c4b2c77731cdec3e571bf922b8714b9dc56887305d5",
     "matches_watch": true,
@@ -2490,7 +2462,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-28T22:12:51+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "51f092cec4e688fa80f06bac326c3790ab26d19946ce7ce176ee614a94c199b4",
@@ -2508,8 +2480,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Software-Engineer-II--Jasper-R-D_R55338",
-    "posted_at": "Posted Today",
-    "updated_at": "Posted Today",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
     "status": "open",
     "content_hash": "43bf4e5b1cf640b47dea08bee1efd3c7a3f2ba8bab7bea5528f982019448a134",
     "matches_watch": true,
@@ -2518,10 +2490,10 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
-    "job_key": "6f4c0e7cd759cee6aaa9ca23c3978e3e449e3c1d70cd31732afc57b7aa7d68e7",
+    "job_key": "04872bbdb60d9c49d1c5ac6c81d668716ad373e43bdd2f292d969f6ea2b6c7aa",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
     "company_domain": "beta-cae.com",
@@ -2529,24 +2501,24 @@
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R51279",
-    "title": "Sr Application Engineer – SerDes Design IP",
-    "location": "SAN JOSE",
+    "external_id": "R51551",
+    "title": "Software Engineer II: Verification IP Development",
+    "location": "BELO HORIZONTE",
     "department": "",
     "employment_type": "",
     "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Applications-Engineer---DDR-Design-IP_R51279",
-    "posted_at": "Posted 10 Days Ago",
-    "updated_at": "Posted 10 Days Ago",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Software-Engineer-II--Verification-IP-Development_R51551-1",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
     "status": "open",
-    "content_hash": "3006d78133b133498a31cd2d83d7c89e33fb86537d214d97ef2a3ef5643964b7",
+    "content_hash": "f255dd81ff4072c67c4ebde58fc1836a09ef2f6c4e0c30ebc8afe3d9085fa91a",
     "matches_watch": true,
     "match_reasons": [
-      "title:engineer",
+      "title:software,engineer",
       "location:bengaluru"
     ],
-    "first_seen_at": "2026-06-21T06:14:41+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "ea3824a7dcb939e6b2d926e5a7178112acfd9640aadf25d1bbcb02c00595fddb",
@@ -2564,8 +2536,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-IP-Sales-Executive_R53905-1",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "086c8e8a12793c0fc4e4a1abaf7a293166cc4e8ea2c98b63cd90d74641ebd8d9",
     "matches_watch": false,
@@ -2573,7 +2545,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "7c2cf2e715d69ea78dbdfe26cd853539349e41a4ca20ac3a5ec4e53ce24a905a",
@@ -2591,8 +2563,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-IN/Sr-Principal-Application-Engineer---Allegro-PCB-Design-Tools_R54135",
-    "posted_at": "Posted 5 Days Ago",
-    "updated_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "087e902a2c7e9c4d57f8a4d795ac6ff1b49b1c27ca555578e93877eed24d479e",
     "matches_watch": false,
@@ -2600,7 +2572,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-20T23:55:49+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "9e7c44e7644ffc2f3969709e09cb566013aedfed5a138d2aec66c7ad64d6164b",
@@ -2618,8 +2590,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Application-Engineer_R54460",
-    "posted_at": "Posted 3 Days Ago",
-    "updated_at": "Posted 3 Days Ago",
+    "posted_at": "Posted 7 Days Ago",
+    "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "ed21422d7660bf3f351c87547b8fdee235a36c9c2f0f46800770ba3ccd89ed50",
     "matches_watch": true,
@@ -2628,7 +2600,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "aa86462898cbbe2285fca7ada0e6c06632ba0d94dc76cff20ef2e6a8ff546681",
@@ -2646,8 +2618,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Sr-Principal-Application-Engineer---Design-Verification_R55088",
-    "posted_at": "Posted 8 Days Ago",
-    "updated_at": "Posted 8 Days Ago",
+    "posted_at": "Posted 12 Days Ago",
+    "updated_at": "Posted 12 Days Ago",
     "status": "open",
     "content_hash": "81cfb44854cf70b85f7f02dd094c78f56e9671d37ab833041294cac89b9a0406",
     "matches_watch": true,
@@ -2656,7 +2628,35 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "b5a0d68ed74b81a13bd72fa094932e2aeac9fa3660f7e974a0335b7265abbcd1",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54777",
+    "title": "Sr Principal Design Engineer",
+    "location": "BANGALORE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R54777",
+    "posted_at": "Posted 3 Days Ago",
+    "updated_at": "Posted 3 Days Ago",
+    "status": "open",
+    "content_hash": "6b62ac62f31a282ebb550f01526fb7069dea24dc49587f716ad3f9892278f970",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru,bangalore"
+    ],
+    "first_seen_at": "2026-07-04T20:50:41+00:00",
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "e93bb012501c99c5e30cf57a1f02942cbfa64c48ee300a6fc2e7f4253bb264fe",
@@ -2674,8 +2674,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Sr-System-Sales-Executive-I_R55320",
-    "posted_at": "Posted Yesterday",
-    "updated_at": "Posted Yesterday",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
     "status": "open",
     "content_hash": "7973ac9229b3be3cca6b05a225921836d4d25e82027215e34f7d64592ae336ea",
     "matches_watch": false,
@@ -2683,7 +2683,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-07-01T05:18:45+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "ea1ea166f41146641a430de6a3f51b79fc284b03acabfa7cd5a26aacd3fe8973",
@@ -2701,8 +2701,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/FELDKIRCHEN-Munich/Sr-Systems-Engineer--Data-Center-Operations-_R55078",
-    "posted_at": "Posted 6 Days Ago",
-    "updated_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "b00399da7183ea62177e41ff418b5d35c46631170a8f8a02137dd44fd0d6a1a4",
     "matches_watch": true,
@@ -2711,7 +2711,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "5e655b54d5b30e770b3ac6a9b746cc003bd1b2460f654d1f730d6cbb8ea4a541",
@@ -2729,8 +2729,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Executive-Administrator_R55253",
-    "posted_at": "Posted 4 Days Ago",
-    "updated_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "20fe1beae3f9887de00d9e36466d994f38dadb5b89a0f4c29d8680001ec5dd0a",
     "matches_watch": false,
@@ -2738,7 +2738,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "b2051e0d048588b5cbd1446ff7113312c66081ca4ddf01ad991d0bbb16431457",
@@ -2756,8 +2756,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Application-Engineer_R54935",
-    "posted_at": "Posted 10 Days Ago",
-    "updated_at": "Posted 10 Days Ago",
+    "posted_at": "Posted Yesterday",
+    "updated_at": "Posted Yesterday",
     "status": "open",
     "content_hash": "1abb3f22f82e3bf5bc7f8597ee129a31794b5ed5526a835f6322b6c0717a2cb3",
     "matches_watch": false,
@@ -2765,7 +2765,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-20T23:55:49+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "fa6a905748a2ee8baff1de3dbb2e3b1421e08bf69ba57533b903c0bedb4318a0",
@@ -2783,8 +2783,8 @@
     "employment_type": "",
     "workplace_type": "",
     "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Software-Engineer_R55102",
-    "posted_at": "Posted 7 Days Ago",
-    "updated_at": "Posted 7 Days Ago",
+    "posted_at": "Posted 11 Days Ago",
+    "updated_at": "Posted 11 Days Ago",
     "status": "open",
     "content_hash": "494b7297364805eafdf5964633c322001bf88aa7e0df8c86d35d7da470f71ff4",
     "matches_watch": true,
@@ -2793,7 +2793,7 @@
       "location:bengaluru"
     ],
     "first_seen_at": "2026-06-25T03:21:58+00:00",
-    "last_seen_at": "2026-07-01T05:18:45+00:00"
+    "last_seen_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "7afbdd11f915d5d739000984ce1d78830badc752c36f0d989fe7aca5fe2cf4d2",
@@ -5473,34 +5473,6 @@
     "closed_at": "2026-06-25T03:21:58+00:00"
   },
   {
-    "job_key": "f35ad05b4f8a504431503ede7add2f0f02d03481ab4e6b78f130623edf2e65eb",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R55083",
-    "title": "AE - System VIP, Perspec, Portable Stimulus DV",
-    "location": "SAN JOSE",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/AE---System-VIP--Perspec--Portable-Stimulus-DV_R55083-1",
-    "posted_at": "Posted 10 Days Ago",
-    "updated_at": "Posted 10 Days Ago",
-    "status": "closed",
-    "content_hash": "9c2b46cee20e330d88ec62028feeef6175ac819b7525ac004e12017aaf3aee07",
-    "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-06-19T19:53:06+00:00",
-    "last_seen_at": "2026-06-28T22:12:51+00:00",
-    "closed_at": "2026-07-01T05:18:45+00:00"
-  },
-  {
     "job_key": "aed1f06282ab51e18dba676db8a2644b4bb6ab459fb2943ccb719d881a570394",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
@@ -5555,6 +5527,34 @@
     "first_seen_at": "2026-06-19T19:53:06+00:00",
     "last_seen_at": "2026-06-21T06:14:41+00:00",
     "closed_at": "2026-06-25T03:21:58+00:00"
+  },
+  {
+    "job_key": "4ddab991110c8566762c4b439e7dc63c0f3625066c42ca16a9972a3370de1932",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R52818",
+    "title": "AE, RTL2GDS Architect",
+    "location": "SAN JOSE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer-Architect---Technical-Field-Operations_R52818",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
+    "status": "closed",
+    "content_hash": "55c1f30a04dca207b8e9c7213ae9efc7f6b42cf6fef878ef9af917b0719bc670",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "73cd6f3f92d7eb3fe5328d5982ebeace2c8d66adde11dabc5eb2b598c5a859f6",
@@ -5786,6 +5786,35 @@
     "closed_at": "2026-06-20T23:55:49+00:00"
   },
   {
+    "job_key": "7b001d383284f3a3674eb8d294e24097dd596dc32460f3b93ef07ec3d8be79e4",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55186",
+    "title": "Customer Engagement Engineer II",
+    "location": "SHANGHAI",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Customer-Engagement-Engineer-II_R55186",
+    "posted_at": "Posted 7 Days Ago",
+    "updated_at": "Posted 7 Days Ago",
+    "status": "closed",
+    "content_hash": "7f042a356151e12d3486ae8f495144e966a297a7bf86daa66786822e6c986577",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
     "job_key": "ff30afee2c7339eb0cc5909974bcf9a3621272517d974777702d6cbdcb7c7e1b",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
@@ -5871,6 +5900,35 @@
     "first_seen_at": "2026-06-19T19:53:06+00:00",
     "last_seen_at": "2026-06-25T03:21:58+00:00",
     "closed_at": "2026-06-28T22:12:51+00:00"
+  },
+  {
+    "job_key": "17a48212d491337322b53b9b5c4230f075b1cd17c38f88ec4f809c6a8a953c25",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54319",
+    "title": "Design Engineer II",
+    "location": "HYDERABAD",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Design-Engineer-II_R54319",
+    "posted_at": "Posted 6 Days Ago",
+    "updated_at": "Posted 6 Days Ago",
+    "status": "closed",
+    "content_hash": "c8a2244f67d4cbed6cc0b30355d59744831acd8d8371a89f0eae5bb3bc073b0e",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-28T22:12:51+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "cf31e9242cb5126fd1b77f1a7809b0adbb05bb433b4f94a719ed7b0e6e99dc7c",
@@ -5986,6 +6044,34 @@
     "first_seen_at": "2026-06-19T19:53:06+00:00",
     "last_seen_at": "2026-06-25T03:21:58+00:00",
     "closed_at": "2026-06-28T22:12:51+00:00"
+  },
+  {
+    "job_key": "033f750d21da3690acf77dc8dcd032e8fc63d8b9ad79c573b2debb640d2204db",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R53836",
+    "title": "Digital Implementation AE Architect",
+    "location": "SAN JOSE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer-Architect_R53836-1",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
+    "status": "closed",
+    "content_hash": "9c38f691cdb047a8741f976b7b7a842161c0c7f0b6df098f9fe4102898b162cf",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "89537b6aa07ccc027f41f1b5e9dc2d2a17c97920e61b537b81178932e2d484ea",
@@ -6242,6 +6328,34 @@
     "first_seen_at": "2026-06-19T19:53:06+00:00",
     "last_seen_at": "2026-06-21T06:14:41+00:00",
     "closed_at": "2026-06-25T03:21:58+00:00"
+  },
+  {
+    "job_key": "092dbe26ab67f8dea0ebe95c70333da0041e11e7caa47bdc35e9bd24f8151270",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55295",
+    "title": "Intern",
+    "location": "HSINCHU",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Intern_R55295",
+    "posted_at": "Posted 7 Days Ago",
+    "updated_at": "Posted 7 Days Ago",
+    "status": "closed",
+    "content_hash": "5cfe890a1e812046f22f59362bc4af507efb17d33f1ed9c6e83eb56035894b16",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "c002618a69863a05e3e2281881e882fd8874b968266bb3c1dad8a968155dda66",
@@ -6562,6 +6676,35 @@
     "closed_at": "2026-06-25T03:21:58+00:00"
   },
   {
+    "job_key": "841b6e3342344e2be6702ca3afd02b43c2047070fcac497e22c39d95850500c8",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54793",
+    "title": "Lead Design Engineer - Layout",
+    "location": "SHANGHAI",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Design-Engineer---Layout_R54793-1",
+    "posted_at": "Posted 4 Days Ago",
+    "updated_at": "Posted 4 Days Ago",
+    "status": "closed",
+    "content_hash": "59a21bbea13a79053faedf9dddf8baa183bcf8e6975c8a6a69150c902a730a00",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-28T22:12:51+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
     "job_key": "9b741f55fe600365113d2f3c49fb3c35f55d20ba8be5cd087b68a38ce3273a7e",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
@@ -6618,6 +6761,35 @@
     "first_seen_at": "2026-06-19T19:53:06+00:00",
     "last_seen_at": "2026-06-21T06:14:41+00:00",
     "closed_at": "2026-06-25T03:21:58+00:00"
+  },
+  {
+    "job_key": "d79df7e8048f2482afca7a4d7637049fba3fb9a62ba3c6bd8eeaa64305b7f213",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55159",
+    "title": "Lead Field Service Engineer",
+    "location": "HOME GA",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-GA/Lead-Field-Service-Engineer_R55159",
+    "posted_at": "Posted 7 Days Ago",
+    "updated_at": "Posted 7 Days Ago",
+    "status": "closed",
+    "content_hash": "ac6bfc4ff517e31862ab71dbe25185285e4bb53935747bb10756c7f69ae3ded7",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "e0a4531e8441ae56c49b3e1deff01223526483ee9387a3ba098d4b107811f604",
@@ -6909,6 +7081,64 @@
     "closed_at": "2026-06-25T03:21:58+00:00"
   },
   {
+    "job_key": "08cf6ecbc6a6cafa97df3ba5c142887602ef6ae5ee5b1e626da4eb5658f6cff8",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54475",
+    "title": "Principal Customer Service Engineer",
+    "location": "2 Locations",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/LIVONIA-01/Principal-Customer-Service-Engineer_R54475",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
+    "status": "closed",
+    "content_hash": "01cfc60dbd45c22a309d09b5b32e8a2bc04e48771fdaeb57c30551abeb550694",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
+    "job_key": "39c54414d3c1a073071324565739f6b24a2823232699f451be7aac525116e145",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R49991",
+    "title": "Principal Design Engineer",
+    "location": "HYDERABAD 04",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD-04/Principal-Design-Engineer_R49991",
+    "posted_at": "Posted 8 Days Ago",
+    "updated_at": "Posted 8 Days Ago",
+    "status": "closed",
+    "content_hash": "696ffb12e9bbe71bae15cb01381b7cb81fe0f6ac79c6e0e7d7ca0e03afbf39d7",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
     "job_key": "6f24ba7aff7ea13deff00d780baa697048690aaa52dbcee665f6c12fa6705c82",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
@@ -6996,6 +7226,34 @@
     "closed_at": "2026-06-25T03:21:58+00:00"
   },
   {
+    "job_key": "2a076dbea2775372cc432b166a04cc915956ea31e4624104cef0d372e74c9785",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R53834",
+    "title": "Principal IC Digital Implementation AE",
+    "location": "SAN JOSE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Application-Engineer_R53834",
+    "posted_at": "Posted 9 Days Ago",
+    "updated_at": "Posted 9 Days Ago",
+    "status": "closed",
+    "content_hash": "760a4a078a29c61a62ea578d4d6688648b8b5398e77694244e2b606e632c79fc",
+    "matches_watch": false,
+    "match_reasons": [
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-25T03:21:58+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
+  },
+  {
     "job_key": "9a6ef8c8a5db486222ac71b8cefb74ffd40f2b7df34ce0d272096e8c8f731a98",
     "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
     "company_name": "BETA CAE Systems India Pvt. Ltd.",
@@ -7081,6 +7339,35 @@
     "first_seen_at": "2026-06-25T03:21:58+00:00",
     "last_seen_at": "2026-06-28T22:12:51+00:00",
     "closed_at": "2026-07-01T05:18:45+00:00"
+  },
+  {
+    "job_key": "d48b5012aa7b48bfee7889de61754bbf54d4421eaecd36b5f763ce1625797b1b",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R52020",
+    "title": "Product Engineer II",
+    "location": "ZHUBEI 01",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Product-Engineer-II_R52020-1",
+    "posted_at": "Posted 5 Days Ago",
+    "updated_at": "Posted 5 Days Ago",
+    "status": "closed",
+    "content_hash": "fc3f254b2c2c7ce54974cb9418581b422561c5ccaf78cc7ca053a45d440f51c8",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-28T22:12:51+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "5393126d2461ab02c426c4b1a6ec2e427010bec00c2f9939805e4c75cff848d2",
@@ -7802,6 +8089,35 @@
     "first_seen_at": "2026-06-19T19:53:06+00:00",
     "last_seen_at": "2026-06-21T06:14:41+00:00",
     "closed_at": "2026-06-25T03:21:58+00:00"
+  },
+  {
+    "job_key": "6f4c0e7cd759cee6aaa9ca23c3978e3e449e3c1d70cd31732afc57b7aa7d68e7",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R51279",
+    "title": "Sr Application Engineer – SerDes Design IP",
+    "location": "SAN JOSE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Applications-Engineer---DDR-Design-IP_R51279",
+    "posted_at": "Posted 10 Days Ago",
+    "updated_at": "Posted 10 Days Ago",
+    "status": "closed",
+    "content_hash": "3006d78133b133498a31cd2d83d7c89e33fb86537d214d97ef2a3ef5643964b7",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-06-21T06:14:41+00:00",
+    "last_seen_at": "2026-07-01T05:18:45+00:00",
+    "closed_at": "2026-07-04T20:50:41+00:00"
   },
   {
     "job_key": "3709c0371dbd257be0b27c58929b7b1591aecb82a6af48dfdc8f36fd055ddf04",
