@@ -74657,6 +74657,40 @@
     }
   },
   {
+    "name": "Euspace Technologies",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.4539128,
+    "lng": 73.8532792,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13990178907"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "landuse": "residential",
+        "name": "Euspace Technologies",
+        "residential": "apartments"
+      }
+    }
+  },
+  {
     "name": "FPL Technologies Pvt. Ltd.",
     "city": "Pune",
     "region": "Maharashtra",
