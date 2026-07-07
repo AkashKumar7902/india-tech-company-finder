@@ -82190,6 +82190,56 @@
     }
   },
   {
+    "name": "Cool AIr Enterprises - Multi-Brand AC sales, servicing, and HVAC solutions",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Edappally-Pukkattupady Road, Kochi, 682021",
+    "lat": 10.0365336,
+    "lng": 76.343696,
+    "website": "https://coolairkochin.com/",
+    "phone": "+91-9847-171782",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-07-07T05:09:32+00:00",
+    "careers_notes": "https://coolairkochin.com/jobs: HTTPError; https://coolairkochin.com/jobs/: HTTPError; https://coolairkochin.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "shop=hvac"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:13990517983"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682021",
+        "addr:street": "Edappally-Pukkattupady Road",
+        "name": "Cool AIr Enterprises - Multi-Brand AC sales, servicing, and HVAC solutions",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "+91-9847-171782",
+        "shop": "hvac",
+        "website": "https://coolairkochin.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-07-07T05:09:32+00:00",
+        "notes": "https://coolairkochin.com/jobs: HTTPError; https://coolairkochin.com/jobs/: HTTPError; https://coolairkochin.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Metsand Techno Solutions Pvt Ltd.",
     "city": "Kochi",
     "region": "Kerala",
