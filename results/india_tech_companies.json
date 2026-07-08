@@ -80159,6 +80159,43 @@
     }
   },
   {
+    "name": "Insys Solutions",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 10.777749,
+    "lng": 78.7908762,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1535747118"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Insys Solutions",
+        "shop": "computer"
+      }
+    }
+  },
+  {
     "name": "Prologic Solutions",
     "city": "Visakhapatnam",
     "region": "Andhra Pradesh",
