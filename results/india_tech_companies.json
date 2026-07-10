@@ -13207,7 +13207,7 @@
     }
   },
   {
-    "name": "Techmaven IT Solutions Pvt. Ltd.",
+    "name": "Techmaven IT Solutions Private Limited",
     "city": "Kochi",
     "region": "Kerala",
     "country": "India",
@@ -13241,7 +13241,7 @@
         "addr:postcode": "682021",
         "addr:street": "Seaport Airport Road",
         "air_conditioning": "yes",
-        "name": "Techmaven IT Solutions Pvt. Ltd.",
+        "name": "Techmaven IT Solutions Private Limited",
         "office": "it",
         "opening_hours": "Mo-Fr 09:00-22:00",
         "phone": "+01-9746-530365",
@@ -82396,7 +82396,14 @@
         "confidence": "none",
         "checked_at": "2026-07-07T05:09:32+00:00",
         "notes": "https://coolairkochin.com/jobs: HTTPError; https://coolairkochin.com/jobs/: HTTPError; https://coolairkochin.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
