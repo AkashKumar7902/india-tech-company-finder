@@ -82686,7 +82686,14 @@
         "confidence": "none",
         "checked_at": "2026-07-10T07:55:54+00:00",
         "notes": "https://mahi-safety-solutions.grexa.site/jobs: HTTPError; https://mahi-safety-solutions.grexa.site/jobs/: HTTPError; https://mahi-safety-solutions.grexa.site/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
