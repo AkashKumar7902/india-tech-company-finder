@@ -57463,7 +57463,8 @@
         "operator": "University of Delhi",
         "website": "https://fot.du.ac.in",
         "check_date": "2026-03-10",
-        "landuse": "construction"
+        "landuse": "construction",
+        "construction": "education"
       },
       "google_queries": [],
       "google_types": [],
