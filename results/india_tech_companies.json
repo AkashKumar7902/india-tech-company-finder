@@ -27115,7 +27115,14 @@
         "confidence": "none",
         "checked_at": "2026-07-07T13:37:42+00:00",
         "notes": "http://itavatar.com/jobs: HTTPError; http://itavatar.com/jobs/: HTTPError; http://itavatar.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
