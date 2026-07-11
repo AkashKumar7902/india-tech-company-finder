@@ -84856,6 +84856,60 @@
     }
   },
   {
+    "name": "Yash Blowers Private Limited",
+    "city": "Faridabad",
+    "region": "Haryana",
+    "country": "India",
+    "address": "117, Sector 68, IMT, faridabad, 121004",
+    "lat": 28.3241378,
+    "lng": 77.3645141,
+    "website": "https://www.yashblower.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-07-11T18:32:24+00:00",
+    "careers_notes": "https://www.yashblower.com/jobs: HTTPError; https://www.yashblower.com/jobs/: HTTPError; https://www.yashblower.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "industrial=factory",
+      "description=At Yash Blowers Private Limited we manufacture Industrial air and vacuum solutions. Including Ring Blowers, Turbine Blowers, Vacuum Blowers, Regenerative Air Blowers, Side Channel Blowers, Vortex Blowers, Centrifugal Blowers (CX Series, High Pressure."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1537115349"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "faridabad",
+        "addr:district": "Haryana",
+        "addr:housenumber": "117",
+        "addr:postcode": "121004",
+        "addr:street": "Sector 68, IMT",
+        "description": "At Yash Blowers Private Limited we manufacture Industrial air and vacuum solutions. Including Ring Blowers, Turbine Blowers, Vacuum Blowers, Regenerative Air Blowers, Side Channel Blowers, Vortex Blowers, Centrifugal Blowers (CX Series, High Pressure.",
+        "email": "info@yashblowers.org",
+        "industrial": "factory",
+        "landuse": "industrial",
+        "mobile": "+91-9971006400",
+        "name": "Yash Blowers Private Limited",
+        "website": "https://www.yashblower.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-07-11T18:32:24+00:00",
+        "notes": "https://www.yashblower.com/jobs: HTTPError; https://www.yashblower.com/jobs/: HTTPError; https://www.yashblower.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Hawkworx Digital Marketing",
     "city": "Gurugram",
     "region": "Haryana",
