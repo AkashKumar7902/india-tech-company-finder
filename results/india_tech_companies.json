@@ -52907,6 +52907,62 @@
     }
   },
   {
+    "name": "Kash Kontent",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "418, Kodichikkanahalli Main Road, Bangalore, 560076",
+    "lat": 12.8984265,
+    "lng": 77.6107309,
+    "website": "https://www.kashkontent.co/",
+    "phone": "+91 70196 75412",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-07-12T20:28:54+00:00",
+    "careers_notes": "https://www.kashkontent.co/jobs: HTTPError; https://www.kashkontent.co/jobs/: HTTPError; https://www.kashkontent.co/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=company",
+      "description=Kash Kontent is a full-service content writing, copywriting, and branding agency based in Bangalore. Expert services include SEO content marketing, professional copywriting, brand strategy, and commercial digital content creation for international brands."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14004610891"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "418",
+        "addr:postcode": "560076",
+        "addr:street": "Kodichikkanahalli Main Road",
+        "company": "marketing",
+        "contact:linkedin": "https://in.linkedin.com/company/kashkontent",
+        "description": "Kash Kontent is a full-service content writing, copywriting, and branding agency based in Bangalore. Expert services include SEO content marketing, professional copywriting, brand strategy, and commercial digital content creation for international brands.",
+        "description:en": "Kash Kontent is a full-service content writing, copywriting, and branding agency based in Bangalore. Expert services include SEO content marketing, professional copywriting, brand strategy, and commercial digital content creation for international brands.",
+        "email": "team@kashkontent.co",
+        "name": "Kash Kontent",
+        "office": "company",
+        "opening_hours": "24/7",
+        "phone": "+91 70196 75412",
+        "website": "https://www.kashkontent.co/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-07-12T20:28:54+00:00",
+        "notes": "https://www.kashkontent.co/jobs: HTTPError; https://www.kashkontent.co/jobs/: HTTPError; https://www.kashkontent.co/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Micro Labs Limited",
     "city": "Bengaluru",
     "region": "Karnataka",
