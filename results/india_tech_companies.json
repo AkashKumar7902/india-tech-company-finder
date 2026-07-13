@@ -9089,6 +9089,43 @@
     }
   },
   {
+    "name": "MSC Technology Park",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 13.0916094,
+    "lng": 80.1608981,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it",
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1536001843"
+    },
+    "tech_score": 62.0,
+    "confidence": "high",
+    "notes": "matched: technology, office=it",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "MSC Technology Park",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Kasadara Technology Solutions Pvt Ltd",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -65962,6 +65999,41 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Optum Global Solutions",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 12.9541481,
+    "lng": 80.1631774,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14004437609"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Optum Global Solutions",
+        "office": "company"
+      }
     }
   },
   {

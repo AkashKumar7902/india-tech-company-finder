@@ -177,6 +177,7 @@ Unizen Technologies,62.0,high,Bengaluru,Karnataka,India,,12.9174115,77.6278614,,
 VAS technologies,62.0,high,Bengaluru,Karnataka,India,,12.9512091,77.6993732,,,,,,,,,office=it,openstreetmap,"{""openstreetmap"": ""node:3541784358""}","matched: technologies, office=it"
 Zigma Technologies,62.0,high,Bengaluru,Karnataka,India,"3rd Cross Road, DLF Main Road, Nyanappanahalli, BTM 4th Stage, 560076",12.877246,77.6135418,,,,,,,,,office=it,openstreetmap,"{""openstreetmap"": ""node:13882537347""}","matched: technologies, office=it"
 EON INFOTECH LTD.,62.0,high,Chandigarh-Mohali,Chandigarh/Punjab,India,"C180, Phase 8B, Industrial Area, Mohali, 160071",30.7137636,76.6895554,,,,,,,,,office=it | building=office,openstreetmap,"{""openstreetmap"": ""node:1830613521""}","matched: infotech, office=it"
+MSC Technology Park,62.0,high,Chennai,Tamil Nadu,India,,13.0916094,80.1608981,,,,,,,,,office=it | building=yes,openstreetmap,"{""openstreetmap"": ""way:1536001843""}","matched: technology, office=it"
 Kasadara Technology Solutions Pvt Ltd,62.0,high,Coimbatore,Tamil Nadu,India,"25, Avinashi Road, Coimbatore, 641014",11.0401626,77.0394971,https://www.kasadara.com,+91994467585,https://kasadara.com/awsm_job_openings-sitemap.xml,company_website,https://kasadara.com/careers/jobs/,medium,2026-06-12T22:50:57+00:00,careers page found on company website,office=company,openstreetmap,"{""openstreetmap"": ""node:9881512548""}","matched: technology, solutions, office=company"
 "Thoughtworks
 Technologies (India) Private Limited",62.0,high,Coimbatore,Tamil Nadu,India,,11.0811525,76.9891271,,,,,,,,,office=it,openstreetmap,"{""openstreetmap"": ""node:13666396973""}","matched: technologies, office=it"
@@ -1374,6 +1375,7 @@ Kin Technologies Pvt Ltd,27.0,low,Chennai,Tamil Nadu,India,,13.0518576,80.246887
 LMS India Engg. Solutions Pvt. Ltd,27.0,low,Chennai,Tamil Nadu,India,"20, Kannadasan Road, Chennai, 600017",13.0371594,80.2346071,,,,,,,,,office=company,openstreetmap,"{""openstreetmap"": ""node:3182651397""}","matched: solutions, office=company"
 Modinity Technologies,27.0,low,Chennai,Tamil Nadu,India,,13.0684549,80.2258082,,,,,,,,,building=yes,openstreetmap,"{""openstreetmap"": ""way:354862135""}",matched: technologies
 Olympia Technology Park,27.0,low,Chennai,Tamil Nadu,India,,13.0148745,80.2036221,,,,,,,,,building=office,openstreetmap,"{""openstreetmap"": ""way:1136406530""}",matched: technology
+Optum Global Solutions,27.0,low,Chennai,Tamil Nadu,India,,12.9541481,80.1631774,,,,,,,,,office=company,openstreetmap,"{""openstreetmap"": ""node:14004437609""}","matched: solutions, office=company"
 Periyar Science and Technology Centre,27.0,low,Chennai,Tamil Nadu,India,,13.0127435,80.2427845,,,,,,,,,,openstreetmap,"{""openstreetmap"": ""way:35015788""}",matched: technology
 Shah Infotech,27.0,low,Chennai,Tamil Nadu,India,,13.0697977,80.2712864,,,,,,,,,shop=electronics,openstreetmap,"{""openstreetmap"": ""node:5079397474""}",matched: infotech
 ampere,27.0,low,Coimbatore,Tamil Nadu,India,"100 Feet Road, coimbatore",11.0199984,76.9669945,,,,,,,,,shop=motorcycle,openstreetmap,"{""openstreetmap"": ""node:8253315571""}",matched: technologies
