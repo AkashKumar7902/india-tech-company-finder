@@ -85083,7 +85083,14 @@
         "confidence": "none",
         "checked_at": "2026-07-11T18:32:24+00:00",
         "notes": "https://www.yashblower.com/jobs: HTTPError; https://www.yashblower.com/jobs/: HTTPError; https://www.yashblower.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
