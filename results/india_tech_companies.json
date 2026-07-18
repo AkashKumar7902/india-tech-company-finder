@@ -33481,6 +33481,41 @@
     }
   },
   {
+    "name": "Centre for Digital Agriculture and Technology",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "",
+    "lat": 17.3226841,
+    "lng": 78.3977458,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:357050913"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technology, digital",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Centre for Digital Agriculture and Technology"
+      }
+    }
+  },
+  {
     "name": "Cloudtree Technologies",
     "city": "Hyderabad",
     "region": "Telangana",
