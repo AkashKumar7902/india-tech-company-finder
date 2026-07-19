@@ -39676,6 +39676,59 @@
     }
   },
   {
+    "name": "Matracode Nexus",
+    "city": "Bhubaneswar",
+    "region": "Odisha",
+    "country": "India",
+    "address": "293/600(1), Bijoy Bhawan, Unit 7, Ganganagar, Behind SBI Ganganagar Branch, Bhubaneswar, 751003",
+    "lat": 20.2626192,
+    "lng": 85.8157121,
+    "website": "https://matracode.tech",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-07-19T18:12:10+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://matracode.tech/jobs: HTTPError; https://matracode.tech/jobs/: HTTPError; https://matracode.tech/career: HTTPError; no careers page detected",
+    "categories": [
+      "description=A software development and IT support agency located behind the SBI NRI Branch in Unit 7."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1539406807"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bhubaneswar",
+        "addr:district": "Khurdha",
+        "addr:housenumber": "293/600(1)",
+        "addr:postcode": "751003",
+        "addr:street": "Bijoy Bhawan, Unit 7, Ganganagar, Behind SBI Ganganagar Branch",
+        "description": "A software development and IT support agency located behind the SBI NRI Branch in Unit 7.",
+        "email": "contact@matracode.tech",
+        "landuse": "commercial",
+        "mobile": "+91-977717193",
+        "name": "Matracode Nexus",
+        "official_name": "Matracode Nexus",
+        "website": "https://matracode.tech"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-07-19T18:12:10+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://matracode.tech/jobs: HTTPError; https://matracode.tech/jobs/: HTTPError; https://matracode.tech/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Tech Mahindra",
     "city": "Bhubaneswar",
     "region": "Odisha",
