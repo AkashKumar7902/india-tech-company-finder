@@ -69507,6 +69507,47 @@
     }
   },
   {
+    "name": "Centre for Innovation Technology Transfer and Industrial Collaboration",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Pipeline Road, Ernakulam, 682022",
+    "lat": 10.0410064,
+    "lng": 76.3282468,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:475140679"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ernakulam",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682022",
+        "addr:street": "Pipeline Road",
+        "building": "university",
+        "building:levels": "2",
+        "name": "Centre for Innovation Technology Transfer and Industrial Collaboration",
+        "short_name": "CITTIC"
+      }
+    }
+  },
+  {
     "name": "Cerebtec Technologies pvt.ltd",
     "city": "Kochi",
     "region": "Kerala",
@@ -69672,7 +69713,8 @@
         "maxspeed": "30",
         "name": "Cochin University Of Science And Technology Payyapally Road",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "smoothness": "good"
       },
       "google_queries": [],
       "google_types": [],
@@ -70071,7 +70113,9 @@
         "name": "Department of Biotechnology",
         "wikidata": "Q17051666",
         "wikipedia": "en:Department of Ship Technology, Cochin University of Science and Technology",
-        "office": "educational_institution"
+        "office": "educational_institution",
+        "building:levels": "0",
+        "roof:levels": "3"
       },
       "google_queries": [],
       "google_types": [],
