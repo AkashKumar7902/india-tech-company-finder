@@ -2501,6 +2501,55 @@
     }
   },
   {
+    "name": "Iris Software Technologies (P) Ltd.",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Nagar Road, Pune, 411006",
+    "lat": 18.5539628,
+    "lng": 73.9038152,
+    "website": "https://www.irissoftware.com/",
+    "phone": "",
+    "careers_url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-07-21T20:42:46+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14030371015"
+    },
+    "tech_score": 78.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411006",
+        "addr:street": "Nagar Road",
+        "name": "Iris Software Technologies (P) Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "https://www.irissoftware.com/"
+      },
+      "careers": {
+        "url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
+        "provider": "company_website",
+        "api_url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
+        "confidence": "medium",
+        "checked_at": "2026-07-21T20:42:46+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Nilenso Software",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -3220,55 +3269,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Iris Software Technologies (P) Ltd.",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "Nagar Road, Pune, 411006",
-    "lat": 18.5539628,
-    "lng": 73.9038152,
-    "website": "https://www.irissoftware.com/",
-    "phone": "",
-    "careers_url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-07-21T20:42:46+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14030371015"
-    },
-    "tech_score": 74.0,
-    "confidence": "high",
-    "notes": "matched: software, technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:district": "Pune",
-        "addr:postcode": "411006",
-        "addr:street": "Nagar Road",
-        "name": "Iris Software Technologies (P) Ltd.",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-18:00",
-        "website": "https://www.irissoftware.com/"
-      },
-      "careers": {
-        "url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
-        "provider": "company_website",
-        "api_url": "https://www.irissoftware.com/careers/how-we-walk-the-diversity-talk/",
-        "confidence": "medium",
-        "checked_at": "2026-07-21T20:42:46+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
