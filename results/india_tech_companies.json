@@ -39709,7 +39709,14 @@
         "confidence": "none",
         "checked_at": "2026-07-19T18:12:10+00:00",
         "notes": "homepage fetch failed: HTTPError; https://matracode.tech/jobs: HTTPError; https://matracode.tech/jobs/: HTTPError; https://matracode.tech/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
