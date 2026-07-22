@@ -14198,22 +14198,22 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:12627866655"
+      "openstreetmap": "node:12627911775"
     },
     "tech_score": 56.0,
     "confidence": "high",
     "notes": "matched: technology, solutions, labs",
     "raw": {
       "osm_tags": {
-        "addr:city": "Ghaziabad",
-        "addr:housenumber": "Shop No. GF 05",
-        "addr:postcode": "201014",
-        "addr:street": "Parsvanath Majestic Arcade, Vaibhav Khand, Indirapuram",
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "Shop/Unit No. UGF 003",
+        "addr:postcode": "201306",
+        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
         "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
+        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
         "email": "info@kailashpathlabs.com",
         "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipOEWUABldwOSVjwBEcZJ2jJe2LF4s2vMO1Fv47x=s680-w680-h510",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
         "mobile": "+91-9911370370",
         "name": "Kailash Path Labs",
         "opening_hours": "Mo-Su 07:00-20:00",
@@ -80974,6 +80974,54 @@
     }
   },
   {
+    "name": "Bluvial Labs (NABL Accredited- MC 7072)",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "plot No. 29, Udyog Vihar Phase 1, Gurugram, 122016",
+    "lat": 28.5151124,
+    "lng": 77.0803526,
+    "website": "https://bluvial.com/",
+    "phone": "087448 48487",
+    "careers_url": "https://www.bluvial.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.bluvial.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-07-22T01:04:44+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14030482001"
+    },
+    "tech_score": 24.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gurugram",
+        "addr:country": "IN",
+        "addr:postcode": "122016",
+        "addr:state": "Haryana",
+        "addr:street": "plot No. 29, Udyog Vihar Phase 1",
+        "healthcare": "laboratory",
+        "name": "Bluvial Labs (NABL Accredited- MC 7072)",
+        "phone": "087448 48487",
+        "website": "https://bluvial.com/"
+      },
+      "careers": {
+        "url": "https://www.bluvial.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.bluvial.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-07-22T01:04:44+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Sheet Metal Solutions",
     "city": "Gurugram",
     "region": "Haryana",
@@ -85300,54 +85348,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Bluvial Labs (NABL Accredited- MC 7072)",
-    "city": "Gurugram",
-    "region": "Haryana",
-    "country": "India",
-    "address": "plot No. 29, Udyog Vihar Phase 1, Gurugram, 122016",
-    "lat": 28.5151124,
-    "lng": 77.0803526,
-    "website": "https://bluvial.com/",
-    "phone": "087448 48487",
-    "careers_url": "https://www.bluvial.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.bluvial.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-07-22T01:04:44+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14030482001"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: labs",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Gurugram",
-        "addr:country": "IN",
-        "addr:postcode": "122016",
-        "addr:state": "Haryana",
-        "addr:street": "plot No. 29, Udyog Vihar Phase 1",
-        "healthcare": "laboratory",
-        "name": "Bluvial Labs (NABL Accredited- MC 7072)",
-        "phone": "087448 48487",
-        "website": "https://bluvial.com/"
-      },
-      "careers": {
-        "url": "https://www.bluvial.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.bluvial.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-07-22T01:04:44+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
