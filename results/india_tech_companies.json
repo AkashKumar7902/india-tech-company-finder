@@ -85303,6 +85303,54 @@
     }
   },
   {
+    "name": "Bluvial Labs (NABL Accredited- MC 7072)",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "country": "India",
+    "address": "plot No. 29, Udyog Vihar Phase 1, Gurugram, 122016",
+    "lat": 28.5151124,
+    "lng": 77.0803526,
+    "website": "https://bluvial.com/",
+    "phone": "087448 48487",
+    "careers_url": "https://www.bluvial.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.bluvial.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-07-22T01:04:44+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14030482001"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Gurugram",
+        "addr:country": "IN",
+        "addr:postcode": "122016",
+        "addr:state": "Haryana",
+        "addr:street": "plot No. 29, Udyog Vihar Phase 1",
+        "healthcare": "laboratory",
+        "name": "Bluvial Labs (NABL Accredited- MC 7072)",
+        "phone": "087448 48487",
+        "website": "https://bluvial.com/"
+      },
+      "careers": {
+        "url": "https://www.bluvial.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.bluvial.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-07-22T01:04:44+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Hawkworx Digital Marketing",
     "city": "Gurugram",
     "region": "Haryana",
