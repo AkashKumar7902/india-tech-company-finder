@@ -54338,6 +54338,52 @@
     }
   },
   {
+    "name": "Exxat Systems Pvt. Ltd.",
+    "city": "Vadodara",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "Ellora Park",
+    "lat": 22.3178509,
+    "lng": 73.1606663,
+    "website": "http://exxat.com",
+    "phone": "",
+    "careers_url": "https://exxat.com/explore/company/careers-and-culture",
+    "careers_provider": "darwinbox",
+    "careers_api_url": "https://cdn.craft.cloud/20c20a29-fa8c-4879-b85a-8ac0f7ee0a37/assets/assets/images/assets/images/careers-exxat-mobile-1.jpg",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-07-23T18:09:15+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14022966601"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "Ellora Park",
+        "name": "Exxat Systems Pvt. Ltd.",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "http://exxat.com"
+      },
+      "careers": {
+        "url": "https://exxat.com/explore/company/careers-and-culture",
+        "provider": "darwinbox",
+        "api_url": "https://cdn.craft.cloud/20c20a29-fa8c-4879-b85a-8ac0f7ee0a37/assets/assets/images/assets/images/careers-exxat-mobile-1.jpg",
+        "confidence": "high",
+        "checked_at": "2026-07-23T18:09:15+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Brigade Software Park",
     "city": "Bengaluru",
     "region": "Karnataka",
