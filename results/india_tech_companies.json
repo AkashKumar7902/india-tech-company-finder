@@ -47260,6 +47260,60 @@
     }
   },
   {
+    "name": "Espial Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "710, Suratwala Mark Plaza, Hinjawadi, Pune, 411057",
+    "lat": 18.5905072,
+    "lng": 73.7481105,
+    "website": "https://espialsolutions.com/",
+    "phone": "+91-20-40041385",
+    "careers_url": "https://espialsolutions.com/awsm_job_openings-sitemap.xml",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://espialsolutions.com/jobs/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-07-24T22:44:46+00:00",
+    "careers_notes": "careers page found on company website; homepage fetch failed: ConnectTimeout",
+    "categories": [
+      "office=advertising_agency",
+      "description=Pune’s AI-driven digital marketing agency offering SEO services, PPC advertising, social media marketing & lead generation to grow your brand."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14045805372"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: solutions, digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "710",
+        "addr:postcode": "411057",
+        "addr:street": "Suratwala Mark Plaza, Hinjawadi",
+        "description": "Pune’s AI-driven digital marketing agency offering SEO services, PPC advertising, social media marketing & lead generation to grow your brand.",
+        "email": "info@espialsolutions.com",
+        "name": "Espial Solutions",
+        "office": "advertising_agency",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+91-20-40041385",
+        "website": "https://espialsolutions.com/"
+      },
+      "careers": {
+        "url": "https://espialsolutions.com/awsm_job_openings-sitemap.xml",
+        "provider": "company_website",
+        "api_url": "https://espialsolutions.com/jobs/",
+        "confidence": "medium",
+        "checked_at": "2026-07-24T22:44:46+00:00",
+        "notes": "careers page found on company website; homepage fetch failed: ConnectTimeout"
+      }
+    }
+  },
+  {
     "name": "FIS",
     "city": "Pune",
     "region": "Maharashtra",
@@ -54277,60 +54331,6 @@
         "confidence": "none",
         "checked_at": "2026-06-23T23:48:26+00:00",
         "notes": "https://sygnustech.com/jobs: HTTPError; https://sygnustech.com/jobs/: HTTPError; https://sygnustech.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Espial Solutions",
-    "city": "Pune",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "710, Suratwala Mark Plaza, Hinjawadi, Pune, 411057",
-    "lat": 18.5905072,
-    "lng": 73.7481105,
-    "website": "https://espialsolutions.com/",
-    "phone": "+91-20-40041385",
-    "careers_url": "https://espialsolutions.com/awsm_job_openings-sitemap.xml",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://espialsolutions.com/jobs/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-07-24T22:44:46+00:00",
-    "careers_notes": "careers page found on company website; homepage fetch failed: ConnectTimeout",
-    "categories": [
-      "office=advertising_agency",
-      "description=Pune’s AI-driven digital marketing agency offering SEO services, PPC advertising, social media marketing & lead generation to grow your brand."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14045805372"
-    },
-    "tech_score": 34.0,
-    "confidence": "low",
-    "notes": "matched: solutions, digital",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Pune",
-        "addr:district": "Pune",
-        "addr:housenumber": "710",
-        "addr:postcode": "411057",
-        "addr:street": "Suratwala Mark Plaza, Hinjawadi",
-        "description": "Pune’s AI-driven digital marketing agency offering SEO services, PPC advertising, social media marketing & lead generation to grow your brand.",
-        "email": "info@espialsolutions.com",
-        "name": "Espial Solutions",
-        "office": "advertising_agency",
-        "opening_hours": "Mo-Su 09:00-18:00",
-        "phone": "+91-20-40041385",
-        "website": "https://espialsolutions.com/"
-      },
-      "careers": {
-        "url": "https://espialsolutions.com/awsm_job_openings-sitemap.xml",
-        "provider": "company_website",
-        "api_url": "https://espialsolutions.com/jobs/",
-        "confidence": "medium",
-        "checked_at": "2026-07-24T22:44:46+00:00",
-        "notes": "careers page found on company website; homepage fetch failed: ConnectTimeout"
       }
     }
   },
