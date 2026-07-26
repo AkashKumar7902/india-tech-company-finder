@@ -48984,7 +48984,14 @@
         "confidence": "high",
         "checked_at": "2026-07-23T18:09:15+00:00",
         "notes": "detected ATS/provider"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
