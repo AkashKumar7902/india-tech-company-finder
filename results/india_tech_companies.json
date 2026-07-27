@@ -22412,6 +22412,57 @@
     }
   },
   {
+    "name": "Ajinkya Technologies",
+    "city": "Belagavi",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "401, 4th Floor, Mahatma Phule Road, Belagavi, 590001",
+    "lat": 15.8416323,
+    "lng": 74.5094118,
+    "website": "https://www.ajinkyatechnologies.com",
+    "phone": "+917349416661",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-07-27T01:15:25+00:00",
+    "careers_notes": "https://www.ajinkyatechnologies.com/jobs: HTTPError; https://www.ajinkyatechnologies.com/jobs/: HTTPError; https://www.ajinkyatechnologies.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14051949241"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Belagavi",
+        "addr:district": "Belagavi",
+        "addr:housenumber": "401, 4th Floor",
+        "addr:postcode": "590001",
+        "addr:street": "Mahatma Phule Road",
+        "name": "Ajinkya Technologies",
+        "office": "company",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "+917349416661",
+        "website": "https://www.ajinkyatechnologies.com"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-07-27T01:15:25+00:00",
+        "notes": "https://www.ajinkyatechnologies.com/jobs: HTTPError; https://www.ajinkyatechnologies.com/jobs/: HTTPError; https://www.ajinkyatechnologies.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Bizframe Technologies Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
