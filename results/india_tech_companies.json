@@ -5307,6 +5307,56 @@
     }
   },
   {
+    "name": "Mitsogo Technologies Private Limited",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "DLF IT Park Block 1B, Mount Poonamallee Road, Manapakkam, Chennai Corporation, 600089",
+    "lat": 13.0232664,
+    "lng": 80.1758087,
+    "website": "https://www.mitsogo.com",
+    "phone": "+91 484-297-4545",
+    "careers_url": "https://www.mitsogo.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.mitsogo.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-07-28T04:08:30+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14048134636"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: technologies, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chennai Corporation",
+        "addr:district": "Chennai",
+        "addr:postcode": "600089",
+        "addr:street": "DLF IT Park Block 1B, Mount Poonamallee Road, Manapakkam",
+        "level": "9",
+        "name": "Mitsogo Technologies Private Limited",
+        "office": "it",
+        "phone": "+91 484-297-4545",
+        "website": "https://www.mitsogo.com"
+      },
+      "careers": {
+        "url": "https://www.mitsogo.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.mitsogo.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-07-28T04:08:30+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "wilshire software technologies",
     "city": "Hyderabad",
     "region": "Telangana",
@@ -14589,7 +14639,14 @@
         "confidence": "none",
         "checked_at": "2026-07-25T04:30:43+00:00",
         "notes": "https://www.vinzasolutions.com/jobs: HTTPError; https://www.vinzasolutions.com/jobs/: HTTPError; https://www.vinzasolutions.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -27123,6 +27180,53 @@
         "api_url": "",
         "confidence": "low",
         "checked_at": "2026-06-21T17:02:09+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
+    "name": "Sysvine Technologies",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "111, 1st Cross, 600096",
+    "lat": 12.972761,
+    "lng": 80.249558,
+    "website": "https://sysvine.com",
+    "phone": "",
+    "careers_url": "https://sysvine.com/careers/current-opportunities",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://sysvine.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-07-28T04:08:33+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14049301101"
+    },
+    "tech_score": 44.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "111",
+        "addr:postcode": "600096",
+        "addr:street": "1st Cross",
+        "name": "Sysvine Technologies",
+        "office": "company",
+        "website": "https://sysvine.com"
+      },
+      "careers": {
+        "url": "https://sysvine.com/careers/current-opportunities",
+        "provider": "company_website",
+        "api_url": "https://sysvine.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-07-28T04:08:33+00:00",
         "notes": "careers page found on company website"
       }
     }
