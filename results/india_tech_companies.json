@@ -69972,7 +69972,14 @@
         "building:levels": "2",
         "name": "Centre for Innovation Technology Transfer and Industrial Collaboration",
         "short_name": "CITTIC"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -86084,6 +86091,54 @@
         "confidence": "none",
         "checked_at": "2026-06-17T23:18:40+00:00",
         "notes": "homepage fetch failed: ConnectTimeout; https://msmcoretech.com/jobs: ConnectTimeout; https://msmcoretech.com/jobs/: ConnectTimeout; https://msmcoretech.com/career: ConnectTimeout; no careers page detected"
+      }
+    }
+  },
+  {
+    "name": "flyworld nursing registration solutions",
+    "city": "Kochi",
+    "region": "Kerala",
+    "country": "India",
+    "address": "Kadavanthara Rd, Kochi, 682017",
+    "lat": 9.9902911,
+    "lng": 76.2949497,
+    "website": "https://flyworldnursingregistration.com/best-australian-immigration-consultants-in-kerala-flyworld/",
+    "phone": "",
+    "careers_url": "https://flyworldnursingregistration.com/career-growth-opportunities-for-nurses-abroad/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://flyworldnursingregistration.com/career-growth-opportunities-for-nurses-abroad/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-07-28T18:39:31+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "building=office"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:800447995"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682017",
+        "addr:street": "Kadavanthara Rd",
+        "building": "office",
+        "name": "flyworld nursing registration solutions",
+        "website": "https://flyworldnursingregistration.com/best-australian-immigration-consultants-in-kerala-flyworld/"
+      },
+      "careers": {
+        "url": "https://flyworldnursingregistration.com/career-growth-opportunities-for-nurses-abroad/",
+        "provider": "company_website",
+        "api_url": "https://flyworldnursingregistration.com/career-growth-opportunities-for-nurses-abroad/",
+        "confidence": "medium",
+        "checked_at": "2026-07-28T18:39:31+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
