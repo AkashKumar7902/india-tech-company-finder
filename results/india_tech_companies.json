@@ -54484,6 +54484,70 @@
     }
   },
   {
+    "name": "Faculty of Technology",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "Faculty of Technology, Maharishi Kanad Bhawan, University of Delhi, Delhi-110007",
+    "lat": 28.6875302,
+    "lng": 77.2141533,
+    "website": "https://fot.du.ac.in",
+    "phone": "+91 11 2766 2880",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-06-24T02:04:56+00:00",
+    "careers_notes": "https://fot.du.ac.in/jobs: HTTPError; https://fot.du.ac.in/jobs/: HTTPError; https://fot.du.ac.in/career: HTTPError; no careers page detected",
+    "categories": [
+      "building=university",
+      "amenity=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1487166544"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: technology",
+    "raw": {
+      "osm_tags": {
+        "address": "Faculty of Technology, Maharishi Kanad Bhawan, University of Delhi, Delhi-110007",
+        "building": "university",
+        "faculty": "engineering",
+        "name": "Faculty of Technology",
+        "name:hi": "प्रौद्योगिकी संकाय",
+        "operator": "University of Delhi",
+        "website": "https://fot.du.ac.in",
+        "check_date": "2026-03-10",
+        "landuse": "construction",
+        "construction": "education",
+        "addr:full": "Faculty of Technology, Maharishi Kanad Bhawan, University of Delhi, Delhi-110007",
+        "amenity": "university",
+        "contact:phone": "+91 11 2766 2880",
+        "email": "office@fot.du.ac.in;dean_fot@du.ac.in",
+        "university": "faculty"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-06-24T02:04:56+00:00",
+        "notes": "https://fot.du.ac.in/jobs: HTTPError; https://fot.du.ac.in/jobs/: HTTPError; https://fot.du.ac.in/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Sygnus Technologies",
     "city": "Panaji/Goa",
     "region": "Goa",
@@ -58036,64 +58100,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Faculty of Technology",
-    "city": "New Delhi",
-    "region": "Delhi",
-    "country": "India",
-    "address": "Faculty of Technology, Maharishi Kanad Bhawan, University of Delhi, Delhi-110007",
-    "lat": 28.6875302,
-    "lng": 77.2141533,
-    "website": "https://fot.du.ac.in",
-    "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "none",
-    "careers_last_checked": "2026-06-24T02:04:56+00:00",
-    "careers_notes": "https://fot.du.ac.in/jobs: HTTPError; https://fot.du.ac.in/jobs/: HTTPError; https://fot.du.ac.in/career: HTTPError; no careers page detected",
-    "categories": [
-      "building=university"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:1487166544"
-    },
-    "tech_score": 32.0,
-    "confidence": "low",
-    "notes": "matched: technology",
-    "raw": {
-      "osm_tags": {
-        "address": "Faculty of Technology, Maharishi Kanad Bhawan, University of Delhi, Delhi-110007",
-        "building": "university",
-        "faculty": "technology",
-        "name": "Faculty of Technology",
-        "name:hi": "प्रौद्योगिकी संकाय",
-        "operator": "University of Delhi",
-        "website": "https://fot.du.ac.in",
-        "check_date": "2026-03-10",
-        "landuse": "construction",
-        "construction": "education"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "",
-        "provider": "",
-        "api_url": "",
-        "confidence": "none",
-        "checked_at": "2026-06-24T02:04:56+00:00",
-        "notes": "https://fot.du.ac.in/jobs: HTTPError; https://fot.du.ac.in/jobs/: HTTPError; https://fot.du.ac.in/career: HTTPError; no careers page detected"
-      }
     }
   },
   {
