@@ -86307,6 +86307,54 @@
     }
   },
   {
+    "name": "The HI Labs",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "2nd Floor of B-4/1, Vijyant Khand, Gomti Nagar Yojna, Lucknow, 226010",
+    "lat": 26.8662219,
+    "lng": 81.0215737,
+    "website": "https://www.thehilabs.com/",
+    "phone": "073888 99595",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-07-29T16:02:02+00:00",
+    "careers_notes": "https://www.thehilabs.com/jobs: HTTPError; https://www.thehilabs.com/jobs/: HTTPError; https://www.thehilabs.com/career: HTTPError; no careers page detected",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14038800101"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: labs",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Lucknow",
+        "addr:country": "IN",
+        "addr:housenumber": "2nd Floor of B-4/1",
+        "addr:postcode": "226010",
+        "addr:state": "Uttar Pradesh",
+        "addr:street": "Vijyant Khand, Gomti Nagar Yojna",
+        "name": "The HI Labs",
+        "phone": "073888 99595",
+        "website": "https://www.thehilabs.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-07-29T16:02:02+00:00",
+        "notes": "https://www.thehilabs.com/jobs: HTTPError; https://www.thehilabs.com/jobs/: HTTPError; https://www.thehilabs.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Aarthi Scans & Labs",
     "city": "Mumbai",
     "region": "Maharashtra",
