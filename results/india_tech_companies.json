@@ -47516,7 +47516,14 @@
         "confidence": "medium",
         "checked_at": "2026-07-24T22:44:46+00:00",
         "notes": "careers page found on company website; homepage fetch failed: ConnectTimeout"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
