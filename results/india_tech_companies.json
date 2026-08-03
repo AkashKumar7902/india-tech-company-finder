@@ -17547,6 +17547,58 @@
     }
   },
   {
+    "name": "Inceptez Technologies",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "2/189, 100 Feet Road, 600042",
+    "lat": 12.9762328,
+    "lng": 80.2203355,
+    "website": "https://www.inceptez.in/",
+    "phone": "08042757266",
+    "careers_url": "https://api.whatsapp.com/send/?text=https%3A%2F%2Fwww.inceptez.in%2Flatest-update%2Fblueyonder-is-hiring-for-sr-data-science-consultant%2F166&type=custom_url&app_absent=0",
+    "careers_provider": "workday",
+    "careers_api_url": "https://api.whatsapp.com/wday/cxs/api/send/jobs",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-08-03T10:55:39+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14063569601"
+    },
+    "tech_score": 50.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "2/189",
+        "addr:postcode": "600042",
+        "addr:street": "100 Feet Road",
+        "check_date": "2026-07-31",
+        "check_date:opening_hours": "2026-07-31",
+        "email": "info@inceptez.com",
+        "name": "Inceptez Technologies",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "phone": "08042757266",
+        "website": "https://www.inceptez.in/"
+      },
+      "careers": {
+        "url": "https://api.whatsapp.com/send/?text=https%3A%2F%2Fwww.inceptez.in%2Flatest-update%2Fblueyonder-is-hiring-for-sr-data-science-consultant%2F166&type=custom_url&app_absent=0",
+        "provider": "workday",
+        "api_url": "https://api.whatsapp.com/wday/cxs/api/send/jobs",
+        "confidence": "high",
+        "checked_at": "2026-08-03T10:55:39+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "USAM Technology Solutions - CAD Services",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -23170,58 +23222,6 @@
         "confidence": "none",
         "checked_at": "2026-06-13T16:31:32+00:00",
         "notes": "https://viviramall.com/jobs: HTTPError; https://viviramall.com/jobs/: HTTPError; https://viviramall.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Inceptez Technologies",
-    "city": "Chennai",
-    "region": "Tamil Nadu",
-    "country": "India",
-    "address": "2/189, 100 Feet Road, 600042",
-    "lat": 12.9762328,
-    "lng": 80.2203355,
-    "website": "https://www.inceptez.in/",
-    "phone": "08042757266",
-    "careers_url": "https://api.whatsapp.com/send/?text=https%3A%2F%2Fwww.inceptez.in%2Flatest-update%2Fblueyonder-is-hiring-for-sr-data-science-consultant%2F166&type=custom_url&app_absent=0",
-    "careers_provider": "workday",
-    "careers_api_url": "https://api.whatsapp.com/wday/cxs/api/send/jobs",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-08-03T10:55:39+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14063569601"
-    },
-    "tech_score": 46.0,
-    "confidence": "medium",
-    "notes": "matched: technologies, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "2/189",
-        "addr:postcode": "600042",
-        "addr:street": "100 Feet Road",
-        "check_date": "2026-07-31",
-        "check_date:opening_hours": "2026-07-31",
-        "email": "info@inceptez.com",
-        "name": "Inceptez Technologies",
-        "office": "company",
-        "opening_hours": "Mo-Fr 09:00-20:00",
-        "phone": "08042757266",
-        "website": "https://www.inceptez.in/"
-      },
-      "careers": {
-        "url": "https://api.whatsapp.com/send/?text=https%3A%2F%2Fwww.inceptez.in%2Flatest-update%2Fblueyonder-is-hiring-for-sr-data-science-consultant%2F166&type=custom_url&app_absent=0",
-        "provider": "workday",
-        "api_url": "https://api.whatsapp.com/wday/cxs/api/send/jobs",
-        "confidence": "high",
-        "checked_at": "2026-08-03T10:55:39+00:00",
-        "notes": "detected ATS/provider"
       }
     }
   },
