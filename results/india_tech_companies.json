@@ -56610,6 +56610,41 @@
     }
   },
   {
+    "name": "Rogersoft Software Development and Training",
+    "city": "Thiruvananthapuram",
+    "region": "Kerala",
+    "country": "India",
+    "address": "",
+    "lat": 8.5649226,
+    "lng": 76.8739406,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14066054116"
+    },
+    "tech_score": 33.0,
+    "confidence": "low",
+    "notes": "matched: software",
+    "raw": {
+      "osm_tags": {
+        "name": "Rogersoft Software Development and Training",
+        "office": "educational_institution"
+      }
+    }
+  },
+  {
     "name": "Software Consultant",
     "city": "Vadodara",
     "region": "Gujarat",
