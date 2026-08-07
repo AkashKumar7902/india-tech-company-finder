@@ -26254,6 +26254,56 @@
     }
   },
   {
+    "name": "Shrey Enterprises",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Plot No. 12-13, Sector 5, Ghansoli, Navi Mumbai, 400701",
+    "lat": 19.1171296,
+    "lng": 73.0044635,
+    "website": "https://www.storeadda.com",
+    "phone": "+91-9004666275",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-08-07T03:18:08+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.storeadda.com/jobs: HTTPError; https://www.storeadda.com/jobs/: HTTPError; https://www.storeadda.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14076335792"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Navi Mumbai",
+        "addr:district": "Thane",
+        "addr:housenumber": "Plot No. 12-13",
+        "addr:postcode": "400701",
+        "addr:street": "Sector 5, Ghansoli",
+        "name": "Shrey Enterprises",
+        "office": "it",
+        "phone": "+91-9004666275",
+        "website": "https://www.storeadda.com"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-08-07T03:18:08+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.storeadda.com/jobs: HTTPError; https://www.storeadda.com/jobs/: HTTPError; https://www.storeadda.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Comsilium Software",
     "city": "New Delhi",
     "region": "Delhi",
@@ -86575,6 +86625,53 @@
         "confidence": "none",
         "checked_at": "2026-06-17T23:54:21+00:00",
         "notes": "homepage fetch failed: SSLError; http://www.aarthiscan.com/jobs: SSLError; http://www.aarthiscan.com/jobs/: SSLError; http://www.aarthiscan.com/career: SSLError; no careers page detected"
+      }
+    }
+  },
+  {
+    "name": "CIVICON civil and interior solutions",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "401, Om Gayatri Dham, 90 Feet Road, Indraprastha Park, Mulund East,Mumbai 400081, Mumbai, 400081",
+    "lat": 19.1690288,
+    "lng": 72.9623036,
+    "website": "https://www.civiconmumbai.in/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-08-07T03:18:09+00:00",
+    "careers_notes": "https://civiconmumbai.in/jobs: HTTPError; https://civiconmumbai.in/jobs/: HTTPError; https://civiconmumbai.in/career: HTTPError; no careers page detected",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14070964601"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai",
+        "addr:country": "IN",
+        "addr:housenumber": "401",
+        "addr:postcode": "400081",
+        "addr:state": "Maharashtra",
+        "addr:street": "Om Gayatri Dham, 90 Feet Road, Indraprastha Park, Mulund East,Mumbai 400081",
+        "name": "CIVICON civil and interior solutions",
+        "website": "https://www.civiconmumbai.in/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-08-07T03:18:09+00:00",
+        "notes": "https://civiconmumbai.in/jobs: HTTPError; https://civiconmumbai.in/jobs/: HTTPError; https://civiconmumbai.in/career: HTTPError; no careers page detected"
       }
     }
   },
