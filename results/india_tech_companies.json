@@ -49142,7 +49142,8 @@
         "height": "42",
         "name": "UST Trivandrum",
         "nohousenumber": "yes",
-        "office": "it"
+        "office": "it",
+        "opening_hours": "Su,PH off"
       },
       "google_queries": [],
       "google_types": [],
@@ -56698,7 +56699,14 @@
       "osm_tags": {
         "name": "Rogersoft Software Development and Training",
         "office": "educational_institution"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
