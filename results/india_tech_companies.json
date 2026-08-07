@@ -26300,7 +26300,14 @@
         "confidence": "none",
         "checked_at": "2026-08-07T03:18:08+00:00",
         "notes": "homepage fetch failed: HTTPError; https://www.storeadda.com/jobs: HTTPError; https://www.storeadda.com/jobs/: HTTPError; https://www.storeadda.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -86672,7 +86679,14 @@
         "confidence": "none",
         "checked_at": "2026-08-07T03:18:09+00:00",
         "notes": "https://civiconmumbai.in/jobs: HTTPError; https://civiconmumbai.in/jobs/: HTTPError; https://civiconmumbai.in/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
