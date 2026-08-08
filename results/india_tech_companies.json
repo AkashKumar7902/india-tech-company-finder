@@ -17595,7 +17595,14 @@
         "confidence": "high",
         "checked_at": "2026-08-03T10:55:39+00:00",
         "notes": "detected ATS/provider"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -84962,7 +84969,14 @@
       "osm_tags": {
         "building": "commercial",
         "name": "Fintech Tower"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
