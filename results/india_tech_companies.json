@@ -13274,6 +13274,57 @@
     }
   },
   {
+    "name": "Techtaru Digital",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "38/244-245, Madhyam Marg, Jaipur, 302020",
+    "lat": 26.8655185,
+    "lng": 75.7583012,
+    "website": "https://techtaru.com",
+    "phone": "+91 7229833335",
+    "careers_url": "https://techtaru.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://techtaru.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-08-10T14:55:59+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14085225698"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Jaipur",
+        "addr:district": "Jaipur",
+        "addr:housenumber": "38/244-245",
+        "addr:postcode": "302020",
+        "addr:street": "Madhyam Marg",
+        "name": "Techtaru Digital",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "phone": "+91 7229833335",
+        "website": "https://techtaru.com"
+      },
+      "careers": {
+        "url": "https://techtaru.com/career",
+        "provider": "company_website",
+        "api_url": "https://techtaru.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-08-10T14:55:59+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Conceptia Software Technologies",
     "city": "Kochi",
     "region": "Kerala",
