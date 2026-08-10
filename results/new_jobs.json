@@ -1,10 +1,37 @@
 [
   {
-    "job_key": "7fbdd69a2bb65fc091f84feb8c836916b3c988493d1b610424a076d07e7457ba",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "30a1ef1be6fdeccce8e378a3f7063576f6da8d225e584adbdc09a6790027c95f",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55932",
+    "title": "Ingénieur en conception de micrologiciel - Firmware Design Engineer",
+    "location": "2 Locations",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/MOUNT-ROYAL-Montreal/Ingnieur-en-conception-de-micrologiciel---Firmware-Design-Engineer_R55932",
+    "posted_at": "Posted Today",
+    "updated_at": "Posted Today",
+    "status": "open",
+    "content_hash": "6a414a11a1e285d538aea18ee7e9480f144f37e92864a6d008d7d27cb748e804",
+    "matches_watch": false,
+    "match_reasons": [
+      "title:engineer"
+    ],
+    "first_seen_at": "2026-08-10T15:57:45+00:00",
+    "last_seen_at": "2026-08-10T15:57:45+00:00"
+  },
+  {
+    "job_key": "67852d5641cfdd4f87cb9c0df9280583174bca9ecda3898fa2f65d0a6916d391",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
+    "company_domain": "beta-cae.com",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -19,20 +46,19 @@
     "updated_at": "Posted Today",
     "status": "open",
     "content_hash": "5e7ce61ff1f90c468791decefab3e35db782185eee3a77aabd3a7e8ad958ef97",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-08-10T14:56:16+00:00",
-    "last_seen_at": "2026-08-10T14:56:16+00:00"
+    "first_seen_at": "2026-08-10T15:57:45+00:00",
+    "last_seen_at": "2026-08-10T15:57:45+00:00"
   },
   {
-    "job_key": "8002fcd2dd576a9ab63aa93225ad20fcfe16d2d217813623585fb9769df6024c",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "0728e9a95a93d2a1935042fb6ef67d08dd06ad7f42c25ae3b37d9dbab22088f5",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -47,20 +73,19 @@
     "updated_at": "Posted Today",
     "status": "open",
     "content_hash": "de40fe12763f58d46f7a4136b6ff5d0d21080b3973476484d27957b755b8d8fb",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-08-10T14:56:16+00:00",
-    "last_seen_at": "2026-08-10T14:56:16+00:00"
+    "first_seen_at": "2026-08-10T15:57:45+00:00",
+    "last_seen_at": "2026-08-10T15:57:45+00:00"
   },
   {
-    "job_key": "fd81a8fe02a16d911682498818fa46a6b91322f7009631871fbb5e326a198c5f",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "087a6d7f2c00e891879026c92da74f8f824387cb881ce1b406b89ba19ed9092b",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -75,20 +100,19 @@
     "updated_at": "Posted Today",
     "status": "open",
     "content_hash": "1cef32f398ff2d276aab46663cfc5fcbfff37675ba6284a36ba1370e7e595f81",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-08-10T14:56:16+00:00",
-    "last_seen_at": "2026-08-10T14:56:16+00:00"
+    "first_seen_at": "2026-08-10T15:57:45+00:00",
+    "last_seen_at": "2026-08-10T15:57:45+00:00"
   },
   {
-    "job_key": "1fa0c05e0bb776e06008e85007027e5f755b7fe812a0d395c869c0dfa29a794c",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "a5ae52b505d81f17dd0635f8ff886d813bbe648bba279567503566e8c52bfae3",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -103,12 +127,11 @@
     "updated_at": "Posted Yesterday",
     "status": "open",
     "content_hash": "f7f747e373218820e1534244c58b90c32270631a82c233e50bfa041742dd1b4c",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer,ai",
-      "location:bengaluru"
+      "title:engineer,ai"
     ],
-    "first_seen_at": "2026-08-10T14:56:16+00:00",
-    "last_seen_at": "2026-08-10T14:56:16+00:00"
+    "first_seen_at": "2026-08-10T15:57:45+00:00",
+    "last_seen_at": "2026-08-10T15:57:45+00:00"
   }
 ]
