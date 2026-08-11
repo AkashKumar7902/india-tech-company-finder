@@ -6181,6 +6181,46 @@
     }
   },
   {
+    "name": "Data Software Research Company Pvt. Ltd.",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "11, Smith Road, Chennai, 600002",
+    "lat": 13.0582765,
+    "lng": 80.2610483,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14085336154"
+    },
+    "tech_score": 68.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Chennai",
+        "addr:housenumber": "11",
+        "addr:postcode": "600002",
+        "addr:street": "Smith Road",
+        "name": "Data Software Research Company Pvt. Ltd.",
+        "office": "it",
+        "short_name": "DSRC"
+      }
+    }
+  },
+  {
     "name": "ObjectFrontier Software",
     "city": "Chennai",
     "region": "Tamil Nadu",
