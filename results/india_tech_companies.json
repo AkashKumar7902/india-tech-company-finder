@@ -5369,6 +5369,63 @@
     }
   },
   {
+    "name": "GroverHQ",
+    "city": "Chandigarh-Mohali",
+    "region": "Chandigarh/Punjab",
+    "country": "India",
+    "address": "Sector 68, Mohali, 160062",
+    "lat": 30.6862688,
+    "lng": 76.7221988,
+    "website": "https://groverhq.com",
+    "phone": "+91 9878236480",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-08-12T12:07:37+00:00",
+    "careers_notes": "https://groverhq.com/jobs: HTTPError; https://groverhq.com/jobs/: HTTPError; https://groverhq.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=it",
+      "description=GroverHQ builds fast, scalable, and custom digital solutions including custom CRMs, mobile apps, business automation, and websites for modern businesses."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14081727318"
+    },
+    "tech_score": 69.0,
+    "confidence": "high",
+    "notes": "matched: solutions, digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mohali",
+        "addr:country": "India",
+        "addr:postcode": "160062",
+        "addr:street": "Sector 68",
+        "air_conditioning": "yes",
+        "description": "GroverHQ builds fast, scalable, and custom digital solutions including custom CRMs, mobile apps, business automation, and websites for modern businesses.",
+        "email": "info@groverhq.com",
+        "mobile": "+91 9878236480",
+        "name": "GroverHQ",
+        "office": "it",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+91 9878236480",
+        "start_date": "2026-03-07",
+        "website": "https://groverhq.com",
+        "wheelchair": "yes"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-08-12T12:07:37+00:00",
+        "notes": "https://groverhq.com/jobs: HTTPError; https://groverhq.com/jobs/: HTTPError; https://groverhq.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "wilshire software technologies",
     "city": "Hyderabad",
     "region": "Telangana",
