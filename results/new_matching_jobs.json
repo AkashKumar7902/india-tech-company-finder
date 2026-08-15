@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "job_key": "d9c1724cef5e858f146854ee13efdf9928e145e71479831a6728543ac3cc82b7",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55970",
+    "title": "Principal Product Engineer – Virtuoso Backend Flows",
+    "location": "SAN JOSE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Product-Engineer---Virtuoso-Backend-Flows_R55970",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "dd702693c1855cda930d6cdf6d544f64aa4fcfa2a6096ed6af49ad020ec67600",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:backend,engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-08-15T10:02:52+00:00",
+    "last_seen_at": "2026-08-15T10:02:52+00:00"
+  },
+  {
+    "job_key": "ac7b643e30ebd3dc5852156baee760fe1944067856c03e7c02b7c40def22cfd9",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R55853",
+    "title": "Principal Analog IC Design Engineer, High Speed SerDes",
+    "location": "SAN JOSE",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Analog-IC-Design-Engineer--High-Speed-SerDes_R55853-1",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "7635e0f0abc4c2403532822f73258c007c346c9726117cf3c1965f5f08918581",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-08-15T10:02:52+00:00",
+    "last_seen_at": "2026-08-15T10:02:52+00:00"
+  },
+  {
+    "job_key": "91270961f4fa7ee1c86157eed52cd076c3cbfc101a0036678fb0511625b9c866",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R54896",
+    "title": "Principal Design Engineer",
+    "location": "CORK 01",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Principal-Design-Engineer_R54896",
+    "posted_at": "Posted 2 Days Ago",
+    "updated_at": "Posted 2 Days Ago",
+    "status": "open",
+    "content_hash": "6242c65b665baad31688e9f7e7835bd05e65889092e45d4ab86ec47d8db47327",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-08-15T10:02:52+00:00",
+    "last_seen_at": "2026-08-15T10:02:52+00:00"
+  }
+]
