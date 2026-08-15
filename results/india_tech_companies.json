@@ -5422,7 +5422,14 @@
         "confidence": "none",
         "checked_at": "2026-08-12T12:07:37+00:00",
         "notes": "https://groverhq.com/jobs: HTTPError; https://groverhq.com/jobs/: HTTPError; https://groverhq.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
