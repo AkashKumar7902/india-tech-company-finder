@@ -15099,6 +15099,48 @@
     }
   },
   {
+    "name": "Department Of Information Technology",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 18.6201251,
+    "lng": 73.7475478,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=educational_institution"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14093787954"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-08-14",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Department Of Information Technology",
+        "office": "educational_institution",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    }
+  },
+  {
     "name": "B S S Information Technology Mission",
     "city": "Thiruvananthapuram",
     "region": "Kerala",
