@@ -27646,7 +27646,14 @@
         "confidence": "none",
         "checked_at": "2026-08-14T22:16:44+00:00",
         "notes": "homepage fetch failed: HTTPError; https://www.kailashpathlabs.com/jobs: HTTPError; https://www.kailashpathlabs.com/jobs/: HTTPError; https://www.kailashpathlabs.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -30131,6 +30138,46 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Interra Information Technologies (InterraIT)",
+    "city": "Greater Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Special Economic Zone, Plot No. 129G/46-50 & 59-63, Noida Special Economic Zone, Block A, Phase-2, Noida, Uttar Pradesh 201305",
+    "lat": 28.5426505,
+    "lng": 77.4016728,
+    "website": "",
+    "phone": "0120 430 5200",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14096726701"
+    },
+    "tech_score": 41.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "Special Economic Zone, Plot No. 129G/46-50 & 59-63, Noida Special Economic Zone, Block A, Phase-2, Noida, Uttar Pradesh 201305",
+        "check_date": "2026-08-15",
+        "check_date:opening_hours": "2026-08-15",
+        "name": "Interra Information Technologies (InterraIT)",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "0120 430 5200"
+      }
     }
   },
   {
