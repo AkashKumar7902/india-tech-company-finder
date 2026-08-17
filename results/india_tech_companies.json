@@ -16868,6 +16868,50 @@
     }
   },
   {
+    "name": "DELL Technologies",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 12.9285292,
+    "lng": 80.1162143,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer",
+      "description=GBS Systems"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14098894860"
+    },
+    "tech_score": 51.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, systems, computer",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-08-16",
+        "description": "GBS Systems",
+        "name": "DELL Technologies",
+        "name:en": "DELL Technologies",
+        "name:ta": "டெல் டெக்னாலஜிஸ்",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "computer",
+        "wheelchair": "no"
+      }
+    }
+  },
+  {
     "name": "NEXT Techno Enterprises Pvt. Ltd",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -66802,6 +66846,50 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "HP World",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "",
+    "lat": 12.9285247,
+    "lng": 80.1162485,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer",
+      "description=GBS Systems"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14098894859"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-08-16",
+        "description": "GBS Systems",
+        "name": "HP World",
+        "name:ta": "ஹெச்பி வேர்ல்டு",
+        "opening_hours": "10:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "computer",
+        "wheelchair": "no"
+      }
     }
   },
   {
