@@ -82855,6 +82855,50 @@
     }
   },
   {
+    "name": "Cloud 9 Fitness Club - Dadar",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Dr Babasaheb Ambedkar Marg (Vincent Road), Mumbai,Dadar(East), 400014",
+    "lat": 19.0115821,
+    "lng": 72.8436733,
+    "website": "",
+    "phone": "02224137945",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14101220341"
+    },
+    "tech_score": 23.0,
+    "confidence": "low",
+    "notes": "matched: cloud",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Mumbai,Dadar(East)",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400014",
+        "addr:street": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+        "branch": "Dadar",
+        "building:name": "Latif Building",
+        "floor": "3",
+        "leisure": "fitness_centre",
+        "name": "Cloud 9 Fitness Club - Dadar",
+        "opening_hours": "Mo-Fr 06.00-22.00; Su 06.30-12.00",
+        "phone": "02224137945",
+        "toilets": "yes",
+        "wheelchair": "no"
+      }
+    }
+  },
+  {
     "name": "Cloudphysician",
     "city": "Bengaluru",
     "region": "Karnataka",
