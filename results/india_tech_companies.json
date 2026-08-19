@@ -16908,7 +16908,14 @@
         "payment:debit_cards": "yes",
         "shop": "computer",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -66882,7 +66889,14 @@
         "payment:debit_cards": "yes",
         "shop": "computer",
         "wheelchair": "no"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
