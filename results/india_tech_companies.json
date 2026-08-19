@@ -19082,6 +19082,59 @@
     }
   },
   {
+    "name": "Atlas ML",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "address": "B 615, KP Epitome , Makarba, Ahmedabad, 380051",
+    "lat": 22.9956957,
+    "lng": 72.5002781,
+    "website": "https://atlasml.ai/",
+    "phone": "95372 90206",
+    "careers_url": "https://atlasml.ai/coming-soon",
+    "careers_provider": "company_website",
+    "careers_api_url": "",
+    "careers_confidence": "low",
+    "careers_last_checked": "2026-08-19T10:47:55+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14102804257"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ahmedabad",
+        "addr:district": "Ahmedabad",
+        "addr:housenumber": "B 615",
+        "addr:postcode": "380051",
+        "addr:street": "KP Epitome , Makarba",
+        "email": "shreyans@atlasml.ai",
+        "level": "6th_floor",
+        "name": "Atlas ML",
+        "office": "it",
+        "opening_hours": "Mon - Sat 9:00 am to 7:00 pm",
+        "phone": "95372 90206",
+        "website": "https://atlasml.ai/"
+      },
+      "careers": {
+        "url": "https://atlasml.ai/coming-soon",
+        "provider": "company_website",
+        "api_url": "",
+        "confidence": "low",
+        "checked_at": "2026-08-19T10:47:55+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Novus Logics",
     "city": "Ahmedabad",
     "region": "Gujarat",
@@ -24147,59 +24200,6 @@
         "confidence": "none",
         "checked_at": "2026-06-20T19:45:21+00:00",
         "notes": "homepage fetch failed: ConnectTimeout; http://www.sifycorp.com/jobs: ConnectTimeout; http://www.sifycorp.com/jobs/: ConnectTimeout; http://www.sifycorp.com/career: ConnectTimeout; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Atlas ML",
-    "city": "Ahmedabad",
-    "region": "Gujarat",
-    "country": "India",
-    "address": "B 615, KP Epitome , Makarba, Ahmedabad, 380051",
-    "lat": 22.9956957,
-    "lng": 72.5002781,
-    "website": "https://atlasml.ai/",
-    "phone": "95372 90206",
-    "careers_url": "https://atlasml.ai/coming-soon",
-    "careers_provider": "company_website",
-    "careers_api_url": "",
-    "careers_confidence": "low",
-    "careers_last_checked": "2026-08-19T10:47:55+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14102804257"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Ahmedabad",
-        "addr:district": "Ahmedabad",
-        "addr:housenumber": "B 615",
-        "addr:postcode": "380051",
-        "addr:street": "KP Epitome , Makarba",
-        "email": "shreyans@atlasml.ai",
-        "level": "6th_floor",
-        "name": "Atlas ML",
-        "office": "it",
-        "opening_hours": "Mon - Sat 9:00 am to 7:00 pm",
-        "phone": "95372 90206",
-        "website": "https://atlasml.ai/"
-      },
-      "careers": {
-        "url": "https://atlasml.ai/coming-soon",
-        "provider": "company_website",
-        "api_url": "",
-        "confidence": "low",
-        "checked_at": "2026-08-19T10:47:55+00:00",
-        "notes": "careers page found on company website"
       }
     }
   },
