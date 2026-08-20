@@ -82990,7 +82990,8 @@
         "opening_hours": "Mo-Fr 06.00-22.00; Su 06.30-12.00",
         "phone": "02224137945",
         "toilets": "yes",
-        "wheelchair": "no"
+        "wheelchair": "no",
+        "level": "0"
       },
       "google_queries": [],
       "google_types": [],
