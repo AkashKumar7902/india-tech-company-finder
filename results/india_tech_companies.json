@@ -68228,6 +68228,42 @@
     }
   },
   {
+    "name": "ION Digital Zone Borjhar",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "781015",
+    "lat": 26.0980946,
+    "lng": 91.604491,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14105651301"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "781015",
+        "name": "ION Digital Zone Borjhar",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "J.D. Infotech",
     "city": "Guwahati",
     "region": "Assam",
