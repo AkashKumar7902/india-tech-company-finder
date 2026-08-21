@@ -86879,7 +86879,8 @@
         "layer": "1",
         "name": "MSM Coretech Innovations",
         "opening_hours": "24/7",
-        "website": "https://msmcoretech.com/"
+        "website": "https://msmcoretech.com/",
+        "landuse": "commercial"
       },
       "google_queries": [],
       "google_types": [],
