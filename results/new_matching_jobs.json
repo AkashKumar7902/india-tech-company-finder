@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_key": "41873983836a0159994c6e52fb9a0a1ead59c4025d238c4a437ba5aa9c1cc186",
+    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
+    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "company_domain": "beta-cae.com",
+    "company_city": "Bengaluru",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R56025",
+    "title": "Design Engineer I",
+    "location": "HYDERABAD",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Design-Engineer-I_R56025",
+    "posted_at": "Posted Yesterday",
+    "updated_at": "Posted Yesterday",
+    "status": "open",
+    "content_hash": "1c4fde859074ef188eeea106b6d86d6385544aaf856c52c54487e94293486ac3",
+    "matches_watch": true,
+    "match_reasons": [
+      "title:engineer",
+      "location:bengaluru"
+    ],
+    "first_seen_at": "2026-08-23T13:48:09+00:00",
+    "last_seen_at": "2026-08-23T13:48:09+00:00"
+  }
+]
