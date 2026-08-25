@@ -81270,6 +81270,41 @@
     }
   },
   {
+    "name": "CoE - Artificial Intelligence",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "",
+    "lat": 28.6655704,
+    "lng": 77.2328497,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1552351162"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: artificial intelligence",
+    "raw": {
+      "osm_tags": {
+        "building": "university",
+        "name": "CoE - Artificial Intelligence"
+      }
+    }
+  },
+  {
     "name": "Amethyst IT Solutions Private Limited",
     "city": "Noida",
     "region": "Uttar Pradesh",
