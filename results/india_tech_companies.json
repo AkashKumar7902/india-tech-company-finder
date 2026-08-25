@@ -84304,6 +84304,51 @@
     }
   },
   {
+    "name": "Museum of Solutions",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "",
+    "lat": 19.0056826,
+    "lng": 72.8273915,
+    "website": "https://www.museumofsolutions.in/",
+    "phone": "+91 8828481000",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-08-25T14:28:36+00:00",
+    "careers_notes": "https://www.museumofsolutions.in/jobs: HTTPError; https://www.museumofsolutions.in/jobs/: HTTPError; https://www.museumofsolutions.in/career: HTTPError; no careers page detected",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14119124912"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "name": "Museum of Solutions",
+        "phone": "+91 8828481000",
+        "short_name": "MuSo",
+        "tourism": "museum",
+        "website": "https://www.museumofsolutions.in/",
+        "wheelchair": "yes"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-08-25T14:28:36+00:00",
+        "notes": "https://www.museumofsolutions.in/jobs: HTTPError; https://www.museumofsolutions.in/jobs/: HTTPError; https://www.museumofsolutions.in/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "PALINDIA BUSINESS SOLUTIONS LTD",
     "city": "Mumbai",
     "region": "Maharashtra",
