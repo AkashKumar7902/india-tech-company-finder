@@ -84445,7 +84445,14 @@
         "confidence": "none",
         "checked_at": "2026-08-25T14:28:36+00:00",
         "notes": "https://www.museumofsolutions.in/jobs: HTTPError; https://www.museumofsolutions.in/jobs/: HTTPError; https://www.museumofsolutions.in/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
