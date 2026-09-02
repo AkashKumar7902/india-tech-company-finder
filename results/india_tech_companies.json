@@ -87278,6 +87278,69 @@
     }
   },
   {
+    "name": "SK Marketing Hub",
+    "city": "Madurai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Old No.136, New. 75, DRO Colony Main Rd, Alagar Nagar, KMSL Colony, K.Pudur, Madurai, 625001",
+    "lat": 9.9455974,
+    "lng": 78.1416967,
+    "website": "https://skmarketinghub.com/",
+    "phone": "",
+    "careers_url": "https://skmarketinghub.com",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJcbmt3cTFADsRw8X24LsN7Ec",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-09-02T17:51:47+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "shop=appliance",
+      "description=SK Marketing Hub offers trusted brands like Bosch, Faber, Philips, Voltas, Franke, Havells, Atomberg, AO Smith, Mitsubishi, Eurodomo & Lix for quality home & office solutions."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14128785299"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Madurai",
+        "addr:district": "Madurai",
+        "addr:postcode": "625001",
+        "addr:street": "Old No.136, New. 75, DRO Colony Main Rd, Alagar Nagar, KMSL Colony, K.Pudur",
+        "air_conditioning": "yes",
+        "brand": "Bosch, Faber, Philips, Voltas, Franke, Havells, Atomberg, AO Smith, Mitsubishi Electric, Eurodomo, Lix Office Furniture",
+        "contact:facebook": "https://www.facebook.com/p/SK-Marketing-61556534245082/",
+        "contact:instagram": "https://www.instagram.com/sk_marketing_madurai/",
+        "description": "SK Marketing Hub offers trusted brands like Bosch, Faber, Philips, Voltas, Franke, Havells, Atomberg, AO Smith, Mitsubishi, Eurodomo & Lix for quality home & office solutions.",
+        "mobile": "+918270077999",
+        "name": "SK Marketing Hub",
+        "opening_hours": "Mon to Sun - 10AM to 9:30PM",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:upi": "yes",
+        "shop": "appliance",
+        "website": "https://skmarketinghub.com/",
+        "wheelchair": "yes"
+      },
+      "careers": {
+        "url": "https://skmarketinghub.com",
+        "provider": "company_website",
+        "api_url": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJcbmt3cTFADsRw8X24LsN7Ec",
+        "confidence": "medium",
+        "checked_at": "2026-09-02T17:51:47+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Aarthi Scans & Labs",
     "city": "Mumbai",
     "region": "Maharashtra",
