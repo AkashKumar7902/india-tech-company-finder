@@ -4574,6 +4574,57 @@
     }
   },
   {
+    "name": "Securely Software (India) Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "ICC Trade Tower, Senapati Bapat Marg, Pune, 411016",
+    "lat": 18.536236,
+    "lng": 73.8299025,
+    "website": "https://www.securly.com",
+    "phone": "",
+    "careers_url": "https://www.securly.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.securly.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-09-04T17:03:07+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14148062120"
+    },
+    "tech_score": 73.0,
+    "confidence": "high",
+    "notes": "matched: software, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "ICC Trade Tower",
+        "addr:postcode": "411016",
+        "addr:street": "Senapati Bapat Marg",
+        "air_conditioning": "yes",
+        "name": "Securely Software (India) Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "website": "https://www.securly.com"
+      },
+      "careers": {
+        "url": "https://www.securly.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.securly.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-09-04T17:03:07+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ITKX Technologies",
     "city": "Tiruchirappalli",
     "region": "Tamil Nadu",
@@ -19989,6 +20040,55 @@
     }
   },
   {
+    "name": "DevLogix",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "Rahwali, 52280",
+    "lat": 17.4044987,
+    "lng": 78.4647626,
+    "website": "https://devlogix.com.pk/",
+    "phone": "+923320005121",
+    "careers_url": "https://devlogix.com.pk/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://devlogix.com.pk/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-09-04T13:35:08+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14130010961"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Rahwali",
+        "addr:district": "Gujranwala",
+        "addr:postcode": "52280",
+        "name": "DevLogix",
+        "office": "it",
+        "opening_hours": "Mo-Fr 9:00 AM to 7:00 PM",
+        "phone": "+923320005121",
+        "website": "https://devlogix.com.pk/"
+      },
+      "careers": {
+        "url": "https://devlogix.com.pk/",
+        "provider": "company_website",
+        "api_url": "https://devlogix.com.pk/careers",
+        "confidence": "medium",
+        "checked_at": "2026-09-04T13:35:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Dinoustech Private Limited",
     "city": "Jaipur",
     "region": "Rajasthan",
@@ -25739,55 +25839,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "DevLogix",
-    "city": "Hyderabad",
-    "region": "Telangana",
-    "country": "India",
-    "address": "Rahwali, 52280",
-    "lat": 17.4044987,
-    "lng": 78.4647626,
-    "website": "https://devlogix.com.pk/",
-    "phone": "+923320005121",
-    "careers_url": "https://devlogix.com.pk/",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://devlogix.com.pk/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-09-04T13:35:08+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14130010961"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Rahwali",
-        "addr:district": "Gujranwala",
-        "addr:postcode": "52280",
-        "name": "DevLogix",
-        "office": "it",
-        "opening_hours": "Mo-Fr 9:00 AM to 7:00 PM",
-        "phone": "+923320005121",
-        "website": "https://devlogix.com.pk/"
-      },
-      "careers": {
-        "url": "https://devlogix.com.pk/",
-        "provider": "company_website",
-        "api_url": "https://devlogix.com.pk/careers",
-        "confidence": "medium",
-        "checked_at": "2026-09-04T13:35:08+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
