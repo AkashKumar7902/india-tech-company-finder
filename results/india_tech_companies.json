@@ -25742,6 +25742,55 @@
     }
   },
   {
+    "name": "DevLogix",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "address": "Rahwali, 52280",
+    "lat": 17.4044987,
+    "lng": 78.4647626,
+    "website": "https://devlogix.com.pk/",
+    "phone": "+923320005121",
+    "careers_url": "https://devlogix.com.pk/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://devlogix.com.pk/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-09-04T13:35:08+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14130010961"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Rahwali",
+        "addr:district": "Gujranwala",
+        "addr:postcode": "52280",
+        "name": "DevLogix",
+        "office": "it",
+        "opening_hours": "Mo-Fr 9:00 AM to 7:00 PM",
+        "phone": "+923320005121",
+        "website": "https://devlogix.com.pk/"
+      },
+      "careers": {
+        "url": "https://devlogix.com.pk/",
+        "provider": "company_website",
+        "api_url": "https://devlogix.com.pk/careers",
+        "confidence": "medium",
+        "checked_at": "2026-09-04T13:35:08+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "great deccan software",
     "city": "Hyderabad",
     "region": "Telangana",
