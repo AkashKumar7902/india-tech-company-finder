@@ -14487,22 +14487,22 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:12627866655"
+      "openstreetmap": "node:12627911775"
     },
     "tech_score": 56.0,
     "confidence": "high",
     "notes": "matched: technology, solutions, labs",
     "raw": {
       "osm_tags": {
-        "addr:city": "Ghaziabad",
-        "addr:housenumber": "Shop No. GF 05",
-        "addr:postcode": "201014",
-        "addr:street": "Parsvanath Majestic Arcade, Vaibhav Khand, Indirapuram",
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "Shop/Unit No. UGF 003",
+        "addr:postcode": "201306",
+        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
         "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
+        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
         "email": "info@kailashpathlabs.com",
         "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipOEWUABldwOSVjwBEcZJ2jJe2LF4s2vMO1Fv47x=s680-w680-h510",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
         "mobile": "+91-9911370370",
         "name": "Kailash Path Labs",
         "opening_hours": "Mo-Su 07:00-20:00",
