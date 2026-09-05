@@ -51767,6 +51767,41 @@
     }
   },
   {
+    "name": "Department of Computer Technology",
+    "city": "Thiruvananthapuram",
+    "region": "Kerala",
+    "country": "India",
+    "address": "",
+    "lat": 8.5322844,
+    "lng": 76.9903688,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1555169339"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: technology, computer",
+    "raw": {
+      "osm_tags": {
+        "building": "yes",
+        "name": "Department of Computer Technology"
+      }
+    }
+  },
+  {
     "name": "Shree Technology",
     "city": "Vadodara",
     "region": "Gujarat",
