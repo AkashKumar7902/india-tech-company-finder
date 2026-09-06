@@ -40551,6 +40551,41 @@
     }
   },
   {
+    "name": "STPI",
+    "city": "Bhubaneswar",
+    "region": "Odisha",
+    "country": "India",
+    "address": "",
+    "lat": 20.2925801,
+    "lng": 85.7427096,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14145036523"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "STPI",
+        "office": "it"
+      }
+    }
+  },
+  {
     "name": "Tech Mahindra",
     "city": "Bhubaneswar",
     "region": "Odisha",
