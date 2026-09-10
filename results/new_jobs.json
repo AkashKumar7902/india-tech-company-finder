@@ -1,10 +1,37 @@
 [
   {
-    "job_key": "148fa071ef12b3d37c414436dd6af630c5ea51f74b56827f001f28dcc9d01d5d",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "ab9e223c628f62daf76bd71b08345da5e6338ab0d87460378954173c23004825",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
+    "source_provider": "workday",
+    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+    "external_id": "R51207",
+    "title": "Sr Principal Design Engineer",
+    "location": "2 Locations",
+    "department": "",
+    "employment_type": "",
+    "workplace_type": "",
+    "url": "https://cadence.wd1.myworkdayjobs.com/job/FELDKIRCHEN-Munich/Sr-Principal-Design-Engineer_R51207",
+    "posted_at": "Posted Today",
+    "updated_at": "Posted Today",
+    "status": "open",
+    "content_hash": "cee43c8519289f52d75352bb2802859322a5291a92d7893c5781a7ea5b349488",
+    "matches_watch": false,
+    "match_reasons": [
+      "title:engineer"
+    ],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
+  },
+  {
+    "job_key": "169fe7c46fcb02083080e37d07273fa586cf97efe78bba97ed1e79c771b840c8",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
+    "company_domain": "beta-cae.com",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -19,20 +46,19 @@
     "updated_at": "Posted Today",
     "status": "open",
     "content_hash": "73f33998c9d10531305e4c2d592909228df25179f0f35ed3af3e675dbc80da77",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "d00c606fcc9a3b9377263ca1dc9cb959593714220116eb55202a31d843c07b10",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "2da1b292b247abf81ed2463ac0e214ea2638684e5fb512b5989904a1b6da6587",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -48,18 +74,16 @@
     "status": "open",
     "content_hash": "9ed41f208ccb0b085b15962e1b8065f6948c7e58302c2eb4cfb92ffe70691074",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "0dbfd8da9995f95b4693d415305ee95378fbf8a6c82816c233adb1fe9b1873da",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "a4b21762ac136b35696c8969f8f4f98ac7d9ce4848367a8a0d8dbb3f9347dabe",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -74,20 +98,19 @@
     "updated_at": "Posted Yesterday",
     "status": "open",
     "content_hash": "1c373fec496ff5531d9a9fe86de25752c6598824f45344f903e5c2d99d61339a",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "48238288a9d479beab773827ca90630edc1a218474754bf7072fd3159c2cf969",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "d5628c4550ca227ec30ccd3ac725a6d54bb6d6a9163f28c1e7ffbad453b8a909",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -102,20 +125,19 @@
     "updated_at": "Posted Yesterday",
     "status": "open",
     "content_hash": "38732d68478314d02d639bbcbcc69472e029c196514e7f3bd288ed2665d3ce39",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "0e9cb9bc936604e3c8659b99138017103b1fdf4e88f9bd80527f57e3881d019f",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "0f0949cceefd5d396f74e27f781116b1018d9db5020c54ce52e0070b65868112",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -131,18 +153,16 @@
     "status": "open",
     "content_hash": "eeee5c6e89efefb4def94af97f352b3e68bfd1f1c953dd116194a7fb249d25e0",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "e750e7bd0ad0d1d5795ce1bfe9ffde5c109d6c2865096c49dad58a6ad5fab7d2",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "3d84e0a939ff84ae52ef08ecb0f314b1ed00697fff292d69050d8ab181ce2fe5",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -157,20 +177,19 @@
     "updated_at": "Posted Yesterday",
     "status": "open",
     "content_hash": "9fc2f43ca757138a6a0d12de1cf44442188efea7cef53d3048a91a87bf60d614",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "ca7d0c6f9cc6cfba51656c5deab6325710cea5a184d43e2c00ffcb420fe59272",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "8e0d4fcd82d8c0d50844e5af86a77ded391736f93c14aea4596ecc6b8652b6e8",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -185,20 +204,19 @@
     "updated_at": "Posted Yesterday",
     "status": "open",
     "content_hash": "5ffd26b887a67cc346f8c88b9d6145386fe0c347ddd924157f4079ce2faef858",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "27acf027905772266fa6d9981a816b27a7a791d0be650560e78602789873daef",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "d2df8f8954d3c217cebffd15d60ab7c87c2ba26f4865aefbbe2a72554bc9f624",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -213,20 +231,19 @@
     "updated_at": "Posted 2 Days Ago",
     "status": "open",
     "content_hash": "e27b99f56ea8ae1f1e61209f7f3f27a8493cc773dfcf628f3772543975b68fef",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "26ad61daeebc25b897c078e2ede8d49a21133483687b4333fba43e756595593c",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "6863b79f1542a876aa66332687065e9ab78b4132e8c95d04ed5abda2e46e66ef",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -242,18 +259,16 @@
     "status": "open",
     "content_hash": "b8dfb3578403c92d37b6fb7432dd1f4bc5ed3fd57813986de5816841f9467963",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "7d90f75f88f10b0a88070894ef060d0cfeda534bc0e406a85309116e1a5a6fcc",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "d61985c6d23c0337589fe5caa2341c2881b3ad175062ce28add87ed2542be093",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -269,18 +284,16 @@
     "status": "open",
     "content_hash": "5a0cbaee2fb269ebee6cd78ede6052491dc44d331b662221e2abbd0f4531b583",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "14865998dcb82da458535836b8c05530496a0a4f6afa0213999f239923ca1f16",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "03ccdc93d40a2d68aa642c6565ad908336d22411edbf4ee6e536ba651c8ca3c1",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -295,20 +308,19 @@
     "updated_at": "Posted 2 Days Ago",
     "status": "open",
     "content_hash": "648226667a5e205941997be0071b6dd6c99048797e90159ed73e5e0453d386fe",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "62ab3c75f2bfcb55adca63f1fd54052bed8e08d95e916bff2573d2d53454e5c7",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "0ea2b5221498c41c715591c92fa8236979b01a9104e5d554f072b169b485a54b",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -323,20 +335,19 @@
     "updated_at": "Posted 2 Days Ago",
     "status": "open",
     "content_hash": "9e716f6adb23b7c5f5be029c454a8cd73ceb61f4ecda8378be7a9eb8805cc630",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "de7b705fcbcdefa3fc7f6045b5b04e7c3993c617d3fed6b28521f4d45beebd80",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "db4c099fc41699466149920115a9d7ef7f24eb789bbd4f3a59cfea85a4805c77",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -351,20 +362,19 @@
     "updated_at": "Posted 2 Days Ago",
     "status": "open",
     "content_hash": "1d4c89606deb5594a02097636376a8a332044a2b08a04d1677a90af253915ef4",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "2b20417ec9affef7c8efd780e1032957833bc1eb4a1efc905c37e817a42d0e38",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "46aff077724d910378bde22784748d69cb4580b38a12273dc75f83efd1c9cc9f",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -379,20 +389,19 @@
     "updated_at": "Posted 2 Days Ago",
     "status": "open",
     "content_hash": "93d2c12ddc45c14ea7fb3d90248a73f1c2e0e4b54c767f0b25468b1b4c7a84b0",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "c097f340ce8f151eaf4ab9f2137c3767450906471ecffbe56fc8d0b0b4a9bdb5",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "83d0317ac5ba6a6856d2bfc397a4d44f119a9b51d8cff6fe5a123423615eece6",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -407,20 +416,19 @@
     "updated_at": "Posted 2 Days Ago",
     "status": "open",
     "content_hash": "e7b2a028a8ce5103d39d57860dadcf8a0649fc0ab47bdae86f4e22e7c453d21d",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "967cc1b16f34cbbcdd00e9e5254c158bd59a95b78e8fdf804098df38967fd505",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "257fe7c8952bcb8eb474c3499807fbec6f0a617cf448afd2f48ebc73e92268c0",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -435,20 +443,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "f069c1fdc04ee1928cb3ebb9bf2ab38c08ef1a24e579c67fdda306ee5d9c6e38",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "099a82a88ba0e66d4fc14e32898ca3f9c6d3e79a00abb0e2b52564afff7a5604",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "d361508fc4fdf0c0c26536477b9308d58ee7b293a54d0555903b3b6c15422dc1",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -463,20 +470,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "d9d3cc4b5f34a32cba9f2893f82c708dbe9e0bac2d47f26e0ff86bec8abcd06c",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "90da04feb3abdfa64b9105ab3a4cd0672d7b47e7f80c246f567391f8a0f4de30",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "d32a9045689f5a27cef594d015975f4922a36b2066652180637068f646c2f54f",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -491,20 +497,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "3cba4c57d52b6d6577dd61d230dfbb09e0f3131427babf08f6eab74c4ad79a75",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "20fea7ebcbb6afff8d3c96f36e7923e585d0d4cea4b361057c4a31204ec036ed",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "4c94569392ccada56b35b217df385282ccf7141f266a4703abab4cf4a5a967cd",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -519,20 +524,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "cfbcbb1477a1f028cd1747da50cb7029bcb33d883473e3ccf250965804961b2b",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "8c3a57f34e51d307cd65a3c2908bd9b93c983a89760463653ac5ed1bbe51a5b7",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "d239950c40ce8ffb2741d433c362d610f7ef4786672569fe9037fe933d681bec",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -547,20 +551,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "8ba810dba410d0ade60a85f42a00f946dcd2ee617c2202244108905620dfdbf0",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "c4da3325584e39fb650f428affa27820f67a1ebe07189c9df4f0f538bc1fa8fb",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "972470577e1f4a3c5890339ba547807670d19778af1df13965f54e8a2b31ab82",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -575,20 +578,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "be0bbcf6dc2eb4b364946e98d85c0ef9e4aa100d6217ac456e26e67e3fa36739",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "7852f33c8a5dd3af5e46b38ba4befae60f4b54307c9a8c4e0aae8c44508ab18d",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "2198198cfa1cac88ff3ac156e0f0ac10883b772b4f26146dc908396001096cf3",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -603,20 +605,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "64dd2f2057bdb0bae96b4c45be7577bf1ff710567bfd2a14e1b2f964183629ef",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "7795c027bf577f1325ae97a13e0cd86c73dd1f1b39ec00e09bf147a614d8c88a",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "3f70258892c05e712143facbbbbf250da90007afdfd4764d18be6ae27750f1f0",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -634,17 +635,17 @@
     "matches_watch": true,
     "match_reasons": [
       "title:software,engineer",
-      "location:bengaluru,bangalore"
+      "location:bangalore"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "64fb0c1605d03c9929e0c0c1dc19bc51baeb5f1a2c1d862e9e6758cb8a94403c",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "4f87f9f5bb3ff9b54d7f93a42b30ba9bf958b00f86498fca59d929bffd43ac20",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -659,20 +660,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "4a3008e3af0014c74d326c3049358818b78a13307e96a50d6e4bd8b7de8082b7",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "7b6a67c8a557194d8fa2def4726f30586837f2ee88ed8e1597e6a779a1ee2754",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "522aa79567693dfb184bee2b13fd6a29d9c6bdaa7517c749a6183a0f857bb4ec",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -687,20 +687,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "799e25114cfd06446bbc0ccf8fe3b8e2fafbba9a23c4bc08d0b06a217b4c7baa",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "376a4fce023312e96671e4719511af7f108d1f15440638aa15c02751c9181290",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "54c6df0712c29267ec7b5e78a6c1d3e768434a511a43731e51e21ac397ea9d91",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -716,18 +715,16 @@
     "status": "open",
     "content_hash": "b48ec0fbb96142eac25e673d088e8afa40e47462f6fc3254be70f2923a438392",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "33af6cd00371466bd11bde266a496ad9aa085f0c59d81989b8fd1769798a0081",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "33cde2ae5ba656791ff9de7af6d595029624103ac130e07e79c0621ceab5f4f5",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -742,20 +739,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "886a23c0de62919f0141902350d968d73576c94ca52f4705c42375fc92833e31",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "397ec4fa773efe2329ca5779e90d3008e3f3a3e430b37291cd274e08cda26ab9",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "ee7c1f95c10484f63938fff12556832b0a45fa0b933448993e527ee2b34f4435",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -770,20 +766,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "48a9623ccbe738ad4ed3eb1e312b77d139bc06a81e558c18e66afe708a05d000",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "c6d20661f963f1112b5385e0d06772e895956e7cffdf5961a07e1b8584d831e8",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "48829df9ecfd80670639662710b8ee09ed67ce2f217fa6b77cda2e87444985ff",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -798,20 +793,19 @@
     "updated_at": "Posted 3 Days Ago",
     "status": "open",
     "content_hash": "0f480db30976fdd7ebce1dc4f709a27bd0702a15a412571be7dceacf476c6e51",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "04d71d9136c8d3cd3a253f42d59163e6cd922092d95c28fbf6df23b8ed4e0454",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "2542909b2fa42010d033a53da145caf0d7b07d595909e340456f6611593dbf12",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -829,17 +823,17 @@
     "matches_watch": true,
     "match_reasons": [
       "title:engineer",
-      "location:bengaluru,bangalore"
+      "location:bangalore"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "09fcd29792b635c4b172e3296fe978c7135a3dc7521364d9aacb926c3d0958ec",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "214da82a9e44f8442d31005903ecc54ab68cbd853a31e942e69911fd72e28f5b",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -855,18 +849,16 @@
     "status": "open",
     "content_hash": "36046e63d9013ba8646a99bbc2a05a4a834fc9b5f6cdba6178aca906e089c00c",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "18f0fa4e831de729810a1917e2bbd7fccb9dd1289b01360cba661e0f595c8458",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "ae41f2424bb3836179f454977e69d4b1eb708fbb9fa7feca6dca273d53ac0e70",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -882,18 +874,16 @@
     "status": "open",
     "content_hash": "65bcb8e6f02d121973b9fa0c0c84b6030df2a0bc9d9eaed82e8f0753c29d3bc3",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "9d64d5a36c081b7582d15a617295c00d523e9ecc2f4d2e1d85acf08bb4f39ed4",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "af39001afdbb433b7f7ddeaea8a2929955eded6f676fdb7a50bffe2cf1d43118",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -909,18 +899,16 @@
     "status": "open",
     "content_hash": "f2cff12ff4c1c7f64c4c612bd48fbf4c8fe1c62e43ef19bc7ac13497672d5e7b",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "a1f980e46817562882e982ecdd5d1c1918abbdcc72781796c17f00010e8f0103",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "d1165cd3a1d46cca8d8c8b433c16990ecd0680909f776b7190d8ecb8e1318cce",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -935,20 +923,19 @@
     "updated_at": "Posted 6 Days Ago",
     "status": "open",
     "content_hash": "93a832484831b1e6dd9d094cd90ab0e3d11c1909bda38fa4e1e9b80ac33f7d45",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "db0ee248c89da553f6f5cd4e392039a599b6866eaab351b90022010044d84257",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "eca3f7504228c9a2ea20d62881ff1380bbd16a245b94dc953705fa1cd58909f6",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -963,20 +950,19 @@
     "updated_at": "Posted 6 Days Ago",
     "status": "open",
     "content_hash": "e83601c254cb2b27d52ad06fe2dfe116e9a76b74a3c3230cb4bc43ff8eb4fd25",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "3860a42851413dc7834f45e326ccfd747b0b646478770247546403b4260f66b2",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "16c8e0db9efc98be354290ec4497181f009362674a0651c1faa9ee67ab1a3840",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -991,20 +977,19 @@
     "updated_at": "Posted 6 Days Ago",
     "status": "open",
     "content_hash": "eaaf752b17b2a23476ece145ab2f4b95af0ba1a20cd2cd61c312eb70ada845c3",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "e61b81f7c0a2246b46994cf365dc17e02fd1b5d8cf0ee5e602a759fb13af5b3f",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "e67802733ffdd0dbb91b275c71f6f101ba3d249551670cd79a827e89eda5ec4e",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1020,18 +1005,16 @@
     "status": "open",
     "content_hash": "079d599a18f06f9c00fee7eeb57d47c5e9409cdf41d2c60550d3c22eaf0e9f99",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "2a044f48a77f8b95306642faccfdcf3d7eb10b7c8fcdc31e0ebaffbf14ab3619",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "4aaba4fa18b01de2f897be4cb23b261c3e35e37bef0b69e989cca94cecafcc02",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1046,20 +1029,19 @@
     "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "7617504a5d67e64d40a40124aa6887afbf6a4397a56b0bd7714a8faa23a900f0",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software",
-      "location:bengaluru"
+      "title:software"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "a2d64d696985843afe93d1bab9f0916cdf6c1c2d1148bc80119de07754a88e3f",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "f2b4b8f1da79afad5908de80d05bafd6b6daa4483b3fca0cf51794cec47ab108",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1074,20 +1056,19 @@
     "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "d6952fc4f27df9193ec78dc1b1735d091802afb8252295bc498b5770b1cae1a4",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "b517d70301c669291eb3034810fb56467008845aa09de8c0fe7c9f681215be85",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "badf2f7296311794b36f2fbbaa6370d563531cb720b24ee3a78dcf045287483d",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1102,20 +1083,19 @@
     "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "0fc5012e8faa63b42e79ba7a9d30f039742f515bd30824b804529f4717870eb7",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "e33c9ff859af3bb509997460a6fa9d8e4068808c2c4a39ccd063208556cd2bf6",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "2dde2289bd83b84c3346519ab7aa3022f064d4f2ae7c119177b26570a124e9c7",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1130,20 +1110,19 @@
     "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "db8d3ee470c9fad01218932abd4b1e96ffd60b4112128e0a5377dd8ece9e457d",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer,ai",
-      "location:bengaluru"
+      "title:software,engineer,ai"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "884caacd171ac90d3fc6b01a124042098a910fb9581af4eaf24a94a8f6390bce",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "75ec2f09c3fc3dae0ea7e7f0d6a45f4eaac33207ba9a8236285eb48ca8974b3d",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1158,20 +1137,19 @@
     "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "95b8af35422dd97f022e36eb5deb27b84e85cc75e0546ab69f8349f08464e8ea",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "2fec58f7f0eeebbd3d90a02ebfb734c63c8e3d90ffcd330bc833bf15c05cef73",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "7b129eb63a9876d1ddaaf22da307bd218807419071c9ce26f6de3364d5b31e3e",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1187,18 +1165,16 @@
     "status": "open",
     "content_hash": "3b8a3c097704d10d76ae4f052d5ed585d65c2c4794b9f2e18cf20290ae8984db",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "e31bdef7e4d5b8b775f66069adaa790e94409bb4a4551c0112caabeb357b8161",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "4e61ab28c23a52f7a7f2cc69251a9ff57b59fc3ee24fb3abc8cbd11027f11cc3",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1213,20 +1189,19 @@
     "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "6497123e290e9548cccec0925f69d8d995d0c5b3cd629b526b7cbbd7e0135780",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "3514650ada4bf8730d04e1ed2358ea50bff3fa28c13c56938f844ed91cbb4b66",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "c6e9e42dd82f3321b7d2cba5e4e1283aec1aa8b95e051593b8718442d9d9d843",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1241,20 +1216,19 @@
     "updated_at": "Posted 7 Days Ago",
     "status": "open",
     "content_hash": "feb9ae717e53aa29c2536907a309b50c38380145f81c41fbceefe56f293c06c2",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "ad4237319e78c7b2aa3fc9b920b7b0a14c2db801c01d305d3c8fd92b3bf1d68d",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "32a414211363ab13092c3047aeee53014f037c071bb5950b7c121ce205eda2e9",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1269,20 +1243,19 @@
     "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "c26f18f74ec2cd9db90d10e06ad10533f3c5de1d3294957546fe5bfadefed8eb",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "9c7204efb82ce00332975dcca7b9fa52a23d2d172aadd64a0c9f35674fef71d2",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "6a913dbd7d6887d12d9a7fe10df1e6cdb7d26cc19a71442670a421767a973e30",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1297,20 +1270,19 @@
     "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "26b468cf566db35b2954e56838ed622b9c42b8df48a8ffc67875706bc38ba6c2",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "c4ba83cb832801d158db3cacdb20db3d6270d726c1ab9b5d80ebae9fb68b928c",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "eccd60c184e77133ebb10d958775940c73101811fa3800a934931d2f0149a6c8",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1325,20 +1297,19 @@
     "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "b99ad9e7a55f33259268a07409afa298d62cf28a1dd187629f43a4514da998c3",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "59498a6d20c4f545512ba24481f0afb4e6c03a189cb0ad9ac9fbcd5733b3b198",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "ca45e8f765c876d86fc583c9785b11d9a0e8a38ee76751b64cef9a23340a96ea",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1354,18 +1325,16 @@
     "status": "open",
     "content_hash": "402b8782be4f20be2f9c2030146868a02838a471c3fb127cc54d8bdbc2fec175",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "730158b7a77642b78f807e307a2cec794d446f062b2d431f1154d39555883830",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "dec72ef93312954679e830891159145a61eb4168bced336975dd4013424a542a",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1380,20 +1349,19 @@
     "updated_at": "Posted 8 Days Ago",
     "status": "open",
     "content_hash": "30ba41d4f001b61d0796c655a4ff1c3f20139fff166a186c177bac5db3f657ea",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer,infrastructure",
-      "location:bengaluru"
+      "title:software,engineer,infrastructure"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "228f1ce40b5fdc5344f13b333dd6e9d9065115eb78d147ac4768a978d974266b",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "6797c958a9dd4ed73201afc23e49af4e35b536bce16bd4fc4a8182a36a2e9789",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1410,17 +1378,17 @@
     "content_hash": "1dd3fc242b8e2f02899081c45689ecc41a632c00fa6f4a86e1264eb86d14f511",
     "matches_watch": false,
     "match_reasons": [
-      "location:bengaluru,bangalore"
+      "location:bangalore"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "dce7369d368cb464bb7c1e2f40b25e772e96a5c3616e2bf0fc2992d32f2d98e6",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "29947cbde76efacbea1438215adada171b89200146c3c0e89f3bcecadbf70ee3",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1435,20 +1403,19 @@
     "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "620234933ba217125d05f7123397791466a1a36104f913b3e2ee372ccec42d83",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "3a29ea0b45ce93f61c5ea8c353bbed52463b1083296b2753f5a415d965f90c74",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "ab0d76f310b5eb4e5da1f68df95231f439eabe4c2277655c6c9fe4a3322c8c52",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1463,20 +1430,19 @@
     "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "e7155949e13e849693e007c1d072305113742e7b25f3043a054ba670d9cdf837",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "b62d8295455541922c26a652371a19ce9c7ca27266c156f70077a884508be034",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "11d1a454d79c8cf172e73c12bc009111ba216ca79388b3b021d496b9fa5b15b3",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1491,20 +1457,19 @@
     "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "252f251ce572eea7d991a544ac9e1c0240743ca56a0eb517256b23d1d0401a1c",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "3c1a4c90a5f5eaeb128e5a9d61a085b2467d2e27f07cd5eca488fdeb8d028ee0",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "10339c07510ba4de468994cd12af23a413e05cebb4664c1e70cfb67daec46a36",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1520,18 +1485,16 @@
     "status": "open",
     "content_hash": "a22fff119f08b28cf8398857d21535e77e58ac99a146394666aa5b347405a610",
     "matches_watch": false,
-    "match_reasons": [
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "match_reasons": [],
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "f18a0f1664d835a14077d19fee77f2232896b8bba2fede65521595c5b8782316",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "7467e05fceb6f67832317b4237e075295ebfaa6427755ba4146edbae01ba3c6f",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1549,17 +1512,17 @@
     "matches_watch": true,
     "match_reasons": [
       "title:engineer",
-      "location:bengaluru,bangalore"
+      "location:bangalore"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "9579af1592ba251a79243851664988e417fca867f39bb7391e6fe2a7d3680442",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "3216407968ebbf8875b43a5a19daa547faff4919c9285eeeefe550db9c83f566",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1577,17 +1540,17 @@
     "matches_watch": true,
     "match_reasons": [
       "title:engineer",
-      "location:bengaluru,bangalore"
+      "location:bangalore"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "02c9a3cc99f03ec9709dd4cdc3cc20f7a9fa295148f2c7e8745788541fdd7996",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "b6867e3e36dfc879109b1384069b6535a34eb38f9f8e05fe410ed280317a5d81",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1602,20 +1565,19 @@
     "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "403e873e091a510757593654f563d6686d1d6310b3984645c48da1308532e786",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "ce8972be2cbfe04bebd6e4e5ac9c46417a28619646775f68a34d5c2a19588c01",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "93588c7e49f6a122605e019b40a65536fa8502fc2761959a9600c94cd4775b5a",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1633,17 +1595,17 @@
     "matches_watch": true,
     "match_reasons": [
       "title:engineer",
-      "location:bengaluru,bangalore"
+      "location:bangalore"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "f23857b01bb6279c2d96aef8d21da8cc92fe4aa7a94f0c8b2c74c8339a7ddd40",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "01400d1b7d14d02f2dae3bf93740316c4ba0b0270af0adfe26845b4ee042360d",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1661,17 +1623,17 @@
     "matches_watch": true,
     "match_reasons": [
       "title:engineer",
-      "location:bengaluru,bangalore"
+      "location:bangalore"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "bc8b0a196965d3389754e01b77eda4b35a3d882cb99321495ccf6a16ccc34bd7",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "9e91c6b081649e920ebfed9587f10fb4cd63383f2b965baed994322652f136a9",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1686,20 +1648,19 @@
     "updated_at": "Posted 9 Days Ago",
     "status": "open",
     "content_hash": "8da6a34937c6be072d3ccfc089a76f0e9a749dd03a067d8e34602285050525bc",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
+      "title:software,engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   },
   {
-    "job_key": "e5e22b785ac2c8e1b06742f693572449898378c870a483135c887e6139487f4b",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
+    "job_key": "2c223a82837789413f1b630b2d5c647f93c60e85619a80febd591c1cc959df11",
+    "source_key": "1b073ae3d7e0dd5932075aa4444e17dcb655bdafecf8fa1c3f85b023feb0527d",
+    "company_name": "BETA CAE Systems India Pvt. Ltd. (Chennai Office)",
     "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
+    "company_city": "Chennai",
     "source_provider": "workday",
     "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
     "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
@@ -1714,40 +1675,11 @@
     "updated_at": "Posted 10 Days Ago",
     "status": "open",
     "content_hash": "47cacd25bcbd5e409a3eef97f04c71e1767b371bfbf29899b7dc5b78212ab58b",
-    "matches_watch": true,
+    "matches_watch": false,
     "match_reasons": [
-      "title:engineer",
-      "location:bengaluru"
+      "title:engineer"
     ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
-  },
-  {
-    "job_key": "623b0241d832f92d50994fadc5b647ad96b274ef3e1b59caebe91339e6c23747",
-    "source_key": "391c8a1909b85968de294e13f160a5182d21c8c3473e235fdce7a0da650f8d17",
-    "company_name": "BETA CAE Systems India Pvt. Ltd.",
-    "company_domain": "beta-cae.com",
-    "company_city": "Bengaluru",
-    "source_provider": "workday",
-    "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-    "api_url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-    "external_id": "R56062",
-    "title": "Lead Software Engineer",
-    "location": "PUNE 05",
-    "department": "",
-    "employment_type": "",
-    "workplace_type": "",
-    "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Lead-Software-Engineer_R56062",
-    "posted_at": "Posted 10 Days Ago",
-    "updated_at": "Posted 10 Days Ago",
-    "status": "open",
-    "content_hash": "d83a9e04b2286d2aeca9e3a9f0e5c787c4cac266e911b649519673d13a69d172",
-    "matches_watch": true,
-    "match_reasons": [
-      "title:software,engineer",
-      "location:bengaluru"
-    ],
-    "first_seen_at": "2026-09-10T09:38:05+00:00",
-    "last_seen_at": "2026-09-10T09:38:05+00:00"
+    "first_seen_at": "2026-09-10T13:48:15+00:00",
+    "last_seen_at": "2026-09-10T13:48:15+00:00"
   }
 ]
