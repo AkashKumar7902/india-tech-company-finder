@@ -23560,7 +23560,7 @@
       "osm_tags": {
         "addr:city": "Bengaluru",
         "addr:district": "Bengaluru Urban",
-        "addr:housenumber": "No.91, 2nd floor, Shop No, 222-223, Balaji Complex",
+        "addr:housenumber": "91",
         "addr:postcode": "560002",
         "addr:street": "SP Road",
         "alt_name": "pcbuildz",
@@ -23571,7 +23571,7 @@
         "email": "support@pcbuildz.in",
         "image": "https://cdn.shopify.com/s/files/1/0653/4060/4505/files/PCBuildz-Icon.png?v=1752500113",
         "internet_access": "wlan",
-        "name": "PCBuildz (Nextgen IT Solutions) - Bangalore's Best Custom PC Shop for Gaming, Editing, 3D Animation & AI Workstation PC Build",
+        "name": "PCBuildz",
         "opening_hours": "Mo-Sa 10:30-20:00",
         "operator": "Govind Kumar Teja Ram",
         "payment:american_express": "yes",
@@ -23593,7 +23593,9 @@
         "payment:visa": "yes",
         "phone": "+91-9510-9510-19",
         "shop": "computer",
-        "website": "https://pcbuildz.in/"
+        "website": "https://pcbuildz.in/",
+        "addr:full": "No.91, 2nd floor, Shop No, 222-223, Balaji Complex",
+        "addr:unit": "222,223"
       },
       "google_queries": [],
       "google_types": [],
