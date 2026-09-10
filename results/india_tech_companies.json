@@ -58746,7 +58746,14 @@
         "confidence": "none",
         "checked_at": "2026-09-04T19:29:29+00:00",
         "notes": "homepage fetch failed: SSLError; https://www.smbsecurity.netlify.app/jobs: SSLError; https://www.smbsecurity.netlify.app/jobs/: SSLError; https://www.smbsecurity.netlify.app/career: SSLError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -81479,6 +81486,44 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Polinext Labs Private Limited",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "24th Road (St. Theresa's Road), 400050",
+    "lat": 19.0597996,
+    "lng": 72.8325445,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14155466801"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: labs, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:postcode": "400050",
+        "addr:street": "24th Road (St. Theresa's Road)",
+        "level": "6",
+        "name": "Polinext Labs Private Limited",
+        "office": "company"
+      }
     }
   },
   {
