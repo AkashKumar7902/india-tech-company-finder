@@ -27080,6 +27080,57 @@
     }
   },
   {
+    "name": "Utho Platforms Private Limited",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "Stellar 1425, Sector 142, Noida, 201301",
+    "lat": 28.5030539,
+    "lng": 77.4137878,
+    "website": "https://utho.com/",
+    "phone": "0120 484 0047",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-09-11T01:30:23+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://utho.com/jobs: HTTPError; https://utho.com/jobs/: HTTPError; https://utho.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14166426093"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Noida",
+        "addr:housenumber": "Stellar 1425",
+        "addr:postcode": "201301",
+        "addr:street": "Sector 142",
+        "email": "sales@utho.com",
+        "name": "Utho Platforms Private Limited",
+        "office": "it",
+        "phone": "0120 484 0047",
+        "start_date": "02-07-2006",
+        "website": "https://utho.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-09-11T01:30:23+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://utho.com/jobs: HTTPError; https://utho.com/jobs/: HTTPError; https://utho.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Smile Automation Pvt Ltd",
     "city": "Pune",
     "region": "Maharashtra",
