@@ -8033,6 +8033,41 @@
     }
   },
   {
+    "name": "Department of Computer Science and Information Technology",
+    "city": "Guwahati",
+    "region": "Assam",
+    "country": "India",
+    "address": "",
+    "lat": 26.1867296,
+    "lng": 91.7482751,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=university"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1334976128"
+    },
+    "tech_score": 65.0,
+    "confidence": "high",
+    "notes": "matched: information technology, technology, computer",
+    "raw": {
+      "osm_tags": {
+        "building": "university",
+        "name": "Department of Computer Science and Information Technology"
+      }
+    }
+  },
+  {
     "name": "University Center For Computer Science And Information Technology",
     "city": "Jaipur",
     "region": "Rajasthan",
