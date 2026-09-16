@@ -9026,7 +9026,8 @@
     "careers_notes": "",
     "categories": [
       "office=it",
-      "building=yes"
+      "building=yes",
+      "building=office"
     ],
     "sources": [
       "openstreetmap"
@@ -9045,7 +9046,7 @@
         "addr:street": "Bannerghatta Road",
         "name": "Practo Technologies Pvt Ltd",
         "addr:housenumber": "26",
-        "building": "yes",
+        "building": "office",
         "name:kn": "ಪ್ರಾಕ್ಟೊ ಟೆಕ್ನಾಲಜೀಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್",
         "office": "it"
       },
@@ -14755,6 +14756,53 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Reckonsys Tech Labs Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "First Floor, Incubex HSR28, No. L-169, 13th Cross Rd, Sector 6, HSR Layout",
+    "lat": 12.916165,
+    "lng": 77.6310153,
+    "website": "reckonsys.com",
+    "phone": "080 4749 3499",
+    "careers_url": "https://www.reckonsys.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://www.reckonsys.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-09-16T13:35:00+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14177305707"
+    },
+    "tech_score": 55.0,
+    "confidence": "high",
+    "notes": "matched: labs, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "First Floor, Incubex HSR28, No. L-169, 13th Cross Rd, Sector 6, HSR Layout",
+        "name": "Reckonsys Tech Labs Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-20:45",
+        "phone": "080 4749 3499",
+        "website": "reckonsys.com"
+      },
+      "careers": {
+        "url": "https://www.reckonsys.com/careers/",
+        "provider": "company_website",
+        "api_url": "http://www.reckonsys.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-09-16T13:35:00+00:00",
+        "notes": "careers page found on company website"
+      }
     }
   },
   {
@@ -28755,6 +28803,50 @@
     }
   },
   {
+    "name": "Cvent",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9099966,
+    "lng": 77.5992235,
+    "website": "https://www.cvent.com/",
+    "phone": "",
+    "careers_url": "https://careers.cvent.com/life-at-cvent",
+    "careers_provider": "icims",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto:300,700,400",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-09-16T13:35:08+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14184594541"
+    },
+    "tech_score": 43.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Cvent",
+        "office": "it",
+        "website": "https://www.cvent.com/"
+      },
+      "careers": {
+        "url": "https://careers.cvent.com/life-at-cvent",
+        "provider": "icims",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto:300,700,400",
+        "confidence": "high",
+        "checked_at": "2026-09-16T13:35:08+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "Datalife Cycle",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -30396,6 +30488,41 @@
     }
   },
   {
+    "name": "Wissen Digital Systems",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9739998,
+    "lng": 77.7185404,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14170125706"
+    },
+    "tech_score": 41.0,
+    "confidence": "medium",
+    "notes": "matched: systems, digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Wissen Digital Systems",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "Interra Information Technologies (InterraIT)",
     "city": "Greater Noida",
     "region": "Uttar Pradesh",
@@ -32014,6 +32141,41 @@
     }
   },
   {
+    "name": "Celebal Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9849077,
+    "lng": 77.750957,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14170098124"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Celebal Technologies",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "Codilar Technologies Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -32139,6 +32301,41 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Consuma Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9850677,
+    "lng": 77.7505027,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14170098132"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Consuma Technologies",
+        "office": "company"
+      }
     }
   },
   {
@@ -32660,6 +32857,41 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "HCL Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9803145,
+    "lng": 77.6682436,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14184176972"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "HCL Technologies",
+        "office": "company"
+      }
     }
   },
   {
@@ -33527,6 +33759,41 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Vitanetwork Technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9848392,
+    "lng": 77.7511516,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14170098126"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Vitanetwork Technologies",
+        "office": "company"
+      }
     }
   },
   {
@@ -55632,7 +55899,7 @@
     "raw": {
       "osm_tags": {
         "addr:street": "Swagath Road",
-        "name": "Fireeye cybersecurity",
+        "name": "FireEye Cybersecurity",
         "name:en": "Fireeye cybersecurity",
         "office": "company"
       },
@@ -63051,6 +63318,41 @@
     }
   },
   {
+    "name": "C8Y Solutions Private Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9274709,
+    "lng": 77.6928127,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14184176977"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "C8Y Solutions Private Limited",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "Categies Solutions Pvt Ltd",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -63261,6 +63563,41 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Connectiv Supply Chain Solutions",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9848766,
+    "lng": 77.7510454,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14170098129"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Connectiv Supply Chain Solutions",
+        "office": "company"
+      }
     }
   },
   {
@@ -65273,6 +65610,41 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Saiharmony Solutions India",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9847239,
+    "lng": 77.751479,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14170098125"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Saiharmony Solutions India",
+        "office": "company"
+      }
     }
   },
   {
