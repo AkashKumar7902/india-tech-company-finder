@@ -12486,6 +12486,53 @@
     }
   },
   {
+    "name": "Reckonsys Tech Labs Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "First Floor, Incubex HSR28, No. L-169, 13th Cross Rd, Sector 6, HSR Layout",
+    "lat": 12.916165,
+    "lng": 77.6310153,
+    "website": "reckonsys.com",
+    "phone": "080 4749 3499",
+    "careers_url": "https://www.reckonsys.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "http://www.reckonsys.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-09-16T13:35:00+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14177305707"
+    },
+    "tech_score": 59.0,
+    "confidence": "high",
+    "notes": "matched: labs, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "First Floor, Incubex HSR28, No. L-169, 13th Cross Rd, Sector 6, HSR Layout",
+        "name": "Reckonsys Tech Labs Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 10:00-20:45",
+        "phone": "080 4749 3499",
+        "website": "reckonsys.com"
+      },
+      "careers": {
+        "url": "https://www.reckonsys.com/careers/",
+        "provider": "company_website",
+        "api_url": "http://www.reckonsys.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-09-16T13:35:00+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Shriasys",
     "city": "Coimbatore",
     "region": "Tamil Nadu",
@@ -14756,53 +14803,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Reckonsys Tech Labs Pvt Ltd",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "First Floor, Incubex HSR28, No. L-169, 13th Cross Rd, Sector 6, HSR Layout",
-    "lat": 12.916165,
-    "lng": 77.6310153,
-    "website": "reckonsys.com",
-    "phone": "080 4749 3499",
-    "careers_url": "https://www.reckonsys.com/careers/",
-    "careers_provider": "company_website",
-    "careers_api_url": "http://www.reckonsys.com/careers/",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-09-16T13:35:00+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14177305707"
-    },
-    "tech_score": 55.0,
-    "confidence": "high",
-    "notes": "matched: labs, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:street": "First Floor, Incubex HSR28, No. L-169, 13th Cross Rd, Sector 6, HSR Layout",
-        "name": "Reckonsys Tech Labs Pvt Ltd",
-        "office": "it",
-        "opening_hours": "Mo-Fr 10:00-20:45",
-        "phone": "080 4749 3499",
-        "website": "reckonsys.com"
-      },
-      "careers": {
-        "url": "https://www.reckonsys.com/careers/",
-        "provider": "company_website",
-        "api_url": "http://www.reckonsys.com/careers/",
-        "confidence": "medium",
-        "checked_at": "2026-09-16T13:35:00+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
@@ -22204,6 +22204,50 @@
     }
   },
   {
+    "name": "Cvent",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9099966,
+    "lng": 77.5992235,
+    "website": "https://www.cvent.com/",
+    "phone": "",
+    "careers_url": "https://careers.cvent.com/life-at-cvent",
+    "careers_provider": "icims",
+    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto:300,700,400",
+    "careers_confidence": "high",
+    "careers_last_checked": "2026-09-16T13:35:08+00:00",
+    "careers_notes": "detected ATS/provider",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14184594541"
+    },
+    "tech_score": 47.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "Cvent",
+        "office": "it",
+        "website": "https://www.cvent.com/"
+      },
+      "careers": {
+        "url": "https://careers.cvent.com/life-at-cvent",
+        "provider": "icims",
+        "api_url": "https://fonts.googleapis.com/css?family=Roboto:300,700,400",
+        "confidence": "high",
+        "checked_at": "2026-09-16T13:35:08+00:00",
+        "notes": "detected ATS/provider"
+      }
+    }
+  },
+  {
     "name": "EnqDB",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -28799,50 +28843,6 @@
         "confidence": "none",
         "checked_at": "2026-06-14T13:54:28+00:00",
         "notes": "homepage fetch failed: ReadTimeout; https://www.codemancers.com/jobs: ReadTimeout; https://www.codemancers.com/jobs/: ReadTimeout; https://www.codemancers.com/career: ReadTimeout; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Cvent",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "",
-    "lat": 12.9099966,
-    "lng": 77.5992235,
-    "website": "https://www.cvent.com/",
-    "phone": "",
-    "careers_url": "https://careers.cvent.com/life-at-cvent",
-    "careers_provider": "icims",
-    "careers_api_url": "https://fonts.googleapis.com/css?family=Roboto:300,700,400",
-    "careers_confidence": "high",
-    "careers_last_checked": "2026-09-16T13:35:08+00:00",
-    "careers_notes": "detected ATS/provider",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14184594541"
-    },
-    "tech_score": 43.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "name": "Cvent",
-        "office": "it",
-        "website": "https://www.cvent.com/"
-      },
-      "careers": {
-        "url": "https://careers.cvent.com/life-at-cvent",
-        "provider": "icims",
-        "api_url": "https://fonts.googleapis.com/css?family=Roboto:300,700,400",
-        "confidence": "high",
-        "checked_at": "2026-09-16T13:35:08+00:00",
-        "notes": "detected ATS/provider"
       }
     }
   },
