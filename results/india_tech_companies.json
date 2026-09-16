@@ -24454,6 +24454,57 @@
     }
   },
   {
+    "name": "WhiteHedge Technologies Pvt Ltd",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "201, AG Trade Centre, Ramnagar Colony,, Pune, 411021",
+    "lat": 18.523088,
+    "lng": 73.7798026,
+    "website": "https://www.whitehedge.com/",
+    "phone": "+91-020-67994020",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-09-16T20:27:02+00:00",
+    "careers_notes": "https://whitehedge.com/jobs: HTTPError; https://whitehedge.com/jobs/: HTTPError; https://whitehedge.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14182756265"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "201",
+        "addr:postcode": "411021",
+        "addr:street": "AG Trade Centre, Ramnagar Colony,",
+        "name": "WhiteHedge Technologies Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mon-Fri, 9:30 am–6:30 pm",
+        "phone": "+91-020-67994020",
+        "website": "https://www.whitehedge.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-09-16T20:27:02+00:00",
+        "notes": "https://whitehedge.com/jobs: HTTPError; https://whitehedge.com/jobs/: HTTPError; https://whitehedge.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "eth1 Network Solutions",
     "city": "Belagavi",
     "region": "Karnataka",
