@@ -51697,6 +51697,42 @@
     }
   },
   {
+    "name": "Devika Infotech",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "address": "",
+    "lat": 28.6799631,
+    "lng": 77.2078978,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14181041981"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Devika Infotech",
+        "repair": "computer",
+        "shop": "repair"
+      }
+    }
+  },
+  {
     "name": "HP World",
     "city": "New Delhi",
     "region": "Delhi",
