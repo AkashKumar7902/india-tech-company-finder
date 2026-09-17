@@ -9416,7 +9416,7 @@
     "city": "Chennai",
     "region": "Tamil Nadu",
     "country": "India",
-    "address": "",
+    "address": "Ambattur Estate Service Road, Chennai, 600058",
     "lat": 13.0916094,
     "lng": 80.1608981,
     "website": "",
@@ -9444,7 +9444,10 @@
       "osm_tags": {
         "building": "yes",
         "name": "MSC Technology Park",
-        "office": "it"
+        "office": "it",
+        "addr:city": "Chennai",
+        "addr:postcode": "600058",
+        "addr:street": "Ambattur Estate Service Road"
       },
       "google_queries": [],
       "google_types": [],
@@ -41888,6 +41891,48 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Voora IT Park",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "address": "Ambattur Estate Service Road, Ambattur, 600058",
+    "lat": 13.0928457,
+    "lng": 80.1607051,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it",
+      "building=commercial"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1558383945"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Ambattur",
+        "addr:district": "Chennai",
+        "addr:postcode": "600058",
+        "addr:street": "Ambattur Estate Service Road",
+        "building": "commercial",
+        "building:levels": "8",
+        "name": "Voora IT Park",
+        "office": "it"
+      }
     }
   },
   {
