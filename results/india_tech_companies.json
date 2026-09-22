@@ -14098,6 +14098,39 @@
     }
   },
   {
+    "name": "Invadya Technologies",
+    "city": "Raipur",
+    "region": "Chhattisgarh",
+    "country": "India",
+    "address": "",
+    "lat": 21.2569199,
+    "lng": 81.6042867,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14202497021"
+    },
+    "tech_score": 57.0,
+    "confidence": "high",
+    "notes": "matched: software, technologies",
+    "raw": {
+      "osm_tags": {
+        "name": "Invadya Technologies",
+        "official_name": "Software Company"
+      }
+    }
+  },
+  {
     "name": "Shreedama Technologies",
     "city": "Surat",
     "region": "Gujarat",
