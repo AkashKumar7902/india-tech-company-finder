@@ -88832,6 +88832,50 @@
     }
   },
   {
+    "name": "Tiles Tower Universe",
+    "city": "Panaji/Goa",
+    "region": "Goa",
+    "country": "India",
+    "address": "",
+    "lat": 15.3766547,
+    "lng": 73.9260225,
+    "website": "https://tilestower.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-09-22T01:07:26+00:00",
+    "careers_notes": "https://www.tilestower.com/jobs: HTTPError; https://www.tilestower.com/jobs/: HTTPError; https://www.tilestower.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "description=Tiles Tower Universe is a newly opened premium multibrand showroom in Verna, South Goa, and one of Goa’s largest destinations for tiles and interior solutions. Explore 1,000+ designer tiles, premium vitrified tiles, sanitary ware, bath fittings, designer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14203664362"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "description": "Tiles Tower Universe is a newly opened premium multibrand showroom in Verna, South Goa, and one of Goa’s largest destinations for tiles and interior solutions. Explore 1,000+ designer tiles, premium vitrified tiles, sanitary ware, bath fittings, designer",
+        "name": "Tiles Tower Universe",
+        "website": "https://tilestower.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-09-22T01:07:26+00:00",
+        "notes": "https://www.tilestower.com/jobs: HTTPError; https://www.tilestower.com/jobs/: HTTPError; https://www.tilestower.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Eternal Solutions System",
     "city": "Pune",
     "region": "Maharashtra",
