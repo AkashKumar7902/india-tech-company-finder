@@ -12532,7 +12532,14 @@
         "confidence": "medium",
         "checked_at": "2026-09-16T13:35:00+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -22280,7 +22287,14 @@
         "confidence": "high",
         "checked_at": "2026-09-16T13:35:08+00:00",
         "notes": "detected ATS/provider"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23788,6 +23802,56 @@
         "confidence": "none",
         "checked_at": "2026-06-13T15:17:10+00:00",
         "notes": "https://pcbuildz.in/jobs: HTTPError; https://pcbuildz.in/jobs/: HTTPError; https://pcbuildz.in/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
+    "name": "Tarento Technologies Pvt Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "11th Floor, Tower C, IBC Knowledge Park, Bannerghatta Rd, Bengaluru, 560029",
+    "lat": 12.9329208,
+    "lng": 77.6033412,
+    "website": "http://www.tarento.com/",
+    "phone": "08025504269",
+    "careers_url": "https://www.tarento.com/careers/",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.tarento.com/careers/",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-09-23T00:25:26+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14203892897"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: technologies, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "11th Floor, Tower C",
+        "addr:postcode": "560029",
+        "addr:street": "IBC Knowledge Park, Bannerghatta Rd",
+        "name": "Tarento Technologies Pvt Limited",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00 - 18:30",
+        "phone": "08025504269",
+        "website": "http://www.tarento.com/"
+      },
+      "careers": {
+        "url": "https://www.tarento.com/careers/",
+        "provider": "company_website",
+        "api_url": "https://www.tarento.com/careers/",
+        "confidence": "medium",
+        "checked_at": "2026-09-23T00:25:26+00:00",
+        "notes": "careers page found on company website"
       }
     }
   },
@@ -30671,7 +30735,14 @@
       "osm_tags": {
         "name": "Wissen Digital Systems",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -32324,7 +32395,14 @@
       "osm_tags": {
         "name": "Celebal Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -32487,7 +32565,14 @@
       "osm_tags": {
         "name": "Consuma Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -33043,7 +33128,14 @@
       "osm_tags": {
         "name": "HCL Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -33945,7 +34037,14 @@
       "osm_tags": {
         "name": "Vitanetwork Technologies",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -63579,7 +63678,14 @@
       "osm_tags": {
         "name": "C8Y Solutions Private Limited",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -63827,7 +63933,14 @@
       "osm_tags": {
         "name": "Connectiv Supply Chain Solutions",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -65874,7 +65987,14 @@
       "osm_tags": {
         "name": "Saiharmony Solutions India",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
