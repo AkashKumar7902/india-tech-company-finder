@@ -89039,7 +89039,14 @@
         "confidence": "none",
         "checked_at": "2026-09-22T01:07:26+00:00",
         "notes": "https://www.tilestower.com/jobs: HTTPError; https://www.tilestower.com/jobs/: HTTPError; https://www.tilestower.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
