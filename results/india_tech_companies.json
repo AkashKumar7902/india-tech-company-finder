@@ -17771,7 +17771,14 @@
         "confidence": "medium",
         "checked_at": "2026-09-23T00:25:26+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -23808,9 +23815,9 @@
       "osm_tags": {
         "addr:city": "Bengaluru",
         "addr:district": "Bengaluru Urban",
-        "addr:housenumber": "91",
+        "addr:housenumber": "2",
         "addr:postcode": "560002",
-        "addr:street": "SP Road",
+        "addr:street": "Chikkanamma Temple Street",
         "alt_name": "pcbuildz",
         "brand": "PCBuildz",
         "contact:facebook": "https://facebook.com/PCBuildz/",
@@ -23842,8 +23849,10 @@
         "phone": "+91-9510-9510-19",
         "shop": "computer",
         "website": "https://pcbuildz.in/",
-        "addr:full": "No.91, 2nd floor, Shop No, 222-223, Balaji Complex",
-        "addr:unit": "222,223"
+        "addr:full": "No. 2, Ground Floor, Chikkanamma Temple Street, Sunkalpet Rd",
+        "addr:unit": "Ground Floor",
+        "air_conditioning": "yes",
+        "contact:instagram": "https://www.instagram.com/pcbuildz.in/"
       },
       "google_queries": [],
       "google_types": [],
@@ -25491,6 +25500,53 @@
     "notes": "matched: software, office=company",
     "raw": {
       "osm_tags": {
+        "name": "VMware Software India Pvt. Ltd.",
+        "office": "company"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
+    }
+  },
+  {
+    "name": "VMware Software India Pvt. Ltd.",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "165/2, 3rd Floor, Doraisanipalya, IIM Post, Bannerughatta Road,, Bangalore, 560076",
+    "lat": 12.8993766,
+    "lng": 77.5968829,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2375720022"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: software, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housename": "Tower 1, KALYANI MAGNUM",
+        "addr:housenumber": "165/2",
+        "addr:postcode": "560076",
+        "addr:street": "3rd Floor, Doraisanipalya, IIM Post, Bannerughatta Road,",
         "name": "VMware Software India Pvt. Ltd.",
         "office": "company"
       },
@@ -56550,50 +56606,6 @@
         "barrier": "wall",
         "landuse": "commercial",
         "name": "Silver Software"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": []
-    }
-  },
-  {
-    "name": "VMware Software India Pvt. Ltd.",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "165/2, 3rd Floor, Doraisanipalya, IIM Post, Bannerughatta Road,, Bangalore, 560076",
-    "lat": 12.8993766,
-    "lng": 77.5968829,
-    "website": "",
-    "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2375720022"
-    },
-    "tech_score": 33.0,
-    "confidence": "low",
-    "notes": "matched: software",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bangalore",
-        "addr:housename": "Tower 1, KALYANI MAGNUM",
-        "addr:housenumber": "165/2",
-        "addr:postcode": "560076",
-        "addr:street": "3rd Floor, Doraisanipalya, IIM Post, Bannerughatta Road,",
-        "name": "VMware Software India Pvt. Ltd."
       },
       "google_queries": [],
       "google_types": [],
