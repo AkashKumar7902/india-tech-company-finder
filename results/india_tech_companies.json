@@ -24617,7 +24617,14 @@
         "confidence": "none",
         "checked_at": "2026-09-16T20:27:02+00:00",
         "notes": "https://whitehedge.com/jobs: HTTPError; https://whitehedge.com/jobs/: HTTPError; https://whitehedge.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -86137,6 +86144,56 @@
     }
   },
   {
+    "name": "Air-tech Engineering & Solutions",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Saffron Avenue, showroom 1& 2, Service Rd, Bavdhan,, Pune, 411021",
+    "lat": 18.5102043,
+    "lng": 73.7738071,
+    "website": "http://www.airtechpune.com/",
+    "phone": "+91-02025385060",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-10-01T08:48:07+00:00",
+    "careers_notes": "http://www.airtechpune.com/jobs: HTTPError; http://www.airtechpune.com/jobs/: HTTPError; http://www.airtechpune.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "shop=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14219081658"
+    },
+    "tech_score": 22.0,
+    "confidence": "low",
+    "notes": "matched: solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411021",
+        "addr:street": "Saffron Avenue, showroom 1& 2, Service Rd, Bavdhan,",
+        "name": "Air-tech Engineering & Solutions",
+        "opening_hours": "Mo-Sa 9:30 am–6 pm",
+        "phone": "+91-02025385060",
+        "shop": "yes",
+        "website": "http://www.airtechpune.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-10-01T08:48:07+00:00",
+        "notes": "http://www.airtechpune.com/jobs: HTTPError; http://www.airtechpune.com/jobs/: HTTPError; http://www.airtechpune.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Geniebee Infosolutions",
     "city": "Pune",
     "region": "Maharashtra",
@@ -87297,6 +87354,46 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Pinakin Global Fintech",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Office No.1, Building No 6, Shraddha Garden,, Shraddha Garden,, Pimpri Chinchwad, 411033",
+    "lat": 18.6366311,
+    "lng": 73.7924146,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "building=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:359480791"
+    },
+    "tech_score": 21.0,
+    "confidence": "low",
+    "notes": "matched: fintech",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Pimpri Chinchwad",
+        "addr:district": "Pune",
+        "addr:housenumber": "Office No.1, Building No 6, Shraddha Garden,",
+        "addr:postcode": "411033",
+        "addr:street": "Shraddha Garden,",
+        "building": "yes",
+        "name": "Pinakin Global Fintech"
+      }
     }
   },
   {
