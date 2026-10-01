@@ -31828,6 +31828,53 @@
     }
   },
   {
+    "name": "G Grop Tech Park",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "Ghodbunder Service Road",
+    "lat": 19.2663428,
+    "lng": 72.9653821,
+    "website": "",
+    "phone": "022 2597 3802",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:2902109610"
+    },
+    "tech_score": 40.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "name": "G Corp Tech Park",
+        "office": "it",
+        "addr:street": "Ghodbunder Service Road",
+        "check_date": "2026-09-18",
+        "check_date:opening_hours": "2026-09-18",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "022 2597 3802"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
+    }
+  },
+  {
     "name": "Persistent Systems Limited",
     "city": "Nagpur",
     "region": "Maharashtra",
@@ -47516,48 +47563,6 @@
     }
   },
   {
-    "name": "G Grop Tech Park",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "",
-    "lat": 19.2663428,
-    "lng": 72.9653821,
-    "website": "",
-    "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:2902109610"
-    },
-    "tech_score": 38.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "name": "G Grop Tech Park",
-        "office": "it"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": []
-    }
-  },
-  {
     "name": "IBM",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -59437,7 +59442,8 @@
     "categories": [
       "shop=computer",
       "craft=electronics_repair",
-      "description=SMB Mac Repair & Security Solutions provides expert IT networking, MacBook and smartphone repairs, and comprehensive security system installations (CCTV, biometric access, fire alarms)."
+      "description=SMB Mac Repair & Security Solutions provides expert IT networking, MacBook and smartphone repairs, and comprehensive security system installations (CCTV, biometric access, fire alarms).",
+      "craft=electronics_repair;network"
     ],
     "sources": [
       "openstreetmap"
@@ -59455,7 +59461,7 @@
         "addr:postcode": "400070",
         "addr:street": "Haryanawala Lane",
         "alt_name": "SMB",
-        "craft": "electronics_repair",
+        "craft": "electronics_repair;network",
         "description": "SMB Mac Repair & Security Solutions provides expert IT networking, MacBook and smartphone repairs, and comprehensive security system installations (CCTV, biometric access, fire alarms).",
         "electronics": "security",
         "email": "exgadgemumbai@gmail.com",
@@ -59480,7 +59486,11 @@
         "shop": "computer",
         "short_name": "SMB",
         "start_date": "2004-04-01",
-        "website": "https://www.smbsecurity.netlify.app"
+        "website": "https://www.smbsecurity.netlify.app",
+        "brand:repair": "Apple",
+        "computer:repair": "yes",
+        "it": "network",
+        "mobile_phone:repair": "yes"
       },
       "careers": {
         "url": "",
@@ -82392,7 +82402,14 @@
         "level": "6",
         "name": "Polinext Labs Private Limited",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
