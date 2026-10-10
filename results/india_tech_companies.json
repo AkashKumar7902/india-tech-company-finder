@@ -55899,6 +55899,66 @@
     }
   },
   {
+    "name": "Genstar Network Solutions Pvt Ltd",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "address": "G-10, Rajasthan Technical, Patanwala Compound, Lal Bahadur Shastri Marg, Nityanand Nagar, Ghatkopar West, Mumbai, Maharashtra, Mumbai, 400086",
+    "lat": 19.0929329,
+    "lng": 72.9159455,
+    "website": "https://genstarnetworksolutions.com/",
+    "phone": "022-25000060",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-10-10T20:35:59+00:00",
+    "careers_notes": "https://genstarnetworksolutions.com/jobs: HTTPError; https://genstarnetworksolutions.com/jobs/: HTTPError; https://genstarnetworksolutions.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:12904807001"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "G-10",
+        "addr:postcode": "400086",
+        "addr:street": "Rajasthan Technical, Patanwala Compound, Lal Bahadur Shastri Marg, Nityanand Nagar, Ghatkopar West, Mumbai, Maharashtra",
+        "name": "Genstar Network Solutions Pvt Ltd",
+        "office": "company",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "addr:city": "Mumbai",
+        "addr:district": "Kurla",
+        "communication:mobile": "9323521007",
+        "communication:mobile_phone": "8080802551",
+        "phone": "022-25000060",
+        "website": "https://genstarnetworksolutions.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-10-10T20:35:59+00:00",
+        "notes": "https://genstarnetworksolutions.com/jobs: HTTPError; https://genstarnetworksolutions.com/jobs/: HTTPError; https://genstarnetworksolutions.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Maker's Asylum",
     "city": "Mumbai",
     "region": "Maharashtra",
@@ -74560,52 +74620,6 @@
         "amenity": "university",
         "landuse": "education",
         "name": "Bharati Vidyapeeth Deemed University Department of Engineering and Technology"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": []
-    }
-  },
-  {
-    "name": "Genstar network solutions",
-    "city": "Mumbai",
-    "region": "Maharashtra",
-    "country": "India",
-    "address": "10/11, Lal Bahadur Shastri Marg, 400086",
-    "lat": 19.0929329,
-    "lng": 72.9159455,
-    "website": "",
-    "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
-    "categories": [
-      "office=company"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:12904807001"
-    },
-    "tech_score": 27.0,
-    "confidence": "low",
-    "notes": "matched: solutions, office=company",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "10/11",
-        "addr:postcode": "400086",
-        "addr:street": "Lal Bahadur Shastri Marg",
-        "name": "Genstar network solutions",
-        "office": "company",
-        "opening_hours": "Mo-Sa 10:00-19:00"
       },
       "google_queries": [],
       "google_types": [],
