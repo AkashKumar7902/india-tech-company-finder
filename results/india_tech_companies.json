@@ -71451,6 +71451,42 @@
     }
   },
   {
+    "name": "Magnify Infotech",
+    "city": "Jaipur",
+    "region": "Rajasthan",
+    "country": "India",
+    "address": "",
+    "lat": 26.9465547,
+    "lng": 75.7442507,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=advertising_agency"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14269256848"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: infotech",
+    "raw": {
+      "osm_tags": {
+        "contact:linkedin": "https://www.linkedin.com/company/magnify-infotech/",
+        "name": "Magnify Infotech",
+        "office": "advertising_agency"
+      }
+    }
+  },
+  {
     "name": "Sashakta Technologies, SAP Jaipur, SAP Rajasthan",
     "city": "Jaipur",
     "region": "Rajasthan",
