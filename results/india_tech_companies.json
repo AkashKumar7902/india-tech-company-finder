@@ -19838,6 +19838,62 @@
     }
   },
   {
+    "name": "Nexpro Softwares Private Limited",
+    "city": "Bhubaneswar",
+    "region": "Odisha",
+    "country": "India",
+    "address": "414, Rasulgarh, Bhubaneswar, 751010",
+    "lat": 20.297043,
+    "lng": 85.861609,
+    "website": "https://nexprosolution.com/",
+    "phone": "+91 77890 41588",
+    "careers_url": "https://nexprosolution.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://nexprosolution.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-10-14T04:45:21+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14276082873"
+    },
+    "tech_score": 49.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bhubaneswar",
+        "addr:country": "IN",
+        "addr:housenumber": "414",
+        "addr:place": "Near Palamandap",
+        "addr:postcode": "751010",
+        "addr:state": "Odisha",
+        "addr:suburb": "Rasulgarh",
+        "alt_name": "Nexpro Softwares Pvt Ltd",
+        "name": "Nexpro Softwares Private Limited",
+        "office": "it",
+        "official_name": "Nexpro Softwares Private Limited",
+        "opening_hours": "Mo-Sa 09:30-18:30",
+        "phone": "+91 77890 41588",
+        "start_date": "2018",
+        "website": "https://nexprosolution.com/"
+      },
+      "careers": {
+        "url": "https://nexprosolution.com/career",
+        "provider": "company_website",
+        "api_url": "https://nexprosolution.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-10-14T04:45:21+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Avanya",
     "city": "Chandigarh-Mohali",
     "region": "Chandigarh/Punjab",
@@ -25703,62 +25759,6 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
-    }
-  },
-  {
-    "name": "Nexpro Softwares Private Limited",
-    "city": "Bhubaneswar",
-    "region": "Odisha",
-    "country": "India",
-    "address": "414, Rasulgarh, Bhubaneswar, 751010",
-    "lat": 20.297043,
-    "lng": 85.861609,
-    "website": "https://nexprosolution.com/",
-    "phone": "+91 77890 41588",
-    "careers_url": "https://nexprosolution.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://nexprosolution.com/career",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-10-14T04:45:21+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:14276082873"
-    },
-    "tech_score": 45.0,
-    "confidence": "medium",
-    "notes": "matched: office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Bhubaneswar",
-        "addr:country": "IN",
-        "addr:housenumber": "414",
-        "addr:place": "Near Palamandap",
-        "addr:postcode": "751010",
-        "addr:state": "Odisha",
-        "addr:suburb": "Rasulgarh",
-        "alt_name": "Nexpro Softwares Pvt Ltd",
-        "name": "Nexpro Softwares Private Limited",
-        "office": "it",
-        "official_name": "Nexpro Softwares Private Limited",
-        "opening_hours": "Mo-Sa 09:30-18:30",
-        "phone": "+91 77890 41588",
-        "start_date": "2018",
-        "website": "https://nexprosolution.com/"
-      },
-      "careers": {
-        "url": "https://nexprosolution.com/career",
-        "provider": "company_website",
-        "api_url": "https://nexprosolution.com/career",
-        "confidence": "medium",
-        "checked_at": "2026-10-14T04:45:21+00:00",
-        "notes": "careers page found on company website"
-      }
     }
   },
   {
