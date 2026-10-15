@@ -74423,6 +74423,46 @@
     }
   },
   {
+    "name": "Acme Digitek Solutions Pvt. Ltd.",
+    "city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "54-B, Digitek House, Prag Narayan Road , Buttler Colony, Lucknow, 226001",
+    "lat": 26.8591962,
+    "lng": 80.9639892,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14233806686"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: solutions, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Lucknow",
+        "addr:district": "Lucknow Uttar Pradesh",
+        "addr:housenumber": "54-B",
+        "addr:postcode": "226001",
+        "addr:street": "Digitek House, Prag Narayan Road , Buttler Colony",
+        "name": "Acme Digitek Solutions Pvt. Ltd.",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "Augurs Technologies Pvt. Ltd.",
     "city": "Lucknow",
     "region": "Uttar Pradesh",
