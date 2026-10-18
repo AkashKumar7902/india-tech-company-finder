@@ -86491,7 +86491,14 @@
         "confidence": "none",
         "checked_at": "2026-10-01T08:48:07+00:00",
         "notes": "http://www.airtechpune.com/jobs: HTTPError; http://www.airtechpune.com/jobs/: HTTPError; http://www.airtechpune.com/career: HTTPError; no careers page detected"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -87694,7 +87701,14 @@
         "addr:street": "Shraddha Garden,",
         "building": "yes",
         "name": "Pinakin Global Fintech"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
