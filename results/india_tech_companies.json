@@ -54972,6 +54972,61 @@
     }
   },
   {
+    "name": "GroCat - Digital Marketing Agency in Bangalore",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "3rd Floor, Marathalli Bridge Service Road, Marathahalli, 560037",
+    "lat": 12.9562181,
+    "lng": 77.7073368,
+    "website": "https://www.grocat.in/",
+    "phone": "087925 59215",
+    "careers_url": "https://www.grocat.in/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.grocat.in/><title>Join Our Team - Careers at GroCat | Explore Opportunities in Bangalore</title><meta content=",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-10-18T00:26:05+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=company",
+      "description=GroCat Digital Pvt Ltd is a top digital marketing company in Bangalore, dedicated to elevating small, medium and large sized businesses online."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14279289084"
+    },
+    "tech_score": 34.0,
+    "confidence": "low",
+    "notes": "matched: digital, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Marathahalli",
+        "addr:district": "Bangalore",
+        "addr:housenumber": "3rd Floor",
+        "addr:postcode": "560037",
+        "addr:street": "Marathalli Bridge Service Road",
+        "description": "GroCat Digital Pvt Ltd is a top digital marketing company in Bangalore, dedicated to elevating small, medium and large sized businesses online.",
+        "image": "https://cdn.prod.website-files.com/66110f8e2c828fa23f92c6b6/66938591a9355d8a1d482975_GroCat-Logo01.png",
+        "name": "GroCat - Digital Marketing Agency in Bangalore",
+        "office": "company",
+        "opening_hours": "Mo-Fr 9:30 to 18:30",
+        "phone": "087925 59215",
+        "short_name": "GroCat",
+        "website": "https://www.grocat.in/"
+      },
+      "careers": {
+        "url": "https://www.grocat.in/career",
+        "provider": "company_website",
+        "api_url": "https://www.grocat.in/><title>Join Our Team - Careers at GroCat | Explore Opportunities in Bangalore</title><meta content=",
+        "confidence": "medium",
+        "checked_at": "2026-10-18T00:26:05+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "Hybrid Shifting Solutions India Private Limited",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -61098,6 +61153,42 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Antares Systems Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9071849,
+    "lng": 77.47388,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:1569181399"
+    },
+    "tech_score": 29.0,
+    "confidence": "low",
+    "notes": "matched: systems, office=company",
+    "raw": {
+      "osm_tags": {
+        "landuse": "commercial",
+        "name": "Antares Systems Limited",
+        "office": "company"
+      }
     }
   },
   {
