@@ -46102,7 +46102,8 @@
     "raw": {
       "osm_tags": {
         "name": "Kerala Matrimony",
-        "office": "it"
+        "office": "it",
+        "check_date": "2026-10-06"
       },
       "google_queries": [],
       "google_types": [],
@@ -82402,7 +82403,7 @@
     "notes": "matched: solutions, computer",
     "raw": {
       "osm_tags": {
-        "check_date": "2024-09-17",
+        "check_date": "2026-09-26",
         "level": "0",
         "name": "Deepthi IT Solutions",
         "shop": "computer"
