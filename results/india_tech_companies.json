@@ -14676,22 +14676,22 @@
       "openstreetmap"
     ],
     "source_ids": {
-      "openstreetmap": "node:12627866655"
+      "openstreetmap": "node:12627911775"
     },
     "tech_score": 56.0,
     "confidence": "high",
     "notes": "matched: technology, solutions, labs",
     "raw": {
       "osm_tags": {
-        "addr:city": "Ghaziabad",
-        "addr:housenumber": "Shop No. GF 05",
-        "addr:postcode": "201014",
-        "addr:street": "Parsvanath Majestic Arcade, Vaibhav Khand, Indirapuram",
+        "addr:city": "Greater Noida",
+        "addr:housenumber": "Shop/Unit No. UGF 003",
+        "addr:postcode": "201306",
+        "addr:street": "Nirala Biz Park Phase –VI, NIRALA ESTATE, Plot No. GH-04, Tech Zone IV, Patwari",
         "brand": "Kailash Healthcare Ltd.",
-        "description": "Kailash Path Labs, Indirapuram, operated by Kailash Healthcare Ltd., is a trusted diagnostic center dedicated to providing accurate and timely diagnostic solutions.",
+        "description": "Kailash Path Labs, Greater Noida West is part of Kailash Healthcare, providing reliable and accurate diagnostic services with state-of-the-art technology.",
         "email": "info@kailashpathlabs.com",
         "healthcare": "sample_collection",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipOEWUABldwOSVjwBEcZJ2jJe2LF4s2vMO1Fv47x=s680-w680-h510",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNzYD2QEpJh1u6SpgeBN8YDW49ZIjIxiMadRifh=s680-w680-h510",
         "mobile": "+91-9911370370",
         "name": "Kailash Path Labs",
         "opening_hours": "Mo-Su 07:00-20:00",
@@ -52371,6 +52371,43 @@
     }
   },
   {
+    "name": "Blue Waves Infotech",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5487802,
+    "lng": 77.2513237,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344546921"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Blue Waves Infotech",
+        "repair": "computer",
+        "shop": "repair"
+      }
+    }
+  },
+  {
     "name": "Dell Technologies",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -52459,6 +52496,43 @@
     }
   },
   {
+    "name": "Jai Raj Infotech",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5488112,
+    "lng": 77.2513119,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344546926"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Jai Raj Infotech",
+        "repair": "computer",
+        "shop": "repair"
+      }
+    }
+  },
+  {
     "name": "JT Infotech Private Limited",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -52488,7 +52562,7 @@
     "notes": "matched: infotech, computer",
     "raw": {
       "osm_tags": {
-        "check_date": "2024-05-19",
+        "check_date": "2026-11-03",
         "level": "0",
         "name": "JT Infotech Private Limited",
         "shop": "computer",
@@ -52501,6 +52575,43 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Pal Pacific Infotech",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5486866,
+    "lng": 77.2513637,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344545179"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Pal Pacific Infotech",
+        "repair": "computer",
+        "shop": "repair"
+      }
     }
   },
   {
@@ -52537,7 +52648,7 @@
         "addr:street": "Nehru Place Road",
         "air_conditioning": "yes",
         "changing_table": "no",
-        "check_date": "2024-05-19",
+        "check_date": "2026-11-03",
         "currency:INR": "yes",
         "internet_access": "no",
         "level": "0",
@@ -52606,6 +52717,42 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "UniSoft Infotech",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5484751,
+    "lng": 77.2517332,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344545188"
+    },
+    "tech_score": 37.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "0",
+        "name": "UniSoft Infotech",
+        "shop": "computer"
+      }
     }
   },
   {
@@ -76555,7 +76702,7 @@
     "raw": {
       "osm_tags": {
         "brand": "Asus",
-        "check_date": "2024-05-19",
+        "check_date": "2026-11-03",
         "level": "0",
         "name": "Contec Systems",
         "shop": "computer",
@@ -76568,6 +76715,43 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Faxcom Systems",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5490826,
+    "lng": 77.2506667,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=repair"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344545178"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Faxcom Systems",
+        "repair": "computer;mobile_phone",
+        "shop": "repair"
+      }
     }
   },
   {
@@ -76602,7 +76786,7 @@
       "osm_tags": {
         "addr:housename": "Pragati House",
         "addr:housenumber": "47;48",
-        "contact:mobile": "+91-93113-13669",
+        "contact:mobile": "+91 93113 13669",
         "level": "1",
         "name": "Fix My Laptop",
         "operator": "Sun Computer Systems",
@@ -76887,6 +77071,42 @@
     }
   },
   {
+    "name": "Pacetek Systems",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5488001,
+    "lng": 77.2515736,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344545143"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Pacetek Systems",
+        "shop": "computer"
+      }
+    }
+  },
+  {
     "name": "PHi Business Solutions Limited",
     "city": "Noida",
     "region": "Uttar Pradesh",
@@ -77032,6 +77252,77 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Speyeder Technologies",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5483478,
+    "lng": 77.2515398,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=security"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344546920"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Speyeder Technologies",
+        "shop": "security"
+      }
+    }
+  },
+  {
+    "name": "Sun Computer Systems",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.5495194,
+    "lng": 77.2512223,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344546919"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: systems, computer",
+    "raw": {
+      "osm_tags": {
+        "name": "Sun Computer Systems",
+        "shop": "computer"
+      }
     }
   },
   {
@@ -82956,6 +83247,42 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Neha Computer Solutions",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "country": "India",
+    "address": "",
+    "lat": 28.548766,
+    "lng": 77.2513293,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14344545183"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Neha Computer Solutions",
+        "shop": "computer"
+      }
     }
   },
   {
