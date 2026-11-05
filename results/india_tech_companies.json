@@ -89087,6 +89087,56 @@
     }
   },
   {
+    "name": "JYOTI GRAPHICS DIGITAL PRINT",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "country": "India",
+    "address": "9/2, CHINTAMONI DAS LANE, Kolkata, 700009",
+    "lat": 22.5739322,
+    "lng": 88.3650589,
+    "website": "https://jyoti.graphics/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-11-05T03:46:46+00:00",
+    "careers_notes": "https://jyoti.graphics/jobs: HTTPError; https://jyoti.graphics/jobs/: HTTPError; https://jyoti.graphics/career: HTTPError; no careers page detected",
+    "categories": [
+      "shop=copyshop"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14322572660"
+    },
+    "tech_score": 20.0,
+    "confidence": "low",
+    "notes": "matched: digital",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Kolkata",
+        "addr:district": "WEST BENGAL",
+        "addr:housenumber": "9/2",
+        "addr:postcode": "700009",
+        "addr:street": "CHINTAMONI DAS LANE",
+        "name": "JYOTI GRAPHICS DIGITAL PRINT",
+        "operator": "Subhra Jyoti Roy",
+        "shop": "copyshop",
+        "website": "https://jyoti.graphics/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-11-05T03:46:46+00:00",
+        "notes": "https://jyoti.graphics/jobs: HTTPError; https://jyoti.graphics/jobs/: HTTPError; https://jyoti.graphics/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Moldbreaker Studio",
     "city": "Kolkata",
     "region": "West Bengal",
