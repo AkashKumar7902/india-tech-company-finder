@@ -45947,7 +45947,7 @@
     "city": "Kochi",
     "region": "Kerala",
     "country": "India",
-    "address": "",
+    "address": "Panampilly Nagar, Kochi, 682036",
     "lat": 9.9626886,
     "lng": 76.2977844,
     "website": "",
@@ -45973,7 +45973,12 @@
     "raw": {
       "osm_tags": {
         "name": "Fortune Marketing",
-        "office": "it"
+        "office": "it",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "addr:suburb": "Panampilly Nagar"
       },
       "google_queries": [],
       "google_types": [],
@@ -46431,7 +46436,7 @@
     "city": "Kochi",
     "region": "Kerala",
     "country": "India",
-    "address": "",
+    "address": "Panampilly Nagar, Kochi, 682036",
     "lat": 9.9632897,
     "lng": 76.2955381,
     "website": "",
@@ -46459,7 +46464,13 @@
         "check_date": "2024-10-03",
         "name": "Pin Kerala",
         "name:ml": "പിൻ കേരള",
-        "office": "it"
+        "office": "it",
+        "addr:block": "G",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "addr:suburb": "Panampilly Nagar"
       },
       "google_queries": [],
       "google_types": [],
@@ -46800,7 +46811,7 @@
     "city": "Kochi",
     "region": "Kerala",
     "country": "India",
-    "address": "",
+    "address": "Elders Forum Road, Panampilly Nagar, Kochi, 682036",
     "lat": 9.9643133,
     "lng": 76.2975478,
     "website": "",
@@ -46826,7 +46837,14 @@
     "raw": {
       "osm_tags": {
         "name": "World Viewer Dot Com",
-        "office": "it"
+        "office": "it",
+        "addr:block": "G",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "addr:street": "Elders Forum Road",
+        "addr:suburb": "Panampilly Nagar"
       },
       "google_queries": [],
       "google_types": [],
@@ -51749,7 +51767,7 @@
     "city": "Kochi",
     "region": "Kerala",
     "country": "India",
-    "address": "",
+    "address": "Elders Forum Road, Panampilly Nagar, Kochi, 682036",
     "lat": 9.9643553,
     "lng": 76.2975545,
     "website": "",
@@ -51775,7 +51793,14 @@
     "raw": {
       "osm_tags": {
         "name": "Pioneer Technologies",
-        "shop": "computer"
+        "shop": "computer",
+        "addr:block": "G",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "addr:street": "Elders Forum Road",
+        "addr:suburb": "Panampilly Nagar"
       },
       "google_queries": [],
       "google_types": [],
@@ -82787,7 +82812,7 @@
     "city": "Kochi",
     "region": "Kerala",
     "country": "India",
-    "address": "Sahodaran Ayyappan Road",
+    "address": "Sahodaran Ayyappan Road, Panampilly Nagar, Kochi, 682036",
     "lat": 9.9657244,
     "lng": 76.2954291,
     "website": "",
@@ -82819,7 +82844,12 @@
         "building:levels": "3",
         "check_date": "2023-11-24",
         "name": "Digital Monkey",
-        "shop": "computer"
+        "shop": "computer",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "addr:suburb": "Panampilly Nagar"
       },
       "google_queries": [],
       "google_types": [],
