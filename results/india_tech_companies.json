@@ -16562,6 +16562,61 @@
     }
   },
   {
+    "name": "FitFaat",
+    "city": "Indore",
+    "region": "Madhya Pradesh",
+    "country": "India",
+    "address": "507, MR5, Mahalaxmi Nagar, Indore, 452010",
+    "lat": 22.7597504,
+    "lng": 75.9112177,
+    "website": "https://www.fitfaat.com/",
+    "phone": "+91 7898956926",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-11-06T23:55:47+00:00",
+    "careers_notes": "https://www.fitfaat.com/jobs: HTTPError; https://www.fitfaat.com/jobs/: HTTPError; https://www.fitfaat.com/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14324752246"
+    },
+    "tech_score": 52.0,
+    "confidence": "medium",
+    "notes": "matched: software, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Indore",
+        "addr:housename": "Highlight House",
+        "addr:housenumber": "507",
+        "addr:postcode": "452010",
+        "addr:state": "Madhya Pradesh",
+        "addr:street": "MR5",
+        "addr:suburb": "Mahalaxmi Nagar",
+        "email": "info@fitfaat.com",
+        "name": "FitFaat",
+        "office": "company",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "operator": "Dai Software",
+        "phone": "+91 7898956926",
+        "website": "https://www.fitfaat.com/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-11-06T23:55:47+00:00",
+        "notes": "https://www.fitfaat.com/jobs: HTTPError; https://www.fitfaat.com/jobs/: HTTPError; https://www.fitfaat.com/career: HTTPError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "Systica Systems",
     "city": "Kochi",
     "region": "Kerala",
