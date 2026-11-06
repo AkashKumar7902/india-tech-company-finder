@@ -30776,6 +30776,62 @@
     }
   },
   {
+    "name": "Netrasemi Private Limited",
+    "city": "Thiruvananthapuram",
+    "region": "Kerala",
+    "country": "India",
+    "address": "TC 4/2430, Kulathoor Road, Thiruvananthapuram, 695017",
+    "lat": 8.5485814,
+    "lng": 76.9073217,
+    "website": "https://www.netrasemi.com/",
+    "phone": "+91-94803-21670",
+    "careers_url": "https://www.netrasemi.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.netrasemi.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-11-06T05:14:04+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=engineer",
+      "building=office",
+      "description=Fabless semiconductor startup designing energy-efficient edge artificial intelligence (Edge AI) hardware and system-on-chips (SoCs)."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:798419399"
+    },
+    "tech_score": 42.0,
+    "confidence": "medium",
+    "notes": "matched: artificial intelligence, startup",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Thiruvananthapuram",
+        "addr:district": "Thiruvananthapuram",
+        "addr:housenumber": "TC 4/2430",
+        "addr:postcode": "695017",
+        "addr:street": "Kulathoor Road",
+        "building": "office",
+        "description": "Fabless semiconductor startup designing energy-efficient edge artificial intelligence (Edge AI) hardware and system-on-chips (SoCs).",
+        "email": "info@netrasemi.com",
+        "name": "Netrasemi Private Limited",
+        "office": "engineer",
+        "phone": "+91-94803-21670",
+        "short_name": "Netrasemi",
+        "website": "https://www.netrasemi.com/"
+      },
+      "careers": {
+        "url": "https://www.netrasemi.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.netrasemi.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-11-06T05:14:04+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "ARM Embedded Technologies Private Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -90058,67 +90114,6 @@
         "confidence": "none",
         "checked_at": "2026-06-18T04:20:01+00:00",
         "notes": "homepage fetch failed: HTTPError; https://osumare.com/jobs: HTTPError; https://osumare.com/jobs/: HTTPError; https://osumare.com/career: HTTPError; no careers page detected"
-      }
-    }
-  },
-  {
-    "name": "Indic Digital Archive Foundation",
-    "city": "Thiruvananthapuram",
-    "region": "Kerala",
-    "country": "India",
-    "address": "MBRA-A4, Mathrubhumi Road, Thiruvananthapuram",
-    "lat": 8.4943993,
-    "lng": 76.9431374,
-    "website": "https://indicarchive.org",
-    "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "none",
-    "careers_last_checked": "2026-06-18T06:05:34+00:00",
-    "careers_notes": "https://indicarchive.org/jobs: HTTPError; https://indicarchive.org/jobs/: HTTPError; https://indicarchive.org/career: HTTPError; no careers page detected",
-    "categories": [
-      "office=ngo",
-      "description=Indic Digital Archive Foundation is a non-profit organisation that works on digital archival and preservation of Indic language cultural artefacts such as books, publications, and documents, making them available for open access."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:13536708274"
-    },
-    "tech_score": 20.0,
-    "confidence": "low",
-    "notes": "matched: digital",
-    "raw": {
-      "osm_tags": {
-        "abbr_name": "IDAF",
-        "addr:city": "Thiruvananthapuram",
-        "addr:district": "Thiruvanathapuram",
-        "addr:housenumber": "MBRA-A4",
-        "addr:street": "Mathrubhumi Road",
-        "alt_name:ml": "ഗ്രന്ഥപുര",
-        "description": "Indic Digital Archive Foundation is a non-profit organisation that works on digital archival and preservation of Indic language cultural artefacts such as books, publications, and documents, making them available for open access.",
-        "level": "1",
-        "name": "Indic Digital Archive Foundation",
-        "office": "ngo",
-        "website": "https://indicarchive.org",
-        "wikidata": "Q138387058"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "",
-        "provider": "",
-        "api_url": "",
-        "confidence": "none",
-        "checked_at": "2026-06-18T06:05:34+00:00",
-        "notes": "https://indicarchive.org/jobs: HTTPError; https://indicarchive.org/jobs/: HTTPError; https://indicarchive.org/career: HTTPError; no careers page detected"
       }
     }
   },
