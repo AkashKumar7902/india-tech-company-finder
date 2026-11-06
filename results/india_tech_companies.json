@@ -24791,6 +24791,62 @@
     }
   },
   {
+    "name": "Netrasemi Private Limited",
+    "city": "Thiruvananthapuram",
+    "region": "Kerala",
+    "country": "India",
+    "address": "TC 4/2430, Kulathoor Road, Thiruvananthapuram, 695017",
+    "lat": 8.5485814,
+    "lng": 76.9073217,
+    "website": "https://www.netrasemi.com/",
+    "phone": "+91-94803-21670",
+    "careers_url": "https://www.netrasemi.com/career",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.netrasemi.com/career",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-11-06T05:14:04+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=engineer",
+      "building=office",
+      "description=Fabless semiconductor startup designing energy-efficient edge artificial intelligence (Edge AI) hardware and system-on-chips (SoCs)."
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:798419399"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: artificial intelligence, startup",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Thiruvananthapuram",
+        "addr:district": "Thiruvananthapuram",
+        "addr:housenumber": "TC 4/2430",
+        "addr:postcode": "695017",
+        "addr:street": "Kulathoor Road",
+        "building": "office",
+        "description": "Fabless semiconductor startup designing energy-efficient edge artificial intelligence (Edge AI) hardware and system-on-chips (SoCs).",
+        "email": "info@netrasemi.com",
+        "name": "Netrasemi Private Limited",
+        "office": "engineer",
+        "phone": "+91-94803-21670",
+        "short_name": "Netrasemi",
+        "website": "https://www.netrasemi.com/"
+      },
+      "careers": {
+        "url": "https://www.netrasemi.com/career",
+        "provider": "company_website",
+        "api_url": "https://www.netrasemi.com/career",
+        "confidence": "medium",
+        "checked_at": "2026-11-06T05:14:04+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "eth1 Network Solutions",
     "city": "Belagavi",
     "region": "Karnataka",
@@ -30771,62 +30827,6 @@
         "api_url": "https://iiitmk.ac.in/wp-content/uploads/2025/04/Notification-New-Positions.pdf",
         "confidence": "medium",
         "checked_at": "2026-06-22T17:53:10+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
-    "name": "Netrasemi Private Limited",
-    "city": "Thiruvananthapuram",
-    "region": "Kerala",
-    "country": "India",
-    "address": "TC 4/2430, Kulathoor Road, Thiruvananthapuram, 695017",
-    "lat": 8.5485814,
-    "lng": 76.9073217,
-    "website": "https://www.netrasemi.com/",
-    "phone": "+91-94803-21670",
-    "careers_url": "https://www.netrasemi.com/career",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.netrasemi.com/career",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-11-06T05:14:04+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=engineer",
-      "building=office",
-      "description=Fabless semiconductor startup designing energy-efficient edge artificial intelligence (Edge AI) hardware and system-on-chips (SoCs)."
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:798419399"
-    },
-    "tech_score": 42.0,
-    "confidence": "medium",
-    "notes": "matched: artificial intelligence, startup",
-    "raw": {
-      "osm_tags": {
-        "addr:city": "Thiruvananthapuram",
-        "addr:district": "Thiruvananthapuram",
-        "addr:housenumber": "TC 4/2430",
-        "addr:postcode": "695017",
-        "addr:street": "Kulathoor Road",
-        "building": "office",
-        "description": "Fabless semiconductor startup designing energy-efficient edge artificial intelligence (Edge AI) hardware and system-on-chips (SoCs).",
-        "email": "info@netrasemi.com",
-        "name": "Netrasemi Private Limited",
-        "office": "engineer",
-        "phone": "+91-94803-21670",
-        "short_name": "Netrasemi",
-        "website": "https://www.netrasemi.com/"
-      },
-      "careers": {
-        "url": "https://www.netrasemi.com/career",
-        "provider": "company_website",
-        "api_url": "https://www.netrasemi.com/career",
-        "confidence": "medium",
-        "checked_at": "2026-11-06T05:14:04+00:00",
         "notes": "careers page found on company website"
       }
     }
