@@ -3450,61 +3450,6 @@
     }
   },
   {
-    "name": "Sourcebits (Ascendum Digital)",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "2nd Floor, A Block, Salarpuria Aura,, Marathahalli-Sarjapur Outer Ring Road, Bengaluru, Karnataka 560103",
-    "lat": 12.936467,
-    "lng": 77.6909742,
-    "website": "https://www.ascendum.com/",
-    "phone": "+9180 6750 0800",
-    "careers_url": "https://www.ascendum.com/careers",
-    "careers_provider": "company_website",
-    "careers_api_url": "https://www.ascendum.com/careers",
-    "careers_confidence": "medium",
-    "careers_last_checked": "2026-06-18T13:48:33+00:00",
-    "careers_notes": "careers page found on company website",
-    "categories": [
-      "office=it"
-    ],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "node:8402628125"
-    },
-    "tech_score": 73.0,
-    "confidence": "high",
-    "notes": "matched: solutions, digital, office=it",
-    "raw": {
-      "osm_tags": {
-        "addr:housenumber": "2nd Floor, A Block, Salarpuria Aura,",
-        "addr:street": "170-172, EPIP Zone Whitefield Rd, Phase 2, Brookefield, Bangalore 560066",
-        "name": "Ascendum Solutions",
-        "office": "it",
-        "opening_hours": "Mo-Fr 09:00-19:00",
-        "phone": "+918049310000",
-        "website": "https://www.ascendum.com/"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": [],
-      "careers": {
-        "url": "https://www.ascendum.com/careers",
-        "provider": "company_website",
-        "api_url": "https://www.ascendum.com/careers",
-        "confidence": "medium",
-        "checked_at": "2026-06-18T13:48:33+00:00",
-        "notes": "careers page found on company website"
-      }
-    }
-  },
-  {
     "name": "Sunsoft Technologies",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -11903,6 +11848,61 @@
     }
   },
   {
+    "name": "Sourcebits (Ascendum Digital)",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "2nd Floor, A Block, Salarpuria Aura,, Marathahalli-Sarjapur Outer Ring Road, Bengaluru, Karnataka 560103",
+    "lat": 12.936467,
+    "lng": 77.6909742,
+    "website": "https://www.ascendum.com/",
+    "phone": "+9180 6750 0800",
+    "careers_url": "https://www.ascendum.com/careers",
+    "careers_provider": "company_website",
+    "careers_api_url": "https://www.ascendum.com/careers",
+    "careers_confidence": "medium",
+    "careers_last_checked": "2026-06-18T13:48:33+00:00",
+    "careers_notes": "careers page found on company website",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8402626539"
+    },
+    "tech_score": 61.0,
+    "confidence": "high",
+    "notes": "matched: digital, office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "2nd Floor, A Block, Salarpuria Aura,",
+        "addr:street": "Marathahalli-Sarjapur Outer Ring Road, Bengaluru, Karnataka 560103",
+        "name": "Sourcebits (Ascendum Digital)",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "phone": "+9180 6750 0800",
+        "website": "https://www.ascendum.com/"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": [],
+      "careers": {
+        "url": "https://www.ascendum.com/careers",
+        "provider": "company_website",
+        "api_url": "https://www.ascendum.com/careers",
+        "confidence": "medium",
+        "checked_at": "2026-06-18T13:48:33+00:00",
+        "notes": "careers page found on company website"
+      }
+    }
+  },
+  {
     "name": "AuroIN LLC",
     "city": "Bhubaneswar",
     "region": "Odisha",
@@ -12538,7 +12538,7 @@
     }
   },
   {
-    "name": "Reckonsys Tech Labs Pvt Ltd",
+    "name": "Reckonsys Tech Labs Private Limited",
     "city": "Bengaluru",
     "region": "Karnataka",
     "country": "India",
@@ -12567,12 +12567,18 @@
     "notes": "matched: labs, office=it",
     "raw": {
       "osm_tags": {
-        "addr:street": "First Floor, Incubex HSR28, No. L-169, 13th Cross Rd, Sector 6, HSR Layout",
-        "name": "Reckonsys Tech Labs Pvt Ltd",
+        "addr:street": "13th Cross Road",
+        "name": "Reckonsys Tech Labs Private Limited",
         "office": "it",
         "opening_hours": "Mo-Fr 10:00-20:45",
-        "phone": "080 4749 3499",
-        "website": "reckonsys.com"
+        "phone": "+91-80-4749-3499",
+        "website": "https://reckonsys.com",
+        "addr:block": "L",
+        "addr:housename": "Incubex HSR28",
+        "addr:housenumber": "169",
+        "addr:subdistrict": "HSR Layout",
+        "addr:suburb": "Sector 6",
+        "level": "1"
       },
       "careers": {
         "url": "https://www.reckonsys.com/careers/",
@@ -24089,6 +24095,61 @@
     }
   },
   {
+    "name": "Svasti Infotech Solutions",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "11, 3rd B Cross Road, BTM 2nd Stage, 560076",
+    "lat": 12.9138513,
+    "lng": 77.6113993,
+    "website": "https://www.svastiinfotech.com",
+    "phone": "+91-80-4206-3850",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-11-14T01:33:45+00:00",
+    "careers_notes": "homepage fetch failed: ConnectionError; https://www.svastiinfotech.com/jobs: ConnectionError; https://www.svastiinfotech.com/jobs/: ConnectionError; https://www.svastiinfotech.com/career: ConnectionError; no careers page detected",
+    "categories": [
+      "shop=copyshop"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14323462506"
+    },
+    "tech_score": 46.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, solutions",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "11",
+        "addr:parentstreet": "18th Main Road",
+        "addr:postcode": "560076",
+        "addr:state": "KA",
+        "addr:street": "3rd B Cross Road",
+        "addr:suburb": "BTM 2nd Stage",
+        "contact:email": "manjunathncp@gmail.com",
+        "contact:mobile": "+91-99457-49092",
+        "contact:phone": "+91-80-4206-3850",
+        "contact:website": "https://www.svastiinfotech.com",
+        "level": "0",
+        "name": "Svasti Infotech Solutions",
+        "shop": "copyshop",
+        "wheelchair": "limited"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-11-14T01:33:45+00:00",
+        "notes": "homepage fetch failed: ConnectionError; https://www.svastiinfotech.com/jobs: ConnectionError; https://www.svastiinfotech.com/jobs/: ConnectionError; https://www.svastiinfotech.com/career: ConnectionError; no careers page detected"
+      }
+    }
+  },
+  {
     "name": "AGS Cinemas, Vivira Mall",
     "city": "Chennai",
     "region": "Tamil Nadu",
@@ -25888,6 +25949,57 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Webshark Web Services",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "#42/3, 4B, 2nd Floor, Near Kanakapura Main Road, 100 Ft Outer Ring Road, J.P. Nagar, Bengaluru, Karnataka 560078",
+    "lat": 12.9042562,
+    "lng": 77.5733092,
+    "website": "https://www.webshark.tech/",
+    "phone": "+91 76203 61284",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "none",
+    "careers_last_checked": "2026-11-14T01:33:46+00:00",
+    "careers_notes": "homepage fetch failed: HTTPError; https://www.webshark.tech/jobs: HTTPError; https://www.webshark.tech/jobs/: HTTPError; https://www.webshark.tech/career: HTTPError; no careers page detected",
+    "categories": [
+      "office=it"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14340249166"
+    },
+    "tech_score": 45.0,
+    "confidence": "medium",
+    "notes": "matched: office=it",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:full": "#42/3, 4B, 2nd Floor, Near Kanakapura Main Road, 100 Ft Outer Ring Road, J.P. Nagar, Bengaluru, Karnataka 560078",
+        "addr:postcode": "560078",
+        "email": "sales@webshark.tech",
+        "name": "Webshark Web Services",
+        "office": "it",
+        "opening_hours": "Mo-Fr 11:00-19:30",
+        "phone": "+91 76203 61284",
+        "website": "https://www.webshark.tech/"
+      },
+      "careers": {
+        "url": "",
+        "provider": "",
+        "api_url": "",
+        "confidence": "none",
+        "checked_at": "2026-11-14T01:33:46+00:00",
+        "notes": "homepage fetch failed: HTTPError; https://www.webshark.tech/jobs: HTTPError; https://www.webshark.tech/jobs/: HTTPError; https://www.webshark.tech/career: HTTPError; no careers page detected"
+      }
     }
   },
   {
@@ -33259,6 +33371,41 @@
     }
   },
   {
+    "name": "Frauscher Sensor Technology India Private Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9973342,
+    "lng": 77.6262604,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14353617845"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "name": "Frauscher Sensor Technology India Private Limited",
+        "office": "company"
+      }
+    }
+  },
+  {
     "name": "Future Focus Infotech Pvt. Ltd.",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -33813,6 +33960,84 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Microchip Technology India Pvt Ltd",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Plot No. 170-172, EPIP Industrial Area, Bangalore, 560066",
+    "lat": 12.9727488,
+    "lng": 77.7189026,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:8402628125"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: technology, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Bangalore",
+        "addr:housenumber": "Plot No. 170-172",
+        "addr:postcode": "560066",
+        "addr:street": "EPIP Industrial Area",
+        "name": "Microchip Technology India Pvt Ltd",
+        "office": "company"
+      }
+    }
+  },
+  {
+    "name": "Microcomp Infotech Pvt. Ltd.",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9227404,
+    "lng": 77.5897248,
+    "website": "",
+    "phone": "+91 99001 61318;+91 98451 61318;+91 98459 61318",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14366205216"
+    },
+    "tech_score": 39.0,
+    "confidence": "medium",
+    "notes": "matched: infotech, computer",
+    "raw": {
+      "osm_tags": {
+        "level": "1",
+        "name": "Microcomp Infotech Pvt. Ltd.",
+        "opening_hours": "Mo-Su 09:30-18:30",
+        "phone": "+91 99001 61318;+91 98451 61318;+91 98459 61318",
+        "shop": "computer",
+        "wheelchair": "no"
+      }
     }
   },
   {
@@ -39192,7 +39417,14 @@
         "confidence": "medium",
         "checked_at": "2026-10-18T00:26:05+00:00",
         "notes": "careers page found on company website"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -40954,6 +41186,47 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Spectro Cloud India",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "658, 14th Cross Road, 560102",
+    "lat": 12.9160997,
+    "lng": 77.6246729,
+    "website": "http://spectrocloud.com",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=company"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14330648801"
+    },
+    "tech_score": 38.0,
+    "confidence": "medium",
+    "notes": "matched: cloud, office=company",
+    "raw": {
+      "osm_tags": {
+        "addr:housenumber": "658",
+        "addr:postcode": "560102",
+        "addr:street": "14th Cross Road",
+        "check_date": "2026-10-29",
+        "level": "1",
+        "name": "Spectro Cloud India",
+        "office": "company",
+        "website": "http://spectrocloud.com"
+      }
     }
   },
   {
@@ -59046,7 +59319,9 @@
       "osm_tags": {
         "name": "Carelon Global Solutions",
         "office": "company",
-        "website": "https://www.carelon.com/"
+        "website": "https://www.carelon.com/",
+        "check_date": "2026-11-09",
+        "wheelchair": "yes"
       },
       "google_queries": [],
       "google_types": [],
@@ -59119,6 +59394,51 @@
         "checked_at": "2026-06-19T22:31:18+00:00",
         "notes": "homepage fetch failed: ConnectionError; https://www.drravilabs.com/jobs: ConnectionError; https://www.drravilabs.com/jobs/: ConnectionError; https://www.drravilabs.com/career: ConnectionError; no careers page detected"
       }
+    }
+  },
+  {
+    "name": "Infosys Technologies Limited",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.8488919,
+    "lng": 77.6659169,
+    "website": "https://www.infosys.com/",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "way:364872809"
+    },
+    "tech_score": 32.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "alt_name": "Infosys Park",
+        "landuse": "commercial",
+        "name": "Infosys Technologies Limited",
+        "website": "https://www.infosys.com/",
+        "wikidata": "Q26989",
+        "wikimedia_commons": "Category:Infosys Bangalore",
+        "wikipedia": "en:Infosys"
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -61524,7 +61844,14 @@
         "landuse": "commercial",
         "name": "Antares Systems Limited",
         "office": "company"
-      }
+      },
+      "google_queries": [],
+      "google_types": [],
+      "google_search_points": [],
+      "google_places_new_queries": [],
+      "google_places_new_types": [],
+      "google_places_new_cells": [],
+      "search_queries": []
     }
   },
   {
@@ -64707,6 +65034,43 @@
     }
   },
   {
+    "name": "Emertxe information technologies",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "Mahatma Gandhi Road",
+    "lat": 12.9755046,
+    "lng": 77.6053903,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "office=yes"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14353644001"
+    },
+    "tech_score": 27.0,
+    "confidence": "low",
+    "notes": "matched: technologies",
+    "raw": {
+      "osm_tags": {
+        "addr:street": "Mahatma Gandhi Road",
+        "check_date": "2026-11-06",
+        "name": "Emertxe information technologies",
+        "office": "yes"
+      }
+    }
+  },
+  {
     "name": "Evora IT Solutions Private Limited",
     "city": "Bengaluru",
     "region": "Karnataka",
@@ -65428,47 +65792,6 @@
         "barrier": "wall",
         "landuse": "industrial",
         "name": "IdeoForge Technology Limited"
-      },
-      "google_queries": [],
-      "google_types": [],
-      "google_search_points": [],
-      "google_places_new_queries": [],
-      "google_places_new_types": [],
-      "google_places_new_cells": [],
-      "search_queries": []
-    }
-  },
-  {
-    "name": "Infosys Technologies Limited",
-    "city": "Bengaluru",
-    "region": "Karnataka",
-    "country": "India",
-    "address": "",
-    "lat": 12.8488919,
-    "lng": 77.6659169,
-    "website": "",
-    "phone": "",
-    "careers_url": "",
-    "careers_provider": "",
-    "careers_api_url": "",
-    "careers_confidence": "",
-    "careers_last_checked": "",
-    "careers_notes": "",
-    "categories": [],
-    "sources": [
-      "openstreetmap"
-    ],
-    "source_ids": {
-      "openstreetmap": "way:364872809"
-    },
-    "tech_score": 27.0,
-    "confidence": "low",
-    "notes": "matched: technologies",
-    "raw": {
-      "osm_tags": {
-        "alt_name": "Infosys Park",
-        "landuse": "commercial",
-        "name": "Infosys Technologies Limited"
       },
       "google_queries": [],
       "google_types": [],
@@ -82565,6 +82888,42 @@
       "google_places_new_types": [],
       "google_places_new_cells": [],
       "search_queries": []
+    }
+  },
+  {
+    "name": "Techberry IT Solutions",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "address": "",
+    "lat": 12.9140421,
+    "lng": 77.6097405,
+    "website": "",
+    "phone": "",
+    "careers_url": "",
+    "careers_provider": "",
+    "careers_api_url": "",
+    "careers_confidence": "",
+    "careers_last_checked": "",
+    "careers_notes": "",
+    "categories": [
+      "shop=computer"
+    ],
+    "sources": [
+      "openstreetmap"
+    ],
+    "source_ids": {
+      "openstreetmap": "node:14318340224"
+    },
+    "tech_score": 25.0,
+    "confidence": "low",
+    "notes": "matched: solutions, computer",
+    "raw": {
+      "osm_tags": {
+        "brand": "Dell",
+        "name": "Techberry IT Solutions",
+        "shop": "computer"
+      }
     }
   },
   {
